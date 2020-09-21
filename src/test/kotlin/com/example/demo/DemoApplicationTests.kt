@@ -14,5 +14,4 @@ class DemoApplicationTests {
 	fun contextLoads() {
 		crawler.parse()
 	}
-
 }

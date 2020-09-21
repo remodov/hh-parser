@@ -13,20 +13,21 @@ class HeadHunterCrawler(
         val headHunterNextPageLinkParser: DocumentParser<Optional<URL>>,
         val headHunterResumeLinksOnPageParser: DocumentParser<List<URL>>,
         val headHunterResumeParser: DocumentParser<Employee>,
-        val client: HtmlLoadClient
+        val client: HtmlLoadClient,
+        val headHunterResumeUploadHtmlOnDisk: DocumentParser<String>
 ) {
 
     fun parse(){
         println("Parser start work")
 
-        var url = URL("https://hh.ru/search/resume?text=java&area=1&isDefaultArea=true&exp_period=all_time&logic=normal&pos=full_text&fromSearchLine=true&st=resumeSearch&page=248")
+        var url = URL("https://hh.ru/search/resume?text=java&area=1&isDefaultArea=true&exp_period=all_time&logic=normal&pos=full_text&fromSearchLine=true&st=resumeSearch&page=0")
 
         while (true) {
             val pageWithResumeLinks = client.load(url)
 
             headHunterResumeLinksOnPageParser.parse(pageWithResumeLinks).forEach { linkWithResume ->
                 val loadedResumeDocument = client.load(linkWithResume)
-                val parsedResume = headHunterResumeParser.parse(loadedResumeDocument)
+                val parsedResume = headHunterResumeUploadHtmlOnDisk.parse(loadedResumeDocument)
                 println("Parsed resume: $parsedResume")
             }
 

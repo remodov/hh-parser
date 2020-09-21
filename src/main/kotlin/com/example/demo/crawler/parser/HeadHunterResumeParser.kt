@@ -16,12 +16,14 @@ class HeadHunterResumeParser : DocumentParser<Employee> {
             salary = salaryElements[0].text()
         }
 
-
         val workExperienceBlock = document.getElementsByAttributeValue("data-qa", "resume-block-experience")
         if (workExperienceBlock.size > 0){
             workExperience = workExperienceBlock[0].getElementsByClass("resume-block__title-text resume-block__title-text_sub").text()
-        }
 
+            workExperienceBlock[0].getElementsByClass("resume-block-item-gap").forEach {
+
+            }
+        }
 
         val employee = Employee(
                 position = title,
