@@ -1,40 +1,96 @@
 package com.example.demo.crawler.parser
 
+import com.example.demo.model.CompanyWork
 import com.example.demo.model.Employee
 import org.jsoup.nodes.Document
+import org.jsoup.select.Elements
 
 class HeadHunterResumeParser : DocumentParser<Employee> {
     override fun parse(document: Document): Employee {
-        val salaryAndPositionNameBlock = document.getElementsByAttributeValue("data-qa","resume-block-position")[0]
+        val employee = Employee();
 
-        val title = salaryAndPositionNameBlock.getElementsByAttributeValue("data-qa","resume-block-title-position").eachText().single()
-        var salary = "none"
-        var workExperience = "none"
-
-        val salaryElements = salaryAndPositionNameBlock.getElementsByAttributeValue("data-qa","resume-block-salary")
-        if (salaryElements.size == 1){
-            salary = salaryElements[0].text()
-        }
-
-        val workExperienceBlock = document.getElementsByAttributeValue("data-qa", "resume-block-experience")
-        if (workExperienceBlock.size > 0){
-            workExperience = workExperienceBlock[0].getElementsByClass("resume-block__title-text resume-block__title-text_sub").text()
-
-            workExperienceBlock[0].getElementsByClass("resume-block-item-gap").forEach {
-
-            }
-        }
-
-        val employee = Employee(
-                position = title,
-                workExperience= workExperience,
-                salary = salary,
-                liveCity = "",
-                male = "",
-                headHunterResumeLink = document.location(),
-                companiesWork = emptyList()
-        )
+        extractMale(document, employee)
+        extractTitle(document, employee)
+        extractSalary(document, employee)
+        extractWorkExperience(document, employee)
+        extractCity(document, employee)
+        extractWorkPlaces(document, employee)
 
         return employee
+    }
+
+    private fun extractWorkPlaces(document: Document, employee: Employee) {
+        val workExperienceBlock = getDataQaAttributeValue(document, "resume-block-experience")
+        if (workExperienceBlock.isNotEmpty()) {
+            val workPlaceBlocks = workExperienceBlock[0].getElementsByClass("resume-block-container")
+            if (workPlaceBlocks.isNotEmpty()) {
+                workPlaceBlocks.forEach {
+                    val companyTitleBlock = it.getElementsByClass("resume-block__sub-title");
+                    if (companyTitleBlock.isNotEmpty()) {
+                        val companyName = companyTitleBlock[0].text()
+                        val companyTimeToWork =
+                                companyTitleBlock[0]
+                                        .parent()
+                                        .parent()
+                                        .parent()
+                                        .getElementsByClass("resume-block__experience-timeinterval").text()
+
+                        val companyWork = CompanyWork()
+                        companyWork.companyName = companyName;
+                        companyWork.timeWork = companyTimeToWork
+                        employee.companiesWork.add(companyWork)
+                    }
+                }
+            }
+        }
+    }
+
+    private fun extractSalary(document: Document, employee: Employee) {
+        val salaryAndPositionNameBlock = getDataQaAttributeValue(document, "resume-block-position")
+        if (salaryAndPositionNameBlock.isNotEmpty()) {
+            val salaryPositionBlock = getDataQaAttributeValue(salaryAndPositionNameBlock, "resume-block-salary")
+            if (salaryPositionBlock.isNotEmpty()){
+                employee.salary = salaryPositionBlock.eachText().single()
+            }
+        }
+    }
+
+    private fun extractMale(document: Document, employee: Employee) {
+        val male = getDataQaAttributeValue(document, "resume-personal-gender")
+        if (male.isNotEmpty()) {
+            employee.male = male[0].text()
+        }
+    }
+
+    private fun extractTitle(document: Document, employee: Employee) {
+        val salaryAndPositionNameBlock = getDataQaAttributeValue(document, "resume-block-position")
+        if (salaryAndPositionNameBlock.isNotEmpty()) {
+            val resumePositionNameBlock = getDataQaAttributeValue(salaryAndPositionNameBlock, "resume-block-title-position")
+            if (resumePositionNameBlock.isNotEmpty()) {
+                employee.position = resumePositionNameBlock.eachText().single()
+            }
+        }
+    }
+
+    private fun extractCity(document: Document, employee: Employee) {
+        val resumeCity = getDataQaAttributeValue(document, "resume-personal-address")
+        if (resumeCity.isNotEmpty()) {
+            employee.liveCity = resumeCity[0].text()
+        }
+    }
+
+    private fun extractWorkExperience(document: Document, employee: Employee) {
+        val resumeBlockExperience = document.getElementsByClass("resume-block__title-text resume-block__title-text_sub")
+        if (resumeBlockExperience.isNotEmpty()) {
+            employee.workExperience = resumeBlockExperience[0].text()
+        }
+    }
+
+    private fun getDataQaAttributeValue(document: Document, attributeValue: String) : Elements {
+        return document.getElementsByAttributeValue("data-qa", attributeValue)
+    }
+
+    private fun getDataQaAttributeValue(elements: Elements, attributeValue: String) : Elements {
+        return elements[0].getElementsByAttributeValue("data-qa", attributeValue)
     }
 }
