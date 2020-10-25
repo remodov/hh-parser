@@ -1,4 +1,4 @@
-INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES
+INSERT INTO hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES 
 ('Work experience 7 years','Male','Minsk','Full Stack Developer (AWS, NodeJS, ReactJS)/Team Lead',NULL,'https://hh.ru/resume/00055e2a0003a4e0e70039ed1f374b51493963')
 ,('Ключевые навыки','Мужчина','Волгоград','HTML-верстальщик','40 000 руб.','https://hh.ru/resume/0008a53c0003c9a9790039ed1f304e51713244')
 ,('Опыт работы 7 лет 9 месяцев','Мужчина','Москва','Senior Developer / TeamLead C# (.NET)','300 000 руб.','https://hh.ru/resume/00224eb200029c13470039ed1f76787953346b')
@@ -10,7 +10,7 @@ INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary
 ,('Опыт работы 6 лет 5 месяцев','Мужчина','Москва','Инженер по тестированию, Аналитик',NULL,'https://hh.ru/resume/007ac60d0007ad2b670039ed1f3938356b4c44')
 ,('Опыт работы 14 лет 3 месяца','Мужчина','Москва','Web-разработчик, SEO специалист','80 000 руб.','https://hh.ru/resume/00938d0a0005d640550039ed1f727870584136')
 ;
-INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES
+INSERT INTO hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES 
 ('Опыт работы 1 год 2 месяца','Мужчина','Москва','Младший специалист по информационной безопасности','40 000 руб.','https://hh.ru/resume/009530930007d210b20039ed1f334a4c643375')
 ,('Ключевые навыки','Мужчина','Москва','QA junior тестировщик',NULL,'https://hh.ru/resume/00990f6f00036be6da0039ed1f694c36353971')
 ,('Опыт работы 10 лет 4 месяца','Женщина','Москва','IT рекрутер (удаленно)',NULL,'https://hh.ru/resume/00a9b9470003fd6db80039ed1f4133634a7578')
@@ -22,7 +22,7 @@ INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary
 ,('Опыт работы 15 лет 2 месяца','Мужчина','Нижний Новгород','ДИРЕКТОР ПО ЦИФРОВЫМ ТЕХНОЛОГИЯМ — CHEF DIGITAL OFFICER (CDO)','128 000 руб.','https://hh.ru/resume/00f37500000157063c0039ed1f58787a765467')
 ,('Опыт работы 6 лет 1 месяц','Мужчина','Москва','Стажер аналитик','40 000 руб.','https://hh.ru/resume/01195b710002be32440039ed1f67323664584c')
 ;
-INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES
+INSERT INTO hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES 
 ('Ключевые навыки','Мужчина','Москва','Junior Java(Android) Developer','50 000 руб.','https://hh.ru/resume/013974e300083b222d0039ed1f764834345559')
 ,('Опыт работы 5 лет 10 месяцев','Мужчина','Москва','Junior Java-разработчик',NULL,'https://hh.ru/resume/013a0f670007618ee30039ed1f394c4c694630')
 ,('Опыт работы 13 лет 2 месяца','Мужчина','Зеленоград','Инженер',NULL,'https://hh.ru/resume/0144acbc00010d10d80039ed1f42734f427769')
@@ -34,7 +34,7 @@ INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary
 ,('Опыт работы 4 года 4 месяца','Мужчина','Москва','Системный администратор',NULL,'https://hh.ru/resume/017d5f57000460e5c80039ed1f53754747617a')
 ,('Опыт работы 7 лет 7 месяцев','Мужчина','Москва','Директор по управлению цепями поставок','400 000 руб.','https://hh.ru/resume/0181b61d000585f4400039ed1f523361767870')
 ;
-INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES
+INSERT INTO hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES 
 ('Опыт работы 4 месяца','Мужчина','Москва','Java-разработчик','75 000 руб.','https://hh.ru/resume/018817f00003d4a0c00039ed1f774f6771446f')
 ,('Опыт работы 24 года 1 месяц','Мужчина','Москва','Web-разработчик','95 000 руб.','https://hh.ru/resume/01aa6c650000bb43a10039ed1f736563726574')
 ,('Опыт работы 7 месяцев','Мужчина','Иваново (Ивановская область)','Программист',NULL,'https://hh.ru/resume/01ab7d0900056b41ac0039ed1f647036774765')
@@ -46,7 +46,7 @@ INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary
 ,('Опыт работы 5 лет 3 месяца','Мужчина','Москва','Тестировщик, программист',NULL,'https://hh.ru/resume/01efc8870003dddcbe0039ed1f4d5475506175')
 ,('Опыт работы 7 лет 6 месяцев','Мужчина','Москва','1С-Битрикс, Web-мастер, программист PHP','90 000 руб.','https://hh.ru/resume/020943f300027f18c90039ed1f44395251545a')
 ;
-INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES
+INSERT INTO hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES 
 ('Опыт работы 18 лет 9 месяцев','Мужчина','Москва','Программист 1С, web, bitrix, android/ios, yii, php, java, python, алготрейдер, бухгалтер, аналитик','15 000 руб.','https://hh.ru/resume/020f21d90003a8e92c0039ed1f326d70394a79')
 ,('Опыт работы 6 лет 8 месяцев','Женщина','Москва','Digital специалист',NULL,'https://hh.ru/resume/021cb6300005e0a6f10039ed1f6c6f76713936')
 ,('Опыт работы 11 лет 9 месяцев','Мужчина','Москва','Ведущий разработчик','280 000 руб.','https://hh.ru/resume/022575820000edfd890039ed1f51726b543661')
@@ -58,7 +58,7 @@ INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary
 ,('Опыт работы 12 лет 3 месяца','Мужчина','Барнаул','software engineering manager',NULL,'https://hh.ru/resume/0268b7f00007d37cf60039ed1f4d7074474b5a')
 ,('Опыт работы 1 год 5 месяцев','Мужчина','Москва','Go разработчик','80 000 руб.','https://hh.ru/resume/02692cc600084aad8f0039ed1f683450775552')
 ;
-INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES
+INSERT INTO hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES 
 ('Опыт работы 21 год','Мужчина','Москва','Инженер-механик','90 000 руб.','https://hh.ru/resume/0269ea3e00003455df0039ed1f736563726574')
 ,('Опыт работы 2 года 6 месяцев','Женщина','Москва','Тренер-преподаватель','60 000 руб.','https://hh.ru/resume/026c621d00061cd26a0039ed1f4957356f7979')
 ,('Опыт работы 5 лет 3 месяца','Женщина','Москва','Менеджер аналитик по маркетингу и коммуникации',NULL,'https://hh.ru/resume/0274544d00073eea670039ed1f63616f583161')
@@ -70,7 +70,7 @@ INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary
 ,('Опыт работы 17 лет 1 месяц','Мужчина','Москва','Системный администратор','130 000 руб.','https://hh.ru/resume/02d1d85d000127da0a0039ed1f377973453943')
 ,('Обо мне','Мужчина','Москва','Стажер back-end',NULL,'https://hh.ru/resume/02de0b500007aac6ad0039ed1f466741426c59')
 ;
-INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES
+INSERT INTO hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES 
 ('Опыт работы 6 лет 11 месяцев','Мужчина','Москва','Младший тестировщик ПО',NULL,'https://hh.ru/resume/02e01f06000837451d0039ed1f74797471614f')
 ,('Опыт работы 9 лет 1 месяц','Мужчина','Москва','Руководитель проектов, руководитель ИТ-подразделения',NULL,'https://hh.ru/resume/02f8e0210007137a510039ed1f645231366450')
 ,('Опыт работы 10 лет','Мужчина','Норильск','Системный инженер',NULL,'https://hh.ru/resume/030126dd0003ac2a6a0039ed1f41784d307370')
@@ -82,7 +82,7 @@ INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary
 ,('Опыт работы 1 год','Мужчина','Москва','Стажер-аналитик','40 000 руб.','https://hh.ru/resume/034e8ef900080fbf4d0039ed1f7a6444525a49')
 ,('Опыт работы 7 лет','Мужчина','Москва','Программист Yii2',NULL,'https://hh.ru/resume/034f2d36000405fd830039ed1f613079566b74')
 ;
-INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES
+INSERT INTO hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES 
 ('Опыт работы 2 месяца','Мужчина','Москва','Data Scientist',NULL,'https://hh.ru/resume/035773e000077cc1c20039ed1f6d6952375a56')
 ,('Опыт работы 13 лет 2 месяца','Мужчина','Москва','Руководитель направления цифровой трансформации (поиск партнеров по бизнесу / работа по ГПХ)','100 000 руб.','https://hh.ru/resume/036201590003b5f8e00039ed1f417272495138')
 ,('Опыт работы 15 лет 4 месяца','Мужчина','Киров (Кировская область)','ИТ специалист (руководитель отдела, подразделения)','120 000 руб.','https://hh.ru/resume/036d8d7e0001b9e4610039ed1f61386d36754b')
@@ -94,7 +94,7 @@ INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary
 ,('Опыт работы 3 года 6 месяцев','Мужчина','Ростов-на-Дону','Junior QA Engineer / Младший тестировщик ПО',NULL,'https://hh.ru/resume/039d7fb0000445d0390039ed1f623553695569')
 ,('Опыт работы 14 лет 8 месяцев','Мужчина','Москва','руководитель','100 000 руб.','https://hh.ru/resume/03b39ca700034bead90039ed1f74625748386a')
 ;
-INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES
+INSERT INTO hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES 
 ('Опыт работы 5 лет 8 месяцев','Мужчина','Москва','Системный инженер',NULL,'https://hh.ru/resume/03d5a64a00023749760039ed1f7669366d6b4f')
 ,('Опыт работы 1 год 7 месяцев','Мужчина','Москва','Программист Java',NULL,'https://hh.ru/resume/03e4ea400007b90e030039ed1f304347363545')
 ,('Опыт работы 5 лет 3 месяца','Мужчина','Москва','Frontend-разработчик',NULL,'https://hh.ru/resume/03e5a3460007fb48e70039ed1f5a726f7a436d')
@@ -106,7 +106,7 @@ INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary
 ,('Опыт работы 10 лет 2 месяца','Женщина','Москва','Web-программист, удаленка, частичная/проектная занятость','50 000 руб.','https://hh.ru/resume/043732fe0007b83bbd0039ed1f4e58637a3049')
 ,('Ключевые навыки','Мужчина','Москва','Стажер-тестировщик',NULL,'https://hh.ru/resume/043a70ad000840ca460039ed1f7635396d6771')
 ;
-INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES
+INSERT INTO hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES 
 ('Опыт работы 13 лет 9 месяцев','Мужчина','Москва','Системный администратор SRE/DevOps',NULL,'https://hh.ru/resume/043f26ef0002e2f3d70039ed1f455a4d52654f')
 ,('Опыт работы 1 год 10 месяцев','Мужчина','Москва','Android developer',NULL,'https://hh.ru/resume/04460d170007cf033a0039ed1f7a5037546857')
 ,('Опыт работы 4 года 1 месяц','Мужчина','Москва','Project Manager',NULL,'https://hh.ru/resume/044ab8d500081bdda90039ed1f6f4156575843')
@@ -118,7 +118,7 @@ INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary
 ,('Work experience 37 years 2 months','Male','Saint Petersburg','Architect/Lead Java EE/ML/CV','205 000 RUB','https://hh.ru/resume/046db84b00001e68400039ed1f736563726574')
 ,('Опыт работы 9 лет 9 месяцев','Мужчина','Москва','Software engineer','290 000 руб.','https://hh.ru/resume/047291d40001a815d30039ed1f674675584e4f')
 ;
-INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES
+INSERT INTO hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES 
 ('Опыт работы 7 лет','Мужчина','Москва','Android разработчик','110 000 руб.','https://hh.ru/resume/0476cdf800043436ad0039ed1f447351487467')
 ,('Опыт работы 18 лет 2 месяца','Женщина','Москва','маркетолог, Специалист отдела маркетинга и рекламы',NULL,'https://hh.ru/resume/047ded020001646dd70039ed1f6b4e4c544365')
 ,('Опыт работы 6 лет 11 месяцев','Мужчина','Москва','Программист-разработчик','70 000 руб.','https://hh.ru/resume/047f49ed0002da3e110039ed1f776a48566e52')
@@ -130,7 +130,7 @@ INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary
 ,('Опыт работы 12 лет 4 месяца','Мужчина','Москва','Java',NULL,'https://hh.ru/resume/0513e4f00001e81c030039ed1f683655306863')
 ,('Опыт работы 10 месяцев','Мужчина','Москва','Java-программист',NULL,'https://hh.ru/resume/0530f30e000594cdc60039ed1f6374576b7338')
 ;
-INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES
+INSERT INTO hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES 
 ('Work experience 13 years 1 month','Male','Moscow','Senior Software Developer - Mobile',NULL,'https://hh.ru/resume/054cc9b10002c5cb270039ed1f633650434863')
 ,('Опыт работы 6 лет','Мужчина','Москва','Java / .NET DevOps Engineer',NULL,'https://hh.ru/resume/054cd05c00080cbca60039ed1f433156755743')
 ,('Опыт работы 8 лет','Мужчина','Москва','Программист .NET C#','200 000 руб.','https://hh.ru/resume/0554fa2400016b1bc90039ed1f487244356241')
@@ -142,7 +142,7 @@ INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary
 ,('Опыт работы 9 месяцев','Мужчина','Москва','IT / Разработчик','50 000 руб.','https://hh.ru/resume/05c76f05000733e0000039ed1f416239565a38')
 ,('Опыт работы 6 лет 2 месяца','Мужчина','Москва','Ведущий PHP-программист, Руководитель группы разработки (Team Lead)','200 000 руб.','https://hh.ru/resume/05ce94ed00039bebf60039ed1f464b5453374f')
 ;
-INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES
+INSERT INTO hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES 
 ('Опыт работы 2 года 8 месяцев','Мужчина','Москва','Java-разработчик','200 000 руб.','https://hh.ru/resume/05e2823800055f65f60039ed1f6c3763773957')
 ,('Опыт работы 2 года 1 месяц','Мужчина','Москва','Специалист по IT, Python разработчик','40 000 руб.','https://hh.ru/resume/05e2a2e40003498e4f0039ed1f64656e6a5262')
 ,('Опыт работы 14 лет 3 месяца','Мужчина','Тула','Cистемный администратор, Администратор сайта, IT-директор(руководитель)','70 000 руб.','https://hh.ru/resume/05e65cfa0000737c970039ed1f736563726574')
@@ -154,7 +154,7 @@ INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary
 ,('Опыт работы 1 год 2 месяца','Женщина','Москва','Junior Android Developer / Младший Android разработчик',NULL,'https://hh.ru/resume/06241dc60007c5667a0039ed1f6d3050783470')
 ,('Опыт работы 8 лет 11 месяцев','Мужчина','Москва','Руководитель направления',NULL,'https://hh.ru/resume/063f82b50005a8b9b30039ed1f31625853706f')
 ;
-INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES
+INSERT INTO hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES 
 ('Опыт работы 14 лет 9 месяцев','Мужчина','Москва','Руководитель проектов','150 000 руб.','https://hh.ru/resume/0648593100036bf64d0039ed1f57724e355172')
 ,('Опыт работы 7 лет 3 месяца','Женщина','Ростов-на-Дону','HR менеджер',NULL,'https://hh.ru/resume/064cb2340002920eee0039ed1f414f59473830')
 ,('Опыт работы 15 лет 3 месяца','Мужчина','Алматы','Разработчик ПО',NULL,'https://hh.ru/resume/0650fae500037e7ae80039ed1f67304a767053')
@@ -166,7 +166,7 @@ INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary
 ,('Опыт работы 2 года','Мужчина','Москва','Программист-разработчик',NULL,'https://hh.ru/resume/06922fa0000460e8710039ed1f45537075394d')
 ,('Опыт работы 2 года 2 месяца','Мужчина','Москва','Java / Android - разработчик',NULL,'https://hh.ru/resume/06aa0eab000629280e0039ed1f755850505651')
 ;
-INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES
+INSERT INTO hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES 
 ('Опыт работы 3 года 5 месяцев','Мужчина','Москва','Java-разработчик',NULL,'https://hh.ru/resume/06b913af00039306240039ed1f52627374506a')
 ,('Опыт работы 3 года 1 месяц','Женщина','Москва','Аналитик бизнес-процессов',NULL,'https://hh.ru/resume/06ba60fa0007f42b700039ed1f455572786266')
 ,('Work experience 5 years 1 month','Male','Moscow','Senior Test Automation Engineer','200 000 RUB','https://hh.ru/resume/06da97190003324d6f0039ed1f365a35683553')
@@ -178,7 +178,7 @@ INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary
 ,('Work experience 10 years 10 months','Male','Moscow','Programmer/developer','100 000 RUB','https://hh.ru/resume/07296edf0006ef93e50039ed1f434f66563751')
 ,('Work experience 15 years 1 month','Male','Tver','IT manager','160 000 RUB','https://hh.ru/resume/072d25e5000370b27e0039ed1f356336656279')
 ;
-INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES
+INSERT INTO hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES 
 ('Опыт работы 10 лет 7 месяцев','Мужчина','Москва','CIO',NULL,'https://hh.ru/resume/073efc5700010daa920039ed1f706435564e78')
 ,('Опыт работы 7 месяцев','Мужчина','Москва','JavaScript React/Angular','130 000 руб.','https://hh.ru/resume/074ffcee00077ade570039ed1f665132686a4a')
 ,('Work experience 12 years 6 months','Male','Moscow','Pre-sales, IT Consuting',NULL,'https://hh.ru/resume/076d3c8b000106d0c50039ed1f743050695867')
@@ -190,7 +190,7 @@ INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary
 ,('Опыт работы 20 лет 8 месяцев','Женщина','Москва','Руководитель проекта',NULL,'https://hh.ru/resume/0796f89800059892b30039ed1f4d7145544f48')
 ,('Опыт работы 3 года','Мужчина','Москва','Java Developer',NULL,'https://hh.ru/resume/07ae6354000844c91f0039ed1f735565507932')
 ;
-INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES
+INSERT INTO hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES 
 ('Опыт работы 11 лет 4 месяца','Мужчина','Москва','Junior программист',NULL,'https://hh.ru/resume/07b2d8a500014380b50039ed1f656173684150')
 ,('Work experience 11 years 5 months','Male','Cherepovets','Программист','299 991 RUB','https://hh.ru/resume/07b66c7a0004d83cc70039ed1f6f644f6b4858')
 ,('Опыт работы 3 года 5 месяцев','Мужчина','Москва','UI\UX & Mobile Designer','80 000 руб.','https://hh.ru/resume/07b9ab99000568e7860039ed1f6c57515a6174')
@@ -202,7 +202,7 @@ INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary
 ,('Work experience 16 years 4 months','Male','Moscow','System Engineer / Senior DevOps Engineer','7 500 EUR','https://hh.ru/resume/07e9d61500002473010039ed1f736563726574')
 ,('Опыт работы 11 лет 2 месяца','Мужчина','Москва','Разработчик',NULL,'https://hh.ru/resume/07f4ffef00016b3e630039ed1f76346a735930')
 ;
-INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES
+INSERT INTO hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES 
 ('Опыт работы 11 лет 6 месяцев','Мужчина','Москва','ИТ-специалист','60 000 руб.','https://hh.ru/resume/080338e400040899230039ed1f553251643235')
 ,('Опыт работы 3 года 8 месяцев','Мужчина','Москва','QA-Engineer','45 000 руб.','https://hh.ru/resume/08083bf80007ec088d0039ed1f7a454d474e38')
 ,('Опыт работы 28 лет 5 месяцев','Мужчина','Москва','Начальник отдела аналитики для разработки программного обеспечения','160 000 руб.','https://hh.ru/resume/080928e2000333b3ba0039ed1f336f34314846')
@@ -214,7 +214,7 @@ INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary
 ,('Опыт работы 4 года 11 месяцев','Мужчина','Москва','Java junior Developer','55 000 руб.','https://hh.ru/resume/083b4dd20003e1a54e0039ed1f76394752387a')
 ,('Опыт работы 13 лет 8 месяцев','Мужчина','Москва','Java junior','100 000 руб.','https://hh.ru/resume/0844ba0f0000fcb9490039ed1f557743645671')
 ;
-INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES
+INSERT INTO hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES 
 ('Опыт работы 11 месяцев','Мужчина','Москва','Менеджер, Работа с документами, Работа в IT, Соц.сети,','41 500 руб.','https://hh.ru/resume/084a6281000551046c0039ed1f624c52507153')
 ,('Опыт работы 2 года 4 месяца','Женщина','Москва','Junior Product Manager',NULL,'https://hh.ru/resume/084b70380007e41dea0039ed1f474d73657a6d')
 ,('Опыт работы 5 месяцев','Женщина','Москва','Web-разработчик','60 000 руб.','https://hh.ru/resume/0868ac8c000767f23d0039ed1f514678686e70')
@@ -226,7 +226,7 @@ INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary
 ,('Опыт работы 3 года 11 месяцев','Мужчина','Санкт-Петербург','Инженер АСУ ТП',NULL,'https://hh.ru/resume/08a0c71b00039677390039ed1f6e4d724c3632')
 ,('Опыт работы 10 лет 7 месяцев','Мужчина','Москва','Нарративный геймдизайнер','70 000 руб.','https://hh.ru/resume/08cc91e10007845d9f0039ed1f723277424579')
 ;
-INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES
+INSERT INTO hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES 
 ('Work experience 16 years 9 months','Male','Moscow','Head of developers / CTO','7 000 USD','https://hh.ru/resume/08df90cf000097d44a0039ed1f736563726574')
 ,('Опыт работы 8 лет 9 месяцев','Мужчина','Москва','Программист 1С','800 руб.','https://hh.ru/resume/08e1ef4b000291bc1a0039ed1f6b4c6e72436c')
 ,('Опыт работы 11 месяцев','Мужчина','Майкоп','Java-разработчик',NULL,'https://hh.ru/resume/08ef46a100075fbfec0039ed1f6574794b5233')
@@ -238,7 +238,7 @@ INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary
 ,('Опыт работы 13 лет 5 месяцев','Мужчина','Алматы','Специалист по IT','500 000 KZT','https://hh.ru/resume/096282c60000872ff70039ed1f736563726574')
 ,('Опыт работы 14 лет 1 месяц','Женщина','Москва','Аналитик, руководитель, менеджер проектов автоматизация/разработка/внедрение ПО',NULL,'https://hh.ru/resume/097bb6b40002370de90039ed1f6f4a43615279')
 ;
-INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES
+INSERT INTO hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES 
 ('Опыт работы 16 лет','Мужчина','Москва','Руководитель направления развития информационных систем','2 500 EUR','https://hh.ru/resume/0991fe2d000339ed530039ed1f757074755276')
 ,('Опыт работы 26 лет 2 месяца','Мужчина','Москва','A5. Product manager | Product Owner |Владелец продукта',NULL,'https://hh.ru/resume/09bce1c20005769bac0039ed1f4b6a64454378')
 ,('Опыт работы 4 года 4 месяца','Мужчина','Москва','Специалист по IT','40 000 руб.','https://hh.ru/resume/09bdf86b0005f772070039ed1f553454585248')
@@ -250,7 +250,7 @@ INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary
 ,('Опыт работы 9 месяцев','Мужчина','Санкт-Петербург','Аналитик бизнес-процессов/ Бизнес аналитик','45 000 руб.','https://hh.ru/resume/0a18596300064ef5210039ed1f3538515a7639')
 ,('Опыт работы 27 лет 5 месяцев','Мужчина','Москва','Ведущий программист','100 000 руб.','https://hh.ru/resume/0a1c69fe000837f4380039ed1f546e666a4751')
 ;
-INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES
+INSERT INTO hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES 
 ('Опыт работы 20 лет 7 месяцев','Мужчина','Москва','Full-stack разработчик, front-end разработчик.','350 000 руб.','https://hh.ru/resume/0a24a89f00053b8f2f0039ed1f765a6f46456e')
 ,('Ключевые навыки','Мужчина','Москва','Junior Java Developer | Разработчик Java',NULL,'https://hh.ru/resume/0a28fa4e000844f4260039ed1f765562417374')
 ,('Опыт работы 14 лет 10 месяцев','Мужчина','Москва','Junior Android разработчик','60 000 руб.','https://hh.ru/resume/0a30cd2a00080a03ed0039ed1f566457727346')
@@ -262,7 +262,7 @@ INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary
 ,('Ключевые навыки','Мужчина','Москва','Программист','40 000 руб.','https://hh.ru/resume/0a721aea000744b28c0039ed1f773064546c68')
 ,('Опыт работы 8 лет 1 месяц','Женщина','Астрахань','Project manager',NULL,'https://hh.ru/resume/0a7c579d000805c4260039ed1f6a4c454f5273')
 ;
-INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES
+INSERT INTO hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES 
 ('Ключевые навыки','Мужчина','Москва','Инженер - программист (Junior Программист)','30 000 руб.','https://hh.ru/resume/0a946dc30007d8a8470039ed1f694d336e6e50')
 ,('Опыт работы 2 года 9 месяцев','Мужчина','Москва','Тестировщик ПО','150 000 руб.','https://hh.ru/resume/0a952dd8000595aade0039ed1f535862755167')
 ,('Ключевые навыки','Мужчина','Москва','Программист С#/Java',NULL,'https://hh.ru/resume/0a9744200005a34f5f0039ed1f6134574d5578')
@@ -274,7 +274,7 @@ INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary
 ,('Опыт работы 3 года','Мужчина','Москва','Java junior developer',NULL,'https://hh.ru/resume/0af0a4ae000354ce2f0039ed1f52546c386a61')
 ,('Опыт работы 14 лет 1 месяц','Мужчина','Москва','Директор-IT, CTO, CEO',NULL,'https://hh.ru/resume/0af3b4ec0007ae74640039ed1f5874536e5367')
 ;
-INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES
+INSERT INTO hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES 
 ('Опыт работы 3 года','Мужчина','Москва','Стажер Java, Java Junior',NULL,'https://hh.ru/resume/0af79b110007d836090039ed1f766869784e4a')
 ,('Work experience 18 years 2 months','Female','Moscow','Менеджер проектов, Консультант, Архитектор',NULL,'https://hh.ru/resume/0b0e3aae0003aa6bca0039ed1f73794a65504d')
 ,('Опыт работы 8 месяцев','Мужчина','Москва','Программист Java','100 000 руб.','https://hh.ru/resume/0b2bdde900050928a40039ed1f746c4d4e4330')
@@ -286,7 +286,7 @@ INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary
 ,('Work experience 18 years','Male','Moscow','Solution architect',NULL,'https://hh.ru/resume/0b97260b00019213940039ed1f726f75354437')
 ,('Опыт работы 7 лет 2 месяца','Мужчина','Москва','Системный архитектор (java/cloud) / Developer','400 000 руб.','https://hh.ru/resume/0ba679c200034343440039ed1f456e6a786664')
 ;
-INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES
+INSERT INTO hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES 
 ('Опыт работы 1 год 10 месяцев','Мужчина','Новосибирск','Java-программист','100 000 руб.','https://hh.ru/resume/0bdebe0400071ece840039ed1f6f54794a6453')
 ,('Опыт работы 27 лет 6 месяцев','Мужчина','Москва','PHP-разработчик (частично удаленно)','150 000 руб.','https://hh.ru/resume/0be9ffd100057167370039ed1f6f76386c4942')
 ,('Опыт работы 24 года 7 месяцев','Мужчина','Москва','Руководитель проекта. Аналитик',NULL,'https://hh.ru/resume/0bedb451000105955a0039ed1f566a6f734771')
@@ -298,7 +298,7 @@ INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary
 ,('Опыт работы 16 лет 2 месяца','Мужчина','Москва','Инженер',NULL,'https://hh.ru/resume/0c8e096b000206d7150039ed1f695a7874434b')
 ,('Опыт работы 3 года 4 месяца','Мужчина','Москва','Инженер по информационной безопасности','70 000 руб.','https://hh.ru/resume/0c91945700066503fd0039ed1f786570765949')
 ;
-INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES
+INSERT INTO hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES 
 ('Опыт работы 25 лет 2 месяца','Мужчина','Бишкек','инженер, программист','55 000 руб.','https://hh.ru/resume/0c9c58d4000275338a0039ed1f38366c316b76')
 ,('Опыт работы 9 лет 2 месяца','Мужчина','Москва','Владелец продукта/менеджер по продукту',NULL,'https://hh.ru/resume/0cb4412300081f098c0039ed1f476f737a7031')
 ,('Опыт работы 23 года','Мужчина','Москва','Ведущий программист Java и Oracle, руководитель IT-проекта, технический директор','240 000 руб.','https://hh.ru/resume/0cb4ca1f00001778230039ed1f736563726574')
@@ -310,7 +310,7 @@ INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary
 ,('Опыт работы 30 лет 1 месяц','Мужчина','Москва','Экономист-аналитик',NULL,'https://hh.ru/resume/0d0deaed00049202350039ed1f754c7a746b63')
 ,('Опыт работы 9 лет 6 месяцев','Мужчина','Москва','PHP-программист','200 000 руб.','https://hh.ru/resume/0d14186c00014aad030039ed1f74456a623341')
 ;
-INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES
+INSERT INTO hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES 
 ('Опыт работы 5 лет 5 месяцев','Мужчина','Москва','Java-разработчик (junior)',NULL,'https://hh.ru/resume/0d1dbfd700037a1e060039ed1f4b356d354644')
 ,('Опыт работы 10 месяцев','Мужчина','Москва','Android Developer (Junior)','60 000 руб.','https://hh.ru/resume/0d2fdcff00060927270039ed1f4f7a75464161')
 ,('Опыт работы 1 год','Мужчина','Москва','Младший разработчик / Инженер','40 000 руб.','https://hh.ru/resume/0d33140e000413a4890039ed1f6f5037635278')
@@ -322,7 +322,7 @@ INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary
 ,('Опыт работы 16 лет 3 месяца','Женщина','Москва','Java Developer',NULL,'https://hh.ru/resume/0dc7241000021bf4900039ed1f3938355a3575')
 ,('Опыт работы 6 месяцев','Мужчина','Москва','Junior Java Developer','55 000 руб.','https://hh.ru/resume/0dc790ed0007c6b18f0039ed1f764c31423070')
 ;
-INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES
+INSERT INTO hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES 
 ('Опыт работы 3 года 3 месяца','Мужчина','Москва','Junior разработчик/тестировщик',NULL,'https://hh.ru/resume/0dd3784b0007f72ae50039ed1f595467774147')
 ,('Опыт работы 9 месяцев','Мужчина','Москва','Техник-программист',NULL,'https://hh.ru/resume/0dd3842b00059c22e00039ed1f6d4443594376')
 ,('Опыт работы 4 года','Мужчина','Москва','Java Developer',NULL,'https://hh.ru/resume/0ddeb01a00081d5fad0039ed1f5174334d6644')
@@ -334,7 +334,7 @@ INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary
 ,('Опыт работы 10 лет 9 месяцев','Мужчина','Волгоград','Инженер АСУТП','75 000 руб.','https://hh.ru/resume/0e1cdb3200042a1ebe0039ed1f6b3356553354')
 ,('Опыт работы 12 лет 3 месяца','Мужчина','Москва','Программист',NULL,'https://hh.ru/resume/0e270bc7000177d2be0039ed1f517233716658')
 ;
-INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES
+INSERT INTO hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES 
 ('Опыт работы 9 лет 10 месяцев','Мужчина','Москва','C/Haskell/Rust embedded developer','130 000 руб.','https://hh.ru/resume/0e2dc99700010c24b10039ed1f423549554473')
 ,('Work experience 4 years 1 month','Male','Moscow','Scientist/Учёный',NULL,'https://hh.ru/resume/0e2fabb40006ccbcb70039ed1f614b487a5747')
 ,('Опыт работы 11 лет 8 месяцев','Мужчина','Санкт-Петербург','Программист 1C','100 000 руб.','https://hh.ru/resume/0e5e116200081fec860039ed1f31436153326e')
@@ -346,7 +346,7 @@ INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary
 ,('Work experience 19 years','Male','Moscow','Senior Developer','380 000 RUB','https://hh.ru/resume/0e948e480007df35670039ed1f51736b6d7153')
 ,('Опыт работы 6 лет 9 месяцев','Мужчина','Москва','Frontend / fullstack',NULL,'https://hh.ru/resume/0e952ec9000216f6e30039ed1f74746255364a')
 ;
-INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES
+INSERT INTO hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES 
 ('Опыт работы 5 лет','Мужчина','Москва','IT-специалист','50 000 руб.','https://hh.ru/resume/0e9c143000020187010039ed1f7036436c3168')
 ,('Опыт работы 6 лет 1 месяц','Мужчина','Гродно','Системный администратор','100 000 руб.','https://hh.ru/resume/0ea737e1000332a6b40039ed1f427531464456')
 ,('Опыт работы 14 лет 4 месяца','Женщина','Москва','Системный аналитик','100 000 руб.','https://hh.ru/resume/0eb05a8a000342c3e80039ed1f306862373444')
@@ -358,7 +358,7 @@ INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary
 ,('Опыт работы 3 года 7 месяцев','Мужчина','Москва','Программист Java',NULL,'https://hh.ru/resume/0f1d50aa00083fd23a0039ed1f4e72374a7a34')
 ,('Опыт работы 5 лет 1 месяц','Женщина','Москва','Журналист',NULL,'https://hh.ru/resume/0f6b181e00027e69160039ed1f4d4c526d7764')
 ;
-INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES
+INSERT INTO hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES 
 ('Ключевые навыки','Мужчина','Москва','Начинающий специалист',NULL,'https://hh.ru/resume/0f6d1d6c00080a4aaa0039ed1f4d78666b4b5a')
 ,('Опыт работы 7 лет 1 месяц','Женщина','Москва','Методист',NULL,'https://hh.ru/resume/0f90fce2000394f6e90039ed1f4b394e776647')
 ,('Work experience 9 years 11 months','Male','Moscow','Director of infrastructure, DevOps Tech Lead (SRE)','600 000 RUB','https://hh.ru/resume/0f98498b0003ec29820039ed1f52374853356a')
@@ -370,7 +370,7 @@ INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary
 ,('Опыт работы 1 год 2 месяца','Мужчина','Москва','Junior Java-разработчик',NULL,'https://hh.ru/resume/0fe52cc5000769482d0039ed1f79587446486d')
 ,('Опыт работы 11 лет','Мужчина','Липецк','Программист-разработчик',NULL,'https://hh.ru/resume/0fe879fd00012df3d40039ed1f345371784d75')
 ;
-INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES
+INSERT INTO hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES 
 ('Ключевые навыки','Мужчина','Москва','Программист стажер',NULL,'https://hh.ru/resume/10038d2a0007b5a2400039ed1f53696e696563')
 ,('Опыт работы 21 год 5 месяцев','Мужчина','Москва','Системный администратор','80 000 руб.','https://hh.ru/resume/1006693d000000e3b40039ed1f736563726574')
 ,('Ключевые навыки','Мужчина','Москва','Начинающий программист, аналитик',NULL,'https://hh.ru/resume/100991250007c9c64d0039ed1f335a6d433349')
@@ -382,7 +382,7 @@ INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary
 ,('Опыт работы 4 года 3 месяца','Мужчина','Новосибирск','Fullstack web developer',NULL,'https://hh.ru/resume/106eba2900027babb70039ed1f4e70366c6c65')
 ,('Опыт работы 3 года 7 месяцев','Мужчина','Москва','Системный администратор. Младший специалист технического отдела.','60 000 руб.','https://hh.ru/resume/107a9d300006157c950039ed1f5853535a4755')
 ;
-INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES
+INSERT INTO hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES 
 ('Опыт работы 13 лет 6 месяцев','Мужчина','Москва','Java-разработчик',NULL,'https://hh.ru/resume/10809ab10001c4ab510039ed1f4e7a674e626c')
 ,('Опыт работы 9 лет 3 месяца','Женщина','Москва','Software testing engineer',NULL,'https://hh.ru/resume/1097ee9a0007dda3f00039ed1f76724e6d5551')
 ,('Опыт работы 31 год 9 месяцев','Мужчина','Симферополь','Директор, технический директор, руководитель направления, эксперт, разработчик, преподаватель',NULL,'https://hh.ru/resume/109d77eb00024dee820039ed1f4f6c396d6e33')
@@ -394,7 +394,7 @@ INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary
 ,('Опыт работы 5 лет 9 месяцев','Мужчина','Москва','java программист','60 000 руб.','https://hh.ru/resume/10d21dc300075982160039ed1f754f5a424643')
 ,('Опыт работы 4 года 9 месяцев','Мужчина','Новосибирск','Стажер-программист','40 000 руб.','https://hh.ru/resume/10f2cd070001c2a50e0039ed1f316b5679364b')
 ;
-INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES
+INSERT INTO hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES 
 ('Опыт работы 1 год 11 месяцев','Женщина','Москва','Data Scientist / Data Analyst','80 000 руб.','https://hh.ru/resume/10f537e4000848966a0039ed1f666632696765')
 ,('Опыт работы 7 лет 1 месяц','Мужчина','Москва','Java Junior',NULL,'https://hh.ru/resume/11021f220008014f120039ed1f354d58737745')
 ,('Опыт работы 22 года','Мужчина','Москва','Руководитель отдела / Руководитель управления','360 000 руб.','https://hh.ru/resume/111711410000a73bb60039ed1f736563726574')
@@ -406,7 +406,7 @@ INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary
 ,('Опыт работы 8 лет 4 месяца','Мужчина','Москва','Программист Java',NULL,'https://hh.ru/resume/113002b500021a53ba0039ed1f543554453641')
 ,('Опыт работы 17 лет 11 месяцев','Мужчина','Москва','IT-директор','300 000 руб.','https://hh.ru/resume/1130a48a000151ee990039ed1f3042484a714d')
 ;
-INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES
+INSERT INTO hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES 
 ('Work experience 5 years 9 months','Male','Greece','Unity3d программист (middle/senior)','2 100 EUR','https://hh.ru/resume/11332d80000841a8220039ed1f703554795a41')
 ,('Обо мне','Женщина','Москва','стажёр Java/ Junior java developer',NULL,'https://hh.ru/resume/114198ca0007da95440039ed1f527741627073')
 ,('Опыт работы 4 месяца','Мужчина','Москва','Разработчик UE4','55 000 руб.','https://hh.ru/resume/1145c3f200084df8770039ed1f63656a324f51')
@@ -418,7 +418,7 @@ INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary
 ,('Опыт работы 20 лет 8 месяцев','Мужчина','Москва','IT-директор/Технический директор',NULL,'https://hh.ru/resume/11999553000102bca60039ed1f393835434a45')
 ,('Work experience 1 year 5 months','Male','Moscow','Junior Solution Architect',NULL,'https://hh.ru/resume/11a3d5dc0003c02c760039ed1f326e4b586679')
 ;
-INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES
+INSERT INTO hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES 
 ('Work experience 21 year 8 months','Female','Moscow','Senior Software Engineer',NULL,'https://hh.ru/resume/11b6f4e000039437c30039ed1f5a7639566679')
 ,('Опыт работы 16 лет 2 месяца','Мужчина','Москва','Ведущий руководитель проектов',NULL,'https://hh.ru/resume/11cb991b000020432d0039ed1f736563726574')
 ,('Work experience 5 years 7 months','Male','Spain','QA Automation Engineer',NULL,'https://hh.ru/resume/11cbdfe20006d516940039ed1f703354336747')
@@ -430,7 +430,7 @@ INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary
 ,('Опыт работы 5 лет 5 месяцев','Мужчина','Москва','Программист Delphi','170 000 руб.','https://hh.ru/resume/120286b00001ea9c7a0039ed1f5a324e485a57')
 ,('Опыт работы 3 года 4 месяца','Мужчина','Москва','Ведущий разработчик','200 000 руб.','https://hh.ru/resume/1216f95200037baa380039ed1f6f6b67373557')
 ;
-INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES
+INSERT INTO hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES 
 ('Опыт работы 6 месяцев','Женщина','Москва','Разработчик Node.js','60 000 руб.','https://hh.ru/resume/123084730007b3a3100039ed1f477366475264')
 ,('Опыт работы 8 лет 2 месяца','Мужчина','Москва','java developer',NULL,'https://hh.ru/resume/12335dda000749795f0039ed1f63344b497338')
 ,('Опыт работы 11 лет 7 месяцев','Мужчина','Москва','Head of Analytics, BI manager, Project manager','250 000 руб.','https://hh.ru/resume/1242d71200006d15480039ed1f736563726574')
@@ -442,7 +442,7 @@ INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary
 ,('Work experience 11 years','Male','Moscow','Chief Technical Officer (CTO) International Startup & SME multiregional and crosscultural expertise',NULL,'https://hh.ru/resume/12956f970000fc1d410039ed1f42677444716c')
 ,('Опыт работы 9 лет 3 месяца','Мужчина','Москва','Руководитель финансового департамента, Руководитель ИТ департамента','250 000 руб.','https://hh.ru/resume/1295942d000323be8e0039ed1f345873627378')
 ;
-INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES
+INSERT INTO hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES 
 ('Опыт работы 3 года 4 месяца','Женщина','Лобня','Программист-разработчик',NULL,'https://hh.ru/resume/129750c4000819c0050039ed1f424f336d394d')
 ,('Ключевые навыки','Мужчина','Москва','Младший Java-разработчик',NULL,'https://hh.ru/resume/129e76e20007c332a10039ed1f4d4a504e4148')
 ,('Опыт работы 7 лет 9 месяцев','Мужчина','Москва','Java-разработчик','156 000 руб.','https://hh.ru/resume/12c544d6000732c4000039ed1f6f65356f4953')
@@ -454,7 +454,7 @@ INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary
 ,('Опыт работы 42 года 10 месяцев','Мужчина','Москва','Java программист, Web разработчик, системный администратор','65 000 руб.','https://hh.ru/resume/131cf3970000e4d2e10039ed1f6b6b334d3950')
 ,('Опыт работы 9 лет 1 месяц','Мужчина','Москва','Инженер-программист',NULL,'https://hh.ru/resume/13274f180005a9ec050039ed1f6c4b33504e31')
 ;
-INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES
+INSERT INTO hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES 
 ('Опыт работы 26 лет 4 месяца','Женщина','Москва','Аналитик бизнес-процессов',NULL,'https://hh.ru/resume/133586ff00028914af0039ed1f38665a457238')
 ,('Work experience 1 year 8 months','Male','Kharkov','Java Developer',NULL,'https://hh.ru/resume/134583f40007d936bd0039ed1f476f595a4c38')
 ,('Опыт работы 6 лет 7 месяцев','Женщина','Москва','Аналитик','80 000 руб.','https://hh.ru/resume/1353051d00044e70a50039ed1f695644587534')
@@ -466,7 +466,7 @@ INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary
 ,('Опыт работы 2 года','Мужчина','Москва','Программист Java','30 000 руб.','https://hh.ru/resume/13a12cb40008374e6f0039ed1f75446e7a514f')
 ,('Опыт работы 15 лет 4 месяца','Мужчина','Москва','Руководитель разработки / JavaScript Team Lead','400 000 руб.','https://hh.ru/resume/13a8119800052c9b320039ed1f706538393142')
 ;
-INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES
+INSERT INTO hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES 
 ('Опыт работы 4 года','Женщина','Москва','Android разработчик',NULL,'https://hh.ru/resume/13ad03ac0005b1d1570039ed1f387a73494c79')
 ,('Ключевые навыки','Мужчина','Москва','Начинающий Java-разработчик','30 000 руб.','https://hh.ru/resume/13bc1eac0003fd4af10039ed1f686566457762')
 ,('Опыт работы 9 месяцев','Мужчина','Москва','Junior Frontend Developer (Фронтенд-разработчик, React)',NULL,'https://hh.ru/resume/13d20d3a0007fa18350039ed1f62414d324336')
@@ -478,7 +478,7 @@ INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary
 ,('Опыт работы 15 лет 4 месяца','Мужчина','Москва','Продукт менеджер, Специалист по сетевому оборудованию, Пресейл',NULL,'https://hh.ru/resume/14872c61000137049a0039ed1f6d3251747162')
 ,('Work experience 12 years 2 months','Male','Moscow','IT Project manager / IT Business partner','195 000 RUB','https://hh.ru/resume/1492508e00084332020039ed1f5443654d794d')
 ;
-INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES
+INSERT INTO hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES 
 ('Опыт работы 10 лет 4 месяца','Мужчина','Атырау','Инженер технической поддержки (Helpdesk)','450 000 KZT','https://hh.ru/resume/1494dab400012d72ad0039ed1f31476575466a')
 ,('Опыт работы 3 года 2 месяца','Женщина','Москва','Account manager','65 000 руб.','https://hh.ru/resume/14980ca600061739220039ed1f4d5671383731')
 ,('Work experience 6 years 7 months','Male','Malaysia','Creative Technologist',NULL,'https://hh.ru/resume/14a0950b0003c4a4640039ed1f576e7451774d')
@@ -490,7 +490,7 @@ INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary
 ,('Опыт работы 26 лет 11 месяцев','Мужчина','Москва','Программист-разработчик','160 000 руб.','https://hh.ru/resume/14febd2d000005e04c0039ed1f736563726574')
 ,('Опыт работы 7 месяцев','Мужчина','Москва','Тестировщик ПО',NULL,'https://hh.ru/resume/14ff630300084596d70039ed1f324670445475')
 ;
-INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES
+INSERT INTO hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES 
 ('Опыт работы 15 лет 7 месяцев','Мужчина','Москва','Руководитель крупных проектов, CIO, Директор по цифровым инновациям','550 000 руб.','https://hh.ru/resume/151bbfc10000a5603e0039ed1f736563726574')
 ,('Опыт работы 5 лет 7 месяцев','Мужчина','Москва','Программист Java','110 000 руб.','https://hh.ru/resume/15224c980005a3f9300039ed1f4d4755577466')
 ,('Ключевые навыки','Мужчина','Москва','Java junior',NULL,'https://hh.ru/resume/1525df1300034605e00039ed1f636a764a6e30')
@@ -502,7 +502,7 @@ INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary
 ,('Опыт работы 2 года 11 месяцев','Мужчина','Москва','Младший инженер-программист','45 000 руб.','https://hh.ru/resume/154d610100058954bb0039ed1f66395742767a')
 ,('Опыт работы 14 лет 1 месяц','Женщина','Москва','Преподаватель',NULL,'https://hh.ru/resume/157eb02f00001049770039ed1f736563726574')
 ;
-INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES
+INSERT INTO hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES 
 ('Опыт работы 15 лет 7 месяцев','Мужчина','Новосибирск','Руководитель ИТ-отдела','60 000 руб.','https://hh.ru/resume/1582cf94000474ce0f0039ed1f4e6e566e3459')
 ,('Ключевые навыки','Мужчина','Москва','Web-программист','20 000 руб.','https://hh.ru/resume/15c8289f0002cd0e6f0039ed1f6e51755a4271')
 ,('Опыт работы 6 лет 3 месяца','Мужчина','Москва','Веб-разработчик, Верстка, Web developer','100 000 руб.','https://hh.ru/resume/15da922c0001873c450039ed1f4a6836786976')
@@ -514,7 +514,7 @@ INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary
 ,('Ключевые навыки','Мужчина','Актау','Стажер-программист Java React Vue Angular Go',NULL,'https://hh.ru/resume/16022a7400083482140039ed1f4b6572747372')
 ,('Опыт работы 3 года','Женщина','Москва','Системный аналитик',NULL,'https://hh.ru/resume/1606f8d600061f75620039ed1f465365666848')
 ;
-INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES
+INSERT INTO hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES 
 ('Опыт работы 5 лет 11 месяцев','Мужчина','Москва','Старший инженер IT','70 000 руб.','https://hh.ru/resume/160a909e0007c76e350039ed1f396e304b586b')
 ,('Опыт работы 21 год 3 месяца','Мужчина','Москва','Специалист по управлению данными',NULL,'https://hh.ru/resume/160de6b300074202a80039ed1f765542753468')
 ,('Опыт работы 10 лет 1 месяц','Мужчина','Чита','Data Scientist','25 000 руб.','https://hh.ru/resume/161a6d1d000348728f0039ed1f4b4f376b7854')
@@ -526,7 +526,7 @@ INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary
 ,('Опыт работы 7 лет 10 месяцев','Мужчина','Москва','Программист-разработчик',NULL,'https://hh.ru/resume/1640391000011387a80039ed1f6d436f585779')
 ,('Опыт работы 7 лет 5 месяцев','Мужчина','Москва','Junior developer',NULL,'https://hh.ru/resume/1c4f3c9200030c74640039ed1f476454454c32')
 ;
-INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES
+INSERT INTO hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES 
 ('Опыт работы 18 лет 7 месяцев','Мужчина','Москва','.NET программист, team lead, архитектор','350 000 руб.','https://hh.ru/resume/167a2c39000033ef910039ed1f736563726574')
 ,('Опыт работы 28 лет','Мужчина','Москва','Руководитель отдела IT / разработки ПО',NULL,'https://hh.ru/resume/169f426f00022ea17e0039ed1f564273684a4a')
 ,('Work experience 6 years','Male','Moscow','IOS разработчик',NULL,'https://hh.ru/resume/16a00f4e0003c1bdfb0039ed1f463463723831')
@@ -538,7 +538,7 @@ INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary
 ,('Опыт работы 3 года 9 месяцев','Мужчина','Москва','Business Intelligence analyst',NULL,'https://hh.ru/resume/16cacd560007d92f850039ed1f564f52456249')
 ,('Опыт работы 3 года 4 месяца','Мужчина','Санкт-Петербург','Контент-менеджер','30 000 руб.','https://hh.ru/resume/16e66a86000252d9f50039ed1f7035766c5078')
 ;
-INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES
+INSERT INTO hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES 
 ('Опыт работы 23 года 9 месяцев','Мужчина','Москва','Разработка программного обеспечения',NULL,'https://hh.ru/resume/1703f9570000a608990039ed1f736563726574')
 ,('Опыт работы 5 лет 1 месяц','Мужчина','Москва','Методист, преподаватель математики и информатики',NULL,'https://hh.ru/resume/170453040003421d070039ed1f4249376f6e47')
 ,('Опыт работы 9 месяцев','Мужчина','Москва','Frontend-разработчик',NULL,'https://hh.ru/resume/170686110007fb9ee30039ed1f4f784449646b')
@@ -550,7 +550,7 @@ INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary
 ,('Work experience 11 years 11 months','Female','Moscow','Business analyst',NULL,'https://hh.ru/resume/176fc4db000349e1390039ed1f776b65666658')
 ,('Опыт работы 11 месяцев','Мужчина','Москва','Java-разработчик',NULL,'https://hh.ru/resume/177d010000053de7780039ed1f737a73794f4f')
 ;
-INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES
+INSERT INTO hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES 
 ('Опыт работы 6 месяцев','Мужчина','Москва','Программист-разработчик',NULL,'https://hh.ru/resume/1791da3c00069d2a8d0039ed1f5739525a5764')
 ,('Опыт работы 8 лет 8 месяцев','Мужчина','Москва','Golang developer',NULL,'https://hh.ru/resume/17a043cb0004f353c80039ed1f414e56344448')
 ,('Опыт работы 15 лет 4 месяца','Мужчина','Москва','Руководитель ИТ-направления',NULL,'https://hh.ru/resume/17a2857c00070fce1d0039ed1f565054685454')
@@ -562,7 +562,7 @@ INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary
 ,('Work experience 1 year 1 month','Male','Astrakhan','Инженер','90 000 RUB','https://hh.ru/resume/17cccd3f0007287a7a0039ed1f634a57346a4a')
 ,('Опыт работы 9 лет 1 месяц','Мужчина','Москва','Руководитель ИТ-проектов','200 000 руб.','https://hh.ru/resume/17e9d4590006530edd0039ed1f506c456e6365')
 ;
-INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES
+INSERT INTO hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES 
 ('Ключевые навыки','Мужчина','Москва','Программист',NULL,'https://hh.ru/resume/17eae9b600030ca97a0039ed1f716c564e4955')
 ,('Опыт работы 5 месяцев','Мужчина','Пермь','Junior Data Scientist','10 000 руб.','https://hh.ru/resume/17f32f8e00081199bf0039ed1f505047473251')
 ,('Опыт работы 17 лет 9 месяцев','Мужчина','Москва','руководитель группы или проекта / системный архитектор',NULL,'https://hh.ru/resume/180ec7a400030a5de90039ed1f78554a454d53')
@@ -574,7 +574,7 @@ INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary
 ,('Опыт работы 20 лет 4 месяца','Мужчина','Москва','Начальник отдела автоматизации / Заместитель / Главный специалист','180 000 руб.','https://hh.ru/resume/182d8d0d00030f59eb0039ed1f73644d516141')
 ,('Опыт работы 6 лет 2 месяца','Мужчина','Воронеж','Администратор сайта, СЕО оптимизатор,Контент-менеджер, Web-дизайнер','30 000 руб.','https://hh.ru/resume/183a4759000321171c0039ed1f52486639575a')
 ;
-INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES
+INSERT INTO hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES 
 ('Опыт работы 7 лет 2 месяца','Мужчина','Москва','Математик, алгоритмист, специалист по компьютерной графике',NULL,'https://hh.ru/resume/185e3ab30000e3ad4c0039ed1f564e6569346c')
 ,('Опыт работы 7 лет 1 месяц','Мужчина','Москва','Программист-разработчик','50 000 руб.','https://hh.ru/resume/1899723d0003669d4a0039ed1f5357456a6155')
 ,('Опыт работы 2 года 1 месяц','Мужчина','Москва','Инженер компьютерных систем и сетей','40 000 руб.','https://hh.ru/resume/18bbe3ff00075066200039ed1f576e64785636')
@@ -586,7 +586,7 @@ INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary
 ,('Опыт работы 4 года 3 месяца','Мужчина','Екатеринбург','Программист Unreal Engine 4/C++',NULL,'https://hh.ru/resume/190a7b720007d1a4b70039ed1f3353554b6d54')
 ,('Опыт работы 18 лет 10 месяцев','Мужчина','Москва','Руководитель IT',NULL,'https://hh.ru/resume/190c9594000164671e0039ed1f487531506667')
 ;
-INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES
+INSERT INTO hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES 
 ('Опыт работы 5 лет 7 месяцев','Мужчина','Москва','Менеджер геймдева','50 000 руб.','https://hh.ru/resume/191e9d7400024f5f770039ed1f786d65706e61')
 ,('Опыт работы 7 месяцев','Мужчина','Москва','IT Consultant','30 000 руб.','https://hh.ru/resume/1921e2e60003676f100039ed1f786f75353147')
 ,('Опыт работы 22 года 6 месяцев','Мужчина','Москва','Архитектор','80 000 руб.','https://hh.ru/resume/193bc3dc00006cc3770039ed1f736563726574')
@@ -598,7 +598,7 @@ INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary
 ,('Опыт работы 5 лет 9 месяцев','Мужчина','Москва','Руководитель отдела / Team Lead',NULL,'https://hh.ru/resume/19928ab1000215457e0039ed1f755077423631')
 ,('Опыт работы 10 лет 10 месяцев','Мужчина','Москва','CTO',NULL,'https://hh.ru/resume/19a17753000445ddff0039ed1f4b75646e5973')
 ;
-INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES
+INSERT INTO hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES 
 ('Опыт работы 6 месяцев','Мужчина','Москва','Java-разработчик','30 000 руб.','https://hh.ru/resume/19a631c4000588a39c0039ed1f7159636a5477')
 ,('Work experience 5 years 6 months','Male','Moscow','Junior Frontend Developer','80 000 RUB','https://hh.ru/resume/19ae920a0003ba735e0039ed1f764448493756')
 ,('Опыт работы 5 месяцев','Мужчина','Москва','специалист',NULL,'https://hh.ru/resume/19afe72f0007b0006a0039ed1f515852586c74')
@@ -610,7 +610,7 @@ INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary
 ,('Work experience 23 years 1 month','Male','Saint Petersburg','Lead or Senior QA Engineer','198 000 RUB','https://hh.ru/resume/1a20c357000095ea770039ed1f736563726574')
 ,('Опыт работы 3 года 9 месяцев','Мужчина','Москва','Java EE Developer',NULL,'https://hh.ru/resume/1a247265000333773e0039ed1f644557707a65')
 ;
-INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES
+INSERT INTO hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES 
 ('Опыт работы 34 года 8 месяцев','Мужчина','Вологда','Главный архитектор проекта','40 000 руб.','https://hh.ru/resume/1a3f80af0000f53e990039ed1f4e64454e7243')
 ,('Опыт работы 17 лет 1 месяц','Мужчина','Москва','Директор по ИТ / Технический директор / Руководитель разработки',NULL,'https://hh.ru/resume/1a49b90800057281c50039ed1f5554464e5552')
 ,('Опыт работы 7 лет 7 месяцев','Мужчина','Москва','Frontend разработчик (JS)',NULL,'https://hh.ru/resume/1a4ea5660001de9a8a0039ed1f7255334b5372')
@@ -622,7 +622,7 @@ INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary
 ,('Опыт работы 3 года 6 месяцев','Мужчина','Казань','IT-специалист','31 500 руб.','https://hh.ru/resume/1a8ea3bf0001e4591d0039ed1f487735566b39')
 ,('Опыт работы 20 лет 9 месяцев','Мужчина','Москва','Руководитель отдела ИТ',NULL,'https://hh.ru/resume/1aa3e84e0003adbab60039ed1f564c57453235')
 ;
-INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES
+INSERT INTO hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES 
 ('Обо мне','Мужчина','Москва','Стажер',NULL,'https://hh.ru/resume/1aff44d70005cc159c0039ed1f775566344377')
 ,('Опыт работы 16 лет 9 месяцев','Мужчина','Москва','Специалист по технической поддержке','110 000 руб.','https://hh.ru/resume/1b0056b100023ecb560039ed1f563351757765')
 ,('Опыт работы 6 лет 9 месяцев','Мужчина','Москва','Android разработчик',NULL,'https://hh.ru/resume/1b142be300057b412d0039ed1f5754614e4361')
@@ -634,7 +634,7 @@ INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary
 ,('Опыт работы 6 лет 7 месяцев','Женщина','Москва','Помощник инженера по тестированию','40 000 руб.','https://hh.ru/resume/1b3f0135000553d07f0039ed1f7a6a6f303679')
 ,('Опыт работы 1 год 8 месяцев','Мужчина','Москва','Junior Java Developer','40 000 руб.','https://hh.ru/resume/1b519e400006c805580039ed1f7635795a6c59')
 ;
-INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES
+INSERT INTO hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES 
 ('Опыт работы 1 год 6 месяцев','Мужчина','Москва','Инженер программист ,Java ,Python , C++, Oracle','120 000 руб.','https://hh.ru/resume/1b5cfbe80008197a490039ed1f63727263514c')
 ,('Опыт работы 22 года 9 месяцев','Мужчина','Москва','Программист','80 000 руб.','https://hh.ru/resume/1b64560f0004ec0d390039ed1f70714f7a3930')
 ,('Опыт работы 4 года 8 месяцев','Мужчина','Москва','3D artist',NULL,'https://hh.ru/resume/1b6b1aa8000735f33a0039ed1f477a6c733232')
@@ -646,7 +646,7 @@ INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary
 ,('Work experience 2 years 9 months','Male','Moscow','Master in Computer Engineering and systems technology/(Expat)',NULL,'https://hh.ru/resume/1b9ff64200056c3b400039ed1f415447556771')
 ,('Опыт работы 12 лет 1 месяц','Мужчина','Москва','Инженер-программист/Software engineer',NULL,'https://hh.ru/resume/1ba2629c000025bcee0039ed1f736563726574')
 ;
-INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES
+INSERT INTO hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES 
 ('Опыт работы 5 лет 6 месяцев','Мужчина','Москва','Head of Mobile Development / iOS Team Lead','8 000 USD','https://hh.ru/resume/1bb40b780002c523cc0039ed1f714d6a454443')
 ,('Опыт работы 3 месяца','Мужчина','Москва','Программист Java',NULL,'https://hh.ru/resume/1bd1c6ec00031664660039ed1f414a656f6530')
 ,('Key skills','Female','Moscow','Программист-стажер',NULL,'https://hh.ru/resume/1bd762a400082197b30039ed1f696d734d5a42')
@@ -658,7 +658,7 @@ INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary
 ,('Опыт работы 8 лет 4 месяца','Мужчина','Москва','Java developer',NULL,'https://hh.ru/resume/1c2f905a0008335e140039ed1f724e516a4d53')
 ,('Опыт работы 2 года 9 месяцев','Мужчина','Москва','Junior разработчик','55 000 руб.','https://hh.ru/resume/1c459eb4000846f74d0039ed1f486238597238')
 ;
-INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES
+INSERT INTO hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES 
 ('Опыт работы 2 года 9 месяцев','Мужчина','Москва','Developer C#',NULL,'https://hh.ru/resume/1c66c4b4000845b3b60039ed1f6a4e58483536')
 ,('Опыт работы 3 года 1 месяц','Мужчина','Москва','Junior Developer','20 000 руб.','https://hh.ru/resume/1c76fe740007b099910039ed1f674633543246')
 ,('Опыт работы 8 лет 10 месяцев','Мужчина','Москва','Senior PHP full-stack developer','240 000 руб.','https://hh.ru/resume/1c7f666c0007ab881f0039ed1f794a52796a4b')
@@ -670,7 +670,7 @@ INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary
 ,('Опыт работы 9 лет 10 месяцев','Мужчина','Москва','Системный администратор','60 000 руб.','https://hh.ru/resume/1cd6291300027108f30039ed1f756248425976')
 ,('Опыт работы 9 лет 4 месяца','Мужчина','Москва','Инженер-программист','70 000 руб.','https://hh.ru/resume/1cef3ea9000288a4dc0039ed1f477165504a53')
 ;
-INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES
+INSERT INTO hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES 
 ('Опыт работы 4 года 1 месяц','Мужчина','Москва','IT-специалист','60 000 руб.','https://hh.ru/resume/1cef47b70003b94a7e0039ed1f4678694f4a75')
 ,('Опыт работы 19 лет 5 месяцев','Мужчина','Калуга','Программист 1C','70 000 руб.','https://hh.ru/resume/1d01592c0005d5cc160039ed1f373041514c7a')
 ,('Опыт работы 10 лет','Женщина','Москва','Главный бухгалтер/Бухгалтер (совместительство/удаленная работа)',NULL,'https://hh.ru/resume/1d07cf5b00016131730039ed1f49777a593659')
@@ -682,7 +682,7 @@ INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary
 ,('Опыт работы 14 лет 3 месяца','Мужчина','Москва','Интернет-маркетолог','30 000 руб.','https://hh.ru/resume/1d29eb8d0007e7bd090039ed1f4a5a527a757a')
 ,('Опыт вождения','Мужчина','Москва','Офис-менеджер','50 000 руб.','https://hh.ru/resume/1d30f58e00059648410039ed1f756554723141')
 ;
-INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES
+INSERT INTO hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES 
 ('Опыт работы 39 лет 6 месяцев','Мужчина','Москва','Аналитик, архитектор, постановщик задач, ведущий разработчик, программист (Java, Delphi, SQL)','130 000 руб.','https://hh.ru/resume/1d44a33800005770300039ed1f736563726574')
 ,('Опыт работы 5 лет 1 месяц','Мужчина','Санкт-Петербург','Менеджер проектов / гейм-дизайнер','85 000 руб.','https://hh.ru/resume/1d49f294000294c2f40039ed1f30364f6d564e')
 ,('Опыт работы 23 года 1 месяц','Мужчина','Москва','Программист C++, C#',NULL,'https://hh.ru/resume/1d546b5d00023e94440039ed1f4e49434c795a')
@@ -694,7 +694,7 @@ INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary
 ,('Опыт работы 19 лет 9 месяцев','Мужчина','Москва','Ведущий веб разработчик',NULL,'https://hh.ru/resume/1d89791400027e24b40039ed1f4c354d467146')
 ,('Ключевые навыки','Женщина','Москва','Стажер',NULL,'https://hh.ru/resume/1da0406700033db4580039ed1f753770335555')
 ;
-INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES
+INSERT INTO hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES 
 ('Опыт работы 3 года 1 месяц','Мужчина','Москва','Специалист фрод-мониторинга','65 000 руб.','https://hh.ru/resume/1da7ac2d0005d24e830039ed1f7850386e6931')
 ,('Опыт работы 8 лет 2 месяца','Мужчина','Мытищи','Инженер-монтажник','70 000 руб.','https://hh.ru/resume/1db1ba4900026b521d0039ed1f674247753657')
 ,('Ключевые навыки','Мужчина','Москва','Стажер программист','20 000 руб.','https://hh.ru/resume/1dc143130007fbdffe0039ed1f553938615a41')
@@ -706,7 +706,7 @@ INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary
 ,('Опыт работы 3 года 10 месяцев','Мужчина','Москва','Тестировщик ПО',NULL,'https://hh.ru/resume/1e0f44b600059e29450039ed1f585a6e694f7a')
 ,('Опыт работы 1 год 11 месяцев','Мужчина','Москва','Junior Frontend Developer (React)',NULL,'https://hh.ru/resume/1e1caf3100071b1a160039ed1f36317147476d')
 ;
-INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES
+INSERT INTO hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES 
 ('Опыт работы 8 лет 2 месяца','Женщина','Москва','JavaScript разработчик',NULL,'https://hh.ru/resume/1e1d1bd60007ac655f0039ed1f6265774f6a57')
 ,('Опыт работы 3 года 10 месяцев','Мужчина','Москва','Стажер Java-разработчик','60 000 руб.','https://hh.ru/resume/1e22ec2100084984360039ed1f636251666265')
 ,('Опыт работы 9 месяцев','Мужчина','Москва','Программист',NULL,'https://hh.ru/resume/1e345f5500081f7f910039ed1f4235656d5032')
@@ -718,7 +718,7 @@ INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary
 ,('Опыт работы 2 года 1 месяц','Мужчина','Нижний Новгород','C++ Developer','1 501 USD','https://hh.ru/resume/1e630346000728d6580039ed1f72444f42694c')
 ,('Опыт работы 32 года 2 месяца','Мужчина','Москва','Руководитель проектов IT','300 000 руб.','https://hh.ru/resume/1e7eb68600032b98c80039ed1f6b3446423377')
 ;
-INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES
+INSERT INTO hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES 
 ('Опыт работы 12 лет 3 месяца','Женщина','Москва','Тестировщик по',NULL,'https://hh.ru/resume/1e86e98e00012b49580039ed1f7a726c6f4733')
 ,('Опыт работы 22 года 9 месяцев','Мужчина','Москва','Директор IT, Начальник отдела IT',NULL,'https://hh.ru/resume/1e9ad17000002b85b70039ed1f736563726574')
 ,('Опыт работы 5 лет 1 месяц','Женщина','Москва','Scala-разработчик',NULL,'https://hh.ru/resume/1e9d3b8100071900980039ed1f4e42426c6f69')
@@ -730,7 +730,7 @@ INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary
 ,('Опыт работы 1 год 8 месяцев','Мужчина','Краснодар','Java/Android-разработчик','40 000 руб.','https://hh.ru/resume/1f26fee0000802a60d0039ed1f797a4864476d')
 ,('Опыт работы 1 год 10 месяцев','Мужчина','Москва','IOS разработчик',NULL,'https://hh.ru/resume/1f2b95390008217adc0039ed1f307a336b7647')
 ;
-INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES
+INSERT INTO hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES 
 ('Опыт работы 15 лет 1 месяц','Мужчина','Москва','Технический директор/CTO/Руководитель разработки',NULL,'https://hh.ru/resume/1f3d52ff0000c14b890039ed1f444c76633774')
 ,('Опыт работы 14 лет 3 месяца','Мужчина','Москва','Менеджер по рекламе и маркетингу','100 000 руб.','https://hh.ru/resume/1f4334fc00073f3bfc0039ed1f315a464a456c')
 ,('Опыт работы 10 лет','Мужчина','Москва','Ведущий программист','100 000 руб.','https://hh.ru/resume/1f50481600004d17700039ed1f736563726574')
@@ -742,7 +742,7 @@ INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary
 ,('Опыт работы 2 года 10 месяцев','Мужчина','Москва','Мобильный разработчик',NULL,'https://hh.ru/resume/2023aa2100021ec1820039ed1f6462674d6341')
 ,('Ключевые навыки','Мужчина','Москва','Junior C# программист','50 000 руб.','https://hh.ru/resume/2030cebe00084b948b0039ed1f6d3858616272')
 ;
-INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES
+INSERT INTO hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES 
 ('Опыт работы 6 лет 7 месяцев','Женщина','Москва','Инженер по тестированию','100 000 руб.','https://hh.ru/resume/203d045300020ad20c0039ed1f564c414f626a')
 ,('Work experience 20 years 9 months','Male','Moscow','Dynamics NAV expert / Dynamics 365 Business Central AL / Dynamics 365 for Sales',NULL,'https://hh.ru/resume/2050ca8b000588d3f10039ed1f717952413764')
 ,('Work experience 16 years 9 months','Male','Moscow','Manager, Solutions Architect, Software Engineer (Contractor, Remote)',NULL,'https://hh.ru/resume/2070a185000639149d0039ed1f526273526f57')
@@ -754,7 +754,7 @@ INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary
 ,('Опыт работы 5 лет 4 месяца','Мужчина','Москва','QA/Тестировщик',NULL,'https://hh.ru/resume/20ac7cc500083c57060039ed1f666479767746')
 ,('Опыт работы 1 год 10 месяцев','Женщина','Москва','Начинающий специалист','50 000 руб.','https://hh.ru/resume/20b7ca8e00063f73b30039ed1f414a4e474266')
 ;
-INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES
+INSERT INTO hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES 
 ('Опыт работы 3 года 9 месяцев','Женщина','Москва','Product manager / project manager',NULL,'https://hh.ru/resume/20b9995200064533810039ed1f52344d4e4449')
 ,('Ключевые навыки','Мужчина','Москва','Java-разработчик (Junior/Стажер)',NULL,'https://hh.ru/resume/20d51ffd0007f282920039ed1f594145434456')
 ,('Work experience 10 years 8 months','Male','Moscow','IT project manager',NULL,'https://hh.ru/resume/20deb7db0007e578e30039ed1f3652617a5445')
@@ -766,7 +766,7 @@ INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary
 ,('Опыт работы 1 год 5 месяцев','Мужчина','Жуковский','Программист',NULL,'https://hh.ru/resume/2105631900052168e70039ed1f343356574443')
 ,('Опыт работы 13 лет 5 месяцев','Мужчина','Москва','Руководитель отдела разработки / Руководитель отдела ИТ / Архитектор 1С','180 000 руб.','https://hh.ru/resume/210ad6b60007c188310039ed1f4d6679797575')
 ;
-INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES
+INSERT INTO hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES 
 ('Опыт работы 6 лет','Мужчина','Нижний Новгород','Инженер-программист','50 000 руб.','https://hh.ru/resume/2124e53a0002dcd9f50039ed1f685a6f756871')
 ,('Ключевые навыки','Мужчина','Москва','Junior Java разработчик',NULL,'https://hh.ru/resume/212b01d000077b66e50039ed1f4d45596e5872')
 ,('Опыт работы 8 лет 3 месяца','Мужчина','Санкт-Петербург','Android developer','50 000 руб.','https://hh.ru/resume/2159bf740008037dbe0039ed1f52454c77766f')
@@ -778,7 +778,7 @@ INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary
 ,('Опыт работы 5 лет 2 месяца','Мужчина','Москва','Node.js разработчик',NULL,'https://hh.ru/resume/2194ad6200022348a20039ed1f614749467366')
 ,('Опыт работы 5 лет','Мужчина','Москва','Менеджер по продуктам и проектам',NULL,'https://hh.ru/resume/2196d79d0001f4150e0039ed1f395575426761')
 ;
-INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES
+INSERT INTO hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES 
 ('Опыт работы 2 года 9 месяцев','Мужчина','Москва','Системный администратор',NULL,'https://hh.ru/resume/21bde175000584f2800039ed1f657a62494746')
 ,('Опыт работы 5 лет 11 месяцев','Мужчина','Москва','Программист Kotlin, Разработчик Android','60 000 руб.','https://hh.ru/resume/21c2a069000456bda00039ed1f476755635173')
 ,('Ключевые навыки','Мужчина','Москва','Программист-стажёр','30 000 руб.','https://hh.ru/resume/21c864db00062603fb0039ed1f39676531624e')
@@ -790,7 +790,7 @@ INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary
 ,('Опыт работы 3 года','Мужчина','Москва','Программист Junior Python/JS Developer/Сис Админ',NULL,'https://hh.ru/resume/2250d41300084654720039ed1f3741334d6c70')
 ,('Опыт работы 10 месяцев','Женщина','Москва','Junior тестировщик',NULL,'https://hh.ru/resume/225424f0000736aeb90039ed1f786856694b54')
 ;
-INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES
+INSERT INTO hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES 
 ('Опыт работы 2 года 11 месяцев','Женщина','Москва','Тестировщик ПО','30 000 руб.','https://hh.ru/resume/2267b3e900078e000a0039ed1f66684f753875')
 ,('Опыт работы 6 лет 2 месяца','Мужчина','Минск','Android Developer',NULL,'https://hh.ru/resume/228e5ef200077ed6280039ed1f6c5759766b41')
 ,('Опыт работы 8 лет 5 месяцев','Мужчина','Краснодар','Программист .NET, руководитель проектов, тимлид','150 000 руб.','https://hh.ru/resume/229eae1a00011075340039ed1f455155626f6b')
@@ -802,7 +802,7 @@ INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary
 ,('Опыт работы 8 лет 5 месяцев','Мужчина','Германия','Риск-менеджмент, анализ данных, машинное обучение, алгоритмические решения, повышение эффективности',NULL,'https://hh.ru/resume/22d75fb70002c342130039ed1f373742595057')
 ,('Опыт работы 7 лет 2 месяца','Женщина','Москва','Начинающий специалист',NULL,'https://hh.ru/resume/23138857000769cdcf0039ed1f4d6e48746d45')
 ;
-INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES
+INSERT INTO hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES 
 ('Опыт работы 7 лет 7 месяцев','Мужчина','Москва','QA Engineer',NULL,'https://hh.ru/resume/23164072000308bf190039ed1f4b5849626837')
 ,('Опыт работы 11 лет 6 месяцев','Мужчина','Санкт-Петербург','Android developer','80 000 руб.','https://hh.ru/resume/231eab7000017013a40039ed1f664363514663')
 ,('Опыт работы 4 года 10 месяцев','Мужчина','Москва','Game designer / Гейм-дизайнер',NULL,'https://hh.ru/resume/23235d31000394caea0039ed1f4373497a4e39')
@@ -814,7 +814,7 @@ INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary
 ,('Опыт работы 19 лет 10 месяцев','Мужчина','Москва','Front-end разработчик JavaScript (React)','125 000 руб.','https://hh.ru/resume/2368ef7a00001394560039ed1f736563726574')
 ,('Опыт работы 5 лет 8 месяцев','Мужчина','Омск','Computer Vision Engineer',NULL,'https://hh.ru/resume/236c561100071948d70039ed1f4f5238307a48')
 ;
-INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES
+INSERT INTO hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES 
 ('Опыт работы 10 месяцев','Мужчина','Москва','Инженер',NULL,'https://hh.ru/resume/237bec00000848bfb40039ed1f4b466f57566d')
 ,('Опыт работы 3 года 2 месяца','Мужчина','Москва','Системный администратор','40 000 руб.','https://hh.ru/resume/239800d900083cb00e0039ed1f444d4d6c4a45')
 ,('Ключевые навыки','Мужчина','Москва','Java-разработчик',NULL,'https://hh.ru/resume/239925be0005e66d5b0039ed1f6b7538544570')
@@ -826,7 +826,7 @@ INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary
 ,('Ключевые навыки','Мужчина','Самара','Junior Frontend Developer','40 000 руб.','https://hh.ru/resume/23d45dd30007825c020039ed1f796a466c716a')
 ,('Опыт работы 6 лет 8 месяцев','Мужчина','Омск','Системный администратор','50 000 руб.','https://hh.ru/resume/23d57e420002850fdd0039ed1f543144576745')
 ;
-INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES
+INSERT INTO hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES 
 ('Опыт работы 1 год 4 месяца','Мужчина','Москва','Программист-разработчик',NULL,'https://hh.ru/resume/23d78750000823cc340039ed1f6166644e4847')
 ,('Опыт работы 19 лет 10 месяцев','Мужчина','Москва','Архитектор, Team\Tech Lead',NULL,'https://hh.ru/resume/23da34e500011341a60039ed1f6f456f445479')
 ,('Опыт работы 11 лет','Мужчина','Москва','Junior Java developer, Junior Python developer, Junior Data Science (Analyst)',NULL,'https://hh.ru/resume/23e198c100073ff02b0039ed1f656e7356794d')
@@ -838,7 +838,7 @@ INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary
 ,('Опыт работы 3 месяца','Мужчина','Москва','Младший Java разработчик',NULL,'https://hh.ru/resume/24304f45000325f4700039ed1f695558464568')
 ,('Опыт работы 6 месяцев','Мужчина','Москва','Junior Android Developer',NULL,'https://hh.ru/resume/24393c9f00084aa3850039ed1f51344475776b')
 ;
-INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES
+INSERT INTO hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES 
 ('Опыт работы 24 года 5 месяцев','Мужчина','Москва','ИТ менеджер (Head of ITO)/ ИТ директор (CIO)',NULL,'https://hh.ru/resume/243fad170007ce1d9b0039ed1f433661646e49')
 ,('Опыт работы 2 года 1 месяц','Мужчина','Москва','Trainee programmer',NULL,'https://hh.ru/resume/246619040005cbd8190039ed1f4157416d7352')
 ,('Опыт работы 4 года 1 месяц','Мужчина','Минск','Инженер-программист, программист',NULL,'https://hh.ru/resume/247da11f0003994b5d0039ed1f396444776b50')
@@ -850,7 +850,7 @@ INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary
 ,('Опыт работы 23 года 2 месяца','Мужчина','Тосно','Программист 1C','105 600 руб.','https://hh.ru/resume/24f1f773000784d8f80039ed1f366566714a53')
 ,('Ключевые навыки','Мужчина','Москва','Начинающий специалист в сфере IT.','40 000 руб.','https://hh.ru/resume/24f82e8000080d10090039ed1f3369484f5333')
 ;
-INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES
+INSERT INTO hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES 
 ('Work experience 2 years 5 months','Female','Saint Petersburg','Software Engineer (BSS)',NULL,'https://hh.ru/resume/24f997ab00071ff0780039ed1f737245316574')
 ,('Work experience 15 years 6 months','Male','Moscow','QA Automation, Database Developer/Administrator',NULL,'https://hh.ru/resume/2510ea6900073181e20039ed1f303866534862')
 ,('Опыт работы 3 года 1 месяц','Мужчина','Москва','Специалист по информационной безопасности / Системный администратор','60 000 руб.','https://hh.ru/resume/2520415400052e3ca00039ed1f54676277686a')
@@ -862,7 +862,7 @@ INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary
 ,('Опыт работы 7 лет 5 месяцев','Мужчина','Москва','Ява-программист','195 000 руб.','https://hh.ru/resume/2597e4f100075f28ab0039ed1f7243654a5a75')
 ,('Опыт работы 2 месяца','Мужчина','Москва','Product manager',NULL,'https://hh.ru/resume/25a628a80003a152ef0039ed1f6357456f6541')
 ;
-INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES
+INSERT INTO hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES 
 ('Опыт работы 5 лет 4 месяца','Женщина','Москва','Web-дизайнер',NULL,'https://hh.ru/resume/25bb4cb30002f66aed0039ed1f553555383965')
 ,('Опыт работы 17 лет 6 месяцев','Мужчина','Москва','Java-программист',NULL,'https://hh.ru/resume/25cacc8e000770f5170039ed1f307169745a48')
 ,('Опыт работы 4 года 10 месяцев','Мужчина','Москва','Java-программист','50 000 руб.','https://hh.ru/resume/25d47eda000823abe80039ed1f646756514456')
@@ -874,7 +874,7 @@ INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary
 ,('Опыт работы 13 лет 10 месяцев','Мужчина','Москва','Системный аналитик',NULL,'https://hh.ru/resume/2633ea810004d90b6c0039ed1f347337635770')
 ,('Опыт работы 4 месяца','Мужчина','Москва','Junior Java Developer','40 000 руб.','https://hh.ru/resume/263bbae200073f00290039ed1f383579557459')
 ;
-INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES
+INSERT INTO hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES 
 ('Ключевые навыки','Женщина','Москва','Программист-стажер',NULL,'https://hh.ru/resume/2640744c0007667a350039ed1f39574d756d4b')
 ,('Опыт работы 4 года 1 месяц','Мужчина','Москва','HTML-верстальщик, Frontend-разработчик',NULL,'https://hh.ru/resume/2643c4740006ee69750039ed1f4f6e4e587a64')
 ,('Опыт работы 3 года 9 месяцев','Мужчина','Москва','Junior Java Developer',NULL,'https://hh.ru/resume/2651c84e00054bbbf00039ed1f636141467433')
@@ -886,7 +886,7 @@ INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary
 ,('Опыт работы 8 лет 2 месяца','Мужчина','Москва','Программист 1С, Индивидуальный предприниматель',NULL,'https://hh.ru/resume/26d1b20e00075d54dd0039ed1f6a7471637a52')
 ,('Опыт работы 6 лет 9 месяцев','Мужчина','Москва','Специалист IT отдела','60 000 руб.','https://hh.ru/resume/26f663780002c3d43d0039ed1f697751435563')
 ;
-INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES
+INSERT INTO hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES 
 ('Опыт работы 14 лет 8 месяцев','Мужчина','Москва','Senior PHP программист (удаленная работа)','200 000 руб.','https://hh.ru/resume/270017b30001c8223a0039ed1f6c716f48586f')
 ,('Опыт работы 1 год 2 месяца','Мужчина','Москва','JS developer (Angular, AngularJS)','60 000 руб.','https://hh.ru/resume/27120a2d0006dd0ccf0039ed1f64716b54724e')
 ,('Опыт работы 24 года 10 месяцев','Мужчина','Германия','Руководитель группы/Начальник отдела/Архитектор ПО','400 000 руб.','https://hh.ru/resume/271dae370000002c250039ed1f736563726574')
@@ -898,7 +898,7 @@ INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary
 ,('Work experience 11 years 1 month','Male','Moscow','QA-Developer\ Developer in test',NULL,'https://hh.ru/resume/275922500003af4ff00039ed1f43325273494f')
 ,('Опыт работы 26 лет 5 месяцев','Мужчина','Москва','CEO, Руководитель IT, CTO, Системный архитектор, Team leader;','300 000 руб.','https://hh.ru/resume/27609cbf00004af4c20039ed1f736563726574')
 ;
-INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES
+INSERT INTO hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES 
 ('Опыт работы 6 лет 2 месяца','Мужчина','Темрюк','Инженер, Техник, Грузчик','30 000 руб.','https://hh.ru/resume/2764f9cb0007ce75e50039ed1f5a3869343934')
 ,('Опыт работы 13 лет 2 месяца','Мужчина','Москва','Менеджер по закупкам и продажам, Вентиляции, Сантехники, Программист,','80 000 руб.','https://hh.ru/resume/276db5fd000318a6030039ed1f70484761544a')
 ,('Опыт работы 2 года 3 месяца','Мужчина','Москва','Java Developer',NULL,'https://hh.ru/resume/2773f82e00053eb8070039ed1f446b4b467933')
@@ -910,7 +910,7 @@ INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary
 ,('Опыт работы 3 года 10 месяцев','Мужчина','Москва','Программист- Переводчик',NULL,'https://hh.ru/resume/279281c700044a16a30039ed1f38484b4c4857')
 ,('Work experience 19 years 5 months','Male','Moscow','C++ developer',NULL,'https://hh.ru/resume/27a465180003e34cf50039ed1f4f34524e6b4b')
 ;
-INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES
+INSERT INTO hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES 
 ('Work experience 13 years','Male','Moscow','Senior Machine & Deep Learning Engineer / Research Developer','5 000 USD','https://hh.ru/resume/27a616ea0002939eb80039ed1f626d52657975')
 ,('Опыт работы 10 лет 2 месяца','Мужчина','Москва','Инженер-системотехник','1 000 USD','https://hh.ru/resume/27a6639a0002a8e1580039ed1f744a66434451')
 ,('Опыт работы 2 года 6 месяцев','Мужчина','Москва','Бизнес-аналитик','55 000 руб.','https://hh.ru/resume/27a8dfff00068a390d0039ed1f50696f45514e')
@@ -922,7 +922,7 @@ INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary
 ,('Ключевые навыки','Мужчина','Москва','Java intern/junior',NULL,'https://hh.ru/resume/27cb406500081222030039ed1f635a73345150')
 ,('Опыт работы 2 года 7 месяцев','Мужчина','Новочебоксарск','Специалист',NULL,'https://hh.ru/resume/27d937100007b25ec90039ed1f77386f364f56')
 ;
-INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES
+INSERT INTO hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES 
 ('Опыт работы 4 года 10 месяцев','Мужчина','Москва','Head of Product/CPO/PM',NULL,'https://hh.ru/resume/27f546ce00084fc2db0039ed1f395a7135705a')
 ,('Work experience 6 years 9 months','Male','Moscow','Senior Software Engineer',NULL,'https://hh.ru/resume/2836e50c0001b5387e0039ed1f6b6e6e6a6458')
 ,('Ключевые навыки','Мужчина','Москва','Начинающий специалист',NULL,'https://hh.ru/resume/28377367000775e5790039ed1f584e504e7959')
@@ -934,7 +934,7 @@ INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary
 ,('Опыт работы 3 года 4 месяца','Мужчина','Москва','Java-разработчик','30 000 руб.','https://hh.ru/resume/2871742e00084f50870039ed1f647450623151')
 ,('Опыт работы 3 года 7 месяцев','Мужчина','Москва','Fullstack разработчик, Java/Vue.js','130 000 руб.','https://hh.ru/resume/2885b3fa0007d4e83d0039ed1f4e31506a3636')
 ;
-INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES
+INSERT INTO hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES 
 ('Work experience 17 years 3 months','Male','Moscow','System analyst, Senior system analyst, PM',NULL,'https://hh.ru/resume/289fa7f500008184f50039ed1f736563726574')
 ,('Ключевые навыки','Мужчина','Москва','Стажер-программист',NULL,'https://hh.ru/resume/28b1cd7900066a02110039ed1f4d77576b4361')
 ,('Опыт работы 17 лет 1 месяц','Женщина','Москва','Управляющий менеджер /Руководитель проектов/Project manager /Руководитель направления/Методолог','180 000 руб.','https://hh.ru/resume/28cd582200075fa2ba0039ed1f5835396c3342')
@@ -946,7 +946,7 @@ INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary
 ,('Опыт работы 3 года 9 месяцев','Мужчина','Москва','Java-разработчик',NULL,'https://hh.ru/resume/290baf2e0007da68030039ed1f61476466676a')
 ,('Опыт работы 5 лет 6 месяцев','Мужчина','Москва','Python Developer','400 000 руб.','https://hh.ru/resume/2911cc9900057484ec0039ed1f5573475a646d')
 ;
-INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES
+INSERT INTO hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES 
 ('Опыт работы 14 лет 7 месяцев','Мужчина','Новосибирск','CTO / Архитектор IT',NULL,'https://hh.ru/resume/2918117b0007d7147e0039ed1f396d587a7044')
 ,('Work experience 17 years 11 months','Male','Moscow','IT manager & Tech Executive',NULL,'https://hh.ru/resume/292841280007d196310039ed1f684c4c324937')
 ,('Опыт работы 8 лет 11 месяцев','Мужчина','Москва','Инженер',NULL,'https://hh.ru/resume/292b3c2700074edec80039ed1f794835466e4b')
@@ -958,7 +958,7 @@ INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary
 ,('Work experience 14 years 10 months','Male','Moscow','IT Delivery Manager\Director',NULL,'https://hh.ru/resume/296f157c0002d29a750039ed1f36366e6f4437')
 ,('Опыт работы 3 года 10 месяцев','Женщина','Москва','Инженер-конструктор',NULL,'https://hh.ru/resume/29a3f49c00035f22f40039ed1f447479505133')
 ;
-INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES
+INSERT INTO hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES 
 ('Опыт работы 3 месяца','Женщина','Москва','Стажер-разработчик','45 000 руб.','https://hh.ru/resume/29c32b100003e6e4470039ed1f693357544943')
 ,('Опыт работы 10 месяцев','Мужчина','Москва','Младший программист','100 USD','https://hh.ru/resume/29e71de9000551a68a0039ed1f73596b6e6a58')
 ,('Опыт работы 16 лет 9 месяцев','Женщина','Москва','Web-дизайнер','40 000 руб.','https://hh.ru/resume/29fb7b100004e42b380039ed1f51424b6a5864')
@@ -970,7 +970,7 @@ INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary
 ,('Work experience 3 years 7 months','Male','Moscow','Java Developer','100 000 RUB','https://hh.ru/resume/2a4ad0410005a7d26a0039ed1f3458486d5746')
 ,('Work experience 13 years 1 month','Male','Moscow','Sr DevOps Engineer <Remote>','6 500 EUR','https://hh.ru/resume/2a699d020001106a460039ed1f58486272356d')
 ;
-INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES
+INSERT INTO hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES 
 ('Work experience 12 years 2 months','Female','Novosibirsk','Instructional Designer',NULL,'https://hh.ru/resume/2a6c4403000730eb2f0039ed1f657334707357')
 ,('Опыт работы 27 лет 10 месяцев','Мужчина','Москва','Аналитик',NULL,'https://hh.ru/resume/2a6f08bc00083f6de40039ed1f4a7677485349')
 ,('Опыт работы 2 года 1 месяц','Мужчина','Москва','Python developer',NULL,'https://hh.ru/resume/2a77972a00057732ea0039ed1f334f5342524c')
@@ -982,7 +982,7 @@ INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary
 ,('Work experience 10 years 7 months','Male','Moscow','Delivery Manager',NULL,'https://hh.ru/resume/2aaacfa4000173de1d0039ed1f543966306f70')
 ,('Ключевые навыки','Мужчина','Москва','Программист-разработчик',NULL,'https://hh.ru/resume/2aabdb7b0007fcb6510039ed1f37376d35736a')
 ;
-INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES
+INSERT INTO hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES 
 ('Опыт работы 7 лет 5 месяцев','Мужчина','Москва','Системный администратор/тестировщик ПО','85 000 руб.','https://hh.ru/resume/2ab55b630001f1cd810039ed1f68364e673466')
 ,('Опыт работы 14 лет 11 месяцев','Мужчина','Москва','Team lead PHP','200 000 руб.','https://hh.ru/resume/2ac16aab00067bb3880039ed1f38784d586b65')
 ,('Опыт работы 40 лет 11 месяцев','Мужчина','Молдавия','Программист','1 500 EUR','https://hh.ru/resume/2aeeaeff0000332f370039ed1f736563726574')
@@ -994,7 +994,7 @@ INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary
 ,('Опыт работы 3 года 8 месяцев','Мужчина','Москва','Java junior developer',NULL,'https://hh.ru/resume/2b42d4d50003da67560039ed1f484b31423738')
 ,('Опыт работы 1 год 4 месяца','Мужчина','Москва','Специалист по информационной безопасности','60 000 руб.','https://hh.ru/resume/2b4cd10000071db8800039ed1f646e30716f47')
 ;
-INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES
+INSERT INTO hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES 
 ('Опыт работы 5 лет 6 месяцев','Мужчина','Москва','Главный разработчик',NULL,'https://hh.ru/resume/2b58f08f000229a18b0039ed1f693361554257')
 ,('Опыт работы 11 лет','Мужчина','Уфа','Ит специалист',NULL,'https://hh.ru/resume/2b5aa538000498a3800039ed1f494a6d524572')
 ,('Опыт работы 18 лет 1 месяц','Мужчина','Москва','Программист',NULL,'https://hh.ru/resume/2b61830300084c36f80039ed1f6b654f733279')
@@ -1006,7 +1006,7 @@ INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary
 ,('Опыт работы 5 лет 7 месяцев','Мужчина','Казань','Инетернет маркетолог','50 000 руб.','https://hh.ru/resume/2bb6ca8500060306780039ed1f575543664f74')
 ,('Опыт работы 19 лет','Мужчина','Москва','Инженер-программист (Python, PHP, Java, Perl, JavaScript, VueJS), Team Lead, CTO','260 000 руб.','https://hh.ru/resume/2bc4387d00001e50710039ed1f736563726574')
 ;
-INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES
+INSERT INTO hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES 
 ('Опыт работы 7 лет 8 месяцев','Мужчина','Москва','Scrum master / Agile Coach',NULL,'https://hh.ru/resume/2bc8480e00058409e20039ed1f3248446b566c')
 ,('Опыт работы 6 лет 7 месяцев','Мужчина','Краснодар','Системный администратор','100 000 руб.','https://hh.ru/resume/2be0e431000138e6db0039ed1f374f6b5a7051')
 ,('Опыт работы 13 лет 1 месяц','Мужчина','Москва','Начальник ИТ отдела/Специалист отдела информационной безопасности / Администратор ЛВС','180 000 руб.','https://hh.ru/resume/2bef47480007185d6e0039ed1f574561756e71')
@@ -1018,7 +1018,7 @@ INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary
 ,('Опыт работы 15 лет 4 месяца','Мужчина','Москва','IT-разработчик','165 000 руб.','https://hh.ru/resume/2c54ed7b0000cf1a630039ed1f734b6f476439')
 ,('Опыт работы 6 лет 3 месяца','Мужчина','Москва','Программист','60 000 руб.','https://hh.ru/resume/2c6b6e98000816c0a60039ed1f455335777848')
 ;
-INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES
+INSERT INTO hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES 
 ('Опыт работы 18 лет 4 месяца','Мужчина','Москва','Руководитель департамента исследований и научно-технических разработок',NULL,'https://hh.ru/resume/2c716ffe0005f8ec9e0039ed1f4c326d425a7a')
 ,('Опыт работы 2 месяца','Мужчина','Москва','Инженер',NULL,'https://hh.ru/resume/2c7a696e00046ed2340039ed1f746e50583550')
 ,('Опыт работы 3 года','Мужчина','Москва','Junior Java разработчик','100 000 руб.','https://hh.ru/resume/2cb2d88000031f281b0039ed1f5a6b6f4e7353')
@@ -1030,7 +1030,7 @@ INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary
 ,('Опыт работы 5 лет','Мужчина','Москва','Java junior developer',NULL,'https://hh.ru/resume/2cf724cf0007020a240039ed1f77786e514278')
 ,('Work experience 24 years','Male','Moscow','Software developer. Spark/Scala/Hadoop/BigData',NULL,'https://hh.ru/resume/2d2f58ee0001b9cc570039ed1f33535168504b')
 ;
-INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES
+INSERT INTO hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES 
 ('Work experience 21 year 6 months','Male','Moscow','Руководитель направления Digital',NULL,'https://hh.ru/resume/2d3350eb000043c3f80039ed1f736563726574')
 ,('Опыт работы 19 лет 1 месяц','Мужчина','Москва','DevOps Team Lead / Engineer / Software Developer',NULL,'https://hh.ru/resume/2d3f517200001a69df0039ed1f736563726574')
 ,('Опыт работы 7 лет 9 месяцев','Мужчина','Москва','Team-lead веб разработки','220 000 руб.','https://hh.ru/resume/2d409ab50002992c800039ed1f523259586d6e')
@@ -1042,7 +1042,7 @@ INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary
 ,('Опыт работы 7 лет 8 месяцев','Мужчина','Москва','Руководитель проекта','65 000 руб.','https://hh.ru/resume/2d77de2f00026555170039ed1f644b69576738')
 ,('Опыт работы 15 лет 3 месяца','Женщина','Москва','Лидер аджайл-трансформации / Аджайл коуч',NULL,'https://hh.ru/resume/2d795afc00000dc9090039ed1f736563726574')
 ;
-INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES
+INSERT INTO hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES 
 ('Опыт работы 13 лет 1 месяц','Мужчина','Москва','Преподаватель физики, астрономии. Eng','80 000 руб.','https://hh.ru/resume/2d7add52000152317e0039ed1f4b546244556a')
 ,('Work experience 2 years 1 month','Male','Moscow','Android developer','150 000 RUB','https://hh.ru/resume/2d8271ad00075ed1da0039ed1f53744e664969')
 ,('Work experience 2 years 7 months','Male','Moscow','System administrator','1 500 USD','https://hh.ru/resume/2d92ed760005a1bf9d0039ed1f6544354f4665')
@@ -1054,7 +1054,7 @@ INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary
 ,('Ключевые навыки','Мужчина','Москва','Junior Android Developer',NULL,'https://hh.ru/resume/2dd7f2cc00074d393c0039ed1f664c57474e30')
 ,('Опыт работы 12 лет 9 месяцев','Мужчина','Москва','IOS разработчик','160 000 руб.','https://hh.ru/resume/2deed81c000206bdcd0039ed1f6167734a4f62')
 ;
-INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES
+INSERT INTO hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES 
 ('Опыт работы 13 лет 9 месяцев','Мужчина','Жигулевск','Инженер технической поддержки',NULL,'https://hh.ru/resume/2e1571790002d567ad0039ed1f795a65616b36')
 ,('Опыт работы 14 лет 1 месяц','Мужчина','Москва','Руководитель проектного офиса',NULL,'https://hh.ru/resume/2e21e39b0007ed27470039ed1f6c466f336c62')
 ,('Опыт работы 20 лет 5 месяцев','Мужчина','Москва','Ведущий разработчик','149 000 руб.','https://hh.ru/resume/2e29472c000124bccf0039ed1f6f7952453841')
@@ -1066,7 +1066,7 @@ INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary
 ,('Опыт работы 9 лет 8 месяцев','Мужчина','Москва','PHP-программист','140 000 руб.','https://hh.ru/resume/2e72846400011def620039ed1f513239746472')
 ,('Ключевые навыки','Мужчина','Москва','Android-разработчик',NULL,'https://hh.ru/resume/2e78fdae00082ee71c0039ed1f36436c724c42')
 ;
-INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES
+INSERT INTO hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES 
 ('Опыт работы 1 год','Мужчина','Москва','Java Junior Developer','60 000 руб.','https://hh.ru/resume/2e7f27d400084be00d0039ed1f6d7772524b43')
 ,('Ключевые навыки','Мужчина','Москва','Начинающий специалист',NULL,'https://hh.ru/resume/2e883d8000054505580039ed1f755559536975')
 ,('Опыт работы 13 лет 3 месяца','Мужчина','Москва','►Менеджер по закупкам, специалист, юрист -договора, управляющий, менеджер по кадрам',NULL,'https://hh.ru/resume/2e9406eb000361f6180039ed1f4868516d434e')
@@ -1078,7 +1078,7 @@ INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary
 ,('Опыт работы 13 лет 5 месяцев','Женщина','Москва','Менеджер проекта, Project manager','200 000 руб.','https://hh.ru/resume/2ed946ea0007a528ff0039ed1f336854323856')
 ,('Опыт работы 9 лет 1 месяц','Мужчина','Москва','ИТ-директор',NULL,'https://hh.ru/resume/2ee233c500009505f60039ed1f736563726574')
 ;
-INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES
+INSERT INTO hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES 
 ('Опыт работы 10 лет 9 месяцев','Мужчина','Москва','Менеджер по работе с клиентами',NULL,'https://hh.ru/resume/2eefad450001bbd9e30039ed1f6a3769526c61')
 ,('Опыт работы 10 лет 7 месяцев','Мужчина','Москва','Web-разработчик',NULL,'https://hh.ru/resume/2ef70a8a000203162b0039ed1f4f646d76644b')
 ,('Опыт работы 7 лет 4 месяца','Мужчина','Москва','Преподаватель - методист по робототехнике и программированию','110 000 руб.','https://hh.ru/resume/2f021ec40006889a9b0039ed1f615a4869734c')
@@ -1090,7 +1090,7 @@ INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary
 ,('Опыт работы 28 лет 9 месяцев','Мужчина','Москва','ИТ-аналитик / системный аналитик',NULL,'https://hh.ru/resume/2f41918c0002e382370039ed1f685665364262')
 ,('Опыт работы 6 лет 5 месяцев','Мужчина','Москва','Team lead / Lead Developer / .net','300 000 руб.','https://hh.ru/resume/2f42edc70005948cf30039ed1f767033494f31')
 ;
-INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES
+INSERT INTO hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES 
 ('Опыт работы 9 лет 8 месяцев','Мужчина','Бишкек','БА, поддержка BSS, QA, разработка ПО',NULL,'https://hh.ru/resume/2f7266cc00021748270039ed1f714935614249')
 ,('Опыт работы 8 лет 8 месяцев','Женщина','Москва','3D-моделлер/3D визуализатор (стажер)',NULL,'https://hh.ru/resume/2f7805550007fbb7fa0039ed1f37596d4f734c')
 ,('Опыт работы 22 года 2 месяца','Мужчина','Москва','Программист С++','200 000 руб.','https://hh.ru/resume/2f99a2c600011529f30039ed1f374438753770')
@@ -1102,7 +1102,7 @@ INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary
 ,('Опыт работы 15 лет 2 месяца','Мужчина','Москва','Android, iOS разработчик, React, React native','4 000 USD','https://hh.ru/resume/2fb1a0f50005210c5a0039ed1f614e6a685555')
 ,('Опыт работы 4 года 2 месяца','Мужчина','Москва','Торговый представитель','80 000 руб.','https://hh.ru/resume/2fba5c7e00028dc3b00039ed1f546664507042')
 ;
-INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES
+INSERT INTO hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES 
 ('Work experience 14 years 4 months','Male','Moscow','Java/Angular Full stack developer','250 000 RUB','https://hh.ru/resume/2ff091220007b02b340039ed1f487542746f76')
 ,('Опыт работы 2 года 1 месяц','Мужчина','Москва','Go/Ruby/Java Developer',NULL,'https://hh.ru/resume/3000593e000640039f0039ed1f524f51343745')
 ,('Опыт работы 4 года 2 месяца','Мужчина','Алматы','Мастер по ремонту компьютеров','200 000 KZT','https://hh.ru/resume/3023733000056a03170039ed1f48566c4d5a33')
@@ -1114,7 +1114,7 @@ INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary
 ,('Опыт работы 25 лет 3 месяца','Мужчина','Москва','ИТ-директор, Технический директор',NULL,'https://hh.ru/resume/3090d18500001158220039ed1f736563726574')
 ,('Work experience 2 years','Female','Moscow','Software engineer',NULL,'https://hh.ru/resume/3092550d0007bce5f80039ed1f343150674c34')
 ;
-INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES
+INSERT INTO hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES 
 ('Опыт работы 2 года','Мужчина','Москва','Программист',NULL,'https://hh.ru/resume/30b764b30005b82fc50039ed1f6674784a4c6a')
 ,('Опыт работы 11 лет 3 месяца','Мужчина','Москва','консультант',NULL,'https://hh.ru/resume/30bd11f50000774b130039ed1f736563726574')
 ,('Опыт работы 16 лет','Мужчина','Москва','Системный администратор, начальник ИТ отдела','80 000 руб.','https://hh.ru/resume/30bfeb5300022a437b0039ed1f4e69434a4377')
@@ -1126,7 +1126,7 @@ INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary
 ,('Опыт работы 4 года 8 месяцев','Мужчина','Москва','Инженер-радиотехник','70 000 руб.','https://hh.ru/resume/311db88100042b6b7d0039ed1f34736c5a7173')
 ,('Опыт работы 11 лет 9 месяцев','Мужчина','Швеция','Senior Scientist, старший научный сотрудник, преподаватель','2 000 EUR','https://hh.ru/resume/313df76900033404d40039ed1f366474383453')
 ;
-INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES
+INSERT INTO hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES 
 ('Опыт работы 11 лет 4 месяца','Мужчина','Москва','Программист-разработчик',NULL,'https://hh.ru/resume/3149c6e900051b3b170039ed1f785963617636')
 ,('Опыт работы 11 лет 9 месяцев','Мужчина','Москва','Программист','150 000 руб.','https://hh.ru/resume/314b31c700040be97e0039ed1f374853413670')
 ,('Опыт работы 22 года 6 месяцев','Мужчина','Москва','Кемп Менеджер \ Руководитель Проекта - обслуживание удаленных вахтовых поселков',NULL,'https://hh.ru/resume/316320180000368dff0039ed1f736563726574')
@@ -1138,7 +1138,7 @@ INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary
 ,('Work experience 1 year 3 months','Male','Israel','Java developer',NULL,'https://hh.ru/resume/31a96c05000812a3c60039ed1f6a5a55415559')
 ,('Опыт работы 5 лет 2 месяца','Мужчина','Москва','Support specialist',NULL,'https://hh.ru/resume/31bdc72a00084f532c0039ed1f4b30416a7843')
 ;
-INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES
+INSERT INTO hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES 
 ('Опыт работы 8 лет 10 месяцев','Мужчина','Москва','Node.js Backend Developer','140 000 руб.','https://hh.ru/resume/31c158340002ec72050039ed1f55466e39596d')
 ,('Опыт работы 3 года 10 месяцев','Мужчина','Москва','Системный администратор | Специалист поддержки пользователей | Эникейщик',NULL,'https://hh.ru/resume/31cda33f00045838890039ed1f4e3779385571')
 ,('Ключевые навыки','Мужчина','Москва','Java Intern/Стажёр Java','25 000 руб.','https://hh.ru/resume/32081fbb0008172b310039ed1f456c3739496b')
@@ -1150,7 +1150,7 @@ INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary
 ,('Опыт работы 14 лет 5 месяцев','Мужчина','Москва','Менеджер проектов',NULL,'https://hh.ru/resume/321ea52900018551360039ed1f5473586c7339')
 ,('Опыт работы 3 года 11 месяцев','Мужчина','Москва','C++ разработчик','175 000 руб.','https://hh.ru/resume/322118fb00029bca1e0039ed1f594431686e50')
 ;
-INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES
+INSERT INTO hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES 
 ('Опыт работы 9 лет 9 месяцев','Мужчина','Воронеж','Руководитель отдела маркетинга',NULL,'https://hh.ru/resume/32253854000348fd3f0039ed1f766d62304876')
 ,('Ключевые навыки','Мужчина','Москва','Junior Java developer','40 000 руб.','https://hh.ru/resume/322dd0bd00035ecdee0039ed1f3674415a6536')
 ,('Опыт работы 5 лет 7 месяцев','Мужчина','Москва','Backend разработчик (PHP)',NULL,'https://hh.ru/resume/322f10410002d9e9f20039ed1f4d4a39787761')
@@ -1162,7 +1162,7 @@ INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary
 ,('Ключевые навыки','Мужчина','Москва','Программист-стажер',NULL,'https://hh.ru/resume/32935d8e00075a416d0039ed1f75507674724e')
 ,('Опыт работы 8 месяцев','Мужчина','Москва','Специалист по IT',NULL,'https://hh.ru/resume/32b1c3e4000680c8300039ed1f79473766316d')
 ;
-INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES
+INSERT INTO hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES 
 ('Work experience 7 years','Male','Moscow','Software engineer','4 000 EUR','https://hh.ru/resume/32b2dc4f000150221c0039ed1f316139313369')
 ,('Опыт работы 22 года 1 месяц','Мужчина','Москва','Разработчик программного обеспечения',NULL,'https://hh.ru/resume/32c12daa00009541760039ed1f736563726574')
 ,('Опыт работы 12 лет','Мужчина','Москва','Java junior',NULL,'https://hh.ru/resume/32c4f86f000271d8cf0039ed1f5a38734e3550')
@@ -1174,7 +1174,7 @@ INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary
 ,('Опыт работы 8 месяцев','Мужчина','Москва','Программист Java','50 000 руб.','https://hh.ru/resume/331cf2710003245a750039ed1f695977764d43')
 ,('Опыт работы 3 года 7 месяцев','Мужчина','Москва','Специалист тендерного отдела','90 000 руб.','https://hh.ru/resume/332ca4a1000743e8ae0039ed1f484677676148')
 ;
-INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES
+INSERT INTO hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES 
 ('Опыт работы 2 месяца','Женщина','Москва','Программист-стажер',NULL,'https://hh.ru/resume/332e75940007aae43e0039ed1f696433724272')
 ,('Опыт работы 11 месяцев','Мужчина','Нур-Султан','Junior Java Developer','200 000 KZT','https://hh.ru/resume/332ed60600018b4a7d0039ed1f434141444f4d')
 ,('Опыт работы 7 лет 5 месяцев','Мужчина','Москва','Инженер по ремонту и обслуживанию банкоматов, системам видеонаблюдения и сигнализации Специалист ОТК','65 000 руб.','https://hh.ru/resume/3336426900016ac41e0039ed1f6a7844325056')
@@ -1186,7 +1186,7 @@ INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary
 ,('Опыт работы 5 лет 1 месяц','Мужчина','Москва','Инженер','90 000 руб.','https://hh.ru/resume/3385a385000297c9d00039ed1f7155564e766c')
 ,('Опыт работы 9 лет','Мужчина','Москва','Инженер-электронщик','3 000 USD','https://hh.ru/resume/338c03010001da8fcd0039ed1f304545506855')
 ;
-INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES
+INSERT INTO hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES 
 ('Опыт работы 12 лет 4 месяца','Мужчина','Москва','DWH/Hadoop Team Lead','200 000 руб.','https://hh.ru/resume/338cabd400037bd29a0039ed1f4b4e44433253')
 ,('Опыт работы 1 год 1 месяц','Мужчина','Анапа','Программист','20 000 руб.','https://hh.ru/resume/338fd19100078747460039ed1f65557441507a')
 ,('Опыт работы 9 лет 8 месяцев','Мужчина','Москва','System Software Engineer(Embedded Linux)',NULL,'https://hh.ru/resume/3394d5b700078d8c1a0039ed1f746434565866')
@@ -1198,7 +1198,7 @@ INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary
 ,('Опыт работы 8 лет 10 месяцев','Мужчина','Москва','Junior Java Developer/Стажер','40 000 руб.','https://hh.ru/resume/340629b100016d9c810039ed1f30516d736570')
 ,('Опыт работы 6 лет','Мужчина','Москва','Программист-разработчик','30 000 руб.','https://hh.ru/resume/340b2c6d00079b36330039ed1f384c34744878')
 ;
-INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES
+INSERT INTO hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES 
 ('Опыт работы 3 года 2 месяца','Мужчина','Санкт-Петербург','Менеджер проектов','70 000 руб.','https://hh.ru/resume/340e85460008240af00039ed1f716764356e73')
 ,('Опыт работы 4 года 3 месяца','Женщина','Москва','Junior фронтенд-разработчик','40 000 руб.','https://hh.ru/resume/34166fdf00083a02210039ed1f616935526866')
 ,('Опыт работы 18 лет 1 месяц','Мужчина','Москва','Стажер-разработчик Java',NULL,'https://hh.ru/resume/3419269b0007fc35570039ed1f417039656961')
@@ -1210,7 +1210,7 @@ INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary
 ,('Опыт работы 8 лет 2 месяца','Мужчина','Москва','Аналитик',NULL,'https://hh.ru/resume/34896b90000260d6eb0039ed1f487434504b75')
 ,('Опыт работы 2 года 1 месяц','Мужчина','Москва','Junior Java разработчик',NULL,'https://hh.ru/resume/348cde2a000794580d0039ed1f3252674a3853')
 ;
-INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES
+INSERT INTO hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES 
 ('Опыт работы 6 лет 2 месяца','Мужчина','Москва','Программист Java/Android (Junior/Trainee)','30 000 руб.','https://hh.ru/resume/349a666a0005a020ea0039ed1f6e514b444750')
 ,('Опыт работы 2 года 3 месяца','Мужчина','Москва','Junior Java',NULL,'https://hh.ru/resume/34aad2bd000402a9ba0039ed1f6747786b7146')
 ,('Опыт работы 2 года','Мужчина','Москва','3D Level/character artist (gamedev) bluerose.arstation',NULL,'https://hh.ru/resume/34b7c5c700031b148f0039ed1f617836626336')
@@ -1222,7 +1222,7 @@ INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary
 ,('Опыт работы 13 лет 9 месяцев','Мужчина','Москва','Разработчик Kotlin',NULL,'https://hh.ru/resume/350c79c30000a680340039ed1f736563726574')
 ,('Опыт работы 14 лет 4 месяца','Мужчина','Москва','системный администратор','60 000 руб.','https://hh.ru/resume/3512c5d80000be37620039ed1f736563726574')
 ;
-INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES
+INSERT INTO hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES 
 ('Опыт работы 6 лет 4 месяца','Мужчина','Москва','ИТ-специалист','100 000 руб.','https://hh.ru/resume/351dc4b50007c0dd0f0039ed1f65646968546a')
 ,('Опыт работы 5 месяцев','Мужчина','Москва','junior iOS developer','40 000 руб.','https://hh.ru/resume/3520fa3f00080133350039ed1f484934484659')
 ,('Опыт работы 2 года','Мужчина','Москва','Аналитик баз данных/Аналитик SQL','40 000 руб.','https://hh.ru/resume/3531d0ff00073535870039ed1f617662797272')
@@ -1234,7 +1234,7 @@ INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary
 ,('Опыт работы 3 года 8 месяцев','Мужчина','Москва','Web-разработчик',NULL,'https://hh.ru/resume/3595d3e800052d7ba40039ed1f74594e4b3471')
 ,('Опыт работы 3 года 2 месяца','Мужчина','Москва','Разработчик','179 000 руб.','https://hh.ru/resume/359a2f1e0003a6f8ee0039ed1f426449367135')
 ;
-INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES
+INSERT INTO hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES 
 ('Опыт работы 18 лет 4 месяца','Мужчина','Москва','Программист PHP','150 000 руб.','https://hh.ru/resume/35b6dcf90001903ceb0039ed1f6d4e6445756b')
 ,('Опыт работы 5 лет 8 месяцев','Мужчина','Москва','web мастер','60 000 руб.','https://hh.ru/resume/35ba93890007e273630039ed1f4d4f7a64726f')
 ,('Опыт работы 7 лет 5 месяцев','Мужчина','Москва','Java developer',NULL,'https://hh.ru/resume/35c4f20f00075861aa0039ed1f53714c424150')
@@ -1246,7 +1246,7 @@ INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary
 ,('Опыт работы 4 месяца','Мужчина','Москва','Java Developer',NULL,'https://hh.ru/resume/3618408c0002f4f9cc0039ed1f6259374d5462')
 ,('Опыт работы 7 лет 8 месяцев','Мужчина','Москва','Chief Researcher',NULL,'https://hh.ru/resume/361d89fc00008fef5d0039ed1f736563726574')
 ;
-INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES
+INSERT INTO hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES 
 ('Work experience 6 years 9 months','Male','Armenia','Программист-разработчик','200 000 RUB','https://hh.ru/resume/363471550003b9c2b80039ed1f434152743478')
 ,('Опыт работы 11 лет 9 месяцев','Мужчина','Мытищи','Junior Java-разработчик','60 000 руб.','https://hh.ru/resume/3677561d00083dfc680039ed1f3043304f4158')
 ,('Опыт работы 1 год 4 месяца','Мужчина','Алматы','DevOps Engineer',NULL,'https://hh.ru/resume/369339930002de1f600039ed1f6a3969613145')
@@ -1258,7 +1258,7 @@ INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary
 ,('Опыт работы 9 месяцев','Мужчина','Москва','Стажер-аналитик','50 000 руб.','https://hh.ru/resume/36cd78fb0005457e8e0039ed1f425244437361')
 ,('Опыт работы 2 года 7 месяцев','Мужчина','Москва','Арабский французский английский язык',NULL,'https://hh.ru/resume/36d4e5ea00052c61970039ed1f613965754d30')
 ;
-INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES
+INSERT INTO hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES 
 ('Опыт работы 8 месяцев','Мужчина','Москва','Java developer разработчик программист','40 000 руб.','https://hh.ru/resume/36d6f30d0006dd27570039ed1f416832744d46')
 ,('Опыт работы 10 лет 6 месяцев','Мужчина','Москва','Менеджер по развитию бизнеса',NULL,'https://hh.ru/resume/36ec151c0005740aba0039ed1f474674715851')
 ,('Ключевые навыки','Мужчина','Москва','Программист-стажер',NULL,'https://hh.ru/resume/36f864270007b2ce290039ed1f334a72695a73')
@@ -1270,7 +1270,7 @@ INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary
 ,('Опыт работы 13 лет 4 месяца','Мужчина','Москва','Водитель сборщик мебели','60 000 руб.','https://hh.ru/resume/374d3eaa00032ad36d0039ed1f35644e496a36')
 ,('Опыт работы 2 года 3 месяца','Мужчина','Москва','Программист-разработчик',NULL,'https://hh.ru/resume/37564998000826a0510039ed1f766b4a656d7a')
 ;
-INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES
+INSERT INTO hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES 
 ('Опыт работы 1 год 11 месяцев','Мужчина','Москва','Java Developer','110 000 руб.','https://hh.ru/resume/3771756600083679dc0039ed1f39564644317a')
 ,('Опыт работы 10 месяцев','Мужчина','Москва','Java Junior/Middle Developer',NULL,'https://hh.ru/resume/378d2f100007c1c89d0039ed1f4e4d6f443733')
 ,('Опыт работы 14 лет','Мужчина','Москва','CIO / CTO / IT business partner / IT директор',NULL,'https://hh.ru/resume/379c81410005c3382e0039ed1f4b6e414c6957')
@@ -1282,7 +1282,7 @@ INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary
 ,('Опыт работы 7 лет 1 месяц','Женщина','Москва','Аналитик','50 000 руб.','https://hh.ru/resume/37d5161d00018d00d70039ed1f573135415143')
 ,('Опыт работы 7 лет 8 месяцев','Мужчина','Москва','Инженер-конструктор',NULL,'https://hh.ru/resume/38041527000298c1c60039ed1f72554237666a')
 ;
-INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES
+INSERT INTO hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES 
 ('Ключевые навыки','Мужчина','Москва','Программист','35 000 руб.','https://hh.ru/resume/38069fe4000516a53d0039ed1f554b5a564677')
 ,('Work experience 8 years 3 months','Male','Moscow','HR specialist',NULL,'https://hh.ru/resume/380dda15000206077c0039ed1f70514c6c6835')
 ,('Опыт работы 2 года 9 месяцев','Мужчина','Москва','Программист Java',NULL,'https://hh.ru/resume/380e6cb700034815860039ed1f374771467135')
@@ -1294,7 +1294,7 @@ INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary
 ,('Опыт работы 9 лет 9 месяцев','Мужчина','Москва','Junior Android Developer','40 000 руб.','https://hh.ru/resume/383c84430007e77c9d0039ed1f764530574333')
 ,('Опыт работы 11 лет 4 месяца','Мужчина','Санкт-Петербург','Территориальный менеджер',NULL,'https://hh.ru/resume/384233eb000301fb680039ed1f4e3553325748')
 ;
-INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES
+INSERT INTO hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES 
 ('Work experience 5 years 10 months','Male','Krasnodar','Data Analyst','100 000 RUB','https://hh.ru/resume/384b182e0005ab22260039ed1f637757757952')
 ,('Опыт работы 7 лет','Мужчина','Москва','Java',NULL,'https://hh.ru/resume/385219ed0007f63ea80039ed1f46674a556a45')
 ,('Ключевые навыки','Мужчина','Москва','Java-разработчик',NULL,'https://hh.ru/resume/385f05e200083232210039ed1f59356b433257')
@@ -1306,7 +1306,7 @@ INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary
 ,('Опыт работы 18 лет 11 месяцев','Мужчина','Москва','программист 3D, игровая логика, AI, прикладное програмировние,програмист C#,C++,Java,Python','120 000 руб.','https://hh.ru/resume/38a13034000098ad9b0039ed1f736563726574')
 ,('Ключевые навыки','Мужчина','Москва','Java junior','40 000 руб.','https://hh.ru/resume/38a1654c000674c36e0039ed1f38724b4c6b65')
 ;
-INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES
+INSERT INTO hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES 
 ('Опыт работы 1 год 6 месяцев','Женщина','Москва','Специалист службы поддержки',NULL,'https://hh.ru/resume/38a695340007f2d8030039ed1f354d734d6473')
 ,('Опыт работы 13 лет 6 месяцев','Мужчина','Москва','PHP-разработчик','100 000 руб.','https://hh.ru/resume/38abd7d900078e927e0039ed1f59634c425a71')
 ,('Опыт работы 2 года 7 месяцев','Мужчина','Москва','Специалист технической поддержки',NULL,'https://hh.ru/resume/38b1d13900084222460039ed1f316479656831')
@@ -1318,7 +1318,7 @@ INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary
 ,('Опыт работы 14 лет','Мужчина','Москва','Специалист IT со знанием Английского языка',NULL,'https://hh.ru/resume/39031a6d0004bfc78d0039ed1f30696f6e327a')
 ,('Опыт работы 4 года 1 месяц','Мужчина','Москва','Java Junior','80 000 руб.','https://hh.ru/resume/3919144e0003ab98550039ed1f79454e6e6443')
 ;
-INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES
+INSERT INTO hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES 
 ('Опыт работы 22 года 9 месяцев','Мужчина','Москва','Андроид разработчик',NULL,'https://hh.ru/resume/3920a2230001b6ebe90039ed1f634347676173')
 ,('Опыт работы 2 года 4 месяца','Мужчина','Москва','Сервисный инженер','50 000 руб.','https://hh.ru/resume/393201a700024e5abc0039ed1f4d4634434b46')
 ,('Опыт работы 8 лет 8 месяцев','Мужчина','Москва','Специалист 2 линии технической поддержки','85 000 руб.','https://hh.ru/resume/3939b7c0000739ec5c0039ed1f534f65794f42')
@@ -1330,7 +1330,7 @@ INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary
 ,('Опыт работы 10 лет 4 месяца','Мужчина','Москва','Руководитель проекта. Менеджер проекта. Руководитель направления',NULL,'https://hh.ru/resume/3967dc5d000847caf20039ed1f5a464c363066')
 ,('Опыт работы 5 лет 4 месяца','Мужчина','Москва','UI/UX/Web Designer','100 000 руб.','https://hh.ru/resume/396d92150007869d260039ed1f446962496161')
 ;
-INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES
+INSERT INTO hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES 
 ('Опыт работы 16 лет 9 месяцев','Мужчина','Одесса','Программист PHP','35 000 руб.','https://hh.ru/resume/397e83b900025a025b0039ed1f6f467055316d')
 ,('Опыт работы 29 лет 9 месяцев','Мужчина','Москва','Главный конструктор по Универсальному Искусственному Интеллекту. Организатор департамента по AI','70 000 руб.','https://hh.ru/resume/398d029d00083a3e6f0039ed1f6d796569776d')
 ,('Опыт работы 16 лет 1 месяц','Мужчина','Москва','CV Руководитель направления по автоматизации, бизнес-процессам, WF, BPM / Бизнес - аналитик',NULL,'https://hh.ru/resume/3997f3ff00074fd5f30039ed1f305454446e78')
@@ -1342,7 +1342,7 @@ INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary
 ,('Опыт работы 37 лет 1 месяц','Мужчина','Москва','Разработчик Oracle (PL SQL) / MS SQL (Transact-SQL), БОСС Кадровик, Аналитик','200 000 руб.','https://hh.ru/resume/3a0951060005e9f76c0039ed1f72794e4c6e47')
 ,('Опыт работы 2 месяца','Мужчина','Москва','Junior разработчик,специалист по тестированию, системный администратор','30 000 руб.','https://hh.ru/resume/3a0bb33a00082057f30039ed1f347066625579')
 ;
-INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES
+INSERT INTO hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES 
 ('Опыт работы 6 лет 3 месяца','Мужчина','Москва','Junior Системный/Бизнес-аналитик',NULL,'https://hh.ru/resume/3a1503460007b8b4eb0039ed1f785158635a74')
 ,('Опыт работы 3 года','Мужчина','Москва','junior java developer','40 000 руб.','https://hh.ru/resume/3a16c2300007984ad80039ed1f73496f627766')
 ,('Опыт работы 3 года 11 месяцев','Мужчина','Москва','Product Marketing Manager',NULL,'https://hh.ru/resume/3a16d4190007049f610039ed1f696171487763')
@@ -1354,7 +1354,7 @@ INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary
 ,('Ключевые навыки','Мужчина','Москва','Junior JavaScript developer',NULL,'https://hh.ru/resume/3a80cf8500073e78d90039ed1f53574f743544')
 ,('Опыт работы 1 год 8 месяцев','Мужчина','Москва','Java-программист',NULL,'https://hh.ru/resume/3a81989f000683e4590039ed1f59474167635a')
 ;
-INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES
+INSERT INTO hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES 
 ('Опыт работы 24 года 2 месяца','Мужчина','Волгоград','Разработчик, аналитик: чат-боты, .NET C# WPF XAML,Xamarin Android, MS SQL, MySQL, PHP','80 000 руб.','https://hh.ru/resume/3aa08ad30000704ad30039ed1f736563726574')
 ,('Опыт работы 9 лет 6 месяцев','Мужчина','Ставрополь','Web-разработчик','70 000 руб.','https://hh.ru/resume/3aa83aef000615efe70039ed1f50614f316569')
 ,('Work experience 26 years 8 months','Male','Moscow','CIO, CTO, Director, Architect, IT Manager, Program Manager',NULL,'https://hh.ru/resume/3aa9e5d40002e7da710039ed1f4844535a3273')
@@ -1366,7 +1366,7 @@ INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary
 ,('Опыт работы 7 лет 3 месяца','Мужчина','Москва','Инженер-программист',NULL,'https://hh.ru/resume/3b21e3ed0006467a0b0039ed1f5649666e6765')
 ,('Ключевые навыки','Мужчина','Москва','Программист',NULL,'https://hh.ru/resume/3b2f196c00082334e70039ed1f756e306c4951')
 ;
-INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES
+INSERT INTO hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES 
 ('Опыт работы 5 месяцев','Мужчина','Ступино','Программист',NULL,'https://hh.ru/resume/3b3a965a00071619df0039ed1f486b36396b61')
 ,('Опыт работы 6 лет 11 месяцев','Мужчина','Москва','Системный администратор',NULL,'https://hh.ru/resume/3b50bea400030a15f10039ed1f4a76327a5738')
 ,('Опыт работы 8 месяцев','Мужчина','Москва','Продавец-консультант','25 000 руб.','https://hh.ru/resume/3b5f718000040b24b70039ed1f614535567038')
@@ -1378,7 +1378,7 @@ INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary
 ,('Опыт работы 12 лет 7 месяцев','Женщина','Москва','Разработчик (xsd, xslt, xml, json)',NULL,'https://hh.ru/resume/3bc113ea00074342920039ed1f7762694a7035')
 ,('Опыт работы 8 лет 11 месяцев','Мужчина','Москва','Специалист по нагрузочному тестированию/Разработчик','300 000 руб.','https://hh.ru/resume/3bd000d500025fe7650039ed1f754951583969')
 ;
-INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES
+INSERT INTO hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES 
 ('Опыт работы 3 года 4 месяца','Мужчина','Москва','Junior Fullstack Developer','50 000 руб.','https://hh.ru/resume/3bd0b5da0007986f5a0039ed1f4a50306b6a4e')
 ,('Опыт работы 5 месяцев','Женщина','Москва','HR менеджер/IT Recruiter','50 000 руб.','https://hh.ru/resume/3bddd81300072115dc0039ed1f6b4a70685141')
 ,('Опыт работы 2 года 1 месяц','Мужчина','Москва','Преподаватель программирования',NULL,'https://hh.ru/resume/3be13d1e0007403d1e0039ed1f5447746d5761')
@@ -1390,7 +1390,7 @@ INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary
 ,('Опыт работы 13 лет','Мужчина','Москва','Помощник системного администратора','50 000 руб.','https://hh.ru/resume/3c2a58860007ff25020039ed1f4676347a6e6b')
 ,('Опыт работы 7 месяцев','Мужчина','Москва','Программист-разработчик Golang/С++/C#',NULL,'https://hh.ru/resume/3c41433e0006866a650039ed1f784d4a726932')
 ;
-INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES
+INSERT INTO hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES 
 ('Опыт работы 1 год 7 месяцев','Мужчина','Москва','Заместитель руководителя проекта/Инженер',NULL,'https://hh.ru/resume/3c45a53b00043f0e020039ed1f7649696c6b38')
 ,('Опыт работы 14 лет 10 месяцев','Мужчина','Москва','ИТ эксперт','4 999 USD','https://hh.ru/resume/3c5e440300079df1a20039ed1f4d7774546c53')
 ,('Опыт работы 5 лет 1 месяц','Мужчина','Казань','Тестировщик ПО','30 000 руб.','https://hh.ru/resume/3c639c6600082e59cf0039ed1f634b77646671')
@@ -1402,7 +1402,7 @@ INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary
 ,('Опыт работы 16 лет 9 месяцев','Мужчина','Черноголовка','Ведущий разработчик','299 000 руб.','https://hh.ru/resume/3c954d93000103586c0039ed1f444857657a48')
 ,('Опыт работы 11 лет 7 месяцев','Мужчина','Москва','Product Designer (UX/UI)',NULL,'https://hh.ru/resume/3c9bbcf10000bb873e0039ed1f736563726574')
 ;
-INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES
+INSERT INTO hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES 
 ('Опыт работы 8 лет 1 месяц','Мужчина','Москва','Аналитик','60 000 руб.','https://hh.ru/resume/3c9e620f0003093e520039ed1f4d6a67445a6f')
 ,('Опыт работы 15 лет 8 месяцев','Мужчина','Москва','Руководитель отдела, IT-специалист, разработчик БД, программист:JAVA/C#/VS/MSSQL/VBA/MSAccess/ADO/1С','120 000 руб.','https://hh.ru/resume/3cc8d00600044e79f80039ed1f5a4e70375965')
 ,('Ключевые навыки','Мужчина','Тула','Java junior','33 000 руб.','https://hh.ru/resume/3cd05dca0008247e1f0039ed1f4168464b4747')
@@ -1414,7 +1414,7 @@ INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary
 ,('Опыт работы 6 месяцев','Мужчина','Москва','java-разработчик',NULL,'https://hh.ru/resume/3cfb80fb0007468fb50039ed1f4c3649634378')
 ,('Опыт работы 14 лет 11 месяцев','Мужчина','Москва','Консультант (аналитик) MS dynamics AX (Axapta)','120 000 руб.','https://hh.ru/resume/3d13ba7500007dc2480039ed1f736563726574')
 ;
-INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES
+INSERT INTO hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES 
 ('Опыт работы 7 лет 4 месяца','Женщина','Москва','Бизнес-аналитик-разработчик','180 000 руб.','https://hh.ru/resume/3d17b235000695728d0039ed1f776b44374542')
 ,('Опыт работы 3 года 6 месяцев','Мужчина','Москва','Биохимик, молекулярный биолог, биотехнолог','30 000 руб.','https://hh.ru/resume/3d1a5b9b000350ce0a0039ed1f447771483455')
 ,('Опыт работы 12 лет 3 месяца','Мужчина','Москва','Программист на React.js',NULL,'https://hh.ru/resume/3d2aeefa0000bd58e90039ed1f736563726574')
@@ -1426,7 +1426,7 @@ INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary
 ,('Опыт работы 16 лет 1 месяц','Женщина','Москва','Исполнительный директор','90 000 руб.','https://hh.ru/resume/3dc708db0005d9eff20039ed1f6b4d76595854')
 ,('Опыт работы 5 лет 10 месяцев','Мужчина','Москва','Сервисный инженер',NULL,'https://hh.ru/resume/3df95b810001f1cb4e0039ed1f35364d52776d')
 ;
-INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES
+INSERT INTO hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES 
 ('Ключевые навыки','Мужчина','Москва','Программист-стажер','15 000 руб.','https://hh.ru/resume/3e06672f0008456c170039ed1f416f71687a4a')
 ,('Опыт работы 8 лет 8 месяцев','Мужчина','Москва','Senior PHP developer / PHP - программист','180 000 руб.','https://hh.ru/resume/3e0c9e190007bc6daf0039ed1f69623454664d')
 ,('Опыт работы 44 года 6 месяцев','Мужчина','Белгород','Программист С#, математик','50 000 руб.','https://hh.ru/resume/3e132b3c0000fae1a50039ed1f504f30796656')
@@ -1438,7 +1438,7 @@ INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary
 ,('Опыт работы 11 месяцев','Мужчина','Москва','Java developer','80 000 руб.','https://hh.ru/resume/3e42fcd50007f4605c0039ed1f345149305530')
 ,('Опыт работы 7 лет 8 месяцев','Мужчина','Тула','Программист ЧПУ, Инженер-технолог',NULL,'https://hh.ru/resume/3e6d21fe0001aa467b0039ed1f56414d4a5634')
 ;
-INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES
+INSERT INTO hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES 
 ('Опыт работы 11 месяцев','Женщина','Москва','Сотрудник поддержки','40 000 руб.','https://hh.ru/resume/3e7d924000064ce9270039ed1f55796a4b7072')
 ,('Опыт работы 1 год 1 месяц','Мужчина','Москва','Web-разработчик','120 000 руб.','https://hh.ru/resume/3e86360600081ab0620039ed1f785453555261')
 ,('Опыт работы 11 лет 3 месяца','Мужчина','Москва','Тестировщик, личный помощник руководителя, администратор сайтов','80 000 руб.','https://hh.ru/resume/3e9832fb00021f986b0039ed1f494469715679')
@@ -1450,7 +1450,7 @@ INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary
 ,('Work experience 1 year 2 months','Female','Moscow','Finance department intern',NULL,'https://hh.ru/resume/3ed0a29f0007f72d5d0039ed1f384f36306f35')
 ,('Опыт работы 4 года 6 месяцев','Мужчина','Москва','Программист-разработчик','150 000 руб.','https://hh.ru/resume/3ed5e0bb0002a8a7840039ed1f657144514e33')
 ;
-INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES
+INSERT INTO hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES 
 ('Ключевые навыки','Мужчина','Москва','Начинающий специалист',NULL,'https://hh.ru/resume/3ee8754600081d1cae0039ed1f4d78576d6577')
 ,('Опыт работы 19 лет 2 месяца','Мужчина','Москва','Руководитель IT','1 024 000 руб.','https://hh.ru/resume/3ef8d6c70002b7ff660039ed1f78454e4e7a78')
 ,('Work experience 2 years','Male','Moscow','Kotlin / Python QA Automation Engineer',NULL,'https://hh.ru/resume/3f0546430005d403be0039ed1f70707034786b')
@@ -1462,7 +1462,7 @@ INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary
 ,('Ключевые навыки','Мужчина','Москва','android-разрабочик',NULL,'https://hh.ru/resume/3f49e8f3000715f4770039ed1f62494954766a')
 ,('Опыт работы 2 месяца','Мужчина','Москва','Junior-разработчик','35 000 руб.','https://hh.ru/resume/3f4b6c28000410bbbe0039ed1f4b6c6b383273')
 ;
-INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES
+INSERT INTO hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES 
 ('Опыт работы 4 года 11 месяцев','Мужчина','Москва','Стажер-разработчик',NULL,'https://hh.ru/resume/3f6b2e340007c506580039ed1f6e7345715132')
 ,('Опыт работы 3 года 7 месяцев','Мужчина','Москва','Технический работник','70 000 руб.','https://hh.ru/resume/3f744c8800044586170039ed1f567158393231')
 ,('Опыт работы 6 лет 9 месяцев','Мужчина','Москва','PHP-программист','70 000 руб.','https://hh.ru/resume/3f91e3a90007366c0a0039ed1f32726745454f')
@@ -1474,7 +1474,7 @@ INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary
 ,('Опыт работы 11 лет 3 месяца','Мужчина','Москва','Главный специалист',NULL,'https://hh.ru/resume/4008327500005f8f7e0039ed1f736563726574')
 ,('Опыт работы 10 лет 10 месяцев','Мужчина','Москва','Системный администратор',NULL,'https://hh.ru/resume/40218c9600079d7fdc0039ed1f64586b556479')
 ;
-INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES
+INSERT INTO hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES 
 ('Опыт работы 8 лет 8 месяцев','Женщина','Москва','Инженер-программист','140 000 руб.','https://hh.ru/resume/40240c900005caca850039ed1f38364f337a35')
 ,('Опыт работы 1 год 4 месяца','Мужчина','Москва','Python developer','100 000 руб.','https://hh.ru/resume/402f51d40007e022640039ed1f366a4c4e5066')
 ,('Опыт работы 15 лет 4 месяца','Мужчина','Москва','Программист-разработчик Java Junior','100 000 руб.','https://hh.ru/resume/403094680000057ba30039ed1f736563726574')
@@ -1486,7 +1486,7 @@ INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary
 ,('Опыт работы 7 лет 10 месяцев','Женщина','Москва','IT рекрутер',NULL,'https://hh.ru/resume/40b759d100076c76620039ed1f494d46413177')
 ,('Опыт работы 1 год 3 месяца','Мужчина','Москва','Java-разработчик',NULL,'https://hh.ru/resume/40c4a3eb0007a5ec810039ed1f6147574f3048')
 ;
-INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES
+INSERT INTO hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES 
 ('Опыт работы 13 лет 2 месяца','Мужчина','Самара','Управление проектами. Построение продаж. Маркетинг.','80 000 руб.','https://hh.ru/resume/40c63b32000044d6380039ed1f736563726574')
 ,('Опыт работы 6 лет 6 месяцев','Мужчина','Москва','Менеджер IT-проектов',NULL,'https://hh.ru/resume/40cab68e0005a1b0300039ed1f4b5764654379')
 ,('Опыт работы 6 лет 1 месяц','Мужчина','Москва','Специалист','100 000 руб.','https://hh.ru/resume/40d4d6a80002091d980039ed1f487a6e735545')
@@ -1498,7 +1498,7 @@ INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary
 ,('Опыт работы 15 лет 7 месяцев','Мужчина','Москва','Руководитель ИТ',NULL,'https://hh.ru/resume/412359be000822e78f0039ed1f45644175694e')
 ,('Ключевые навыки','Мужчина','Москва','Junior iOS-developer',NULL,'https://hh.ru/resume/4133a32700082f98590039ed1f58394b364445')
 ;
-INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES
+INSERT INTO hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES 
 ('Опыт работы 11 лет','Мужчина','Москва','Software engineer, Developer','4 000 EUR','https://hh.ru/resume/4143cc2c00056239f10039ed1f4e6c446f6f78')
 ,('Опыт работы 9 лет 6 месяцев','Мужчина','Москва','Руководитель сектора \ Руководитель направления','200 000 руб.','https://hh.ru/resume/414dd41f00039051f50039ed1f456f43544356')
 ,('Опыт работы 20 лет 3 месяца','Мужчина','Москва','Начальник ИТ-отдела','200 руб.','https://hh.ru/resume/41556fb3000079da510039ed1f736563726574')
@@ -1510,7 +1510,7 @@ INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary
 ,('Ключевые навыки','Мужчина','Москва','Стажер-программист',NULL,'https://hh.ru/resume/41791181000577f3370039ed1f366b64743165')
 ,('Опыт работы 7 месяцев','Женщина','Москва','Java developer',NULL,'https://hh.ru/resume/418719300007f88cc10039ed1f486b57554f39')
 ;
-INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES
+INSERT INTO hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES 
 ('Опыт работы 8 лет 5 месяцев','Мужчина','Москва','Senior Software Engineer',NULL,'https://hh.ru/resume/41a8f6a00000de40f80039ed1f626b36346464')
 ,('Опыт работы 6 лет 2 месяца','Мужчина','Москва','Курьер','35 000 руб.','https://hh.ru/resume/41cf2aee0002182bf30039ed1f556933576d64')
 ,('Work experience 6 years 8 months','Male','Moscow','Engineer/researcher','60 000 RUB','https://hh.ru/resume/41d46d440003f4869b0039ed1f346f70454836')
@@ -1522,7 +1522,7 @@ INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary
 ,('Опыт работы 19 лет 10 месяцев','Женщина','Москва','Product Owner/Руководитель интернет-проектов/Маркетолог/TeamLead',NULL,'https://hh.ru/resume/421753210002d4b6790039ed1f443638317a4a')
 ,('Опыт работы 13 лет 1 месяц','Мужчина','Москва','Интернет маркетолог, SEO специалист, Таргетолог','65 000 руб.','https://hh.ru/resume/422c19c50007450f1b0039ed1f586571493639')
 ;
-INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES
+INSERT INTO hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES 
 ('Опыт работы 15 лет 1 месяц','Мужчина','Москва','Solution Architect | Senior Developer',NULL,'https://hh.ru/resume/423a27d900059c61010039ed1f45434a686767')
 ,('Опыт работы 13 лет 9 месяцев','Мужчина','Москва','Руководитель проектов',NULL,'https://hh.ru/resume/4267916700008ecd610039ed1f736563726574')
 ,('Опыт работы 2 года 9 месяцев','Мужчина','Москва','Специалист по IT',NULL,'https://hh.ru/resume/427b8ff700034ebed50039ed1f397539796e49')
@@ -1534,7 +1534,7 @@ INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary
 ,('Опыт работы 13 лет 5 месяцев','Мужчина','Казань','Менеджер по оптовым продажам','100 000 руб.','https://hh.ru/resume/42faa5750001f4a67e0039ed1f6e4c68794e62')
 ,('Опыт работы 1 год 1 месяц','Мужчина','Москва','Data Scientist','133 000 руб.','https://hh.ru/resume/4321482000075eeb500039ed1f34676c38546b')
 ;
-INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES
+INSERT INTO hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES 
 ('Опыт работы 1 год 3 месяца','Мужчина','Москва','Системный администратор','30 000 руб.','https://hh.ru/resume/4339307700046207d70039ed1f6a30594f6663')
 ,('Опыт работы 5 лет 5 месяцев','Мужчина','Москва','IT-инженер','180 000 руб.','https://hh.ru/resume/433a2a950002bf403f0039ed1f5056516e4378')
 ,('Опыт работы 5 лет 5 месяцев','Мужчина','Курск','Менеджер по персоналу','40 000 руб.','https://hh.ru/resume/433c3fb80002d917720039ed1f685776337554')
@@ -1546,7 +1546,7 @@ INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary
 ,('Work experience 10 years 3 months','Female','Moscow','Java-разработчик','50 000 RUB','https://hh.ru/resume/4363ba2800016e83700039ed1f4949657a4e35')
 ,('Опыт работы 15 лет','Женщина','Москва','Руководитель образовательных проектов',NULL,'https://hh.ru/resume/43797fc60007ec00d50039ed1f4f7550397436')
 ;
-INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES
+INSERT INTO hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES 
 ('Опыт работы 25 лет 4 месяца','Мужчина','Москва','Программист','170 000 руб.','https://hh.ru/resume/438dabbb00020e1de60039ed1f696a6d326746')
 ,('Опыт работы 11 лет 4 месяца','Женщина','Москва','Менеджер по оптовым продажам FMCG (Food, NonFood)','100 000 руб.','https://hh.ru/resume/439ee99a0007fdfc0f0039ed1f50534c504a79')
 ,('Опыт работы 10 лет 4 месяца','Мужчина','Москва','Программист','150 000 руб.','https://hh.ru/resume/43a6b0d700024519f50039ed1f75474c38546e')
@@ -1558,7 +1558,7 @@ INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary
 ,('Опыт работы 6 лет 3 месяца','Мужчина','Москва','Руководитель интернет-проекта','300 000 руб.','https://hh.ru/resume/43d89fdf000720d5520039ed1f70624b716279')
 ,('Опыт работы 2 года 5 месяцев','Мужчина','Санкт-Петербург','Java-разработчик',NULL,'https://hh.ru/resume/4403e439000814979e0039ed1f475678773467')
 ;
-INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES
+INSERT INTO hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES 
 ('Опыт работы 11 лет 1 месяц','Мужчина','Москва','Аналитик бизнес-процессов','250 000 руб.','https://hh.ru/resume/44074a8b0003d85dc20039ed1f71737a6a7069')
 ,('Опыт работы 15 лет 11 месяцев','Женщина','Москва','HR бизнес-партнер (HR-директор)',NULL,'https://hh.ru/resume/440a86e60006543cea0039ed1f706953325076')
 ,('Work experience 9 months','Male','Moscow','IT consultant, Intern',NULL,'https://hh.ru/resume/4416078f00057a078f0039ed1f45477a356877')
@@ -1570,7 +1570,7 @@ INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary
 ,('Опыт работы 8 лет 4 месяца','Мужчина','Новосибирск','Data Scientist','100 000 руб.','https://hh.ru/resume/444fbc9f0003361e000039ed1f447153736a79')
 ,('Опыт работы 9 лет 5 месяцев','Мужчина','Москва','Java-разработчик','120 000 руб.','https://hh.ru/resume/4466102a000492d7340039ed1f7148697a4f34')
 ;
-INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES
+INSERT INTO hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES 
 ('Work experience 23 years 9 months','Male','Moscow','QA Manager',NULL,'https://hh.ru/resume/446c0d8500024fa7430039ed1f754a32436879')
 ,('Опыт работы 16 лет 4 месяца','Мужчина','Москва','Аналитик-тестировщик',NULL,'https://hh.ru/resume/44718e270008336bad0039ed1f364b41575535')
 ,('Ключевые навыки','Мужчина','Москва','Стажер-программист',NULL,'https://hh.ru/resume/4493e4c900063cb63d0039ed1f7134614a6541')
@@ -1582,7 +1582,7 @@ INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary
 ,('Ключевые навыки','Мужчина','Москва','Программист - стажер',NULL,'https://hh.ru/resume/44c9a09e00080cd2740039ed1f367a70376f55')
 ,('Work experience 8 years 8 months','Male','Moscow','Studio Head/Producer',NULL,'https://hh.ru/resume/44cc0c5e000104d9b30039ed1f324b53474572')
 ;
-INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES
+INSERT INTO hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES 
 ('Опыт работы 4 года 3 месяца','Мужчина','Москва','Менеджер по продажам','70 000 руб.','https://hh.ru/resume/44d5b48c000718e7e30039ed1f48365652656f')
 ,('Опыт работы 13 лет 11 месяцев','Мужчина','Москва','Программист Erlang',NULL,'https://hh.ru/resume/44e7f11e0000bb764f0039ed1f736563726574')
 ,('Опыт работы 9 лет 6 месяцев','Мужчина','Москва','Руководитель интернет-проекта, руководитель отдела маркетинга / интернет-маркетинга','100 000 руб.','https://hh.ru/resume/4535e505000112b57d0039ed1f59634e345342')
@@ -1594,7 +1594,7 @@ INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary
 ,('Опыт работы 2 года 3 месяца','Мужчина','Москва','Специалист по IT','50 000 руб.','https://hh.ru/resume/458d5cd40007853ac10039ed1f4f303451374d')
 ,('Work experience 20 years 10 months','Male','Moscow','Technical Director - Project Manager','250 000 RUB','https://hh.ru/resume/459ab22700074005450039ed1f393877386449')
 ;
-INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES
+INSERT INTO hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES 
 ('Опыт работы 2 месяца','Мужчина','Москва','Младший программист Java',NULL,'https://hh.ru/resume/459f3327000774c30d0039ed1f4f6d32656f67')
 ,('Опыт работы 1 год 6 месяцев','Мужчина','Москва','Siebel Разработчик',NULL,'https://hh.ru/resume/45b48a3e0006513db90039ed1f3639416c4a6c')
 ,('Опыт работы 7 лет 5 месяцев','Женщина','Москва','Junior iOS developer',NULL,'https://hh.ru/resume/45b4df3200061f7d500039ed1f6e6442435a76')
@@ -1606,7 +1606,7 @@ INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary
 ,('Опыт работы 4 года 1 месяц','Мужчина','Москва','Junior Java developer','70 000 руб.','https://hh.ru/resume/45e8ec3f0008259cc80039ed1f494464465257')
 ,('Опыт работы 10 месяцев','Мужчина','Москва','Тестер-аналитик','38 000 руб.','https://hh.ru/resume/460fc5070007d5019e0039ed1f53764e57386c')
 ;
-INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES
+INSERT INTO hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES 
 ('Опыт работы 1 год 4 месяца','Мужчина','Москва','Frontend-разработчик',NULL,'https://hh.ru/resume/4617937c000574158c0039ed1f355462336c48')
 ,('Опыт работы 6 лет 4 месяца','Мужчина','Санкт-Петербург','Product Designer',NULL,'https://hh.ru/resume/461d5762000596cf480039ed1f345138537531')
 ,('Опыт работы 6 лет 9 месяцев','Мужчина','Москва','Python стажер','30 000 руб.','https://hh.ru/resume/461f5b2600013b1b540039ed1f434a5434704e')
@@ -1618,7 +1618,7 @@ INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary
 ,('Work experience 6 years 3 months','Female','Moscow','UI/UX developer',NULL,'https://hh.ru/resume/465afc61000832fdb80039ed1f695a45423163')
 ,('Work experience 18 years 11 months','Male','Moscow','Developer (Delphi, Oracle, Postgre SQL etc)','4 000 EUR','https://hh.ru/resume/466b54100003eff7bc0039ed1f7a57635a5a33')
 ;
-INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES
+INSERT INTO hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES 
 ('Опыт работы 6 лет 1 месяц','Женщина','Москва','Маркетолог-аналитик','100 000 руб.','https://hh.ru/resume/4675037700073778270039ed1f78623234464f')
 ,('Обо мне','Мужчина','Москва','Стажер-разработчик java',NULL,'https://hh.ru/resume/46a4c3d90007d3ea1a0039ed1f3750574a3569')
 ,('Опыт работы 2 месяца','Женщина','Москва','стажёр, начинающий специалист, аналитик, тестировщик',NULL,'https://hh.ru/resume/46aad2f200072ae6c00039ed1f774176347658')
@@ -1630,7 +1630,7 @@ INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary
 ,('Опыт работы 11 лет 9 месяцев','Мужчина','Москва','Senior Unity Developer',NULL,'https://hh.ru/resume/46fce073000087a79b0039ed1f736563726574')
 ,('Ключевые навыки','Мужчина','Москва','Стажёр java разработчик',NULL,'https://hh.ru/resume/4714c28b000756a6ca0039ed1f3766486c6176')
 ;
-INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES
+INSERT INTO hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES 
 ('Опыт работы 5 месяцев','Мужчина','Москва','Junior Java Developer',NULL,'https://hh.ru/resume/471687c300085147930039ed1f49656a62696f')
 ,('Опыт работы 7 лет 4 месяца','Женщина','Курск','IT Ректутер','35 000 руб.','https://hh.ru/resume/4718b1d60007f845dc0039ed1f587473554f4e')
 ,('Опыт работы 16 лет 9 месяцев','Мужчина','Москва','Редактор, ассистент режиссёра, режиссёр монтажа, разработчик, программист, инженер',NULL,'https://hh.ru/resume/475c1b9e00002efc6f0039ed1f736563726574')
@@ -1642,7 +1642,7 @@ INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary
 ,('Опыт работы 6 лет 6 месяцев','Мужчина','Москва','Техник по обслуживанию электронного оборудования','65 000 руб.','https://hh.ru/resume/47bac3b20007597a310039ed1f63733633534c')
 ,('Опыт работы 7 лет','Женщина','Санкт-Петербург','Руководитель проектов','200 000 руб.','https://hh.ru/resume/47bfd22c00050bceab0039ed1f6e70554c4253')
 ;
-INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES
+INSERT INTO hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES 
 ('Опыт работы 4 года 7 месяцев','Мужчина','Москва','Инженер','80 000 руб.','https://hh.ru/resume/47c6fdd700016ca2a30039ed1f7a594a7a6e55')
 ,('Опыт работы 7 лет 9 месяцев','Мужчина','Москва','Инженер-программист','100 000 руб.','https://hh.ru/resume/47d6aea200034faa5b0039ed1f47716c504c78')
 ,('Work experience 16 years 5 months','Male','Moscow','Software Development Team Lead – algorithms, mathematical optimization, mathematical modelling',NULL,'https://hh.ru/resume/47e31a3700078e8cd50039ed1f594e5a487930')
@@ -1654,7 +1654,7 @@ INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary
 ,('Work experience 15 years 1 month','Male','Czech Republic','CIO, CTO, Solution delivery, product owner, product manager, agile coach, platform owner, COO','8 000 EUR','https://hh.ru/resume/481a935c00064224920039ed1f657376715273')
 ,('Опыт работы 2 года 10 месяцев','Мужчина','Москва','Системный администратор, Специалист технической поддержки','65 000 руб.','https://hh.ru/resume/48636f9a0002aeeef60039ed1f735a64476b75')
 ;
-INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES
+INSERT INTO hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES 
 ('Опыт работы 20 лет 1 месяц','Мужчина','Москва','QA engineer / Инженер-тестировщик','180 000 руб.','https://hh.ru/resume/48670ea200061be9d30039ed1f3965494d3241')
 ,('Ключевые навыки','Мужчина','Москва','Junior/Стажер Java-разработчик',NULL,'https://hh.ru/resume/4872a0380008397c860039ed1f3077794d5a44')
 ,('Опыт работы 11 лет 10 месяцев','Мужчина','Москва','C# middle',NULL,'https://hh.ru/resume/487568c30000657d430039ed1f736563726574')
@@ -1666,7 +1666,7 @@ INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary
 ,('Опыт работы 10 лет 6 месяцев','Мужчина','Москва','Программист 1С','60 000 руб.','https://hh.ru/resume/48b75290000778a0dc0039ed1f6c44386e4239')
 ,('Опыт работы 29 лет 9 месяцев','Мужчина','Москва','Руководитель группы разаботки','90 000 руб.','https://hh.ru/resume/48c499500007ea87b60039ed1f7570664e4f76')
 ;
-INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES
+INSERT INTO hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES 
 ('Опыт работы 25 лет 2 месяца','Мужчина','Москва','Руководитель IT-подразделения, Руководитель IT проектов, Руководитель отдела разработки',NULL,'https://hh.ru/resume/48d625f0000310c4170039ed1f453061576b47')
 ,('Ключевые навыки','Мужчина','Москва','Web-разработчик',NULL,'https://hh.ru/resume/48dbf3a30005f2ba4e0039ed1f496d67453554')
 ,('Опыт работы 26 лет 1 месяц','Мужчина','Москва','Системный архитектор',NULL,'https://hh.ru/resume/48e4804b000537d80b0039ed1f594130385975')
@@ -1678,7 +1678,7 @@ INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary
 ,('Опыт работы 15 лет 6 месяцев','Мужчина','Москва','Программист-разработчик',NULL,'https://hh.ru/resume/495944680001b549420039ed1f4d506c34756a')
 ,('Опыт работы 10 лет 4 месяца','Мужчина','Нидерланды','Руководитель разработки ПО','300 000 руб.','https://hh.ru/resume/495a13da000119f4f80039ed1f37544239476c')
 ;
-INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES
+INSERT INTO hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES 
 ('Опыт работы 13 лет 3 месяца','Женщина','Москва','Java',NULL,'https://hh.ru/resume/495a2e6c00008bb0db0039ed1f736563726574')
 ,('Опыт работы 6 лет 2 месяца','Мужчина','Москва','Junior Data Science','60 000 руб.','https://hh.ru/resume/49706aa1000800c1580039ed1f354b54465365')
 ,('Опыт работы 15 лет 4 месяца','Мужчина','Москва','Бизнес-аналитик/ разработчик',NULL,'https://hh.ru/resume/4974b3d10001b176f70039ed1f683551773079')
@@ -1690,7 +1690,7 @@ INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary
 ,('Опыт работы 20 лет 4 месяца','Мужчина','Москва','iOS Team Lead','450 000 руб.','https://hh.ru/resume/49c7efb400019a3c080039ed1f7a7743756874')
 ,('Опыт работы 7 лет 2 месяца','Мужчина','Москва','Администратор IT проектов',NULL,'https://hh.ru/resume/49d0d0440003d0ed600039ed1f784f636d5042')
 ;
-INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES
+INSERT INTO hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES 
 ('Опыт работы 1 год 9 месяцев','Женщина','Москва','Аналитик кредитных рисков',NULL,'https://hh.ru/resume/49db14b4000806b2cc0039ed1f66726a473861')
 ,('Опыт работы 2 года 1 месяц','Мужчина','Москва','Junior Программист','70 000 руб.','https://hh.ru/resume/49db5ca900038508550039ed1f415a76794353')
 ,('Work experience 5 years 8 months','Male','Turkey','Software Development Engineer','140 000 RUB','https://hh.ru/resume/49e4dfd800044f55630039ed1f6d5476624353')
@@ -1702,7 +1702,7 @@ INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary
 ,('Опыт работы 7 лет 1 месяц','Мужчина','Москва','Тестировщик','50 000 руб.','https://hh.ru/resume/4a0c99160007bc9e6b0039ed1f474f364b3053')
 ,('Опыт работы 18 лет 2 месяца','Мужчина','Москва','Веб-разработчик','1 500 EUR','https://hh.ru/resume/4a11fdaf0005fbf8ce0039ed1f4c507670454c')
 ;
-INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES
+INSERT INTO hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES 
 ('Опыт работы 6 лет 10 месяцев','Мужчина','Москва','Веб-мастер, менеджер проектов','150 000 руб.','https://hh.ru/resume/4a233c000003c50d740039ed1f7a5563506b4c')
 ,('Ключевые навыки','Мужчина','Москва','Программист-стажер',NULL,'https://hh.ru/resume/4a404d12000422a3350039ed1f573445443033')
 ,('Ключевые навыки','Женщина','Москва','Начинающий специалист',NULL,'https://hh.ru/resume/4a5fd3ed000422d0f70039ed1f316661747244')
@@ -1714,7 +1714,7 @@ INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary
 ,('Опыт работы 6 лет 3 месяца','Мужчина','Москва','Тестировщик ПО','150 000 руб.','https://hh.ru/resume/4a8333aa00060bf44f0039ed1f7766544b4538')
 ,('Опыт работы 24 года 11 месяцев','Женщина','Тюмень','Аудитор/экономист/менеджер/руководитель подразделения',NULL,'https://hh.ru/resume/4a909a110000ff46830039ed1f373545745155')
 ;
-INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES
+INSERT INTO hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES 
 ('Опыт работы 33 года 11 месяцев','Мужчина','Москва','Ведущий инженер-программист',NULL,'https://hh.ru/resume/4ac3647c000213af5f0039ed1f427a486b6e6a')
 ,('Опыт работы 6 лет 8 месяцев','Мужчина','Москва','Marketing Analyst','140 000 руб.','https://hh.ru/resume/4ad31dce000809186d0039ed1f756b6c61665a')
 ,('Опыт работы 3 года 6 месяцев','Мужчина','Москва','Cross-platform Developer (android/ios) Flutter developer',NULL,'https://hh.ru/resume/4ad7e247000375f3590039ed1f4a5a6d4a6449')
@@ -1726,7 +1726,7 @@ INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary
 ,('Опыт работы 4 года 2 месяца','Мужчина','Сочи','Java-разработчик',NULL,'https://hh.ru/resume/4b0128fd0007ff315f0039ed1f647738343970')
 ,('Опыт работы 10 лет 8 месяцев','Женщина','Москва','Ведущий юрист/Заместитель начальника юридического отдела','80 000 руб.','https://hh.ru/resume/4b0c579500015ef5290039ed1f414350514555')
 ;
-INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES
+INSERT INTO hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES 
 ('Опыт работы 3 года 5 месяцев','Женщина','Москва','Менеджер по работе с Wildberries',NULL,'https://hh.ru/resume/4b10340200083350330039ed1f62693551746e')
 ,('Опыт работы 25 лет 4 месяца','Мужчина','Екатеринбург','Руководитель филиала, региональный менеджер, региональный представитель','100 000 руб.','https://hh.ru/resume/4b1067e400037f92570039ed1f726e6d7a7843')
 ,('Опыт работы 1 год 1 месяц','Мужчина','Москва','Junior Developer/Load Testing Engineer/Designer','80 000 руб.','https://hh.ru/resume/4b222399000814c57b0039ed1f66436332644b')
@@ -1738,7 +1738,7 @@ INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary
 ,('Опыт работы 1 год 9 месяцев','Мужчина','Москва','Стажер-программист','50 000 руб.','https://hh.ru/resume/4b61a8fa00072003e70039ed1f5232356f6352')
 ,('Опыт работы 5 лет 3 месяца','Мужчина','Москва','Java Developer',NULL,'https://hh.ru/resume/4b6474f50007fde9430039ed1f364442756754')
 ;
-INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES
+INSERT INTO hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES 
 ('Опыт работы 11 лет 3 месяца','Мужчина','Краснодар','Программист 1С',NULL,'https://hh.ru/resume/4b78556f00007042120039ed1f736563726574')
 ,('Опыт работы 8 лет 6 месяцев','Мужчина','Москва','Junior Java-разработчик',NULL,'https://hh.ru/resume/4b7c7f1c0007c7e4860039ed1f4e634f574a71')
 ,('Ключевые навыки','Мужчина','Москва','Java-разработчик (Junior)',NULL,'https://hh.ru/resume/4bb46fa40003ccba6a0039ed1f75385142304a')
@@ -1750,7 +1750,7 @@ INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary
 ,('Опыт работы 8 месяцев','Мужчина','Москва','Программист-разработчик',NULL,'https://hh.ru/resume/4c0c950f0002f313f20039ed1f46306f435337')
 ,('Опыт работы 6 лет 9 месяцев','Мужчина','Москва','Web-разработчик',NULL,'https://hh.ru/resume/4c146e040005f5c4a00039ed1f334143744f52')
 ;
-INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES
+INSERT INTO hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES 
 ('Ключевые навыки','Мужчина','Москва','Программист (младший разработчик) junior',NULL,'https://hh.ru/resume/4c24d65d00083cbc2b0039ed1f354b52556472')
 ,('Опыт работы 6 месяцев','Мужчина','Москва','Программист,SEO-оптимизатор',NULL,'https://hh.ru/resume/4c4163100007fcf2d30039ed1f44435338714b')
 ,('Ключевые навыки','Мужчина','Москва','Junior Developer',NULL,'https://hh.ru/resume/4c4d4b1a0007c320710039ed1f4e3545624d77')
@@ -1762,7 +1762,7 @@ INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary
 ,('Опыт работы 9 лет 10 месяцев','Мужчина','Москва','Программист','200 000 руб.','https://hh.ru/resume/4c8d66aa0003f6cfa70039ed1f626e4c504d31')
 ,('Опыт работы 2 месяца','Мужчина','Москва','Junior Java Developer',NULL,'https://hh.ru/resume/4c9400fa00077a56980039ed1f756f454b3742')
 ;
-INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES
+INSERT INTO hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES 
 ('Опыт работы 12 лет 3 месяца','Мужчина','Черкесск','Front-end разработчик',NULL,'https://hh.ru/resume/4ca7dfc400078886e40039ed1f4f63726f7230')
 ,('Опыт работы 1 год 6 месяцев','Мужчина','Москва','Специалист по автоматизации тестирования','150 000 руб.','https://hh.ru/resume/4cd2345800033b6cc70039ed1f336e36504353')
 ,('Опыт работы 15 лет 4 месяца','Мужчина','Москва','Юрисконсульт',NULL,'https://hh.ru/resume/4cd736de00026d31480039ed1f4e7a63743359')
@@ -1774,7 +1774,7 @@ INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary
 ,('Опыт работы 1 год 5 месяцев','Мужчина','Москва','IT-специалист',NULL,'https://hh.ru/resume/4d5e0855000738dbbc0039ed1f76625055796a')
 ,('Опыт работы 2 года 3 месяца','Мужчина','Москва','Frontend-разработчик / HTML - верстальщик','120 000 руб.','https://hh.ru/resume/4d7e398e00045d05f40039ed1f315055773451')
 ;
-INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES
+INSERT INTO hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES 
 ('Опыт работы 7 лет 5 месяцев','Мужчина','Саратов','Java-разработчик',NULL,'https://hh.ru/resume/4d8474760007cf23b50039ed1f4c4261667464')
 ,('Опыт работы 17 лет 4 месяца','Мужчина','Москва','Графический дизайнер','80 000 руб.','https://hh.ru/resume/4d8c40a7000142719b0039ed1f69734b33734b')
 ,('Опыт работы 4 года','Мужчина','Москва','Стажер-разработчик Java',NULL,'https://hh.ru/resume/4d8ca78e00080a56190039ed1f5050476e3857')
@@ -1786,7 +1786,7 @@ INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary
 ,('Опыт работы 19 лет 7 месяцев','Мужчина','Москва','ИТ-руководитель',NULL,'https://hh.ru/resume/4def5b0f000025811f0039ed1f736563726574')
 ,('Work experience 13 years 11 months','Male','Italy','General manager',NULL,'https://hh.ru/resume/4df2676e0005b9c5430039ed1f4f7a7a695175')
 ;
-INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES
+INSERT INTO hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES 
 ('Ключевые навыки','Мужчина','Москва','Junior java',NULL,'https://hh.ru/resume/4df4f4d500050f840c0039ed1f367463354539')
 ,('Опыт работы 7 лет 6 месяцев','Мужчина','Москва','Программист Java, C#, Unity3D, React','70 000 руб.','https://hh.ru/resume/4e082b1b0001c4f5dd0039ed1f744974494b72')
 ,('Опыт работы 5 месяцев','Мужчина','Москва','Junior Java developer',NULL,'https://hh.ru/resume/4e1987f50006d4770d0039ed1f546a71346c4e')
@@ -1798,7 +1798,7 @@ INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary
 ,('Опыт работы 10 лет 2 месяца','Мужчина','Москва','Junior Java Developer / Младший Java разработчик',NULL,'https://hh.ru/resume/4e6ab49100073b35cb0039ed1f683645683642')
 ,('Опыт работы 1 год','Мужчина','Москва','Специалист по информационной безопасности',NULL,'https://hh.ru/resume/4e7db8a200081b1c0e0039ed1f634869684458')
 ;
-INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES
+INSERT INTO hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES 
 ('Опыт работы 7 лет 8 месяцев','Мужчина','Москва','Монтажник связи','30 000 руб.','https://hh.ru/resume/4e8371f6000279f11c0039ed1f627056475146')
 ,('Опыт работы 2 года 9 месяцев','Мужчина','Комсомольск-на-Амуре','Стажер-разработчик, junior programmer, программист стажер.',NULL,'https://hh.ru/resume/4e8c7e0c0007f4bb430039ed1f663532446c69')
 ,('Опыт работы 6 лет 3 месяца','Мужчина','Москва','Программист','150 000 руб.','https://hh.ru/resume/4e920b12000584079f0039ed1f464c6b365a69')
@@ -1810,7 +1810,7 @@ INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary
 ,('Ключевые навыки','Мужчина','Оренбург','Программист Android',NULL,'https://hh.ru/resume/4eacec1800079801200039ed1f6a6437776549')
 ,('Work experience 18 years 6 months','Male','Moscow','Product/Program/Engineering manager IoT','350 000 RUB','https://hh.ru/resume/4ebf993500031632cd0039ed1f4251694f6757')
 ;
-INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES
+INSERT INTO hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES 
 ('Опыт работы 6 лет 2 месяца','Мужчина','Москва','Ведущий разработчик',NULL,'https://hh.ru/resume/4ec13fc10001ea47af0039ed1f387576313137')
 ,('Опыт работы 10 лет 9 месяцев','Мужчина','Санкт-Петербург','Специалист по IT',NULL,'https://hh.ru/resume/4ed3ce7d00034207f00039ed1f43797875446c')
 ,('Опыт работы 2 года 2 месяца','Мужчина','Москва','IT-cпециалист',NULL,'https://hh.ru/resume/4efc182b00078a2f8f0039ed1f544333757870')
@@ -1822,7 +1822,7 @@ INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary
 ,('Опыт работы 10 лет 1 месяц','Мужчина','Москва','Оператор станков с ЧПУ','70 000 руб.','https://hh.ru/resume/4f797e4d0003ecd5df0039ed1f5271576d4f65')
 ,('Опыт работы 28 лет 10 месяцев','Мужчина','Москва','Директор по производству IT-систем, руководитель IT-проектов, ведущий программист',NULL,'https://hh.ru/resume/4f918d450002f4578f0039ed1f6f66344e5636')
 ;
-INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES
+INSERT INTO hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES 
 ('Опыт работы 4 года 5 месяцев','Мужчина','Москва','IT-инженер','75 000 руб.','https://hh.ru/resume/4f9284c70003b7107b0039ed1f62494f427870')
 ,('Work experience 13 years 9 months','Male','Moscow','Software architect',NULL,'https://hh.ru/resume/4f929865000068428f0039ed1f736563726574')
 ,('Опыт работы 4 года 1 месяц','Мужчина','Москва','Бизнес-аналитик','45 000 руб.','https://hh.ru/resume/4fa944fb000599d58a0039ed1f756d44544373')
@@ -1834,7 +1834,7 @@ INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary
 ,('Опыт работы 5 лет 8 месяцев','Мужчина','Москва','Junior Java разработчик','60 000 руб.','https://hh.ru/resume/500563640007a1ee370039ed1f556363345273')
 ,('Work experience 3 years 10 months','Male','Moscow','Android/Ios Разрботчик',NULL,'https://hh.ru/resume/5009f7ea0007c64dc10039ed1f6d5431353341')
 ;
-INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES
+INSERT INTO hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES 
 ('Опыт работы 15 лет 5 месяцев','Мужчина','Москва','Ведущий инженер группы круглосуточной технической поддержки','90 000 руб.','https://hh.ru/resume/500fbb0300013e37aa0039ed1f30565249506c')
 ,('Work experience 10 years 7 months','Female','Saint Petersburg','Assistant','100 000 RUB','https://hh.ru/resume/501d08ed00020a78b10039ed1f6d4f79303142')
 ,('Опыт работы 11 лет 4 месяца','Мужчина','Москва','Разработчик Python','250 000 руб.','https://hh.ru/resume/501fa2510005bf209b0039ed1f467447327075')
@@ -1846,7 +1846,7 @@ INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary
 ,('Опыт работы 26 лет 10 месяцев','Мужчина','Москва','Руководитель отдела IT/проекта','190 000 руб.','https://hh.ru/resume/5062660c0000529f970039ed1f736563726574')
 ,('Опыт работы 14 лет 7 месяцев','Мужчина','Москва','Руководитель направления/руководитель проекта',NULL,'https://hh.ru/resume/506f78a300007e5d980039ed1f736563726574')
 ;
-INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES
+INSERT INTO hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES 
 ('Опыт работы 1 год 7 месяцев','Мужчина','Москва','Инженер РЗА','70 000 руб.','https://hh.ru/resume/508084f1000429a8670039ed1f4f7837543454')
 ,('Опыт работы 20 лет 8 месяцев','Мужчина','Москва','Технический директор, ИТ директор, CIO, CTO / Software Development Director',NULL,'https://hh.ru/resume/50817b6e00004fdba00039ed1f736563726574')
 ,('Опыт работы 1 год 4 месяца','Мужчина','Москва','Программист бесплатно','1 000 руб.','https://hh.ru/resume/5086d28300079d15780039ed1f706452474656')
@@ -1858,7 +1858,7 @@ INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary
 ,('Опыт работы 11 месяцев','Мужчина','Рыбинск','Java developer','80 000 руб.','https://hh.ru/resume/50b50ea700083324500039ed1f335473316959')
 ,('Опыт работы 1 год 4 месяца','Мужчина','Москва','аналитик','10 000 руб.','https://hh.ru/resume/50d0d91f00080c83450039ed1f6a5965473266')
 ;
-INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES
+INSERT INTO hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES 
 ('Опыт работы 1 год 8 месяцев','Мужчина','Москва','Программист Java(стажер,junior)',NULL,'https://hh.ru/resume/50db8fd500044227320039ed1f33374a6d6564')
 ,('Опыт работы 9 лет','Мужчина','Москва','Системный администратор',NULL,'https://hh.ru/resume/510269680001b3d4350039ed1f4a4267654162')
 ,('Опыт работы 5 лет 7 месяцев','Мужчина','Саров','Тестировщик ПО','50 000 руб.','https://hh.ru/resume/510b1a8e000249334d0039ed1f7a795861356d')
@@ -1870,7 +1870,7 @@ INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary
 ,('Опыт работы 15 лет 9 месяцев','Женщина','Москва','Junior QA',NULL,'https://hh.ru/resume/5141ca5500078302b90039ed1f346c4f315367')
 ,('Опыт работы 5 месяцев','Женщина','Москва','Junior QA',NULL,'https://hh.ru/resume/51428ab30007c70eda0039ed1f48654f484662')
 ;
-INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES
+INSERT INTO hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES 
 ('Опыт работы 1 год 4 месяца','Мужчина','Москва','Стажер-тестировщик',NULL,'https://hh.ru/resume/514662d300041d41c10039ed1f413639555662')
 ,('Ключевые навыки','Мужчина','Москва','Junior C++ Developer',NULL,'https://hh.ru/resume/516b2b0800084d368c0039ed1f775a72694677')
 ,('Опыт работы 5 месяцев','Мужчина','Санкт-Петербург','Стажер Java',NULL,'https://hh.ru/resume/5176a94f0007e8ca740039ed1f4f7879714a67')
@@ -1882,7 +1882,7 @@ INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary
 ,('Опыт работы 11 лет 3 месяца','Женщина','Москва','IT- рекрутер',NULL,'https://hh.ru/resume/51af4b290001cba6a80039ed1f36636c724554')
 ,('Опыт работы 13 лет 10 месяцев','Мужчина','Москва','Fullstack Mobile Developer Team (iOS, Android, Backend, Web)',NULL,'https://hh.ru/resume/51caec49000603e3720039ed1f773049314f59')
 ;
-INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES
+INSERT INTO hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES 
 ('Опыт работы 8 лет 10 месяцев','Мужчина','Саратов','Инженер технической поддержки','60 000 руб.','https://hh.ru/resume/51d47ce20007f820a40039ed1f787056535458')
 ,('Опыт работы 4 года 6 месяцев','Мужчина','Москва','Junior Java developer','40 000 руб.','https://hh.ru/resume/51dabb590006396da90039ed1f454e68303369')
 ,('Work experience 4 years 11 months','Male','Moscow','Sales Manager/Customer Support Specialist',NULL,'https://hh.ru/resume/51e34eb9000729a47d0039ed1f66456c74507a')
@@ -1894,7 +1894,7 @@ INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary
 ,('Опыт работы 19 лет 5 месяцев','Мужчина','Москва','Руководитель отдела разработки, Telecom','250 000 руб.','https://hh.ru/resume/52137c76000257a1500039ed1f706942766576')
 ,('Ключевые навыки','Женщина','Москва','Техник-программист, специалист по тестированию, системный администратор',NULL,'https://hh.ru/resume/521b493f000824b29c0039ed1f72557a486173')
 ;
-INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES
+INSERT INTO hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES 
 ('Опыт работы 3 года 9 месяцев','Женщина','Алматы','Специалист по автотестированию / Тестировщик',NULL,'https://hh.ru/resume/523091f50003ce40e10039ed1f54474f6a7750')
 ,('Ключевые навыки','Мужчина','Москва','Техник-программист','30 000 руб.','https://hh.ru/resume/5233f9e20008258f110039ed1f444d46304e55')
 ,('Опыт работы 3 года 4 месяца','Мужчина','Москва','Junior',NULL,'https://hh.ru/resume/523702ea0002fd70ac0039ed1f767552735450')
@@ -1906,7 +1906,7 @@ INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary
 ,('Опыт работы 17 лет 1 месяц','Мужчина','Алматы','Ведущий инженер-программист','135 000 руб.','https://hh.ru/resume/526596e80003566f9a0039ed1f65576e6f4a57')
 ,('Ключевые навыки','Мужчина','Москва','Junior Java Developer',NULL,'https://hh.ru/resume/526639040008130b4d0039ed1f51764c623742')
 ;
-INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES
+INSERT INTO hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES 
 ('Опыт работы 15 лет','Мужчина','Москва','Специалист по IT, DevOps','140 000 руб.','https://hh.ru/resume/526ab02200057f142d0039ed1f67554f343144')
 ,('Опыт работы 7 лет','Мужчина','Москва','Инженер-конструктор, Инженер, java junior developer',NULL,'https://hh.ru/resume/527b4e500002753e540039ed1f446f326c7342')
 ,('Опыт работы 21 год 1 месяц','Мужчина','Москва','Программист Delphi / SQL',NULL,'https://hh.ru/resume/527e96df0000a4e1690039ed1f736563726574')
@@ -1918,7 +1918,7 @@ INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary
 ,('Ключевые навыки','Мужчина','Москва','Программист - стажер (С++)','45 000 руб.','https://hh.ru/resume/52c8f248000823dc2d0039ed1f554c49797a43')
 ,('Work experience 12 years 2 months','Male','Moscow','QA-Engineer (Automation)',NULL,'https://hh.ru/resume/52d36ca500053aa6310039ed1f5844306b3132')
 ;
-INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES
+INSERT INTO hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES 
 ('Опыт работы 29 лет 9 месяцев','Мужчина','Москва','Ведущий программист 1С','230 000 руб.','https://hh.ru/resume/52d947fd00005295db0039ed1f736563726574')
 ,('Опыт работы 13 лет 10 месяцев','Мужчина','Москва','Java-разработчик',NULL,'https://hh.ru/resume/52dea00b00079628c30039ed1f42673661496a')
 ,('Опыт работы 14 лет 5 месяцев','Мужчина','Москва','программист, Руководитель проектов',NULL,'https://hh.ru/resume/52e60b9c0000bc31aa0039ed1f736563726574')
@@ -1930,7 +1930,7 @@ INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary
 ,('Опыт работы 9 лет','Женщина','Москва','Project Manager',NULL,'https://hh.ru/resume/5323eaf40002c1dd530039ed1f494f30674a63')
 ,('Опыт работы 8 лет 3 месяца','Мужчина','Москва','Java junior',NULL,'https://hh.ru/resume/535826880007a2a4730039ed1f625152784841')
 ;
-INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES
+INSERT INTO hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES 
 ('Ключевые навыки','Мужчина','Донецк (Украина)','Начинающий специалист','500 USD','https://hh.ru/resume/53658af5000773e6950039ed1f52625a456266')
 ,('Ключевые навыки','Мужчина','Мытищи','Python аналитик разработчик',NULL,'https://hh.ru/resume/5370aa3b0004ecd6ac0039ed1f514c644c5866')
 ,('Ключевые навыки','Мужчина','Москва','Программист-стажер',NULL,'https://hh.ru/resume/538e1a87000634df500039ed1f366c6d395a35')
@@ -1942,7 +1942,7 @@ INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary
 ,('Опыт работы 14 лет 11 месяцев','Мужчина','Екатеринбург','Системный администратор, ит - специалист','30 000 руб.','https://hh.ru/resume/53eb9660000286ebc00039ed1f526c304b5041')
 ,('Опыт работы 11 месяцев','Мужчина','Дубна','Android-developer',NULL,'https://hh.ru/resume/53f1fe6f000743b6230039ed1f424264646b79')
 ;
-INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES
+INSERT INTO hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES 
 ('Опыт работы 9 лет 4 месяца','Мужчина','Москва','c#/sql разработчик','250 000 руб.','https://hh.ru/resume/5400bc7c000127974c0039ed1f4d716a6f3752')
 ,('Опыт работы 10 лет 11 месяцев','Мужчина','Москва','Главный специалист','150 000 руб.','https://hh.ru/resume/5403a8db000166ae6a0039ed1f446e75334158')
 ,('Work experience 1 year 6 months','Male','Moscow','Специалист',NULL,'https://hh.ru/resume/540a94a700054a4b4b0039ed1f6a576a64696c')
@@ -1954,7 +1954,7 @@ INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary
 ,('Опыт работы 6 лет 1 месяц','Мужчина','Москва','Программист 1C, Битрикс, Веб-программист, web-мастер','3 500 USD','https://hh.ru/resume/546d79040004fd5c910039ed1f51556b437053')
 ,('Опыт работы 3 года','Женщина','Москва','Руководитель педагогов , Педагог по программированию','60 000 руб.','https://hh.ru/resume/547d8c8500081d5d4c0039ed1f625045556a4e')
 ;
-INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES
+INSERT INTO hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES 
 ('Опыт работы 13 лет 9 месяцев','Мужчина','Москва','Senior Developer/SRE/Team Leader/DevOps Advocate','325 000 руб.','https://hh.ru/resume/548491cb00003dfd710039ed1f736563726574')
 ,('Work experience 17 years 4 months','Male','Moscow','Head of Development, Head of R&D, Head of PM Office, CTO',NULL,'https://hh.ru/resume/549b264c00003b57830039ed1f736563726574')
 ,('Опыт работы 8 лет 11 месяцев','Мужчина','Москва','Менеджер проекта','160 000 руб.','https://hh.ru/resume/54d53fe20005a87e3d0039ed1f636c4342486d')
@@ -1966,7 +1966,7 @@ INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary
 ,('Опыт работы 22 года 6 месяцев','Мужчина','Челябинск','Java-разработчик','100 000 руб.','https://hh.ru/resume/5508e77c0002a97e0b0039ed1f494573537759')
 ,('Опыт работы 5 лет 11 месяцев','Мужчина','Москва','Системный аналитик, Аналитик данных, Математик',NULL,'https://hh.ru/resume/5523eed40005ff9ed20039ed1f4a7678455072')
 ;
-INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES
+INSERT INTO hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES 
 ('Опыт работы 1 год 2 месяца','Женщина','Москва','Гейм-дизайнер','30 000 руб.','https://hh.ru/resume/5526c7350006f5b29e0039ed1f386f644b4b6a')
 ,('Опыт работы 5 лет 11 месяцев','Женщина','Москва','Java Junior','80 000 руб.','https://hh.ru/resume/552a68960003cccf930039ed1f445a42695471')
 ,('Опыт работы 10 лет 9 месяцев','Женщина','Москва','Аналитик',NULL,'https://hh.ru/resume/555fa5770001148dc00039ed1f4c7141494844')
@@ -1978,7 +1978,7 @@ INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary
 ,('Опыт работы 20 лет 1 месяц','Мужчина','Москва','CTO / Директор по IT',NULL,'https://hh.ru/resume/55b9af6e0001e7d2e50039ed1f74706f4f6e76')
 ,('Опыт работы 8 лет 6 месяцев','Мужчина','Москва','Java Junior',NULL,'https://hh.ru/resume/55bd76090003bf27190039ed1f523877384965')
 ;
-INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES
+INSERT INTO hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES 
 ('Опыт работы 2 года 1 месяц','Женщина','Москва','Программист-разработчик','45 000 руб.','https://hh.ru/resume/55caeeaf00081b2fb70039ed1f70475a6f7462')
 ,('Опыт работы 3 месяца','Женщина','Челябинск','Специалист по юзабилити (UX/UI)',NULL,'https://hh.ru/resume/55cf24c000083060440039ed1f6367396c3373')
 ,('Work experience 4 years 6 months','Male','Moscow','Android Developer',NULL,'https://hh.ru/resume/55d03b4b0003ce6c330039ed1f664372467959')
@@ -1990,7 +1990,7 @@ INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary
 ,('Опыт работы 2 года 10 месяцев','Мужчина','Москва','Тестировщик ПО','40 000 руб.','https://hh.ru/resume/5622529000082843320039ed1f444d58613273')
 ,('Work experience 17 years 4 months','Male','Argentina','Java Developer',NULL,'https://hh.ru/resume/562342fd0001361a430039ed1f657766557072')
 ;
-INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES
+INSERT INTO hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES 
 ('Опыт работы 16 лет 1 месяц','Мужчина','Москва','Системный администратор','35 000 руб.','https://hh.ru/resume/565588a90000487a060039ed1f736563726574')
 ,('Опыт работы 10 лет 1 месяц','Мужчина','Москва','Android разработчик','300 000 руб.','https://hh.ru/resume/5665445d00055c258a0039ed1f76445a4e3259')
 ,('Work experience 12 years 9 months','Male','Moscow','CTO, Head of Software Engineering',NULL,'https://hh.ru/resume/5665f8f500085263ae0039ed1f517136555834')
@@ -2002,7 +2002,7 @@ INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary
 ,('Опыт работы 12 лет 9 месяцев','Мужчина','Москва','Начальник отдела по разработке ПО / Product Owner',NULL,'https://hh.ru/resume/56a7f0de000692984c0039ed1f575434456657')
 ,('Опыт работы 10 месяцев','Мужчина','Москва','Программист','50 000 руб.','https://hh.ru/resume/56ac6bec00079730a90039ed1f654454577273')
 ;
-INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES
+INSERT INTO hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES 
 ('Опыт работы 28 лет 9 месяцев','Мужчина','Москва','Программист',NULL,'https://hh.ru/resume/56d0bc01000474aa760039ed1f6f4e59485861')
 ,('Опыт работы 7 лет 5 месяцев','Мужчина','Москва','Программист-разработчик','65 000 руб.','https://hh.ru/resume/56efd9510006bd0a640039ed1f575155517756')
 ,('Опыт работы 12 лет 9 месяцев','Мужчина','Москва','Эксперт xECM OpenText',NULL,'https://hh.ru/resume/56f1d6de0003f1f9510039ed1f655747396b45')
@@ -2014,7 +2014,7 @@ INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary
 ,('Опыт работы 9 лет 2 месяца','Мужчина','Москва','Специалист по тестированию',NULL,'https://hh.ru/resume/57607d4f0003df9af10039ed1f656d486f3448')
 ,('Work experience 27 years 2 months','Male','Moscow','Architect / Leading C/C++ Developer',NULL,'https://hh.ru/resume/57716e2c0000c8fba10039ed1f476c50385268')
 ;
-INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES
+INSERT INTO hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES 
 ('Опыт работы 5 лет 6 месяцев','Мужчина','Москва','Frontend-разработчик','200 000 руб.','https://hh.ru/resume/578359b20007acda290039ed1f784b4b4e4658')
 ,('Опыт работы 9 лет 8 месяцев','Женщина','Москва','Начальник отдела закупок',NULL,'https://hh.ru/resume/57dca3b50006b284fd0039ed1f3862796a7754')
 ,('Опыт работы 7 лет 3 месяца','Мужчина','Москва','BI Lead Developer (JavaScript, NodeJS, Qlik)','300 000 руб.','https://hh.ru/resume/57e1173d00038952e00039ed1f364231796f6b')
@@ -2026,7 +2026,7 @@ INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary
 ,('Опыт работы 8 лет 5 месяцев','Мужчина','Санкт-Петербург','Специалист по работе с клиентами','70 000 руб.','https://hh.ru/resume/582a0c8200014041d90039ed1f4b556e676948')
 ,('Опыт работы 17 лет','Мужчина','Москва','Программист-стажер','40 000 руб.','https://hh.ru/resume/5848e2ad00082e3b8b0039ed1f33616c78596a')
 ;
-INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES
+INSERT INTO hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES 
 ('Опыт работы 9 лет 5 месяцев','Мужчина','Москва','Помощник системного администратора','75 000 руб.','https://hh.ru/resume/584ffb8200076d3a6a0039ed1f61706758344c')
 ,('Ключевые навыки','Мужчина','Москва','Программист',NULL,'https://hh.ru/resume/58595d990007bfe9c30039ed1f50444c517543')
 ,('Опыт работы 20 лет 11 месяцев','Мужчина','Москва','Руководитель IT подразделения, ИТ директор (CIO), руководитель проектов','200 000 руб.','https://hh.ru/resume/587724620003915d040039ed1f4f6273674a57')
@@ -2038,7 +2038,7 @@ INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary
 ,('Опыт работы 1 год 1 месяц','Мужчина','Санкт-Петербург','Junior Android developer','50 000 руб.','https://hh.ru/resume/58f121fc000764c3410039ed1f647944415759')
 ,('Опыт работы 2 года 7 месяцев','Мужчина','Москва','Аналитик','70 000 руб.','https://hh.ru/resume/58f5d17300044eff5e0039ed1f615966344644')
 ;
-INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES
+INSERT INTO hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES 
 ('Опыт работы 4 года 2 месяца','Мужчина','Москва','Разработка программного обеспечения','60 000 руб.','https://hh.ru/resume/58fa5a6b0007998b390039ed1f6d5355537537')
 ,('Опыт работы 7 лет 5 месяцев','Мужчина','Москва','Программист-стажер',NULL,'https://hh.ru/resume/591fd04800080dd7fe0039ed1f6b73726b3643')
 ,('Опыт работы 19 лет 9 месяцев','Мужчина','Москва','Эксперт','130 000 руб.','https://hh.ru/resume/5924a80c00040395e80039ed1f707548696d79')
@@ -2050,7 +2050,7 @@ INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary
 ,('Work experience 9 years','Male','Moscow','Java developer',NULL,'https://hh.ru/resume/5981ef54000603a7ea0039ed1f325772715630')
 ,('Опыт работы 5 лет 8 месяцев','Мужчина','Санкт-Петербург','Научный сотрудник',NULL,'https://hh.ru/resume/598b76e100010f86520039ed1f4c4658485069')
 ;
-INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES
+INSERT INTO hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES 
 ('Опыт работы 5 лет 7 месяцев','Женщина','Москва','IT project manager',NULL,'https://hh.ru/resume/598ff3ff00053982520039ed1f4b48415a7230')
 ,('Опыт работы 6 лет 8 месяцев','Мужчина','Москва','Java developer','30 000 руб.','https://hh.ru/resume/59a10e680007c9e8670039ed1f6e3951586275')
 ,('Опыт работы 13 лет 1 месяц','Мужчина','Москва','Программист-стажер','30 000 руб.','https://hh.ru/resume/59a1cede00076d9a2d0039ed1f586450415671')
@@ -2062,7 +2062,7 @@ INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary
 ,('Опыт работы 10 лет 6 месяцев','Мужчина','Москва','Программист C/С++/Java','100 000 руб.','https://hh.ru/resume/5a154b0f0006cffb5e0039ed1f6f52676e5935')
 ,('Work experience 2 years','Male','Israel','Mobile Application Developer',NULL,'https://hh.ru/resume/6410ed790007f45af40039ed1f3163694c4976')
 ;
-INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES
+INSERT INTO hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES 
 ('Опыт работы 4 года 2 месяца','Мужчина','Сергиев Посад','Java-программист','50 000 руб.','https://hh.ru/resume/5a22e79f000812d2230039ed1f423454445975')
 ,('Опыт работы 6 месяцев','Мужчина','Москва','Аналитик',NULL,'https://hh.ru/resume/5a24db890006ed5f180039ed1f7a325142774b')
 ,('Опыт работы 21 год 1 месяц','Мужчина','Санкт-Петербург','Менеджер проектов / Project manager',NULL,'https://hh.ru/resume/5a288e3600081e2d7a0039ed1f4f766963494e')
@@ -2074,7 +2074,7 @@ INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary
 ,('Опыт работы 2 года 1 месяц','Мужчина','Москва','Стажер-разработчик Android',NULL,'https://hh.ru/resume/5a777f6c0007f8a18a0039ed1f53346a315056')
 ,('Опыт работы 8 лет 3 месяца','Мужчина','Москва','Программист-стажер JAVA','50 000 руб.','https://hh.ru/resume/5a845615000690a1b80039ed1f6551624b3533')
 ;
-INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES
+INSERT INTO hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES 
 ('Опыт работы 3 года 4 месяца','Мужчина','Москва','Руководитель направления','200 000 руб.','https://hh.ru/resume/5a8a496d0000f72c140039ed1f766b79314832')
 ,('Опыт работы 10 лет 8 месяцев','Мужчина','Москва','Ведущий программист, руководитель проектов 1C.','250 000 руб.','https://hh.ru/resume/5a9099520000dd44fb0039ed1f614c4e764a6c')
 ,('Опыт работы 10 месяцев','Мужчина','Москва','Программист-разработчик','50 000 руб.','https://hh.ru/resume/5aa4668d00081265180039ed1f6a7970786552')
@@ -2086,7 +2086,7 @@ INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary
 ,('Опыт работы 8 лет 6 месяцев','Мужчина','Москва','SEO-специалист','150 000 руб.','https://hh.ru/resume/5b1cdfed00024871a40039ed1f776576493478')
 ,('Опыт работы 11 лет 7 месяцев','Женщина','Москва','HR Director/HR Manager',NULL,'https://hh.ru/resume/5b20736c000733be6a0039ed1f637268583674')
 ;
-INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES
+INSERT INTO hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES 
 ('Опыт работы 11 лет 9 месяцев','Мужчина','Москва','Тест-менеджер/ Руководитель группы тестирования/ Руководитель направления по тестированию',NULL,'https://hh.ru/resume/5b22345f00055584d70039ed1f6c586355564a')
 ,('Опыт работы 12 лет 11 месяцев','Мужчина','Москва','Ведущий разработчик C++','200 000 руб.','https://hh.ru/resume/5b2d721e0003401fda0039ed1f555076627048')
 ,('Опыт работы 13 лет 4 месяца','Мужчина','Подольск (Московская область)','Специалист ИТ,TechOps "DevOps/ SREOps"',NULL,'https://hh.ru/resume/5b36227400017125420039ed1f4f6956724b59')
@@ -2098,7 +2098,7 @@ INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary
 ,('Опыт работы 7 лет 3 месяца','Мужчина','Ростов-на-Дону','специалист информационной безопасности / программист',NULL,'https://hh.ru/resume/5b8aba0c0007bfddad0039ed1f346e61596338')
 ,('Опыт работы 4 года 8 месяцев','Мужчина','Москва','Junior Java-разработчик/Junior Java Developer',NULL,'https://hh.ru/resume/5b8d3d3300083c11c60039ed1f573561394c79')
 ;
-INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES
+INSERT INTO hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES 
 ('Опыт работы 17 лет 11 месяцев','Мужчина','Москва','Администратор SQL (2005,2008,2012) (SSIS,SSRS,SSAS)','200 000 руб.','https://hh.ru/resume/5b91338700004c99e20039ed1f736563726574')
 ,('Опыт работы 20 лет 2 месяца','Мужчина','Москва','Системный аналитик-программист','50 000 руб.','https://hh.ru/resume/5bc755930007ed3b2e0039ed1f776530375254')
 ,('Опыт работы 10 месяцев','Мужчина','Москва','junior разработчик/ Аналитик','40 000 руб.','https://hh.ru/resume/5bc9217a000479d05b0039ed1f7753696a4871')
@@ -2110,7 +2110,7 @@ INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary
 ,('Опыт работы 2 года 11 месяцев','Мужчина','Москва','Программист',NULL,'https://hh.ru/resume/5c0daf5f00053581070039ed1f556a336e6157')
 ,('Опыт работы 8 лет 5 месяцев','Мужчина','Москва','Системный аналитик АБС ЦФТ','200 000 руб.','https://hh.ru/resume/5c1795cd000470de7a0039ed1f47396a6c5564')
 ;
-INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES
+INSERT INTO hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES 
 ('Опыт работы 15 лет 6 месяцев','Женщина','Москва','веб-мастер, веб-аналитик, сео-оптимизатор','67 000 руб.','https://hh.ru/resume/5c1cb6c5000063a1260039ed1f736563726574')
 ,('Опыт работы 5 лет 8 месяцев','Мужчина','Москва','Руководитель отдела аналитики / маркетинга','200 000 руб.','https://hh.ru/resume/5c201ec90003b0726d0039ed1f764449624875')
 ,('Опыт работы 1 год 10 месяцев','Мужчина','Великий Новгород','Frontend developer','100 000 руб.','https://hh.ru/resume/5c38efbb0006d9b85b0039ed1f613150366d36')
@@ -2122,7 +2122,7 @@ INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary
 ,('Опыт работы 8 лет 10 месяцев','Мужчина','Москва','Account manager, Менеджер по работе с клиентами, Руководитель отдела',NULL,'https://hh.ru/resume/5c822ce2000113b3a10039ed1f6a7254466873')
 ,('Опыт работы 37 лет 2 месяца','Женщина','Москва','Главный бухгалтер, экономист, финансист.','120 000 руб.','https://hh.ru/resume/5c9125950002a176f50039ed1f726c586d3339')
 ;
-INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES
+INSERT INTO hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES 
 ('Опыт работы 4 года 1 месяц','Мужчина','Москва','Программист Java (Стажер-начинающий)',NULL,'https://hh.ru/resume/5c958d0600072ef8860039ed1f796178633035')
 ,('Опыт работы 3 года 10 месяцев','Мужчина','Москва','Инженер по тестированию / QA Engineer',NULL,'https://hh.ru/resume/5c9dfd5000033bdea10039ed1f56416a784963')
 ,('Опыт работы 16 лет 5 месяцев','Мужчина','Москва','Менеджер проектов, Технический Директор','180 000 руб.','https://hh.ru/resume/5ca1ee0200007185d00039ed1f736563726574')
@@ -2134,7 +2134,7 @@ INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary
 ,('Опыт работы 6 лет 9 месяцев','Мужчина','Москва','Инженер','80 000 руб.','https://hh.ru/resume/5d005c4f000515c3490039ed1f784830437474')
 ,('Work experience 6 years 10 months','Male','Moscow','QA Engineer / DevOps','2 500 USD','https://hh.ru/resume/5d0f70ba00085334180039ed1f374f71396b6a')
 ;
-INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES
+INSERT INTO hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES 
 ('Опыт работы 34 года 9 месяцев','Мужчина','Москва','Системный администратор Linux','150 000 руб.','https://hh.ru/resume/5d19a3f800014bab500039ed1f61736b6a4273')
 ,('Work experience 5 years 11 months','Male','Moscow','Java-разработчик',NULL,'https://hh.ru/resume/5d2d76660002e8bb280039ed1f48684e723870')
 ,('Ключевые навыки','Мужчина','Москва','Java-разработчик','30 000 руб.','https://hh.ru/resume/5d30e1d0000802fd280039ed1f5236426f4233')
@@ -2146,7 +2146,7 @@ INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary
 ,('Опыт работы 2 года 9 месяцев','Мужчина','Москва','UX/UI дизайнер','50 000 руб.','https://hh.ru/resume/5d85bdc900045523d50039ed1f316431383352')
 ,('Опыт работы 5 лет 4 месяца','Мужчина','Москва','Системный администратор','70 000 руб.','https://hh.ru/resume/5d894c350002a8a6690039ed1f6c5a52323754')
 ;
-INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES
+INSERT INTO hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES 
 ('Опыт работы 8 месяцев','Мужчина','Севастополь','Программист-разработчик',NULL,'https://hh.ru/resume/5d90ca1800060b4de00039ed1f34626944704d')
 ,('Work experience 3 years 4 months','Male','Moscow','C++/Python Software Developer','175 000 RUB','https://hh.ru/resume/5d93c2c200026377b10039ed1f5045716e7549')
 ,('Опыт работы 16 лет 1 месяц','Мужчина','Алматы','Программист-разработчик','550 000 KZT','https://hh.ru/resume/5d94001f0003d16c460039ed1f587836706845')
@@ -2158,7 +2158,7 @@ INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary
 ,('Опыт работы 18 лет 2 месяца','Мужчина','Челябинск','Руководитель по направлениям ИТ.',NULL,'https://hh.ru/resume/5e05469f0002433e340039ed1f78454269526c')
 ,('Опыт работы 5 лет 7 месяцев','Женщина','Москва','Инженер',NULL,'https://hh.ru/resume/5e08c09f000774c5ed0039ed1f6141776a4858')
 ;
-INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES
+INSERT INTO hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES 
 ('Ключевые навыки','Мужчина','Москва','Junior Java программист',NULL,'https://hh.ru/resume/5e12f6d20007f25eff0039ed1f4e4d71454d70')
 ,('Опыт работы 28 лет 2 месяца','Мужчина','Москва','Инженер-программист',NULL,'https://hh.ru/resume/5e1c81af00051f30ab0039ed1f694734456639')
 ,('Опыт работы 2 года 10 месяцев','Мужчина','Москва','Инженер-разработчик','60 000 руб.','https://hh.ru/resume/5e39ea4800074f67540039ed1f49544c613042')
@@ -2170,7 +2170,7 @@ INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary
 ,('Опыт работы 16 лет 10 месяцев','Мужчина','Москва','Руководитель IT проектов','130 000 руб.','https://hh.ru/resume/5eb4783e000011b3540039ed1f736563726574')
 ,('Work experience 14 years 10 months','Male','Moscow','Developer/Software engineer',NULL,'https://hh.ru/resume/5eb895ca0000cee84d0039ed1f366176313949')
 ;
-INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES
+INSERT INTO hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES 
 ('Опыт работы 3 года 5 месяцев','Мужчина','Баку','Программист JavaScript',NULL,'https://hh.ru/resume/5eb8ef4c000846fdef0039ed1f574f49576263')
 ,('Опыт работы 12 лет 3 месяца','Мужчина','Москва','Head of DevOps\ Head of Systemadministrators','5 500 USD','https://hh.ru/resume/5ec430d100023c4e2a0039ed1f7a5135393471')
 ,('Ключевые навыки','Мужчина','Москва','Программист Java',NULL,'https://hh.ru/resume/5edb84b900076f5ef60039ed1f3258576b736e')
@@ -2182,7 +2182,7 @@ INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary
 ,('Ключевые навыки','Мужчина','Москва','Junior Java developer',NULL,'https://hh.ru/resume/5f347a470008358ee80039ed1f554b5a43304b')
 ,('Опыт работы 12 лет 9 месяцев','Мужчина','Москва','Junior Java разработчик / стажер','25 000 руб.','https://hh.ru/resume/5f34e5d800083d010c0039ed1f745669776449')
 ;
-INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES
+INSERT INTO hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES 
 ('Опыт работы 2 месяца','Женщина','Москва','Программист',NULL,'https://hh.ru/resume/5f4145bf000779858d0039ed1f6a4839517063')
 ,('Work experience 10 years 1 month','Male','Cherepovets','Senior Software Engineer / Tech lead','6 000 USD','https://hh.ru/resume/5f50430500013e131c0039ed1f39496b466d41')
 ,('Опыт работы 18 лет 2 месяца','Мужчина','Москва','Программист',NULL,'https://hh.ru/resume/5f6532600005066bc60039ed1f766f6b34435a')
@@ -2194,7 +2194,7 @@ INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary
 ,('Опыт работы 1 год 2 месяца','Мужчина','Москва','Junior Android разработчик','70 000 руб.','https://hh.ru/resume/5fb0cec1000758559f0039ed1f4b344d64354f')
 ,('Опыт работы 7 лет 4 месяца','Мужчина','Санкт-Петербург','Специалист','65 000 руб.','https://hh.ru/resume/5fc40bcc000336ecec0039ed1f79554c39396d')
 ;
-INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES
+INSERT INTO hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES 
 ('Ключевые навыки','Мужчина','Саратов','Android developer',NULL,'https://hh.ru/resume/5fe96403000770090e0039ed1f46534753416d')
 ,('Ключевые навыки','Мужчина','Москва','Junior Java Developer\Младший Java Разработчик',NULL,'https://hh.ru/resume/5ff0fc690007df6a1e0039ed1f6a6d75636d4b')
 ,('Опыт работы 1 год 1 месяц','Мужчина','Санкт-Петербург','Java developer',NULL,'https://hh.ru/resume/602a959f0007e833340039ed1f644f41456230')
@@ -2206,7 +2206,7 @@ INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary
 ,('Опыт работы 1 год 7 месяцев','Мужчина','Орел','Тестировщик ПО','65 000 руб.','https://hh.ru/resume/608d385e00059e7be30039ed1f4841364f6950')
 ,('Опыт работы 15 лет 7 месяцев','Мужчина','Нур-Султан','Full Stack Developer (PHP/Yii/Simfony)','3 000 USD','https://hh.ru/resume/6097d95800039ff6130039ed1f593447616d6f')
 ;
-INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES
+INSERT INTO hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES 
 ('Опыт работы 7 месяцев','Мужчина','Москва','Android разработчик',NULL,'https://hh.ru/resume/60992c1c0004394ed70039ed1f67334c574976')
 ,('Опыт работы 4 года 1 месяц','Мужчина','Хабаровск','ИТ-специалист',NULL,'https://hh.ru/resume/60aafd8d000537b8670039ed1f59736e306156')
 ,('Опыт работы 3 месяца','Мужчина','Москва','Интерн разработчик','30 000 руб.','https://hh.ru/resume/60bbf43a0006e04fb00039ed1f4f6c6f4e3031')
@@ -2218,7 +2218,7 @@ INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary
 ,('Ключевые навыки','Женщина','Москва','Инженер-программист',NULL,'https://hh.ru/resume/6142d52a0006cd471a0039ed1f46726d6a4444')
 ,('Ключевые навыки','Женщина','Москва','Frontend-разработчик, HTML-верстальщик',NULL,'https://hh.ru/resume/615fda2d000812aa0b0039ed1f31315a436974')
 ;
-INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES
+INSERT INTO hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES 
 ('Опыт работы 17 лет 1 месяц','Мужчина','Москва','Back-end web developer (PHP)',NULL,'https://hh.ru/resume/61768e4000011754300039ed1f70646e757878')
 ,('Опыт работы 18 лет 10 месяцев','Мужчина','Москва','Специалист по Sharepoint и Power Apps/Power Automate (MS flow)','150 000 руб.','https://hh.ru/resume/618616e1000458e2df0039ed1f4a566449637a')
 ,('Опыт работы 18 лет 5 месяцев','Мужчина','Москва','Руководитель проектов или разработки ПО',NULL,'https://hh.ru/resume/6189c3ed000051e39d0039ed1f736563726574')
@@ -2230,7 +2230,7 @@ INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary
 ,('Опыт работы 3 года 1 месяц','Женщина','Москва','Инженер',NULL,'https://hh.ru/resume/61c3aef30002f738d20039ed1f4e306c6f7971')
 ,('Опыт работы 5 лет 1 месяц','Мужчина','Новополоцк','Developer (ASP.NET, Android, SQL)',NULL,'https://hh.ru/resume/61c5b50f00040ba58d0039ed1f426b4d55534c')
 ;
-INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES
+INSERT INTO hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES 
 ('Опыт работы 7 лет 7 месяцев','Мужчина','Мирный (Республика Саха (Якутия))','Ведущий инженер-программист','120 000 руб.','https://hh.ru/resume/61da00340004add8cf0039ed1f533931554e31')
 ,('Ключевые навыки','Мужчина','Москва','Начинающий Java-разработчик',NULL,'https://hh.ru/resume/61e17a2f0007f8552e0039ed1f444864343269')
 ,('Опыт работы 3 года 6 месяцев','Мужчина','Москва','Инженер-программист','150 000 руб.','https://hh.ru/resume/62067fa50002edae190039ed1f62763350424a')
@@ -2242,7 +2242,7 @@ INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary
 ,('Опыт работы 11 лет 4 месяца','Мужчина','Краснодар','Ведущий инженер','100 000 руб.','https://hh.ru/resume/6264da2f00020087240039ed1f765749745932')
 ,('Опыт работы 18 лет 4 месяца','Мужчина','Москва','программист IBM (Lotus) Notes\Domino',NULL,'https://hh.ru/resume/6265cdd500022df3b30039ed1f32594e7a5736')
 ;
-INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES
+INSERT INTO hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES 
 ('Опыт работы 18 лет 1 месяц','Мужчина','Москва','Инженер-программист','70 000 руб.','https://hh.ru/resume/629b3a650007387cea0039ed1f433065434578')
 ,('Work experience 16 years 7 months','Male','Moscow','CTO, Java architect - startups are welcome','5 500 USD','https://hh.ru/resume/62a5de9e0001ace29f0039ed1f6548784b7946')
 ,('Опыт работы 22 года 8 месяцев','Мужчина','Москва','Software Architect',NULL,'https://hh.ru/resume/62aa227500000a26c00039ed1f736563726574')
@@ -2254,7 +2254,7 @@ INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary
 ,('Опыт работы 9 месяцев','Женщина','Москва','Java Junior','60 000 руб.','https://hh.ru/resume/62e370370007bd45ca0039ed1f6f4d41307475')
 ,('Опыт работы 22 года','Мужчина','Москва','Руководитель ИТ-разработки (team lead), ведущий разработчик, системный архитектор','160 000 руб.','https://hh.ru/resume/62e37a870000003b410039ed1f736563726574')
 ;
-INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES
+INSERT INTO hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES 
 ('Опыт работы 3 года 8 месяцев','Мужчина','Москва','Рекрутер / HR Специалист по поиску и отбору экспертов','60 000 руб.','https://hh.ru/resume/62ec237200082586580039ed1f64566e693564')
 ,('Опыт работы 14 лет 5 месяцев','Мужчина','Ужгород','Data scientist, .net and ML engineer','4 500 EUR','https://hh.ru/resume/62ef72540002440d3c0039ed1f46764e397141')
 ,('Опыт работы 1 год 11 месяцев','Мужчина','Кемерово','Инженер','55 000 руб.','https://hh.ru/resume/62f89b100003797e0b0039ed1f6f4f6d744966')
@@ -2266,7 +2266,7 @@ INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary
 ,('Ключевые навыки','Мужчина','Москва','Начинающий специалист',NULL,'https://hh.ru/resume/6378e7ac000771c8aa0039ed1f307373736c45')
 ,('Опыт работы 11 лет 1 месяц','Мужчина','Москва','Аналитик по оптимизации бизнес процессов ДБО','250 000 руб.','https://hh.ru/resume/63838c9d0000a945ef0039ed1f736563726574')
 ;
-INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES
+INSERT INTO hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES 
 ('Опыт работы 26 лет 5 месяцев','Мужчина','Москва','Сетевой инженер',NULL,'https://hh.ru/resume/63acdc7e0000643d220039ed1f736563726574')
 ,('Опыт работы 11 лет 3 месяца','Мужчина','Павловский Посад','💪😉Директолог 👉 Увеличу количество заявок, снижу их стоимость!⚡️','90 000 руб.','https://hh.ru/resume/63cd2c61000826c7c70039ed1f764147463041')
 ,('Опыт работы 2 года 7 месяцев','Мужчина','Москва','Тестировщик программного обеспечения junior QA',NULL,'https://hh.ru/resume/63ce49df0007f10cd70039ed1f6d50366e3477')
@@ -2278,7 +2278,7 @@ INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary
 ,('Опыт работы 10 лет 1 месяц','Мужчина','Москва','Специалист технической поддержки','60 000 руб.','https://hh.ru/resume/6409abcb00075dcff20039ed1f43317a5a6b44')
 ,('Опыт работы 18 лет 9 месяцев','Мужчина','Сургут','Ведущий инженер-программист, ведущий инженер, руководитель группы разработчиков',NULL,'https://hh.ru/resume/640c72e200073640de0039ed1f554d59763036')
 ;
-INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES
+INSERT INTO hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES 
 ('Опыт работы 5 лет 7 месяцев','Мужчина','Воронеж','Java-программист',NULL,'https://hh.ru/resume/6412d56e0002a42cab0039ed1f626a514f5376')
 ,('Опыт работы 3 года','Мужчина','Москва','Junior QA automation engineer',NULL,'https://hh.ru/resume/6428d5dd00083f8bd90039ed1f6458686f5852')
 ,('Опыт работы 2 года 11 месяцев','Мужчина','Москва','Инженер-программист',NULL,'https://hh.ru/resume/64382a11000553d3a60039ed1f46446d633647')
@@ -2290,7 +2290,7 @@ INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary
 ,('Опыт работы 6 лет 11 месяцев','Мужчина','Москва','Программист',NULL,'https://hh.ru/resume/6494ee4c000139596a0039ed1f474776363462')
 ,('Опыт работы 8 лет 4 месяца','Мужчина','Москва','Интернет маркетолог','110 000 руб.','https://hh.ru/resume/649ff04e000787048e0039ed1f59705659305a')
 ;
-INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES
+INSERT INTO hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES 
 ('Work experience 17 years 1 month','Male','Nizhny Novgorod','CTO, Product Owner, Scrum-Master, Project Manager',NULL,'https://hh.ru/resume/64b01300000328c7660039ed1f757565626755')
 ,('Опыт работы 9 лет 9 месяцев','Мужчина','Москва','Мастер по ремонту электроники.',NULL,'https://hh.ru/resume/64b02b67000467f27d0039ed1f5a7172755655')
 ,('Опыт работы 7 лет 9 месяцев','Мужчина','Москва','Главный специалист','115 000 руб.','https://hh.ru/resume/64b427600003ae34fa0039ed1f5956566e6663')
@@ -2302,7 +2302,7 @@ INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary
 ,('Опыт работы 4 месяца','Мужчина','Москва','Начинающий специалист (Архитектор)','30 000 руб.','https://hh.ru/resume/64e863b100065fd41d0039ed1f394b31514e56')
 ,('Work experience 4 years 3 months','Female','Moscow','Project Manager',NULL,'https://hh.ru/resume/64f86edf000706c0490039ed1f6f6d474d6d30')
 ;
-INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES
+INSERT INTO hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES 
 ('Опыт работы 4 года 2 месяца','Мужчина','Москва','Инженер','55 000 руб.','https://hh.ru/resume/64fd9387000571e1bf0039ed1f7559724d6776')
 ,('Опыт работы 7 лет','Мужчина','Москва','Программист Java','100 000 руб.','https://hh.ru/resume/64fffb2600078d22b80039ed1f56654f617238')
 ,('Опыт работы 20 лет 6 месяцев','Мужчина','Москва','Ведущий/старший аналитик','220 000 руб.','https://hh.ru/resume/6501ccfd00081f5ded0039ed1f7750504c4b7a')
@@ -2314,7 +2314,7 @@ INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary
 ,('Опыт работы 2 года 4 месяца','Мужчина','Талдыкорган','Junior Java',NULL,'https://hh.ru/resume/657e9e5b0002f3aa810039ed1f777146567a4a')
 ,('Опыт работы 10 лет 1 месяц','Мужчина','Москва','Методист-разработчик онлайн курсов по информатике','40 000 руб.','https://hh.ru/resume/658a602900073dfb160039ed1f6c463578795a')
 ;
-INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES
+INSERT INTO hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES 
 ('Опыт работы 3 года 5 месяцев','Мужчина','Москва','Системный администратор','70 000 руб.','https://hh.ru/resume/6594b6fe0004f4ee5b0039ed1f493372373275')
 ,('Опыт работы 14 лет','Мужчина','Москва','ГИП','200 000 руб.','https://hh.ru/resume/659b3ba30001658b760039ed1f6f6c6f306530')
 ,('Опыт работы 6 месяцев','Женщина','Санкт-Петербург','Java Developer',NULL,'https://hh.ru/resume/659fb00900076fe0830039ed1f484670415877')
@@ -2326,7 +2326,7 @@ INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary
 ,('Опыт работы 18 лет 6 месяцев','Мужчина','Москва','SAP BASIS консультант',NULL,'https://hh.ru/resume/65c8c31100029a07800039ed1f78336a353736')
 ,('Опыт работы 10 лет 6 месяцев','Мужчина','Москва','Менеджер по продажам',NULL,'https://hh.ru/resume/65d342a200027178c30039ed1f66465833684a')
 ;
-INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES
+INSERT INTO hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES 
 ('Ключевые навыки','Мужчина','Москва','Программист Java',NULL,'https://hh.ru/resume/65e17d4200080b6c1a0039ed1f6c6f6d38586b')
 ,('Ключевые навыки','Мужчина','Москва','Java-программист','60 000 руб.','https://hh.ru/resume/65e6589600081c44e40039ed1f485a72476962')
 ,('Опыт работы 15 лет 5 месяцев','Мужчина','Чехов','Руководитель, ИТ-специалист, DevOps, системный администратор',NULL,'https://hh.ru/resume/65e951a400002f62040039ed1f736563726574')
@@ -2338,7 +2338,7 @@ INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary
 ,('Опыт работы 10 лет 11 месяцев','Мужчина','Москва','Программист Delphi, SQL',NULL,'https://hh.ru/resume/660eb3920007eb40780039ed1f4661706a696b')
 ,('Опыт работы 24 года 3 месяца','Мужчина','Москва','Технический директор / CTO / ИТ Директор','500 000 руб.','https://hh.ru/resume/660eee6a0000438a960039ed1f736563726574')
 ;
-INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES
+INSERT INTO hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES 
 ('Опыт работы 6 лет 3 месяца','Мужчина','Москва','Слесарь-сборщик','35 000 руб.','https://hh.ru/resume/6612c7f200074cfe9b0039ed1f6e5062535674')
 ,('Опыт работы 26 лет 1 месяц','Мужчина','Москва','Web-мастер, HTML-верстальщик',NULL,'https://hh.ru/resume/661d40f10000e274c50039ed1f787771633462')
 ,('Опыт работы 3 года 1 месяц','Мужчина','Санкт-Петербург','Data Scientist/Researcher','200 000 руб.','https://hh.ru/resume/6630afc80002c0b7020039ed1f48694f457131')
@@ -2350,7 +2350,7 @@ INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary
 ,('Опыт работы 12 лет 8 месяцев','Мужчина','Москва','QA-специалист','120 000 руб.','https://hh.ru/resume/668940ce00014a63230039ed1f443061613146')
 ,('Work experience 4 years 4 months','Male','Moscow','Developer',NULL,'https://hh.ru/resume/668e43380007b5c2b70039ed1f6d5143783545')
 ;
-INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES
+INSERT INTO hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES 
 ('Опыт работы 6 месяцев','Мужчина','Москва','Инженер по тестированию',NULL,'https://hh.ru/resume/669f957a000851e43d0039ed1f795365543378')
 ,('Опыт работы 2 года 6 месяцев','Мужчина','Москва','Frontend JS Developer',NULL,'https://hh.ru/resume/66af3fd500083d32040039ed1f796975554e6e')
 ,('Опыт работы 12 лет 9 месяцев','Женщина','Москва','Бизнес контролёр / Финансовый менеджер / Бизнес партнёр',NULL,'https://hh.ru/resume/66b9d999000186dcdc0039ed1f7a3668766578')
@@ -2362,7 +2362,7 @@ INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary
 ,('Опыт работы 7 лет 8 месяцев','Мужчина','Москва','Монтажник РЭА и приборов','50 000 руб.','https://hh.ru/resume/671a3a2f00031404fe0039ed1f586f4c395346')
 ,('Опыт работы 22 года 10 месяцев','Женщина','Москва','Технический специалист по цифровизации некоммерческой организации (НКО)',NULL,'https://hh.ru/resume/671c5204000838d88b0039ed1f6b475755336b')
 ;
-INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES
+INSERT INTO hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES 
 ('Опыт работы 4 года 4 месяца','Мужчина','Москва','DevOps',NULL,'https://hh.ru/resume/6725e4e10002e269970039ed1f495039664252')
 ,('Опыт работы 9 лет','Мужчина','Москва','Менеджер IT проекта, E-commerce, Управляющий','80 000 руб.','https://hh.ru/resume/675953d00001b6ff760039ed1f484878553162')
 ,('Опыт работы 1 год 9 месяцев','Мужчина','Москва','UX/UI Designer',NULL,'https://hh.ru/resume/675eb54d00083693580039ed1f525a65695358')
@@ -2374,7 +2374,7 @@ INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary
 ,('Опыт работы 10 лет 5 месяцев','Мужчина','Москва','Инженер технической поддержки',NULL,'https://hh.ru/resume/67dd4d740003d2acf10039ed1f455858774138')
 ,('Опыт работы 11 лет 2 месяца','Мужчина','Москва','Senior backend develor','250 000 руб.','https://hh.ru/resume/67e199ed0002bac2070039ed1f39565a396868')
 ;
-INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES
+INSERT INTO hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES 
 ('Опыт работы 1 год 11 месяцев','Мужчина','Москва','Тестировщик','70 000 руб.','https://hh.ru/resume/67e691a00007f9e0e90039ed1f554d43455944')
 ,('Опыт работы 8 лет 9 месяцев','Мужчина','Москва','Программист Python',NULL,'https://hh.ru/resume/680acac30003ee3f970039ed1f577944375631')
 ,('Ключевые навыки','Мужчина','Минск','Java Developer',NULL,'https://hh.ru/resume/680e85d7000803aa420039ed1f545a7855544b')
@@ -2386,7 +2386,7 @@ INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary
 ,('Опыт работы 5 лет 4 месяца','Мужчина','Москва','Junior Frontend Developer',NULL,'https://hh.ru/resume/68b8b54900031e416b0039ed1f7a7672556e77')
 ,('Work experience 1 year 8 months','Female','Nizhny Novgorod','Software developer',NULL,'https://hh.ru/resume/68d28f26000833c5d40039ed1f59346f46624c')
 ;
-INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES
+INSERT INTO hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES 
 ('Опыт работы 1 год 8 месяцев','Мужчина','Москва','Junior Java Developer','60 000 руб.','https://hh.ru/resume/68e2b11f0005481e470039ed1f597947783732')
 ,('Опыт работы 13 лет','Мужчина','Санкт-Петербург','CIO (chief information officer) / IT Business Partner','250 000 руб.','https://hh.ru/resume/68ece83700074503220039ed1f317576357a78')
 ,('Опыт работы 1 год 10 месяцев','Мужчина','Москва','JavaScript full stack developer',NULL,'https://hh.ru/resume/68f2008900076d57ed0039ed1f735970706a38')
@@ -2398,7 +2398,7 @@ INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary
 ,('Опыт работы 7 лет 1 месяц','Мужчина','Москва','Аналитик',NULL,'https://hh.ru/resume/697729ba0007f2fd8d0039ed1f5854726d5136')
 ,('Опыт работы 5 лет 8 месяцев','Мужчина','Новосибирск','Аналитик',NULL,'https://hh.ru/resume/6977cfd600074576520039ed1f7972616d644d')
 ;
-INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES
+INSERT INTO hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES 
 ('Ключевые навыки','Мужчина','Москва','Junior Android developer',NULL,'https://hh.ru/resume/697c689f00083a799c0039ed1f72493844624b')
 ,('Опыт работы 2 года','Мужчина','Алматы','Java-разработчик',NULL,'https://hh.ru/resume/6984bc1c00051dff230039ed1f4c45414e7251')
 ,('Опыт работы 10 лет 11 месяцев','Мужчина','Москва','Тестировщик ПО/QA Engineer (Junior)',NULL,'https://hh.ru/resume/698d16a900080091fd0039ed1f456f5137366a')
@@ -2410,7 +2410,7 @@ INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary
 ,('Опыт работы 1 год 3 месяца','Мужчина','Москва','IOS разработчик',NULL,'https://hh.ru/resume/69ec71d60007e45f2a0039ed1f393070455941')
 ,('Опыт работы 8 лет 7 месяцев','Мужчина','Москва','Adminstrator, Technology Trainer, Freelance Android/Web Developer, Fluent in English and Hindi','50 000 руб.','https://hh.ru/resume/69ee0774000757aba20039ed1f77496b4c3836')
 ;
-INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES
+INSERT INTO hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES 
 ('Опыт работы 2 года 4 месяца','Мужчина','Москва','Data Scientist','70 000 руб.','https://hh.ru/resume/6a05eb590007ae8aa00039ed1f326153625577')
 ,('Ключевые навыки','Мужчина','Москва','Начинающий специалист',NULL,'https://hh.ru/resume/6a2a203f0008137a550039ed1f316c70335967')
 ,('Опыт работы 3 года 6 месяцев','Мужчина','Москва','Junior Java','50 000 руб.','https://hh.ru/resume/6a2bf4810008260b8b0039ed1f30513550596d')
@@ -2422,7 +2422,7 @@ INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary
 ,('Опыт работы 3 года 6 месяцев','Мужчина','Москва','Программист','40 000 руб.','https://hh.ru/resume/6a7d6deb000729f7100039ed1f4b4a50763074')
 ,('Work experience 14 years 10 months','Male','Moscow','CTO',NULL,'https://hh.ru/resume/6a86a0e000009ae35b0039ed1f736563726574')
 ;
-INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES
+INSERT INTO hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES 
 ('Опыт работы 32 года 5 месяцев','Мужчина','Москва','Ведущий программист','180 000 руб.','https://hh.ru/resume/6a8e866600034b085e0039ed1f757847783552')
 ,('Опыт работы 9 лет','Мужчина','Москва','Руководитель IT-отдела',NULL,'https://hh.ru/resume/6a93ebeb0002f9c6470039ed1f775079657371')
 ,('Опыт работы 3 года 6 месяцев','Мужчина','Москва','Java-программист',NULL,'https://hh.ru/resume/6a966d1f0003b692920039ed1f4f463967386b')
@@ -2434,7 +2434,7 @@ INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary
 ,('Опыт работы 1 год 7 месяцев','Мужчина','Москва','Начинающий экономист-финансовый аналитик',NULL,'https://hh.ru/resume/6adbe2920005637e500039ed1f4d6d6c557570')
 ,('Ключевые навыки','Мужчина','Москва','Стажер-аналитик',NULL,'https://hh.ru/resume/6ae5b86a00082e3cc30039ed1f426657387a31')
 ;
-INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES
+INSERT INTO hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES 
 ('Опыт работы 4 года 2 месяца','Мужчина','Москва','Senior Java Developer',NULL,'https://hh.ru/resume/6af03f4900066d69c90039ed1f536e69764937')
 ,('Опыт работы 3 года 7 месяцев','Мужчина','Москва','Веб-разработчик','26 000 руб.','https://hh.ru/resume/6afb023900078a0bf10039ed1f46796d435774')
 ,('Ключевые навыки','Мужчина','Москва','Junior Programmer','30 000 руб.','https://hh.ru/resume/6b005ce900076024ac0039ed1f74616a556c42')
@@ -2446,7 +2446,7 @@ INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary
 ,('Ключевые навыки','Мужчина','Москва','Программист С# .NET (Junior)',NULL,'https://hh.ru/resume/6b5e5e5800081380ff0039ed1f4d426c417930')
 ,('Опыт работы 6 лет 1 месяц','Мужчина','Москва','Frontend-разработчик','60 000 руб.','https://hh.ru/resume/6ba3146d0007170de90039ed1f7a6976314a52')
 ;
-INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES
+INSERT INTO hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES 
 ('Опыт работы 37 лет 4 месяца','Мужчина','Москва','Специалист iSeries (AS/400), Руководитель IT подразделения, админинистратор iSeries, программист.','240 000 руб.','https://hh.ru/resume/6bd03e7e0000eea4e60039ed1f6b3331754858')
 ,('Опыт работы 14 лет 6 месяцев','Мужчина','Москва','Архитектор решений',NULL,'https://hh.ru/resume/6bd2d0500005c54b8e0039ed1f303859307053')
 ,('Опыт работы 1 год 3 месяца','Женщина','Москва','Бэкенд-разработчик','60 000 руб.','https://hh.ru/resume/6bd6b952000729d98c0039ed1f4b5958737278')
@@ -2458,7 +2458,7 @@ INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary
 ,('Опыт работы 7 лет 1 месяц','Женщина','Москва','Программист-разработчик',NULL,'https://hh.ru/resume/6c1588740007ee4ef40039ed1f6755676d4271')
 ,('Опыт работы 1 год 6 месяцев','Мужчина','Москва','Junior Android разработчик','50 000 руб.','https://hh.ru/resume/6c1abd2a00082b6d910039ed1f55686d794747')
 ;
-INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES
+INSERT INTO hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES 
 ('Опыт работы 11 лет 11 месяцев','Мужчина','Уфа','Web-программист,Web -developer,Связист,Разработчик геоинформационных систем,Аналитик +79061010000','36 000 руб.','https://hh.ru/resume/6c2966a300013cc1470039ed1f4a3062416f63')
 ,('Опыт работы 4 года 8 месяцев','Мужчина','Воронеж','Java-разработчик',NULL,'https://hh.ru/resume/6c4ca11d000281671d0039ed1f54507333614d')
 ,('Опыт работы 1 год 6 месяцев','Мужчина','Москва','Специалист SAP FI','90 000 руб.','https://hh.ru/resume/6ca032e5000791d5750039ed1f456973394953')
@@ -2470,7 +2470,7 @@ INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary
 ,('Work experience 17 years','Male','Moscow','System administrator (Linux), DevOps, Team Lead',NULL,'https://hh.ru/resume/6cfb44c70003e285050039ed1f4638704c7258')
 ,('Опыт работы 2 года 6 месяцев','Мужчина','Москва','Программист Java / Salesforce',NULL,'https://hh.ru/resume/6cff11380007d2c23f0039ed1f3270456d4462')
 ;
-INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES
+INSERT INTO hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES 
 ('Опыт работы 17 лет 2 месяца','Мужчина','Москва','CxO, Руководитель бизнеса, Директор продукта, Директор департамента',NULL,'https://hh.ru/resume/6d053867000014318e0039ed1f736563726574')
 ,('Ключевые навыки','Женщина','Москва','Программист-стажер',NULL,'https://hh.ru/resume/6d0aa29100081f8fa30039ed1f433738483659')
 ,('Опыт работы 16 лет 10 месяцев','Мужчина','Москва','Ведущий разработчик / DevOps','400 000 руб.','https://hh.ru/resume/6d1bfbb00000a978200039ed1f736563726574')
@@ -2482,7 +2482,7 @@ INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary
 ,('Опыт работы 6 лет 6 месяцев','Мужчина','Самара','Java Developer',NULL,'https://hh.ru/resume/6d76c0b100019291ca0039ed1f344837756953')
 ,('Опыт работы 2 года 7 месяцев','Мужчина','Москва','Программист',NULL,'https://hh.ru/resume/6d7915c600037699fc0039ed1f5475557a4d39')
 ;
-INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES
+INSERT INTO hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES 
 ('Опыт работы 3 месяца','Мужчина','Москва','Junior Backend Developer','50 000 руб.','https://hh.ru/resume/6d9424170003777a9c0039ed1f417975534939')
 ,('Опыт работы 8 лет 1 месяц','Мужчина','Ростов-на-Дону','Биоинформатик','150 000 руб.','https://hh.ru/resume/6d97475d000666ef490039ed1f756f476a4d4d')
 ,('Опыт работы 2 года 7 месяцев','Мужчина','Сыктывкар','Программист',NULL,'https://hh.ru/resume/6da371ce00025657da0039ed1f723154766738')
@@ -2494,7 +2494,7 @@ INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary
 ,('Опыт работы 2 года 8 месяцев','Мужчина','Москва','QA Engineer','100 000 руб.','https://hh.ru/resume/6ddc764200030dc5680039ed1f71654f4e495a')
 ,('Опыт работы 12 лет 11 месяцев','Мужчина','Москва','Инженер',NULL,'https://hh.ru/resume/6df364910001fb536e0039ed1f6c6c38784778')
 ;
-INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES
+INSERT INTO hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES 
 ('Опыт работы 5 месяцев','Мужчина','Москва','Frontend-разработчик','40 000 руб.','https://hh.ru/resume/6df6a8430007e2b0730039ed1f5a6c58635551')
 ,('Опыт работы 17 лет 9 месяцев','Мужчина','Москва','Программист, Старший программист, CTO','450 000 руб.','https://hh.ru/resume/6dfa0afe0000930adc0039ed1f736563726574')
 ,('Опыт работы 3 года','Мужчина','Москва','Android Developer',NULL,'https://hh.ru/resume/6e007847000659bee90039ed1f795874486349')
@@ -2506,7 +2506,7 @@ INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary
 ,('Опыт работы 1 год 9 месяцев','Мужчина','Москва','Программист','30 000 руб.','https://hh.ru/resume/6e31c8e9000198370e0039ed1f36503261316f')
 ,('Опыт работы 22 года 3 месяца','Мужчина','Москва','Руководитель проектов, Бизнес-аналитик, Системный аналитик, Аналитик данных',NULL,'https://hh.ru/resume/6e3b0bc2000032e5390039ed1f736563726574')
 ;
-INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES
+INSERT INTO hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES 
 ('Опыт работы 6 лет 7 месяцев','Мужчина','Заречный (Пензенская область)','Junior QA Engineer','35 000 руб.','https://hh.ru/resume/6e42de3e0007a65fe70039ed1f6d556b4f7862')
 ,('Опыт работы 23 года 1 месяц','Мужчина','Москва','Аналитик разработки / внедрения банковских систем. Менеджер проекта.','120 000 руб.','https://hh.ru/resume/6e7898c500008b39a80039ed1f736563726574')
 ,('Опыт работы 21 год 10 месяцев','Мужчина','Брянск','Системный администратор, программист (удаленно)','100 000 руб.','https://hh.ru/resume/6e7d876e000004ad210039ed1f736563726574')
@@ -2518,7 +2518,7 @@ INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary
 ,('Ключевые навыки','Мужчина','Москва','Бизнес-аналитик',NULL,'https://hh.ru/resume/6eeaf3cd00082bc1660039ed1f63746153656f')
 ,('Ключевые навыки','Мужчина','Москва','Android разработчик','40 000 руб.','https://hh.ru/resume/6f09eb0800076f32f00039ed1f71766f6a5731')
 ;
-INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES
+INSERT INTO hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES 
 ('Ключевые навыки','Мужчина','Москва','Junior Java разработчик',NULL,'https://hh.ru/resume/6f1425d30008419c670039ed1f45304444596e')
 ,('Опыт работы 8 лет 4 месяца','Мужчина','Москва','Руководитель департамента разработки','245 000 руб.','https://hh.ru/resume/6f172f6100035481950039ed1f344b30633055')
 ,('Опыт работы 11 лет 1 месяц','Мужчина','Москва','Старший программист 1С','150 000 руб.','https://hh.ru/resume/6f2341950002134e550039ed1f486c6c796234')
@@ -2530,7 +2530,7 @@ INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary
 ,('Опыт работы 8 лет 11 месяцев','Мужчина','Москва','Интернет-маркетолог',NULL,'https://hh.ru/resume/6f49d30d00031e13830039ed1f443168614850')
 ,('Опыт работы 17 лет 6 месяцев','Женщина','Москва','Руководитель проектов внедрения, развития, ИТ проектов, цифровая трансформация',NULL,'https://hh.ru/resume/6f6e3f9f0005074a920039ed1f4d7330734267')
 ;
-INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES
+INSERT INTO hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES 
 ('Опыт работы 27 лет','Мужчина','Москва','Программист 1С','200 000 руб.','https://hh.ru/resume/6f6eb45e000047dee90039ed1f736563726574')
 ,('Опыт работы 1 год 4 месяца','Мужчина','Москва','Тестировщик ПО / QA Engineer','60 000 руб.','https://hh.ru/resume/6f84df1500078ff9e50039ed1f45634257766e')
 ,('Опыт работы 14 лет 3 месяца','Мужчина','Москва','Программист-разработчик',NULL,'https://hh.ru/resume/6f8839c100026122290039ed1f564536687757')
@@ -2542,7 +2542,7 @@ INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary
 ,('Опыт работы 5 месяцев','Мужчина','Санкт-Петербург','Java-разработчик',NULL,'https://hh.ru/resume/6fe2ed8100050b7a670039ed1f535055316f78')
 ,('Высшее образование (Бакалавр)','Мужчина','Москва','Junior Java Developer',NULL,'https://hh.ru/resume/6fe469dd0001d35c580039ed1f724a6563424d')
 ;
-INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES
+INSERT INTO hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES 
 ('Опыт работы 19 лет 8 месяцев','Мужчина','Москва','Разработчик sql/.net/asp.net mvc/go','230 000 руб.','https://hh.ru/resume/6fe8e76b0003f1d60d0039ed1f6c474b484c68')
 ,('Ключевые навыки','Мужчина','Москва','Программист-стажер',NULL,'https://hh.ru/resume/70019ee500074cd0590039ed1f4c6f77617743')
 ,('Опыт работы 29 лет 9 месяцев','Женщина','Москва','Главный инженер проекта(комплексный)\ГИП(Инженерные наружные сети и системы)',NULL,'https://hh.ru/resume/7016a02e0004622f210039ed1f5459754d486e')
@@ -2554,7 +2554,7 @@ INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary
 ,('Опыт работы 26 лет 2 месяца','Мужчина','Оренбург','Системный администратор, начинающий разрабочик C#, Java','70 000 руб.','https://hh.ru/resume/708b78cb0003b559730039ed1f6d4a776c7736')
 ,('Опыт работы 4 года 9 месяцев','Мужчина','Москва','Программист',NULL,'https://hh.ru/resume/70b863b6000755727c0039ed1f4f5763337866')
 ;
-INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES
+INSERT INTO hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES 
 ('Work experience 8 years 3 months','Male','Moscow','Программист Python','190 000 RUB','https://hh.ru/resume/70bde41f0002b6d3af0039ed1f7364576c4b7a')
 ,('Опыт работы 18 лет 4 месяца','Мужчина','Москва','Руководитель управления разработки ПО, Руководитель IT проектов',NULL,'https://hh.ru/resume/70c1fe2200017411c80039ed1f6c686e457176')
 ,('Опыт работы 7 лет 10 месяцев','Мужчина','Москва','Java junior developer','100 000 руб.','https://hh.ru/resume/70c811b000025ccedd0039ed1f766151536946')
@@ -2566,7 +2566,7 @@ INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary
 ,('Опыт работы 15 лет 7 месяцев','Мужчина','Москва','Программист-разработчик/BI-решения/SQL-Server/Python/ИСУ/ML/Access','200 000 руб.','https://hh.ru/resume/71193297000089863d0039ed1f736563726574')
 ,('Опыт работы 12 лет 11 месяцев','Мужчина','Москва','Руководитель разработки 1С/Архитектор 1С','250 000 руб.','https://hh.ru/resume/71236e4600075f1e2e0039ed1f716731456975')
 ;
-INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES
+INSERT INTO hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES 
 ('Ключевые навыки','Женщина','Москва','Программист-стажер',NULL,'https://hh.ru/resume/712e79e700084bed8d0039ed1f4f67466c5062')
 ,('Work experience 21 year 9 months','Male','Moscow','Team Leader, Architect, Senior Developer','5 500 USD','https://hh.ru/resume/713a9c610000ac26250039ed1f736563726574')
 ,('Опыт работы 5 лет 4 месяца','Мужчина','Москва','Инженер-программист JavaScript, SEO, С++, С#, SQL','90 000 руб.','https://hh.ru/resume/7154f7ee000732abba0039ed1f57523544777a')
@@ -2578,7 +2578,7 @@ INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary
 ,('Ключевые навыки','Мужчина','Москва','Junior Java-разработчик',NULL,'https://hh.ru/resume/717effb20007e0c5cf0039ed1f644f424b4352')
 ,('Опыт работы 7 месяцев','Мужчина','Москва','Junior Java developer','60 000 руб.','https://hh.ru/resume/717fef71000807c78f0039ed1f6531496f4a4a')
 ;
-INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES
+INSERT INTO hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES 
 ('Опыт работы 9 лет','Мужчина','Москва','Программист-стажер',NULL,'https://hh.ru/resume/71809474000158875c0039ed1f316750344672')
 ,('Опыт работы 4 года 9 месяцев','Мужчина','Москва','Inside Sales representative / Account manager',NULL,'https://hh.ru/resume/7183a5e500029fef580039ed1f6e626f644c73')
 ,('Ключевые навыки','Мужчина','Москва','Junior QA Engineer',NULL,'https://hh.ru/resume/7184bdb700083997fe0039ed1f656533526577')
@@ -2590,7 +2590,7 @@ INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary
 ,('Опыт работы 3 года 9 месяцев','Мужчина','Москва','Java-разработчик',NULL,'https://hh.ru/resume/71efd1d90007876c380039ed1f3948444a614a')
 ,('Опыт работы 5 лет 6 месяцев','Мужчина','Ульяновск','Junior PHP-developer','30 000 руб.','https://hh.ru/resume/7204a8b10001eaff810039ed1f574b70466a79')
 ;
-INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES
+INSERT INTO hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES 
 ('Опыт работы 8 лет 7 месяцев','Мужчина','Москва','Перегонщик автомобилей','60 000 руб.','https://hh.ru/resume/72099f76000712f55d0039ed1f483931594736')
 ,('Опыт работы 1 год 8 месяцев','Мужчина','Москва','Специалист по работе с клиентами',NULL,'https://hh.ru/resume/720cc7720005fd848d0039ed1f494b44454353')
 ,('Опыт работы 10 лет','Мужчина','Москва','Java-программист',NULL,'https://hh.ru/resume/72108c5500078cb3180039ed1f78745665494d')
@@ -2602,7 +2602,7 @@ INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary
 ,('Опыт работы 9 лет 4 месяца','Мужчина','Москва','Junior developer','30 000 руб.','https://hh.ru/resume/726679d50007f911200039ed1f4e3431346d44')
 ,('Опыт работы 26 лет 9 месяцев','Мужчина','Москва','Программист .NET SQL',NULL,'https://hh.ru/resume/726fa7ed00005c0e060039ed1f736563726574')
 ;
-INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES
+INSERT INTO hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES 
 ('Опыт работы 11 лет 9 месяцев','Мужчина','Нижний Новгород','java developer',NULL,'https://hh.ru/resume/727d9927000379c9750039ed1f4f3062746a53')
 ,('Опыт работы 16 лет 1 месяц','Мужчина','Москва','Руководитель web-разработки, JavaScript, nodejs, php программист','220 000 руб.','https://hh.ru/resume/727e25cf00003c122b0039ed1f736563726574')
 ,('Ключевые навыки','Мужчина','Санкт-Петербург','Java Developer',NULL,'https://hh.ru/resume/728d6ff10007c984680039ed1f6666486c5a44')
@@ -2614,7 +2614,7 @@ INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary
 ,('Опыт работы 1 год 2 месяца','Мужчина','Москва','Java developer','70 000 руб.','https://hh.ru/resume/730b8a100007cb00d40039ed1f666f6f705974')
 ,('Опыт работы 5 лет 7 месяцев','Мужчина','Москва','Data Scientist',NULL,'https://hh.ru/resume/7317d3fa0004fc38d50039ed1f385a75476c38')
 ;
-INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES
+INSERT INTO hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES 
 ('Опыт работы 1 месяц','Мужчина','Москва','Junior Developer',NULL,'https://hh.ru/resume/732f2d830005e0e01f0039ed1f6c7136666e5a')
 ,('Опыт работы 13 лет 1 месяц','Мужчина','Москва','Системный инженер (DevOps), администратор Linux','130 000 руб.','https://hh.ru/resume/7335c9190003bc582e0039ed1f4335626b5665')
 ,('Опыт работы 14 лет 5 месяцев','Мужчина','Москва','Full-stack, Backend, WCF, T-SQL +SSRS +ETL, VB.NET, VBS, C#','120 000 руб.','https://hh.ru/resume/7368a6b200031d1b7e0039ed1f32476f7a5276')
@@ -2626,7 +2626,7 @@ INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary
 ,('Опыт работы 6 лет 10 месяцев','Мужчина','Москва','Java - разработчик (Java Developer)','70 000 руб.','https://hh.ru/resume/73a3ae600007a4ecd10039ed1f316168694853')
 ,('Опыт работы 10 лет 5 месяцев','Мужчина','Королев','Программист','80 000 руб.','https://hh.ru/resume/73ad23790000f4b8440039ed1f783866554376')
 ;
-INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES
+INSERT INTO hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES 
 ('Опыт работы 6 лет 1 месяц','Мужчина','Москва','Lead Java Developer','400 000 руб.','https://hh.ru/resume/73afdbe10005ed6abd0039ed1f6e7730455242')
 ,('Опыт работы 5 лет 6 месяцев','Мужчина','Москва','Senior Java Software Engineer','250 000 руб.','https://hh.ru/resume/73b016d10007e7a5560039ed1f726c45747948')
 ,('Ключевые навыки','Мужчина','Москва','Junior QA',NULL,'https://hh.ru/resume/73f771b20007a8d6bf0039ed1f6838356e4d70')
@@ -2638,7 +2638,7 @@ INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary
 ,('Опыт работы 21 год 11 месяцев','Мужчина','Москва','программист',NULL,'https://hh.ru/resume/7483fe250000a475400039ed1f736563726574')
 ,('Ключевые навыки','Женщина','Москва','Начинающий специалист','25 000 руб.','https://hh.ru/resume/749a65cc000719cbfc0039ed1f486937414569')
 ;
-INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES
+INSERT INTO hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES 
 ('Опыт работы 9 месяцев','Мужчина','Москва','Frontend-разработчик (React)','80 000 руб.','https://hh.ru/resume/749b7bd90007fc91520039ed1f42534b6c6b67')
 ,('Work experience 15 years 1 month','Male','Moscow','Team Lead of Mobile as Senior Android Developer',NULL,'https://hh.ru/resume/749b9c300000a741e80039ed1f736563726574')
 ,('Ключевые навыки','Мужчина','Москва','Специалист по тестированию',NULL,'https://hh.ru/resume/74b980fc0005be021f0039ed1f506e6d567158')
@@ -2650,7 +2650,7 @@ INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary
 ,('Опыт работы 14 лет 2 месяца','Мужчина','Москва','Сетевой инженер',NULL,'https://hh.ru/resume/75107cae0000dce5e90039ed1f566f4b6d4b6c')
 ,('Опыт работы 12 лет 2 месяца','Мужчина','Москва','Tech Lead / CTO','320 000 руб.','https://hh.ru/resume/7512446a0000363a420039ed1f736563726574')
 ;
-INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES
+INSERT INTO hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES 
 ('Опыт работы 17 лет 3 месяца','Мужчина','Москва','Сервисный инженер, Инженер программист, Web-программист (Итальянский язык)','70 000 руб.','https://hh.ru/resume/7520176700082a0ea70039ed1f324f54533573')
 ,('Опыт работы 7 лет 5 месяцев','Мужчина','Екатеринбург','Инженер-программист','331 337 руб.','https://hh.ru/resume/7526aba30003d64c170039ed1f566e79326766')
 ,('Опыт работы 1 год 6 месяцев','Мужчина','Москва','Программный инженер','70 000 руб.','https://hh.ru/resume/7532ea7b0008425ec90039ed1f776346324153')
@@ -2662,7 +2662,7 @@ INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary
 ,('Work experience 8 years 4 months','Male','Moscow','PLC programmer | SPS-Programmierer | Automation Engineer | Controls Engineer',NULL,'https://hh.ru/resume/7556d28000015ecd750039ed1f4c34656f6831')
 ,('Опыт работы 15 лет 4 месяца','Мужчина','Москва','Системный администратор, DevOps, ИТ-директор',NULL,'https://hh.ru/resume/7560f5c300074ed7f20039ed1f70534272426c')
 ;
-INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES
+INSERT INTO hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES 
 ('Опыт работы 1 год 10 месяцев','Мужчина','Москва','Android Developer',NULL,'https://hh.ru/resume/756c84bd0007ca03ee0039ed1f41314c6b4a31')
 ,('Опыт работы 15 лет 11 месяцев','Мужчина','Москва','Программист-разработчик','250 000 руб.','https://hh.ru/resume/757e04af0001c03e7e0039ed1f50667576615a')
 ,('Ключевые навыки','Мужчина','Ростов-на-Дону','Программист',NULL,'https://hh.ru/resume/75827e1500020788840039ed1f706935636363')
@@ -2674,7 +2674,7 @@ INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary
 ,('Опыт работы 9 лет','Мужчина','Новосибирск','Backend Developer',NULL,'https://hh.ru/resume/7595bb5200027d7c720039ed1f6a6139503172')
 ,('Опыт работы 13 лет 6 месяцев','Мужчина','Москва','Начальник отдела информационных технологий, старший IT специалист','80 000 руб.','https://hh.ru/resume/75981f200002db29840039ed1f6d7647725567')
 ;
-INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES
+INSERT INTO hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES 
 ('Ключевые навыки','Мужчина','Москва','Тестировщик ПО',NULL,'https://hh.ru/resume/75bb66f80004451b150039ed1f755071455539')
 ,('Опыт работы 8 лет 11 месяцев','Мужчина','Москва','QA','140 000 руб.','https://hh.ru/resume/75c2039d0006bf535e0039ed1f6b534b484744')
 ,('Опыт работы 10 месяцев','Мужчина','Москва','Помощник системного администратора','15 000 руб.','https://hh.ru/resume/75fd7ffd0007224dcb0039ed1f347667384353')
@@ -2686,7 +2686,7 @@ INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary
 ,('Опыт работы 8 лет 4 месяца','Мужчина','Якутск','Back-end разработчик','60 000 руб.','https://hh.ru/resume/764d396e0005569f3b0039ed1f343057777853')
 ,('Ключевые навыки','Мужчина','Москва','Программист-разработчик Стажер',NULL,'https://hh.ru/resume/7650644900052962070039ed1f455a7a796665')
 ;
-INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES
+INSERT INTO hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES 
 ('Опыт работы 17 лет 5 месяцев','Мужчина','Москва','Начальник технического отдела, главный системный администратор','100 000 руб.','https://hh.ru/resume/7656fa5d0002ca767f0039ed1f316d747a586c')
 ,('Опыт работы 5 лет 2 месяца','Мужчина','Москва','Водитель-курьер','60 000 руб.','https://hh.ru/resume/766ce76a0005b4bd3c0039ed1f666a56474c4e')
 ,('Опыт работы 26 лет 7 месяцев','Мужчина','Москва','менеджер проекта, системный архитектор, ведущий программист','110 000 руб.','https://hh.ru/resume/769d053600000c59ce0039ed1f736563726574')
@@ -2698,7 +2698,7 @@ INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary
 ,('Опыт работы 3 месяца','Мужчина','Москва','Kotlin разработчик','30 000 руб.','https://hh.ru/resume/76c9f6110005cf4a9c0039ed1f3550664f6830')
 ,('Work experience 4 years 10 months','Male','Moscow','Frontend developer',NULL,'https://hh.ru/resume/76cb45a700073869cf0039ed1f4e516d666478')
 ;
-INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES
+INSERT INTO hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES 
 ('Опыт работы 27 лет 11 месяцев','Мужчина','Москва','Программист',NULL,'https://hh.ru/resume/76d417270004daf7950039ed1f4c686c4c7243')
 ,('Опыт работы 2 года 9 месяцев','Мужчина','Москва','Тестировщик ПО',NULL,'https://hh.ru/resume/76e194e4000433992a0039ed1f53326f664b7a')
 ,('Ключевые навыки','Мужчина','Балашиха','junior frontend (React)','30 000 руб.','https://hh.ru/resume/76e4e14200080c58550039ed1f4f453676556d')
@@ -2710,7 +2710,7 @@ INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary
 ,('Опыт работы 1 год','Мужчина','Москва','Программист-разработчик',NULL,'https://hh.ru/resume/771e03bb00084e01e40039ed1f376e6e4f4941')
 ,('Опыт работы 23 года 8 месяцев','Мужчина','Москва','Web-разработчик',NULL,'https://hh.ru/resume/77233ed3000602b4550039ed1f5633496d6d46')
 ;
-INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES
+INSERT INTO hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES 
 ('Work experience 9 years 4 months','Male','Moscow','Java developer',NULL,'https://hh.ru/resume/77338d3a00061e1e650039ed1f326635514e6b')
 ,('Опыт работы 8 лет 8 месяцев','Мужчина','Москва','Developer С# Web','225 000 руб.','https://hh.ru/resume/7740d4bb000138d77e0039ed1f53694a313057')
 ,('Опыт работы 18 лет 6 месяцев','Мужчина','Оренбург','Главный инженер, Технический директор, Исполнительный директор',NULL,'https://hh.ru/resume/774393d50003e3fcd00039ed1f4d614872536e')
@@ -2722,7 +2722,7 @@ INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary
 ,('Work experience 2 years 5 months','Male','Egypt','Machine / Deep / Reinforcement learning engineer',NULL,'https://hh.ru/resume/7772b0370006a8965e0039ed1f393935775335')
 ,('Опыт работы 5 лет 9 месяцев','Мужчина','Москва','Инженер по тестированию ПО','60 000 руб.','https://hh.ru/resume/77a26ba50002afeef40039ed1f446475427859')
 ;
-INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES
+INSERT INTO hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES 
 ('Опыт работы 1 год 4 месяца','Мужчина','Минск','junior java developer',NULL,'https://hh.ru/resume/77a2dc3100045493260039ed1f54636d4e6f4d')
 ,('Опыт работы 7 месяцев','Мужчина','Кульсары','Бармен','150 000 KZT','https://hh.ru/resume/77adbc62000822593c0039ed1f5a7455344a37')
 ,('Опыт работы 2 года 4 месяца','Мужчина','Москва','Junior Java Developer',NULL,'https://hh.ru/resume/77b8617b00055a8a010039ed1f35336a505731')
@@ -2734,7 +2734,7 @@ INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary
 ,('Опыт работы 20 лет 4 месяца','Мужчина','Москва','Руководитель ИТ-направления / Product owner',NULL,'https://hh.ru/resume/77d8acf100003490c70039ed1f736563726574')
 ,('Опыт работы 9 лет 9 месяцев','Мужчина','Москва','Procurement Manager',NULL,'https://hh.ru/resume/77de3a8a00008ca0b50039ed1f736563726574')
 ;
-INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES
+INSERT INTO hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES 
 ('Опыт работы 19 лет 1 месяц','Мужчина','Екатеринбург','Разработчик Kotlin, Java, Android','15 000 руб.','https://hh.ru/resume/77e060ab0007f3ea090039ed1f327958525237')
 ,('Опыт работы 3 месяца','Мужчина','Москва','Программист','40 000 руб.','https://hh.ru/resume/77f68dc00002d7f59e0039ed1f6e7a44366570')
 ,('Опыт работы 11 лет 4 месяца','Мужчина','Москва','Java Team Lead','340 000 руб.','https://hh.ru/resume/77fd29d30000e96cf20039ed1f4a63784c5770')
@@ -2746,7 +2746,7 @@ INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary
 ,('Ключевые навыки','Мужчина','Москва','Младший специалист информационного - технического отдела (стажёр)',NULL,'https://hh.ru/resume/7824eb0c0007685f960039ed1f306b77396670')
 ,('Ключевые навыки','Мужчина','Таруса','Младший программист','15 000 руб.','https://hh.ru/resume/7826ca5a00057947360039ed1f6d554945554d')
 ;
-INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES
+INSERT INTO hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES 
 ('Опыт работы 13 лет 9 месяцев','Мужчина','Москва','Администратор сайта','35 000 руб.','https://hh.ru/resume/7836601c00037623c30039ed1f357545745670')
 ,('Опыт работы 4 года 1 месяц','Мужчина','Москва','java junior developer','50 000 руб.','https://hh.ru/resume/78404fbb00080e30fe0039ed1f57786c653379')
 ,('Ключевые навыки','Мужчина','Москва','Java developer',NULL,'https://hh.ru/resume/784e58c90007ce0e1f0039ed1f74396c726937')
@@ -2758,7 +2758,7 @@ INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary
 ,('Опыт работы 1 год','Мужчина','Москва','Нагрузочный тестировщик','40 000 руб.','https://hh.ru/resume/78a871dc000790152e0039ed1f4e5a6f39586e')
 ,('Опыт работы 17 лет 8 месяцев','Мужчина','Москва','Программист SQL, PostgreSQL, руководитель проекта, TeamLead',NULL,'https://hh.ru/resume/78b935860001ebf9d70039ed1f6d64576e5762')
 ;
-INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES
+INSERT INTO hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES 
 ('Опыт работы 4 года 5 месяцев','Мужчина','Москва','Web-программист','55 000 руб.','https://hh.ru/resume/78bc18f500084d79ef0039ed1f6c32544a6f34')
 ,('Опыт работы 20 лет 5 месяцев','Мужчина','Москва','Разработчик, DevOps, инженер-программист',NULL,'https://hh.ru/resume/78c6f31d00000167e30039ed1f736563726574')
 ,('Опыт работы 7 лет 5 месяцев','Мужчина','Москва','Учитель математики и информатики',NULL,'https://hh.ru/resume/78cfb0b00007d363410039ed1f664361324842')
@@ -2770,7 +2770,7 @@ INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary
 ,('Опыт работы 7 лет 9 месяцев','Мужчина','Москва','Администратор сайта','40 000 руб.','https://hh.ru/resume/792594c900084bc9980039ed1f734f77577251')
 ,('Опыт работы 12 лет 2 месяца','Мужчина','Москва','Разработчик 1С','250 000 руб.','https://hh.ru/resume/792d387600009016860039ed1f736563726574')
 ;
-INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES
+INSERT INTO hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES 
 ('Опыт работы 20 лет 9 месяцев','Мужчина','Москва','Ведущий разработчик Java / Team Lead','250 000 руб.','https://hh.ru/resume/7948abbc00084dfa970039ed1f57434977556c')
 ,('Work experience 16 years 2 months','Male','Saint Petersburg','Software Engineering Manager','5 000 USD','https://hh.ru/resume/794ab5020000c2f8e80039ed1f447a79794353')
 ,('Опыт работы 39 лет 5 месяцев','Мужчина','Москва','Программист Java',NULL,'https://hh.ru/resume/795888ee0005fbf4bd0039ed1f52785355477a')
@@ -2782,7 +2782,7 @@ INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary
 ,('Опыт работы 5 лет 1 месяц','Мужчина','Москва','Системный аналитик','210 000 руб.','https://hh.ru/resume/79ab9d970002940ea10039ed1f6e484d7a5435')
 ,('Опыт работы 6 лет 1 месяц','Женщина','Москва','Менеджер интернет-проекта','60 000 руб.','https://hh.ru/resume/79bce4c8000295b9e80039ed1f71444848704a')
 ;
-INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES
+INSERT INTO hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES 
 ('Опыт работы 28 лет 1 месяц','Женщина','Москва','Ассистент аналитика (помощник), Стажер в проектировании бизнес-процессов и данных','40 000 руб.','https://hh.ru/resume/79be854200022e47950039ed1f6a323233736d')
 ,('Опыт работы 7 лет','Мужчина','Москва','Junior Android Developer','45 000 руб.','https://hh.ru/resume/79cb1862000752955b0039ed1f3553314d4e6e')
 ,('Опыт работы 5 лет 2 месяца','Мужчина','Москва','Программист',NULL,'https://hh.ru/resume/79da2ca300025d0ad70039ed1f766751423772')
@@ -2794,7 +2794,7 @@ INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary
 ,('Ключевые навыки','Мужчина','Москва','Стажер c# , Web программист',NULL,'https://hh.ru/resume/7a1f246a0007aa15600039ed1f505a73456753')
 ,('Опыт работы 7 лет 2 месяца','Мужчина','Москва','Преподаватель физики','70 000 руб.','https://hh.ru/resume/7a31e06b0001d2644d0039ed1f333278425152')
 ;
-INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES
+INSERT INTO hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES 
 ('Опыт работы 2 года 1 месяц','Мужчина','Москва','Java программист / Системный администратор','95 000 руб.','https://hh.ru/resume/7a43413f000555ec3f0039ed1f76377a677630')
 ,('Опыт работы 13 лет 7 месяцев','Мужчина','Королев','Product lead / Senior project manager','660 000 руб.','https://hh.ru/resume/7a4a1c5400018d77910039ed1f71454668794f')
 ,('Опыт работы 2 года 2 месяца','Женщина','Киров (Кировская область)','Программист-стажер',NULL,'https://hh.ru/resume/7a4d718600059bedf20039ed1f43756a564f6c')
@@ -2806,7 +2806,7 @@ INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary
 ,('Work experience 2 years 7 months','Male','Canada','Programmer/developer',NULL,'https://hh.ru/resume/7a8825ea00072d92b40039ed1f6538716e434b')
 ,('Опыт работы 2 года 11 месяцев','Мужчина','Нур-Султан','Android разработчик',NULL,'https://hh.ru/resume/7a92907300043afab70039ed1f305042337155')
 ;
-INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES
+INSERT INTO hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES 
 ('Опыт работы 4 года 4 месяца','Мужчина','Москва','Product Manager',NULL,'https://hh.ru/resume/7a93830300071765060039ed1f585a6a765650')
 ,('Опыт работы 9 лет 7 месяцев','Мужчина','Тверь','Ведущий специалист отдела информационных технологий','60 000 руб.','https://hh.ru/resume/7a9dc11400023609330039ed1f30474f6e686b')
 ,('Опыт работы 11 месяцев','Мужчина','Москва','Junior Data Scientist',NULL,'https://hh.ru/resume/7ab169890003b1f4260039ed1f535a64497345')
@@ -2818,7 +2818,7 @@ INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary
 ,('Work experience 14 years 10 months','Male','Moscow','Senior PHP Developer','7 000 USD','https://hh.ru/resume/7b369b940007e7c1650039ed1f6742514d5037')
 ,('Опыт работы 16 лет 9 месяцев','Мужчина','Москва','Администратор сайта, разработка и поддержка',NULL,'https://hh.ru/resume/7b6afe6f000771bf780039ed1f305667466b34')
 ;
-INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES
+INSERT INTO hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES 
 ('Work experience 7 months','Male','Moscow','С/С++Developer / Начинающий С/С++Разработчик, программист, IT-специалист',NULL,'https://hh.ru/resume/7b7e13c10002c3a1130039ed1f46426c743669')
 ,('Опыт работы 4 года 9 месяцев','Мужчина','Вологда','SMM-менеджер/Интернет-маркетолог','30 000 руб.','https://hh.ru/resume/7b82130700028d901d0039ed1f685642766575')
 ,('Опыт работы 14 лет 1 месяц','Мужчина','Москва','Ведущий разработчик',NULL,'https://hh.ru/resume/7ba0ff0e000514723c0039ed1f4a777839767a')
@@ -2830,7 +2830,7 @@ INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary
 ,('Опыт работы 19 лет','Мужчина','Москва','Руководитель ИТ-подразделения',NULL,'https://hh.ru/resume/7c301a9e00065cd6790039ed1f6273396c7448')
 ,('Опыт работы 13 лет 2 месяца','Мужчина','Москва','Менеджер','150 001 руб.','https://hh.ru/resume/7c3a26050002ed0b700039ed1f74397744466a')
 ;
-INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES
+INSERT INTO hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES 
 ('Опыт работы 4 года 5 месяцев','Мужчина','Москва','Мастер по ремонту бытовой техники','80 000 руб.','https://hh.ru/resume/7c4c12ae00034987ff0039ed1f543875794165')
 ,('Опыт работы 27 лет 4 месяца','Мужчина','Москва','_Директор по логистике_',NULL,'https://hh.ru/resume/7c54e39c000383e7300039ed1f597333626232')
 ,('Опыт работы 20 лет 7 месяцев','Мужчина','Москва','Руководитель IT-подразделения','200 000 руб.','https://hh.ru/resume/7c5fd8d800081f7b520039ed1f7a4650486b64')
@@ -2842,7 +2842,7 @@ INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary
 ,('Опыт работы 2 года','Мужчина','Москва','Техник компьютерных систем',NULL,'https://hh.ru/resume/7c952bf40005788d370039ed1f4c4a41516b4c')
 ,('Опыт работы 21 год 1 месяц','Мужчина','Москва','Team Lead, Sr.Java Developer (Backend)','270 000 руб.','https://hh.ru/resume/7caf01b400042a057d0039ed1f386d55754554')
 ;
-INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES
+INSERT INTO hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES 
 ('Ключевые навыки','Мужчина','Москва','Основное',NULL,'https://hh.ru/resume/7cd05ccc0003b1e50d0039ed1f373275517735')
 ,('Опыт работы 15 лет 1 месяц','Мужчина','Москва','Программист Delphi','100 000 руб.','https://hh.ru/resume/7cf4fbe90000274f8e0039ed1f736563726574')
 ,('Опыт работы 2 месяца','Женщина','Москва','3D-моделлер (стажер)',NULL,'https://hh.ru/resume/7d252dcd0006b2da4b0039ed1f543245714b32')
@@ -2854,7 +2854,7 @@ INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary
 ,('Опыт работы 4 месяца','Женщина','Москва','Стажер',NULL,'https://hh.ru/resume/7d602ac6000414f0b20039ed1f36686a6f7065')
 ,('Опыт работы 1 год 5 месяцев','Мужчина','Москва','C# intern',NULL,'https://hh.ru/resume/7d6f527e00032b97db0039ed1f4c714d324e6a')
 ;
-INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES
+INSERT INTO hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES 
 ('Опыт работы 14 лет 4 месяца','Мужчина','Москва','Руководитель проекта','150 000 руб.','https://hh.ru/resume/7d8102a1000021610b0039ed1f736563726574')
 ,('Опыт работы 2 года 2 месяца','Мужчина','Москва','Помощник системного администратора','30 000 руб.','https://hh.ru/resume/7d8d5e050007889d9b0039ed1f6a714c734753')
 ,('Опыт работы 16 лет','Мужчина','Аша','Системный администратор / Компьютерный мастер / Сервисный инженер',NULL,'https://hh.ru/resume/7da520b10002c787530039ed1f6e4e4a533843')
@@ -2866,7 +2866,7 @@ INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary
 ,('Опыт работы 5 месяцев','Женщина','Москва','Бизнес-аналитик','40 000 руб.','https://hh.ru/resume/7df066b80006ae05830039ed1f48436d6b3631')
 ,('Work experience 13 years 1 month','Male','Moscow','CTO/CIO','250 000 RUB','https://hh.ru/resume/7df9eb33000144e4e20039ed1f7944386b5144')
 ;
-INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES
+INSERT INTO hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES 
 ('Опыт работы 2 года 3 месяца','Женщина','Москва','Ux / Ui дизайнер',NULL,'https://hh.ru/resume/7dfc0f2900071f3b5f0039ed1f573063643057')
 ,('Опыт работы 19 лет 10 месяцев','Мужчина','Москва','ИТ',NULL,'https://hh.ru/resume/7e12e38200016d49340039ed1f396f6f523853')
 ,('Опыт работы 2 года 5 месяцев','Мужчина','Москва','Frontend developer (JS, React, TS)',NULL,'https://hh.ru/resume/7e1b633a0005d919f70039ed1f474945576233')
@@ -2878,7 +2878,7 @@ INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary
 ,('Опыт работы 6 месяцев','Мужчина','Москва','Web-дизайнер системный администратор','45 000 руб.','https://hh.ru/resume/7e5f5edc000387507b0039ed1f624a43644843')
 ,('Опыт работы 20 лет 8 месяцев','Мужчина','Москва','Руководитель/директор проектов / Руководитель подразделения',NULL,'https://hh.ru/resume/7e69571500007c0b7b0039ed1f736563726574')
 ;
-INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES
+INSERT INTO hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES 
 ('Опыт работы 15 лет 4 месяца','Мужчина','Москва','Руководитель отдела продаж',NULL,'https://hh.ru/resume/7e87e3b400077d62710039ed1f67374f624f55')
 ,('Опыт работы 8 лет 2 месяца','Мужчина','Москва','Frontend разработчик','150 000 руб.','https://hh.ru/resume/7e9b9de40001183a370039ed1f736f46795763')
 ,('Опыт работы 12 лет 3 месяца','Мужчина','Санкт-Петербург','Web-разработчик','300 000 руб.','https://hh.ru/resume/7ea2d29200083539270039ed1f38696e414e30')
@@ -2890,7 +2890,7 @@ INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary
 ,('Ключевые навыки','Женщина','Москва','Junior Java, junior Python',NULL,'https://hh.ru/resume/7ef48de800084fd2320039ed1f613973797a39')
 ,('Опыт работы 8 лет','Мужчина','Москва','Junior 3D artist','45 000 руб.','https://hh.ru/resume/7f1329f40001d34f170039ed1f546f69434a31')
 ;
-INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES
+INSERT INTO hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES 
 ('Опыт работы 21 год 2 месяца','Мужчина','Москва','Разработчик PL/SQL',NULL,'https://hh.ru/resume/7f1670610007d6497b0039ed1f576763687576')
 ,('Опыт работы 29 лет','Женщина','Тольятти','Системный аналитик','40 000 руб.','https://hh.ru/resume/7f1947730003204f010039ed1f726758756162')
 ,('Опыт работы 9 месяцев','Мужчина','Москва','Программист-разработчик','35 000 руб.','https://hh.ru/resume/7f3ef30b00080fac680039ed1f7a4772744b70')
@@ -2902,7 +2902,7 @@ INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary
 ,('Опыт работы 6 лет 7 месяцев','Мужчина','Москва','Lead or Senior UX/UI','270 000 руб.','https://hh.ru/resume/7fd9cc1a000440e4430039ed1f33506c657a45')
 ,('Опыт работы 1 год 2 месяца','Женщина','Москва','Начинающий специалист, Аналитик, Бизнес-аналитик, Информационные технологии, IT-сфера',NULL,'https://hh.ru/resume/7fe262ec0005307ac70039ed1f716c307a7850')
 ;
-INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES
+INSERT INTO hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES 
 ('Опыт работы 5 лет 8 месяцев','Мужчина','Москва','Тестировщик ПО',NULL,'https://hh.ru/resume/7fecfa1c00082e9d930039ed1f784f5a547a75')
 ,('Опыт работы 7 лет 2 месяца','Мужчина','Санкт-Петербург','Java-разработчик','55 000 руб.','https://hh.ru/resume/7fef93460007f2cd370039ed1f57684a64774d')
 ,('Опыт работы 2 года 7 месяцев','Мужчина','Москва','Программист Java','120 000 руб.','https://hh.ru/resume/7ffa30e800038e6c5e0039ed1f6b4d66627334')
@@ -2914,7 +2914,7 @@ INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary
 ,('Опыт работы 9 лет 11 месяцев','Мужчина','Москва','Менеджер, контент менеджер, бармен, музыкант, педагог.','60 000 руб.','https://hh.ru/resume/804c56730006671c9d0039ed1f4d4331584645')
 ,('Опыт работы 7 лет 1 месяц','Мужчина','Москва','Инженер','60 000 руб.','https://hh.ru/resume/804e4fed00020b0aef0039ed1f574271653077')
 ;
-INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES
+INSERT INTO hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES 
 ('Опыт работы 2 года 10 месяцев','Женщина','Москва','специалист по безопасности',NULL,'https://hh.ru/resume/804eb89e00033c8fc60039ed1f466542635230')
 ,('Опыт работы 9 лет 8 месяцев','Мужчина','Москва','Веб-разработчик, программист','100 000 руб.','https://hh.ru/resume/80525997000730064c0039ed1f5847415a3171')
 ,('Опыт работы 14 лет 6 месяцев','Мужчина','Москва','QA manager',NULL,'https://hh.ru/resume/80586cdd0001d8e0b00039ed1f65536a343030')
@@ -2926,7 +2926,7 @@ INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary
 ,('Опыт работы 16 лет 5 месяцев','Мужчина','Москва','Ведущий системный администратор','120 000 руб.','https://hh.ru/resume/80ac9ad10000ae36080039ed1f736563726574')
 ,('Опыт работы 10 лет 8 месяцев','Мужчина','Москва','Архитектор OSS/BSS систем',NULL,'https://hh.ru/resume/80ae29a500037e45dd0039ed1f67506c724e4f')
 ;
-INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES
+INSERT INTO hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES 
 ('Ключевые навыки','Мужчина','Москва','Начинающий программист на Java','20 000 руб.','https://hh.ru/resume/80c029ac0007dca4470039ed1f7074714f6f59')
 ,('Опыт работы 11 лет 11 месяцев','Мужчина','Москва','Системный администратор','70 000 руб.','https://hh.ru/resume/80c0fa9e0000f18dcf0039ed1f614133387656')
 ,('Опыт работы 2 года 2 месяца','Мужчина','Москва','Системный администратор','50 000 руб.','https://hh.ru/resume/80d138100007d2bfa30039ed1f7261737a6b43')
@@ -2938,7 +2938,7 @@ INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary
 ,('Опыт работы 5 лет 1 месяц','Мужчина','Москва','Инженер','65 000 руб.','https://hh.ru/resume/8101b580000381c3d30039ed1f303368694571')
 ,('Опыт работы 4 года 8 месяцев','Мужчина','Москва','Web-программист','55 555 руб.','https://hh.ru/resume/8111645b00084cb55a0039ed1f755543516c6b')
 ;
-INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES
+INSERT INTO hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES 
 ('Опыт работы 13 лет 10 месяцев','Мужчина','Санкт-Петербург','Руководитель проекта','100 000 руб.','https://hh.ru/resume/81139de50007e4000c0039ed1f6d4755445063')
 ,('Опыт работы 9 лет 2 месяца','Мужчина','Москва','Android Developer Senior / Team Lead',NULL,'https://hh.ru/resume/812e97920007bb67cf0039ed1f696962685255')
 ,('Опыт работы 5 лет','Мужчина','Москва','Программист-стажер Java','45 000 руб.','https://hh.ru/resume/814842010006a49e9a0039ed1f6f30436d6d7a')
@@ -2950,7 +2950,7 @@ INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary
 ,('Опыт работы 4 месяца','Мужчина','Москва','Java junior developer','50 000 руб.','https://hh.ru/resume/819b90190003a882050039ed1f47734f386762')
 ,('Опыт работы 14 лет 8 месяцев','Мужчина','Ростов-на-Дону','Key Account Manager (Менеджер по работе с ключевыми клиентами)',NULL,'https://hh.ru/resume/819bca0e0000ddebc80039ed1f5a5834795044')
 ;
-INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES
+INSERT INTO hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES 
 ('Опыт работы 2 года 1 месяц','Мужчина','Москва','Java стажер - разработчик',NULL,'https://hh.ru/resume/81c5dc880007ad53260039ed1f457847593570')
 ,('Ключевые навыки','Мужчина','Москва','Младший программист (программист-стажер)',NULL,'https://hh.ru/resume/81c809fb00076b3fc50039ed1f666769617555')
 ,('Опыт работы 20 лет 9 месяцев','Мужчина','Москва','Администратор баз данных',NULL,'https://hh.ru/resume/81cd0a460007d0f9100039ed1f614648464954')
@@ -2962,7 +2962,7 @@ INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary
 ,('Опыт работы 19 лет 4 месяца','Мужчина','Томск','Руководитель высшего звена, Директор, Главный инженер, Технический директор,','200 000 руб.','https://hh.ru/resume/821980db00021abc700039ed1f4f587a4d7157')
 ,('Опыт работы 4 года','Мужчина','Москва','Менеджер',NULL,'https://hh.ru/resume/8223c9b70007c4a99a0039ed1f353766537238')
 ;
-INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES
+INSERT INTO hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES 
 ('Опыт работы 12 лет 2 месяца','Мужчина','Москва','IT Специалист / Web мастер / дизайнер / программист',NULL,'https://hh.ru/resume/822d48d30000aca0e20039ed1f736563726574')
 ,('Опыт работы 2 года','Мужчина','Минск','Веб-дизайнер, Event Meneger',NULL,'https://hh.ru/resume/823a95f3000764416d0039ed1f355775496c59')
 ,('Опыт работы 6 лет 5 месяцев','Мужчина','Ивантеевка','Junior Java разработчик',NULL,'https://hh.ru/resume/823c838e0007f1898d0039ed1f707230634541')
@@ -2974,7 +2974,7 @@ INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary
 ,('Опыт работы 9 лет 5 месяцев','Мужчина','Москва','Web-программирование, поддержка и оптимизация сайтов , контекстная и SEO раскрутка сайтов',NULL,'https://hh.ru/resume/829599bc00078a57020039ed1f3533426b7655')
 ,('Опыт работы 22 года 9 месяцев','Мужчина','Москва','IT Director, Delivery Manager, Владелец продукта','7 000 USD','https://hh.ru/resume/82ae643a000006dc5c0039ed1f736563726574')
 ;
-INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES
+INSERT INTO hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES 
 ('Опыт работы 1 год 8 месяцев','Мужчина','Москва','Специалист по внедрению и сопровождению ПО','100 000 руб.','https://hh.ru/resume/82b52a8d0006fd06190039ed1f6a424e7a654f')
 ,('Work experience 6 years 9 months','Female','Germany','Data Product Lead','300 000 RUB','https://hh.ru/resume/82c3ab620003850d1a0039ed1f4f70447a5972')
 ,('Опыт работы 24 года 9 месяцев','Мужчина','Москва','CIO, CTO, Директор по ИТ',NULL,'https://hh.ru/resume/82d837660000eb72480039ed1f53484e754f53')
@@ -2986,7 +2986,7 @@ INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary
 ,('Опыт работы 2 года','Мужчина','Москва','Java-разработчик',NULL,'https://hh.ru/resume/8322d55e000823c0940039ed1f7743444b664f')
 ,('Опыт работы 3 года','Мужчина','Израиль','программист','150 000 руб.','https://hh.ru/resume/8327731a00061101eb0039ed1f795865435a44')
 ;
-INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES
+INSERT INTO hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES 
 ('Опыт работы 3 года 6 месяцев','Мужчина','Тараз','Инженер-программист','250 000 KZT','https://hh.ru/resume/8339feec00035e046d0039ed1f5a5230576274')
 ,('Опыт работы 1 год 8 месяцев','Мужчина','Москва','Веб-разработчик PHP','30 000 руб.','https://hh.ru/resume/83568ea40006e6bd150039ed1f306458384b50')
 ,('Опыт работы 11 лет 2 месяца','Мужчина','Москва','Программист-разработчик',NULL,'https://hh.ru/resume/835a68d2000240bd5a0039ed1f344557446938')
@@ -2998,7 +2998,7 @@ INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary
 ,('Опыт работы 7 месяцев','Мужчина','Москва','Программист',NULL,'https://hh.ru/resume/83ac73c7000588f2ff0039ed1f79566a4f4b79')
 ,('Опыт работы 11 лет 4 месяца','Мужчина','Белгород','Java-разработчик, Тестировщик, менеджер по продажам, организатор, руководитель','100 000 руб.','https://hh.ru/resume/83c8ffd8000171c14a0039ed1f546b69584631')
 ;
-INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES
+INSERT INTO hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES 
 ('Опыт работы 3 года 6 месяцев','Мужчина','Москва','Специалист по внедрению',NULL,'https://hh.ru/resume/83f1649c0006ab194f0039ed1f63344b644454')
 ,('Опыт работы 3 года 5 месяцев','Мужчина','Москва','Java Junior или QA Automation engineer',NULL,'https://hh.ru/resume/8403ceda0006c3b8040039ed1f786f6e337164')
 ,('Опыт работы 4 года 5 месяцев','Мужчина','Москва','Developer (golang)',NULL,'https://hh.ru/resume/840a40c40006c813aa0039ed1f685771746843')
@@ -3010,7 +3010,7 @@ INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary
 ,('Опыт работы 7 лет 9 месяцев','Мужчина','Москва','Руководитель отдела информационных технологий','120 000 руб.','https://hh.ru/resume/843c13a700036d950e0039ed1f6c6642544272')
 ,('Опыт работы 7 месяцев','Мужчина','Москва','Программист-разработчик',NULL,'https://hh.ru/resume/8463cb520003e400cc0039ed1f376b45477177')
 ;
-INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES
+INSERT INTO hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES 
 ('Ключевые навыки','Мужчина','Москва','Младший разработчик/разработчик-стажёр','60 000 руб.','https://hh.ru/resume/8467575e0002f91e300039ed1f477862527766')
 ,('Опыт работы 4 года 9 месяцев','Мужчина','Москва','Начинающий специалист',NULL,'https://hh.ru/resume/847269670002c73e000039ed1f397035526230')
 ,('Опыт работы 11 месяцев','Мужчина','Кишинёв','Software Engineer',NULL,'https://hh.ru/resume/847298860007ef16330039ed1f42664a747239')
@@ -3022,7 +3022,7 @@ INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary
 ,('Опыт работы 13 лет 8 месяцев','Мужчина','Москва','Системный администратор',NULL,'https://hh.ru/resume/84bdbf3d00034092070039ed1f44336e786746')
 ,('Опыт работы 7 месяцев','Мужчина','Москва','Специалист по информационной безопасности','100 000 руб.','https://hh.ru/resume/84c4e71600084488860039ed1f504e496d3672')
 ;
-INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES
+INSERT INTO hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES 
 ('Опыт работы 2 года 8 месяцев','Мужчина','Москва','Монтажер / Режиссер / Оператор','65 000 руб.','https://hh.ru/resume/84c5d13b0002ad61810039ed1f4862625a4950')
 ,('Опыт работы 26 лет 11 месяцев','Мужчина','Москва','Администратор баз данных Oracle / Oracle DBA','220 000 руб.','https://hh.ru/resume/84cfec1200073a01190039ed1f666553573437')
 ,('Опыт работы 8 лет 10 месяцев','Мужчина','Москва','Руководитель разработки/Архитектор/Team lead/Software engineer/Full stack scala/node.js developer','500 000 руб.','https://hh.ru/resume/84d61ca500018580b60039ed1f704159624252')
@@ -3034,7 +3034,7 @@ INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary
 ,('Опыт работы 17 лет 3 месяца','Мужчина','Самара','Программист-разработчик C# .NET',NULL,'https://hh.ru/resume/851c43fe0001f1d7ed0039ed1f5a376e6b7a66')
 ,('Опыт работы 3 года 2 месяца','Мужчина','Москва','Java-разработчик','80 000 руб.','https://hh.ru/resume/851e6eb100081dd0c20039ed1f6e5171726333')
 ;
-INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES
+INSERT INTO hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES 
 ('Опыт работы 11 месяцев','Мужчина','Москва','Java Junior Developer',NULL,'https://hh.ru/resume/851fe39c0007d755190039ed1f45415631427a')
 ,('Опыт работы 5 лет','Женщина','Москва','Программист SQL (удаленно)','70 000 руб.','https://hh.ru/resume/8533c7a20002a13d180039ed1f3156444a464b')
 ,('Опыт работы 3 года 4 месяца','Мужчина','Москва','Frontend-разработчик','100 000 руб.','https://hh.ru/resume/8535613b0007b9bf260039ed1f647955715250')
@@ -3046,7 +3046,7 @@ INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary
 ,('Ключевые навыки','Мужчина','Москва','Junior Data Analyst/Data Scientist','30 000 руб.','https://hh.ru/resume/857eab4e00058d923c0039ed1f474c69456b53')
 ,('Опыт работы 8 лет 1 месяц','Мужчина','Москва','Java developer','100 000 руб.','https://hh.ru/resume/85868c7c0006c053720039ed1f714c51334451')
 ;
-INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES
+INSERT INTO hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES 
 ('Опыт работы 9 месяцев','Мужчина','Москва','Junior Android (Java) разработчик','50 000 руб.','https://hh.ru/resume/858c65a600077257400039ed1f6d7759577765')
 ,('Work experience 14 years','Male','Moscow','Директор проектов / Chief product owner',NULL,'https://hh.ru/resume/85a6016100023640380039ed1f68374477767a')
 ,('Опыт работы 1 год 5 месяцев','Мужчина','Москва','Программист, Аналитик','85 000 руб.','https://hh.ru/resume/85a6bca50006c058c40039ed1f373376755561')
@@ -3058,7 +3058,7 @@ INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary
 ,('Опыт работы 7 лет 6 месяцев','Мужчина','Москва','Blockchain developer/architect',NULL,'https://hh.ru/resume/85f770f7000780fb2e0039ed1f515059346f65')
 ,('Опыт работы 2 года 10 месяцев','Мужчина','Москва','Programmer/developer',NULL,'https://hh.ru/resume/85fe99aa0004f556670039ed1f4f764c42447a')
 ;
-INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES
+INSERT INTO hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES 
 ('Опыт работы 2 года 1 месяц','Мужчина','Москва','php junior/middle',NULL,'https://hh.ru/resume/8601b9bb0001ee1c630039ed1f39725136356e')
 ,('Ключевые навыки','Женщина','Москва','Программист-стажер',NULL,'https://hh.ru/resume/860419b3000756a3000039ed1f616470554335')
 ,('Work experience 4 years 1 month','Male','Moscow','Full-stack разработчик','120 000 RUB','https://hh.ru/resume/86186ed900024900cc0039ed1f78714e70474c')
@@ -3070,7 +3070,7 @@ INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary
 ,('Опыт работы 6 лет 6 месяцев','Мужчина','Москва','Senior DevOps Engineer',NULL,'https://hh.ru/resume/8649f298000783d25a0039ed1f647642515332')
 ,('Опыт работы 6 лет 6 месяцев','Мужчина','Москва','Web - программист','90 000 руб.','https://hh.ru/resume/8652607300057a0b210039ed1f4745536e7066')
 ;
-INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES
+INSERT INTO hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES 
 ('Опыт работы 30 лет 10 месяцев','Мужчина','Москва','Разработчик Unity 3D','200 000 руб.','https://hh.ru/resume/865558ca00042b3a190039ed1f515a4f743144')
 ,('Опыт работы 8 лет 1 месяц','Мужчина','Москва','Главный специалист процессинга','65 000 руб.','https://hh.ru/resume/8655f65d0007e830fb0039ed1f685277597851')
 ,('Опыт работы 7 лет','Мужчина','Березовский (Кемеровская область)','Специалист по защите информации, системный администратор, сервисный инженер.','35 000 руб.','https://hh.ru/resume/867ad7ec0002a1f7ac0039ed1f346435624b7a')
@@ -3082,7 +3082,7 @@ INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary
 ,('Work experience 13 years 6 months','Male','Moscow','Technical Lead','5 000 USD','https://hh.ru/resume/86d0591a00007335e70039ed1f736563726574')
 ,('Обо мне','Мужчина','Москва','Администратор локальных сетей, IT-специалист','40 000 руб.','https://hh.ru/resume/86e3196d0007d81e1a0039ed1f6f3143676b51')
 ;
-INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES
+INSERT INTO hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES 
 ('Опыт работы 2 года','Мужчина','Москва','Android developer','80 000 руб.','https://hh.ru/resume/86e49c9c00071c459d0039ed1f546570445a52')
 ,('Опыт работы 26 лет 1 месяц','Мужчина','Москва','Руководитель ИТ',NULL,'https://hh.ru/resume/86ed2e3d000331c4c70039ed1f695a3233554e')
 ,('Опыт работы 3 года 11 месяцев','Мужчина','Москва','Аналитик Медиа','60 000 руб.','https://hh.ru/resume/870579d700079605cd0039ed1f4e613265736e')
@@ -3094,7 +3094,7 @@ INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary
 ,('Опыт работы 3 года 1 месяц','Мужчина','Москва','Менеджер проекта','70 000 руб.','https://hh.ru/resume/8761bd260005840fb70039ed1f5a7770544b34')
 ,('Опыт работы 5 лет 5 месяцев','Мужчина','Нур-Султан','Team Lead',NULL,'https://hh.ru/resume/8765298a0007efc1300039ed1f646466567864')
 ;
-INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES
+INSERT INTO hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES 
 ('Опыт работы 2 года 8 месяцев','Мужчина','Москва','Web-программист',NULL,'https://hh.ru/resume/876a0e860005d4acd70039ed1f594e6e6c4e69')
 ,('Опыт работы 4 года 1 месяц','Мужчина','Москва','Графический программист, Graphics programmer, Render programmer',NULL,'https://hh.ru/resume/877d0dc60005ac595a0039ed1f7255754b544c')
 ,('Опыт работы 6 месяцев','Мужчина','Словакия','Программист','60 000 руб.','https://hh.ru/resume/8789bd6100081b91230039ed1f576670397466')
@@ -3106,7 +3106,7 @@ INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary
 ,('Опыт работы 4 года 10 месяцев','Мужчина','Москва','PHP \ 1C-Битрикс Разработчик','160 000 руб.','https://hh.ru/resume/88170cdd0005cf54f00039ed1f497754646f69')
 ,('Опыт работы 23 года','Мужчина','Москва','Руководитель проекта',NULL,'https://hh.ru/resume/8829e9ca0007152e5d0039ed1f445461393368')
 ;
-INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES
+INSERT INTO hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES 
 ('Опыт работы 19 лет 7 месяцев','Мужчина','Москва','Начальник отдела бюджетирования и управленческой отчетности по персоналу, C&B','250 000 руб.','https://hh.ru/resume/882a84930005efc5680039ed1f6e557751784e')
 ,('Опыт работы 3 года','Мужчина','Тюмень','Программист','40 000 руб.','https://hh.ru/resume/8830faf20007204d600039ed1f4f3139737577')
 ,('Опыт работы 16 лет 7 месяцев','Мужчина','Витебск','Системный администратор',NULL,'https://hh.ru/resume/883248b500071e37910039ed1f324c5a4e504c')
@@ -3118,7 +3118,7 @@ INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary
 ,('Опыт работы 1 год 8 месяцев','Мужчина','Москва','Java Developer / Software Development Engineer','90 000 руб.','https://hh.ru/resume/8884172000079f239e0039ed1f6f36716c6338')
 ,('Опыт работы 1 год 3 месяца','Мужчина','Москва','Java-разработчик',NULL,'https://hh.ru/resume/888555f1000523e7220039ed1f385850303735')
 ;
-INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES
+INSERT INTO hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES 
 ('Опыт работы 2 месяца','Женщина','Москва','Специалист по информационной безопасности',NULL,'https://hh.ru/resume/88b0089f00079def930039ed1f524a465a4538')
 ,('Опыт работы 32 года 6 месяцев','Мужчина','Москва','Аналитик, Архитектор','130 000 руб.','https://hh.ru/resume/88b0725400030d74fa0039ed1f6e6251547362')
 ,('Опыт работы 3 года 2 месяца','Мужчина','Москва','Frontend разработчик / Frontend developer',NULL,'https://hh.ru/resume/88b10cc900044766f00039ed1f635253326a55')
@@ -3130,7 +3130,7 @@ INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary
 ,('Опыт работы 15 лет 1 месяц','Мужчина','Москва','Специалист по внедрению SugarCRM',NULL,'https://hh.ru/resume/8963a1540007f6f2fd0039ed1f5873316f5259')
 ,('Опыт работы 3 года 1 месяц','Мужчина','Москва','ETL Developer',NULL,'https://hh.ru/resume/896956b0000387ebc60039ed1f6f654e706373')
 ;
-INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES
+INSERT INTO hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES 
 ('Ключевые навыки','Мужчина','Москва','Intern/Junior Java Developer','40 000 руб.','https://hh.ru/resume/89766101000797489c0039ed1f764c4e637935')
 ,('Опыт работы 11 лет 1 месяц','Мужчина','Москва','Team Lead Java / Руководитель направления ИТ',NULL,'https://hh.ru/resume/8976919200031b32a00039ed1f59745062374e')
 ,('Work experience 21 year 3 months','Male','Moscow','ИТ-Директор','300 000 RUB','https://hh.ru/resume/897b3eab00002151de0039ed1f736563726574')
@@ -3142,7 +3142,7 @@ INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary
 ,('Work experience 1 year 4 months','Male','Samara','Software developer','35 000 RUB','https://hh.ru/resume/8a1bd3560007d63f380039ed1f626646504e4c')
 ,('Опыт работы 5 лет','Мужчина','Москва','Frontend-разработчик',NULL,'https://hh.ru/resume/8a1c142200084601800039ed1f4b687878706a')
 ;
-INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES
+INSERT INTO hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES 
 ('Опыт работы 6 лет 5 месяцев','Мужчина','Алматы','Программист-разработчик','500 000 KZT','https://hh.ru/resume/8a2f3f370000944bfc0039ed1f736563726574')
 ,('Опыт работы 9 лет 4 месяца','Женщина','Москва','Рекрутер',NULL,'https://hh.ru/resume/a736de910007c3aa4a0039ed1f583936524744')
 ,('Опыт работы 8 лет','Мужчина','Москва','Atlassian администратор','200 000 руб.','https://hh.ru/resume/8a32b561000317b53f0039ed1f4c79317a6c49')
@@ -3154,7 +3154,7 @@ INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary
 ,('Опыт вождения','Женщина','Москва','Начинающий специалист',NULL,'https://hh.ru/resume/8b14bc0000058187a70039ed1f774d7459646d')
 ,('Опыт работы 4 месяца','Мужчина','Москва','Стажер-программист SQL,Python,Java','30 000 руб.','https://hh.ru/resume/8b1b296600078016c70039ed1f355453426474')
 ;
-INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES
+INSERT INTO hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES 
 ('Опыт работы 3 года 2 месяца','Мужчина','Москва','Software Engineer / Team Lead',NULL,'https://hh.ru/resume/8b30dc5a00042b74580039ed1f4a3455335870')
 ,('Опыт работы 11 лет 7 месяцев','Женщина','Москва','Инженер-землеустроитель, оператор cool-центра, менеджер, администратор','50 000 руб.','https://hh.ru/resume/8b3b29d60002e06ae50039ed1f727779725434')
 ,('Опыт работы 19 лет 11 месяцев','Мужчина','Москва','ИТ директор / ИТ лидер','500 000 руб.','https://hh.ru/resume/8b42120e000100253c0039ed1f586931654253')
@@ -3166,7 +3166,7 @@ INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary
 ,('Опыт работы 3 месяца','Женщина','Москва','Младший аналитик',NULL,'https://hh.ru/resume/8b69cab70007d56e5b0039ed1f4d6d50475264')
 ,('Опыт работы 10 лет 1 месяц','Мужчина','Москва','Андроид программист','90 000 руб.','https://hh.ru/resume/8b761597000411d5730039ed1f3151506b4b41')
 ;
-INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES
+INSERT INTO hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES 
 ('Опыт работы 9 лет 9 месяцев','Женщина','Москва','Специалист технической поддержки','60 000 руб.','https://hh.ru/resume/8baeaeed0007af070b0039ed1f344565563578')
 ,('Ключевые навыки','Женщина','Москва','Программист-стажер',NULL,'https://hh.ru/resume/8bca58a900057f96b20039ed1f586f425a6c37')
 ,('Опыт работы 43 года 3 месяца','Мужчина','Москва','Главный инженер-программист','160 000 руб.','https://hh.ru/resume/8bd11c4a000201d3080039ed1f6d696d386858')
@@ -3178,7 +3178,7 @@ INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary
 ,('Опыт работы 11 лет 10 месяцев','Мужчина','Астрахань','главный специалист отдела автоматизации - программист',NULL,'https://hh.ru/resume/8bf47d380001d502080039ed1f553158535551')
 ,('Опыт работы 4 месяца','Мужчина','Москва','Программист',NULL,'https://hh.ru/resume/8bfa0d3200069666e10039ed1f434b46713361')
 ;
-INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES
+INSERT INTO hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES 
 ('Опыт работы 1 год 1 месяц','Мужчина','Москва','Аndroid developer',NULL,'https://hh.ru/resume/8bfb96ac0003a812680039ed1f776f79346e68')
 ,('Опыт работы 14 лет 8 месяцев','Мужчина','Москва','Специалист по тестам на проникновение',NULL,'https://hh.ru/resume/8c107bea00022fd1a70039ed1f46444b4a356c')
 ,('Опыт работы 3 года 3 месяца','Мужчина','Москва','Бэк-энд разработчик (Back-end developer)','250 000 руб.','https://hh.ru/resume/8c1fd13a0003ecaee20039ed1f4d6f54415344')
@@ -3190,7 +3190,7 @@ INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary
 ,('Опыт работы 2 года 5 месяцев','Мужчина','Москва','Java Junior','40 000 руб.','https://hh.ru/resume/8c5e26f600033db7480039ed1f5a53616f7145')
 ,('Опыт работы 3 месяца','Женщина','Москва','SMM стажер',NULL,'https://hh.ru/resume/8c6051e1000854a55b0039ed1f334d59625762')
 ;
-INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES
+INSERT INTO hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES 
 ('Опыт работы 29 лет 3 месяца','Мужчина','Москва','Программист 1С',NULL,'https://hh.ru/resume/8c6e1b1800004a6bfb0039ed1f736563726574')
 ,('Ключевые навыки','Мужчина','Москва','Frontend-разработчик, Верстальщик',NULL,'https://hh.ru/resume/8cb3682200083e0d120039ed1f733530467437')
 ,('Опыт работы 6 лет 7 месяцев','Мужчина','Москва','Начинающий специалист','45 000 руб.','https://hh.ru/resume/8cbe2ad6000714d9310039ed1f46764b735a57')
@@ -3202,7 +3202,7 @@ INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary
 ,('Опыт работы 12 лет 1 месяц','Мужчина','Уфа','QA Тестировщик',NULL,'https://hh.ru/resume/8d19a2f3000812e8890039ed1f4e707853736c')
 ,('Опыт работы 22 года','Мужчина','Москва','Менеджер по информационной безопасности',NULL,'https://hh.ru/resume/8d2ad71f000064b5fc0039ed1f736563726574')
 ;
-INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES
+INSERT INTO hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES 
 ('Опыт работы 2 года 6 месяцев','Мужчина','Москва','Начинающий специалист','45 000 руб.','https://hh.ru/resume/8d312020000783ad640039ed1f58376c454a46')
 ,('Опыт работы 18 лет 1 месяц','Мужчина','Москва','Архитектор. Техлид.',NULL,'https://hh.ru/resume/8d46c2fa0000b1ff9a0039ed1f736563726574')
 ,('Ключевые навыки','Мужчина','Москва','Тестировщик','55 000 руб.','https://hh.ru/resume/8d4eb2ab0007890c300039ed1f777237444b78')
@@ -3214,7 +3214,7 @@ INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary
 ,('Work experience 30 years 7 months','Male','Moscow','General/department/operations manager, branch/representative office director',NULL,'https://hh.ru/resume/8db81bf200052460ac0039ed1f6f7452486e31')
 ,('Work experience 3 years 10 months','Male','Moscow','IT; System administrator; Software Engineer','99 000 RUB','https://hh.ru/resume/8de7ce750004f360db0039ed1f646679595834')
 ;
-INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES
+INSERT INTO hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES 
 ('Опыт работы 1 год 8 месяцев','Мужчина','Москва','Java Developer',NULL,'https://hh.ru/resume/8deb8c0a00085386820039ed1f6a554f6a684a')
 ,('Опыт работы 25 лет 10 месяцев','Женщина','Москва','Oracle Postgres DBA',NULL,'https://hh.ru/resume/8dfa24ca0000c6aeab0039ed1f334c6a356e6f')
 ,('Опыт работы 14 лет 3 месяца','Женщина','Москва','Java-разработчик',NULL,'https://hh.ru/resume/8e00beef00080466cc0039ed1f54537a434f38')
@@ -3226,7 +3226,7 @@ INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary
 ,('Опыт работы 10 лет 6 месяцев','Мужчина','Москва','IT директор / Руководитель разработки / Engineering manager',NULL,'https://hh.ru/resume/8e311be800082e20d80039ed1f6f5143397647')
 ,('Опыт работы 10 лет','Мужчина','Москва','Руководитель отдела, заместитель генерального директора',NULL,'https://hh.ru/resume/8e40717500011fb6680039ed1f637533485642')
 ;
-INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES
+INSERT INTO hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES 
 ('Опыт работы 9 лет 8 месяцев','Мужчина','Москва','Qa engineer (team lead)',NULL,'https://hh.ru/resume/8e47ac88000194fcf60039ed1f667933553457')
 ,('Опыт работы 2 года 8 месяцев','Мужчина','Москва','Менеджер по продажам',NULL,'https://hh.ru/resume/8e4f70b6000575cab60039ed1f675a79783479')
 ,('Опыт работы 6 лет 10 месяцев','Мужчина','Москва','специалист Anylogic','150 000 руб.','https://hh.ru/resume/8e57d8aa0007dce2780039ed1f334d3365564c')
@@ -3238,7 +3238,7 @@ INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary
 ,('Опыт работы 10 лет 5 месяцев','Мужчина','Москва','Программист Java Junior',NULL,'https://hh.ru/resume/8ecd0680000744d3f40039ed1f4b4e494c774f')
 ,('Опыт работы 26 лет 1 месяц','Мужчина','Москва','Начальник ИТ подразделения',NULL,'https://hh.ru/resume/8ed0edda0002c982050039ed1f4a31614d316b')
 ;
-INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES
+INSERT INTO hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES 
 ('Опыт работы 18 лет 10 месяцев','Мужчина','Москва','разработчик, C++','5 000 USD','https://hh.ru/resume/8ef5794900010420d70039ed1f526d6d6b7471')
 ,('Опыт работы 16 лет','Мужчина','Ишимбай','Junior Java, Middle PHP',NULL,'https://hh.ru/resume/8eff6ef900021efe260039ed1f734b71725a55')
 ,('Опыт работы 8 лет','Мужчина','Санкт-Петербург','Инженер','60 000 руб.','https://hh.ru/resume/8f2762750003775f0b0039ed1f454a37615a32')
@@ -3250,7 +3250,7 @@ INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary
 ,('Опыт работы 3 года 9 месяцев','Мужчина','Москва','Java Developer',NULL,'https://hh.ru/resume/8fa3f48200084f2e130039ed1f474f7446776f')
 ,('Опыт работы 7 лет 4 месяца','Мужчина','Москва','Аккаунт-менеджер','85 000 руб.','https://hh.ru/resume/8fa8d1230007583edc0039ed1f665a784b746e')
 ;
-INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES
+INSERT INTO hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES 
 ('Опыт работы 8 лет 7 месяцев','Мужчина','Москва','Android разработчик','2 200 USD','https://hh.ru/resume/8fb026a9000420c7920039ed1f4c41467a5265')
 ,('Опыт работы 17 лет 9 месяцев','Мужчина','Москва','IT директор / Технический директор (CIO, CTO)','300 000 руб.','https://hh.ru/resume/8fb2fb8d000280b0190039ed1f76344553714f')
 ,('Ключевые навыки','Женщина','Санкт-Петербург','Android developer','40 000 руб.','https://hh.ru/resume/8fccd76e0007d518d30039ed1f62715758674d')
@@ -3262,7 +3262,7 @@ INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary
 ,('Work experience 1 year 9 months','Male','Moscow','Junior data science/machine learning/deep learning developer',NULL,'https://hh.ru/resume/9003bd2800084f841f0039ed1f517457623645')
 ,('Ключевые навыки','Мужчина','Москва','стажер FrontEnd',NULL,'https://hh.ru/resume/9007b4ca0007da70350039ed1f4a4961314e65')
 ;
-INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES
+INSERT INTO hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES 
 ('Опыт работы 5 лет 4 месяца','Мужчина','Москва','Веб-разработчик','85 000 руб.','https://hh.ru/resume/900e2e4200058ab0b00039ed1f3748416e4d43')
 ,('Опыт работы 15 лет 3 месяца','Мужчина','Минск','Product Manager / Head of Growth',NULL,'https://hh.ru/resume/90174a790007751d140039ed1f386156677175')
 ,('Ключевые навыки','Мужчина','Москва','Начинающий специалист',NULL,'https://hh.ru/resume/901d98f20001dad4170039ed1f37516e6d564c')
@@ -3274,7 +3274,7 @@ INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary
 ,('Опыт работы 5 лет 10 месяцев','Мужчина','Москва','Data Engineer',NULL,'https://hh.ru/resume/90736c8e00044c24ef0039ed1f46664f6a504d')
 ,('Опыт работы 2 года 1 месяц','Мужчина','Ейск','Дизайнер интерфейсов (UI/UX)','70 000 руб.','https://hh.ru/resume/907d679800058c442e0039ed1f4c6a6c4f6f6a')
 ;
-INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES
+INSERT INTO hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES 
 ('Ключевые навыки','Мужчина','Москва','Начинающий IT специалист/ Стажер','30 000 руб.','https://hh.ru/resume/9082596e00082be9f40039ed1f674a6b754d37')
 ,('Опыт работы 1 год 4 месяца','Женщина','Москва','IT рекрутер',NULL,'https://hh.ru/resume/908834430007b82a580039ed1f664b79496635')
 ,('Опыт работы 8 лет 7 месяцев','Мужчина','Москва','Web-разработчик',NULL,'https://hh.ru/resume/9091bc060007e4a3a70039ed1f693579645953')
@@ -3286,7 +3286,7 @@ INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary
 ,('Опыт работы 1 год 7 месяцев','Женщина','Москва','Ассистент юриста','50 000 руб.','https://hh.ru/resume/90afcb9e00052dbf7f0039ed1f53584e537037')
 ,('Ключевые навыки','Мужчина','Москва','Программист','40 000 руб.','https://hh.ru/resume/90bd4fa200074d18490039ed1f66346d4f374d')
 ;
-INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES
+INSERT INTO hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES 
 ('Опыт работы 2 года 1 месяц','Мужчина','Москва','Web-программист','40 000 руб.','https://hh.ru/resume/90bed18d00050d872f0039ed1f667833654f6a')
 ,('Опыт работы 1 год 8 месяцев','Мужчина','Москва','Стажер(нагрузочное тестирование)Java',NULL,'https://hh.ru/resume/90c09c3d00083443bd0039ed1f6f727649656c')
 ,('Опыт работы 5 лет 4 месяца','Мужчина','Москва','Team lead',NULL,'https://hh.ru/resume/90d2c899000612cf9f0039ed1f777872306158')
@@ -3298,7 +3298,7 @@ INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary
 ,('Опыт работы 7 месяцев','Женщина','Москва','Менеджер IT-проектов','50 000 руб.','https://hh.ru/resume/913483040001f618d60039ed1f6d6b58587936')
 ,('Опыт работы 21 год 10 месяцев','Мужчина','Москва','CDO, CIO, Директор по ИТ, Директор по цифровизации',NULL,'https://hh.ru/resume/913e954a0000deca540039ed1f326736394c43')
 ;
-INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES
+INSERT INTO hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES 
 ('Опыт работы 19 лет 10 месяцев','Мужчина','Москва','Руководитель проекта / Project manager',NULL,'https://hh.ru/resume/91523efb00080f13e80039ed1f316d66425036')
 ,('Опыт работы 4 месяца','Мужчина','Москва','Web-программист','40 000 руб.','https://hh.ru/resume/9155f5480007cc03ca0039ed1f564c37423865')
 ,('Опыт работы 11 лет 10 месяцев','Мужчина','Москва','Программист','270 000 руб.','https://hh.ru/resume/9172251d0002bd5b610039ed1f636b4336425a')
@@ -3310,7 +3310,7 @@ INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary
 ,('Опыт работы 2 года 3 месяца','Мужчина','Москва','Программист-разработчик','139 990 руб.','https://hh.ru/resume/91cee50200067e4b3a0039ed1f727554467242')
 ,('Опыт работы 6 месяцев','Мужчина','Москва','Android developer',NULL,'https://hh.ru/resume/91d8af2a00083912700039ed1f4554796d536f')
 ;
-INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES
+INSERT INTO hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES 
 ('Опыт работы 2 года 11 месяцев','Мужчина','Москва','Верстальщик, верстка макетов','40 000 руб.','https://hh.ru/resume/91e07be50007ae1cbe0039ed1f69585645704f')
 ,('Опыт работы 11 лет 4 месяца','Мужчина','Москва','Программист-разработчик',NULL,'https://hh.ru/resume/91ed4ca300080f2a4c0039ed1f394831394635')
 ,('Опыт работы 1 год 3 месяца','Мужчина','Москва','Специалист по ВЭД / Специалист по закупкам',NULL,'https://hh.ru/resume/91f77f0400084a008e0039ed1f4d4c6b6c6758')
@@ -3322,7 +3322,7 @@ INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary
 ,('Опыт работы 4 года 1 месяц','Мужчина','Балашиха','Руководитель проектов (team lead)','180 000 руб.','https://hh.ru/resume/92509e40000358cace0039ed1f424d7441686a')
 ,('Опыт работы 17 лет 6 месяцев','Мужчина','Королев','product owner /руководитель разработки',NULL,'https://hh.ru/resume/925f907100030e74370039ed1f597573473739')
 ;
-INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES
+INSERT INTO hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES 
 ('Опыт работы 1 год 11 месяцев','Мужчина','Москва','Программист Java',NULL,'https://hh.ru/resume/9279f6cd000783e26d0039ed1f794575567575')
 ,('Опыт работы 6 лет 6 месяцев','Мужчина','Москва','Системный администратор','75 000 руб.','https://hh.ru/resume/9286477f000268db5c0039ed1f4e7042483854')
 ,('Опыт работы 8 лет 5 месяцев','Мужчина','Москва','Android Team Lead','350 000 руб.','https://hh.ru/resume/928d655e00039815810039ed1f5a63756b4a50')
@@ -3334,7 +3334,7 @@ INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary
 ,('Опыт работы 12 лет 11 месяцев','Мужчина','Москва','Специалист по логистике',NULL,'https://hh.ru/resume/93220601000137a9de0039ed1f516a36765338')
 ,('Ключевые навыки','Мужчина','Москва','Android Developer',NULL,'https://hh.ru/resume/932717b700060fc2050039ed1f38476f744169')
 ;
-INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES
+INSERT INTO hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES 
 ('Опыт работы 9 лет 1 месяц','Женщина','Москва','Junior java developer',NULL,'https://hh.ru/resume/932735160007c7b6020039ed1f4c564f695378')
 ,('Опыт работы 7 месяцев','Мужчина','Москва','QA Engineer / Тестировщик','70 000 руб.','https://hh.ru/resume/933b7e5f00082f8eaa0039ed1f424d73545472')
 ,('Опыт работы 10 лет 10 месяцев','Мужчина','Москва','Продуктовый дизайнер Product Designer',NULL,'https://hh.ru/resume/933bcff7000822e9800039ed1f324132575533')
@@ -3346,7 +3346,7 @@ INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary
 ,('Опыт работы 15 лет 3 месяца','Мужчина','Москва','Development manager \ Teamlead \ Руководитель разработки (C#, Web, MsSql)',NULL,'https://hh.ru/resume/93aed84b0000b038fe0039ed1f736563726574')
 ,('Опыт работы 3 года 3 месяца','Мужчина','Москва','Разработчик (Технологии)',NULL,'https://hh.ru/resume/93bf5e41000570416c0039ed1f374b5765596e')
 ;
-INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES
+INSERT INTO hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES 
 ('Work experience 12 years 4 months','Male','Yekaterinburg','Программист Unreal Engine 4','100 000 RUB','https://hh.ru/resume/93d53d190000407cdc0039ed1f736563726574')
 ,('Опыт работы 20 лет 1 месяц','Мужчина','Москва','Программист 1с (Удаленно)',NULL,'https://hh.ru/resume/940142360003f19bd50039ed1f785048774a53')
 ,('Опыт работы 2 года 1 месяц','Мужчина','Москва','Веб-программист',NULL,'https://hh.ru/resume/9405d2c7000662720f0039ed1f544752356156')
@@ -3358,7 +3358,7 @@ INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary
 ,('Work experience 3 years 6 months','Male','Moscow','Middle Java Software Engineer','80 000 RUB','https://hh.ru/resume/9443297a00085111bb0039ed1f626859566c66')
 ,('Ключевые навыки','Мужчина','Москва','Младший аналитик','50 000 руб.','https://hh.ru/resume/9443ddf4000578a85a0039ed1f727838427954')
 ;
-INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES
+INSERT INTO hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES 
 ('Опыт работы 8 лет 7 месяцев','Мужчина','Москва','Android Developer',NULL,'https://hh.ru/resume/94442abc000835714f0039ed1f4e494e5a6c68')
 ,('Опыт работы 13 лет 4 месяца','Мужчина','Москва','Менеджер IT проектов',NULL,'https://hh.ru/resume/94475ba8000767a6230039ed1f4b454a6c3073')
 ,('Work experience 7 years 11 months','Male','Moscow','Software engineer',NULL,'https://hh.ru/resume/944b6ed800076a3b700039ed1f566372394837')
@@ -3370,7 +3370,7 @@ INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary
 ,('Опыт работы 4 года 2 месяца','Женщина','Москва','Экономист',NULL,'https://hh.ru/resume/94b5596c000207f4610039ed1f726d38317456')
 ,('Опыт работы 7 лет 5 месяцев','Мужчина','Москва','Разработчик',NULL,'https://hh.ru/resume/94bc34e6000190531e0039ed1f70416d675956')
 ;
-INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES
+INSERT INTO hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES 
 ('Work experience 17 years','Male','Moscow','QA Team Lead, Senior Test Automation Architect','280 000 RUB','https://hh.ru/resume/94dbf54300058b14760039ed1f415631677343')
 ,('Опыт работы 22 года 4 месяца','Мужчина','Москва','Руководитель проекта, руководитель филиала',NULL,'https://hh.ru/resume/94e3592f0003f9046f0039ed1f4f593559507a')
 ,('Опыт работы 19 лет 5 месяцев','Мужчина','Москва','CIO / Руководитель отдела IT','450 000 руб.','https://hh.ru/resume/94e95e5500058b7df90039ed1f534661684537')
@@ -3382,7 +3382,7 @@ INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary
 ,('Опыт работы 4 месяца','Мужчина','Москва','Начинающий специалист','60 000 руб.','https://hh.ru/resume/9557fe8a00083e1ccc0039ed1f486a445a386a')
 ,('Опыт работы 1 год 5 месяцев','Мужчина','Москва','Android developer',NULL,'https://hh.ru/resume/95792ffa000795f7d20039ed1f7056436e6b6d')
 ;
-INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES
+INSERT INTO hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES 
 ('Опыт работы 2 года 10 месяцев','Женщина','Москва','Специалист по тестированию','100 000 руб.','https://hh.ru/resume/9591c72600059801660039ed1f6f3762444d51')
 ,('Опыт работы 11 лет 7 месяцев','Мужчина','Брянск','Web-разработчик',NULL,'https://hh.ru/resume/959b21f1000764232d0039ed1f694d7a565455')
 ,('Опыт работы 5 лет 9 месяцев','Мужчина','Москва','менеджер','70 000 руб.','https://hh.ru/resume/95acde0c0007f9e2ed0039ed1f7a5161467178')
@@ -3394,7 +3394,7 @@ INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary
 ,('Опыт работы 3 года','Мужчина','Москва','Начинающий специалист','35 000 руб.','https://hh.ru/resume/95df5764000265a40d0039ed1f62425a33546c')
 ,('Work experience 17 years 6 months','Male','Moscow','SAP MDG consultant / Project manager',NULL,'https://hh.ru/resume/95ed31f200001d67fa0039ed1f736563726574')
 ;
-INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES
+INSERT INTO hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES 
 ('Опыт работы 10 лет 9 месяцев','Мужчина','Москва','Системный инженер','150 000 руб.','https://hh.ru/resume/960309e400004ab4730039ed1f736563726574')
 ,('Опыт работы 1 год 1 месяц','Мужчина','Москва','Data scientist',NULL,'https://hh.ru/resume/960d6a1f000813fde40039ed1f686455767564')
 ,('Опыт работы 14 лет 10 месяцев','Мужчина','Москва','OpenedX devOps',NULL,'https://hh.ru/resume/9616ea7600081e43600039ed1f305a344f4e66')
@@ -3406,7 +3406,7 @@ INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary
 ,('Опыт работы 6 лет 8 месяцев','Мужчина','Москва','Senior Android Developer / Part time / Remote','100 000 руб.','https://hh.ru/resume/9637be5b0002d5dfcb0039ed1f434769567649')
 ,('Опыт работы 4 месяца','Мужчина','Москва','Программист',NULL,'https://hh.ru/resume/963d4b7d00075038300039ed1f4d42754f5977')
 ;
-INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES
+INSERT INTO hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES 
 ('Опыт работы 3 года 2 месяца','Мужчина','Санкт-Петербург','Программист Golang',NULL,'https://hh.ru/resume/96455ee8000553dbb80039ed1f5a346e4f586c')
 ,('Опыт работы 6 лет 9 месяцев','Мужчина','Москва','Программист C/C++, Инженер-программист 2й категории','80 000 руб.','https://hh.ru/resume/96645fc700018804260039ed1f6633744c6e50')
 ,('Ключевые навыки','Мужчина','Москва','PHP Программист',NULL,'https://hh.ru/resume/b71451170003257fed0039ed1f4f657a564344')
@@ -3418,7 +3418,7 @@ INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary
 ,('Опыт работы 12 лет 8 месяцев','Мужчина','Ноябрьск','Начальник службы АСУТП, Ведущий инженер- программист АСУТП, Ведущий инженер АСУТП, Программист','150 000 руб.','https://hh.ru/resume/96ad541c0002500aba0039ed1f5a565357306b')
 ,('Опыт работы 7 лет 10 месяцев','Женщина','Омск','Frontend-разработчик, HTML-верстальщик',NULL,'https://hh.ru/resume/96af2c1100077f69900039ed1f5454586f4454')
 ;
-INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES
+INSERT INTO hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES 
 ('Опыт работы 1 год','Мужчина','Москва','Инспектор службы безопасности','47 000 руб.','https://hh.ru/resume/96e48a3c0004886b4a0039ed1f354d39775457')
 ,('Ключевые навыки','Мужчина','Москва','Программист-разработчик',NULL,'https://hh.ru/resume/96e7094100063d43880039ed1f525973795a41')
 ,('Опыт работы 16 лет 7 месяцев','Мужчина','Москва','руководитель продукта или продуктового направления (Product Owner)',NULL,'https://hh.ru/resume/96f9a62c000230205d0039ed1f673577533368')
@@ -3430,7 +3430,7 @@ INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary
 ,('Опыт работы 2 года 9 месяцев','Мужчина','Москва','QA Engineer',NULL,'https://hh.ru/resume/9729d311000462933b0039ed1f326c48676d6b')
 ,('Опыт работы 14 лет 7 месяцев','Мужчина','Москва','Руководитель ИТ-отдела','230 000 руб.','https://hh.ru/resume/972f56ed00003c1f4e0039ed1f736563726574')
 ;
-INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES
+INSERT INTO hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES 
 ('Опыт работы 6 лет 5 месяцев','Мужчина','Москва','Тестировщик ПО',NULL,'https://hh.ru/resume/974ae8c800078799ce0039ed1f6857696b745a')
 ,('Work experience 7 years 9 months','Male','Moscow','СTO',NULL,'https://hh.ru/resume/9756b34e000329db370039ed1f727052686468')
 ,('Опыт работы 2 месяца','Мужчина','Москва','Программист-разработчик',NULL,'https://hh.ru/resume/9764a6ab00076855d80039ed1f5a6746746754')
@@ -3442,7 +3442,7 @@ INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary
 ,('Опыт работы 5 лет 2 месяца','Мужчина','Москва','Аналитик',NULL,'https://hh.ru/resume/979d580700039e43e10039ed1f684e4b6a7977')
 ,('Опыт работы 8 лет 9 месяцев','Женщина','Москва','Web разработчик, администратор сайта',NULL,'https://hh.ru/resume/979ee9320007959a9c0039ed1f314a524f6e34')
 ;
-INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES
+INSERT INTO hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES 
 ('Опыт работы 2 года 3 месяца','Мужчина','Москва','Программист c#',NULL,'https://hh.ru/resume/97a349560008056b180039ed1f3831566a414d')
 ,('Ключевые навыки','Мужчина','Москва','Младший разработчик cтажер',NULL,'https://hh.ru/resume/97adb4af000702792e0039ed1f597334373472')
 ,('Опыт работы 1 год 10 месяцев','Женщина','Москва','Преподаватель компьютерных/IT курсов, программирования, информатики','30 000 руб.','https://hh.ru/resume/97addbcf0007cbb1e20039ed1f677747694177')
@@ -3454,7 +3454,7 @@ INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary
 ,('Опыт работы 9 лет 10 месяцев','Мужчина','Москва','Программист','100 000 руб.','https://hh.ru/resume/97dc39540001345eea0039ed1f474353476b56')
 ,('Опыт работы 7 лет 9 месяцев','Мужчина','Москва','Технический специалист','95 000 руб.','https://hh.ru/resume/97e5d64e000733968e0039ed1f39536a764270')
 ;
-INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES
+INSERT INTO hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES 
 ('Опыт работы 12 лет 6 месяцев','Мужчина','Москва','Системный администратор / DevOps инженер','200 000 руб.','https://hh.ru/resume/97fe2c91000398d4c10039ed1f447756463031')
 ,('Опыт работы 3 года','Мужчина','Москва','Специалист по IT',NULL,'https://hh.ru/resume/98297382000848bb6f0039ed1f7732766e6f63')
 ,('Опыт работы 25 лет','Мужчина','Москва','Менеджер по продажам рекламы',NULL,'https://hh.ru/resume/982fde4f0002217b830039ed1f436b52775a77')
@@ -3466,7 +3466,7 @@ INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary
 ,('Опыт работы 12 лет 10 месяцев','Мужчина','Москва','Разработчик ПО','200 000 руб.','https://hh.ru/resume/990d98980007d228160039ed1f373777386a48')
 ,('Ключевые навыки','Мужчина','Москва','Программист Java, Android','50 000 руб.','https://hh.ru/resume/991a244000082d55560039ed1f37773337594e')
 ;
-INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES
+INSERT INTO hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES 
 ('Work experience 13 years 10 months','Male','Moscow','Product owner / manager',NULL,'https://hh.ru/resume/991fdf3a00008a3e570039ed1f736563726574')
 ,('Опыт работы 5 лет 3 месяца','Мужчина','Москва','QA Lead | Head of QA',NULL,'https://hh.ru/resume/9925a53200082de0f60039ed1f68764553726d')
 ,('Опыт работы 8 лет 5 месяцев','Мужчина','Москва','Java-разработчик',NULL,'https://hh.ru/resume/992781a5000377bdd10039ed1f4b744f747953')
@@ -3478,7 +3478,7 @@ INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary
 ,('Опыт работы 4 года 9 месяцев','Мужчина','Москва','Android developer',NULL,'https://hh.ru/resume/99b3c9740006b8e3b30039ed1f475276497550')
 ,('Опыт работы 8 лет 3 месяца','Мужчина','Волгоград','Руководитель отдела продаж и маркетинга','70 000 руб.','https://hh.ru/resume/99b59bbc0000ed9bcc0039ed1f566b7033764e')
 ;
-INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES
+INSERT INTO hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES 
 ('Опыт работы 18 лет 10 месяцев','Мужчина','Москва','Программист-разработчик','160 000 руб.','https://hh.ru/resume/99c3480a0000454b280039ed1f736563726574')
 ,('Опыт работы 5 лет','Мужчина','Обнинск','Преподаватель по программированию','30 000 руб.','https://hh.ru/resume/99e48fdc00077db7740039ed1f73756a646b38')
 ,('Обо мне','Мужчина','Москва','Специалист по защите информации',NULL,'https://hh.ru/resume/99e5c70400029cceae0039ed1f346a6e435a36')
@@ -3490,7 +3490,7 @@ INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary
 ,('Опыт работы 3 года','Мужчина','Москва','Системный администратор / IT-специалист',NULL,'https://hh.ru/resume/9a122122000434c49b0039ed1f6e625a6c766f')
 ,('Опыт работы 8 месяцев','Мужчина','Барнаул','Frontend-разработчик',NULL,'https://hh.ru/resume/9a3166d800082d746f0039ed1f533875505956')
 ;
-INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES
+INSERT INTO hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES 
 ('Опыт работы 1 год 2 месяца','Мужчина','Москва','Java-разработчик',NULL,'https://hh.ru/resume/9a3576dd000844d7790039ed1f567a346b7564')
 ,('Ключевые навыки','Мужчина','Москва','Системный аналитик',NULL,'https://hh.ru/resume/9a3a7ff600029298b60039ed1f6a5a4b466245')
 ,('Опыт работы 9 лет','Мужчина','Москва','Консультант по внедрению систем управления жизненным циклом изделия (PLM)',NULL,'https://hh.ru/resume/9a41d5130001928f330039ed1f306845717430')
@@ -3502,7 +3502,7 @@ INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary
 ,('Опыт работы 6 лет 11 месяцев','Женщина','Москва','QA-engineer / Тестировщик ПО',NULL,'https://hh.ru/resume/9a639afa00062edd470039ed1f4e3054746448')
 ,('Опыт работы 10 месяцев','Мужчина','Москва','Программист-разработчик',NULL,'https://hh.ru/resume/9a658f3d00082ff3560039ed1f4f726b6d4136')
 ;
-INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES
+INSERT INTO hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES 
 ('Ключевые навыки','Мужчина','Москва','Разработчик Java','80 000 руб.','https://hh.ru/resume/9a6af299000823fbcd0039ed1f657a78545246')
 ,('Опыт работы 30 лет 9 месяцев','Мужчина','Москва','Инженер','70 000 руб.','https://hh.ru/resume/9a812eb80001d4e2f90039ed1f3069626c634d')
 ,('Опыт работы 7 лет 2 месяца','Мужчина','Москва','Technical Product Manager / Tech lead',NULL,'https://hh.ru/resume/9a8828700007a602cf0039ed1f31644f697745')
@@ -3514,7 +3514,7 @@ INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary
 ,('Опыт работы 4 года 5 месяцев','Мужчина','Москва','Менеджер','50 000 руб.','https://hh.ru/resume/9ad177a600083f1ba20039ed1f764a76784a45')
 ,('Опыт работы 8 лет 6 месяцев','Мужчина','Москва','Инженер по информационной безопасности','120 000 руб.','https://hh.ru/resume/9adfc7750001c927260039ed1f316454585873')
 ;
-INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES
+INSERT INTO hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES 
 ('Опыт работы 9 лет 2 месяца','Мужчина','Москва','Дизайнер','70 000 руб.','https://hh.ru/resume/9ae5d0770007e9efa70039ed1f744755316253')
 ,('Опыт работы 7 лет 11 месяцев','Мужчина','Москва','Переводчик технической литературы (english)','40 000 руб.','https://hh.ru/resume/9b1cf5cf0000f87b700039ed1f6435524f614c')
 ,('Опыт работы 5 лет 2 месяца','Мужчина','Москва','Преподаватель IT специальностей','60 000 руб.','https://hh.ru/resume/9b1dd16d00082c210e0039ed1f673239484f49')
@@ -3526,7 +3526,7 @@ INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary
 ,('Work experience 20 years','Male','Moscow','Chief technology officer (CTO)','9 000 EUR','https://hh.ru/resume/9b4599a900035a5e4d0039ed1f4b4773357539')
 ,('Work experience 13 years 2 months','Male','Moscow','Junior iOS developer',NULL,'https://hh.ru/resume/9b51c5bc000562eb4c0039ed1f304c4f62796a')
 ;
-INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES
+INSERT INTO hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES 
 ('Опыт работы 8 месяцев','Мужчина','Москва','Тестировщик ПО','60 000 руб.','https://hh.ru/resume/9b5e025d00078dd8e00039ed1f37746b547a74')
 ,('Опыт работы 13 лет 5 месяцев','Мужчина','Москва','Data scientist',NULL,'https://hh.ru/resume/9b68f2870007f82d4c0039ed1f4b316d614474')
 ,('Опыт работы 19 лет 7 месяцев','Мужчина','Москва','Системный Архитектор','350 000 руб.','https://hh.ru/resume/9b96953a00056ae8500039ed1f485538524c6f')
@@ -3538,7 +3538,7 @@ INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary
 ,('Опыт работы 9 лет 11 месяцев','Мужчина','Москва','Помощник юриста','40 000 руб.','https://hh.ru/resume/9c0840500007bfa5290039ed1f6c754277634d')
 ,('Опыт работы 3 года 11 месяцев','Мужчина','Санкт-Петербург','Junior java developer',NULL,'https://hh.ru/resume/9c0c93840007239a580039ed1f4e47774c7637')
 ;
-INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES
+INSERT INTO hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES 
 ('Опыт работы 9 лет 3 месяца','Женщина','Москва','Ведущий менеджер по подбору персонала/IT-рекрутер (remote)','130 000 руб.','https://hh.ru/resume/9c0f670a0007f484ed0039ed1f544554376147')
 ,('Опыт работы 17 лет 1 месяц','Женщина','Москва','Технический дизайнер','50 000 руб.','https://hh.ru/resume/9c1634ca0004ed12360039ed1f5469664c5532')
 ,('Опыт работы 9 лет 3 месяца','Мужчина','Москва','Системный администратор',NULL,'https://hh.ru/resume/9c29671200059a64580039ed1f4b5a67426f4a')
@@ -3550,7 +3550,7 @@ INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary
 ,('Опыт работы 7 лет 5 месяцев','Женщина','Москва','Разработчик отчетности (SAP BI/BW/BO)','90 000 руб.','https://hh.ru/resume/9c7d57cd00065947e70039ed1f6e68306f5741')
 ,('Опыт работы 1 год 1 месяц','Мужчина','Москва','Junior Frontend Developer',NULL,'https://hh.ru/resume/9c82f6740007a4bbcd0039ed1f59374e4e586e')
 ;
-INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES
+INSERT INTO hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES 
 ('Опыт работы 8 лет 5 месяцев','Мужчина','Москва','Помощник руководителя','50 000 руб.','https://hh.ru/resume/9c86067c0007bdbb160039ed1f626f74626868')
 ,('Опыт работы 2 года 10 месяцев','Мужчина','Москва','Android-разработчик','50 000 руб.','https://hh.ru/resume/9ca670d90004671b350039ed1f6449504d6d5a')
 ,('Опыт работы 1 год 6 месяцев','Мужчина','Москва','Инженер-программист',NULL,'https://hh.ru/resume/9ca6c192000743a8510039ed1f6d425a357757')
@@ -3562,7 +3562,7 @@ INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary
 ,('Опыт работы 8 лет','Мужчина','Москва','Руководитель проекта','200 000 руб.','https://hh.ru/resume/9d288fe20001e3e5830039ed1f46653370765a')
 ,('Опыт работы 8 лет','Женщина','Москва','Product Owner/Project manager','180 000 руб.','https://hh.ru/resume/9d2e950b0005a182dd0039ed1f6e666236304e')
 ;
-INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES
+INSERT INTO hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES 
 ('Опыт работы 18 лет 9 месяцев','Мужчина','Москва','Java-программист',NULL,'https://hh.ru/resume/9d2fa0fa0007ff43680039ed1f684f486d4a65')
 ,('Опыт работы 1 год 7 месяцев','Мужчина','Санкт-Петербург','Product Manager','70 000 руб.','https://hh.ru/resume/9d47193900080eba070039ed1f764c64755a74')
 ,('Опыт работы 17 лет 4 месяца','Мужчина','Москва','Разработчик С#, ASP.NET','180 000 руб.','https://hh.ru/resume/9d5ac9ac00004e4e450039ed1f736563726574')
@@ -3574,7 +3574,7 @@ INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary
 ,('Опыт работы 5 лет 9 месяцев','Мужчина','Москва','Системный администратор',NULL,'https://hh.ru/resume/9da0c35200033f7d0e0039ed1f65745658726b')
 ,('Ключевые навыки','Мужчина','Москва','Программист-стажер',NULL,'https://hh.ru/resume/9dbe83f50007e6cd070039ed1f48306871414a')
 ;
-INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES
+INSERT INTO hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES 
 ('Опыт работы 22 года 2 месяца','Мужчина','Москва','Программист-разработчик',NULL,'https://hh.ru/resume/9dc248ed00001883950039ed1f736563726574')
 ,('Опыт работы 13 лет 6 месяцев','Мужчина','Москва','Team/Tech Lead Devops',NULL,'https://hh.ru/resume/9dc7d1090007d439d50039ed1f4d426247436d')
 ,('Опыт работы 2 года 6 месяцев','Женщина','Астрахань','HR менеджер',NULL,'https://hh.ru/resume/9dc7d4050007fc297b0039ed1f427457646779')
@@ -3586,7 +3586,7 @@ INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary
 ,('Опыт работы 10 лет 1 месяц','Мужчина','Москва','Руководитель в Application Security',NULL,'https://hh.ru/resume/9dea1c64000319cd8b0039ed1f394441454844')
 ,('Ключевые навыки','Мужчина','Москва','Программист-стажер','30 000 руб.','https://hh.ru/resume/9df071bc000819e6dd0039ed1f464842323174')
 ;
-INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES
+INSERT INTO hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES 
 ('Опыт работы 16 лет','Мужчина','Москва','Архитектор данных (Data Architect)','350 000 руб.','https://hh.ru/resume/9e1de5fc0002d5b52a0039ed1f70524d4e4a4f')
 ,('Опыт работы 7 лет 8 месяцев','Женщина','Калуга','Начинающий программист C# .NET / Early career C# .NET developer','30 000 руб.','https://hh.ru/resume/9e50f2be0007f0b0bf0039ed1f367046384472')
 ,('Опыт работы 1 год 4 месяца','Мужчина','Москва','Android - разработчик',NULL,'https://hh.ru/resume/9e5ce72000082fc6360039ed1f5430534f4933')
@@ -3598,7 +3598,7 @@ INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary
 ,('Опыт работы 32 года 2 месяца','Мужчина','Москва','Oracle DBA',NULL,'https://hh.ru/resume/9eccdee30002304d3b0039ed1f744d65466f68')
 ,('Опыт работы 13 лет 7 месяцев','Мужчина','Москва','Программист-разработчик',NULL,'https://hh.ru/resume/9ef4e76f000447d21f0039ed1f474d43796c65')
 ;
-INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES
+INSERT INTO hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES 
 ('Опыт работы 2 года 3 месяца','Мужчина','Москва','Эникейщик / стажер / помощник системного администратора','40 000 руб.','https://hh.ru/resume/9ef6d5fa0004150b2c0039ed1f4b555739446f')
 ,('Опыт работы 12 лет 9 месяцев','Мужчина','Краснодар','Разработчик ПО',NULL,'https://hh.ru/resume/9f2bc06200031fcb6b0039ed1f5245426a636b')
 ,('Опыт работы 15 лет 3 месяца','Мужчина','Москва','Системный администратор',NULL,'https://hh.ru/resume/9f2dc7e700040a827b0039ed1f514c4577317a')
@@ -3610,7 +3610,7 @@ INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary
 ,('Опыт работы 6 лет 5 месяцев','Мужчина','Москва','Frontend-разработчик','180 000 руб.','https://hh.ru/resume/9f75920900076c18700039ed1f645359456c54')
 ,('Опыт работы 19 лет 1 месяц','Мужчина','Уфа','Data Scientist, Researcher, Доцент','120 000 руб.','https://hh.ru/resume/9f76c30c00003782a10039ed1f736563726574')
 ;
-INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES
+INSERT INTO hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES 
 ('Ключевые навыки','Мужчина','Москва','Начинающий Java-программист/ Стажёр','20 000 руб.','https://hh.ru/resume/9f7ece6b00081d93710039ed1f646a506e6a41')
 ,('Work experience 16 years 6 months','Male','Moscow','Senior iOS/ Android developer, Team Lead','8 000 USD','https://hh.ru/resume/9f7fe34800078dd1550039ed1f754961454c6f')
 ,('Опыт работы 4 года 9 месяцев','Женщина','Москва','Программист 1С','170 000 руб.','https://hh.ru/resume/9fb0f2370006096dd70039ed1f543459584d49')
@@ -3622,7 +3622,7 @@ INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary
 ,('Ключевые навыки','Мужчина','Москва','Junior Java developer',NULL,'https://hh.ru/resume/a0291e900007c2c6080039ed1f363555686164')
 ,('Опыт работы 10 лет 2 месяца','Мужчина','Тюмень','Руководитель IT проектов (Тюмень / удаленно)','150 000 руб.','https://hh.ru/resume/a0296b4f0001c565460039ed1f615558635933')
 ;
-INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES
+INSERT INTO hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES 
 ('Опыт работы 14 лет 3 месяца','Мужчина','Москва','Руководитель',NULL,'https://hh.ru/resume/a0496cc7000040c1c20039ed1f736563726574')
 ,('Опыт работы 9 лет 6 месяцев','Женщина','Москва','Секретарь, офис менеджер',NULL,'https://hh.ru/resume/a05fe86900077ddb150039ed1f767557706376')
 ,('Опыт работы 2 года 8 месяцев','Мужчина','Москва','Java-разработчик','95 000 руб.','https://hh.ru/resume/a061202a00080b53fd0039ed1f793979556b56')
@@ -3634,7 +3634,7 @@ INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary
 ,('Опыт работы 34 года 5 месяцев','Мужчина','Москва','Архитектор решений, Разработчик',NULL,'https://hh.ru/resume/a08803d00003530d320039ed1f796c70593071')
 ,('Опыт работы 8 лет','Мужчина','Москва','Стажер IT ( помощник / обучение )','35 000 руб.','https://hh.ru/resume/a08ad5290001e528ee0039ed1f6a576e35665a')
 ;
-INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES
+INSERT INTO hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES 
 ('Опыт работы 3 года 8 месяцев','Мужчина','Москва','Инженер по тестированию ПО',NULL,'https://hh.ru/resume/a093bfe60006f7f06f0039ed1f33304d4b4178')
 ,('Опыт работы 4 года 7 месяцев','Мужчина','Москва','Web-разработчик','60 000 руб.','https://hh.ru/resume/a09411d50004028be60039ed1f51787654494e')
 ,('Опыт работы 8 месяцев','Мужчина','Москва','Data Scientist/Machine Learning Engineer','110 000 руб.','https://hh.ru/resume/a0a4f6dd0007de00710039ed1f67704e38464f')
@@ -3646,7 +3646,7 @@ INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary
 ,('Work experience 5 years 9 months','Male','Moscow','QA Automation Engineer','60 000 RUB','https://hh.ru/resume/a114353a000807963c0039ed1f493957755a5a')
 ,('Опыт работы 1 год 9 месяцев','Мужчина','Москва','Программист-стажер Java','30 000 руб.','https://hh.ru/resume/a12acccd00031b90ac0039ed1f45734d457271')
 ;
-INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES
+INSERT INTO hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES 
 ('Опыт работы 2 года 6 месяцев','Мужчина','Москва','Программист',NULL,'https://hh.ru/resume/a14c9ed1000793b4e50039ed1f463869536b4b')
 ,('Опыт работы 1 год 3 месяца','Мужчина','Москва','Системный аналитик','1 500 руб.','https://hh.ru/resume/a15091c20007909d910039ed1f5a51616d334b')
 ,('Опыт работы 11 лет 9 месяцев','Мужчина','Москва','Веб-программист, фронтэнд разработчик, верстальщик',NULL,'https://hh.ru/resume/a1537eea0005aa022c0039ed1f5a3055546a72')
@@ -3658,7 +3658,7 @@ INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary
 ,('Work experience 2 years 6 months','Male','Moscow','Big data developer','2 200 USD','https://hh.ru/resume/a17f44120007b72e150039ed1f774f34626f59')
 ,('Ключевые навыки','Мужчина','Москва','Начинающий Frontend специалист',NULL,'https://hh.ru/resume/a19ba16e00084a9ce30039ed1f4968546d5931')
 ;
-INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES
+INSERT INTO hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES 
 ('Опыт работы 5 лет 8 месяцев','Мужчина','Москва','Java developer','280 000 руб.','https://hh.ru/resume/a1a69df40005f247780039ed1f436f77783776')
 ,('Опыт работы 2 года 4 месяца','Мужчина','Архангельск','Project Manager',NULL,'https://hh.ru/resume/a1aa15c70005fd14370039ed1f4e4d6e524d55')
 ,('Опыт работы 11 лет','Мужчина','Москва','Начальник смены','100 000 руб.','https://hh.ru/resume/a1c4e61000039891600039ed1f53376f515147')
@@ -3670,7 +3670,7 @@ INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary
 ,('Опыт работы 6 лет','Мужчина','Москва','Java-разработчик','50 000 руб.','https://hh.ru/resume/a205491b000809d1440039ed1f6765324c6634')
 ,('Опыт работы 11 лет 6 месяцев','Мужчина','Москва','Senior Software Engineer / Team Lead','400 000 руб.','https://hh.ru/resume/a20bcf07000196021e0039ed1f6d636a4f6459')
 ;
-INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES
+INSERT INTO hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES 
 ('Опыт работы 14 лет 5 месяцев','Мужчина','Москва','PHP, Laravel, + Верстка и на трудный FrontEnd, Web Разработчик (Удаленно)','120 000 руб.','https://hh.ru/resume/a22c8ad5000792e4780039ed1f6a75566f735a')
 ,('Опыт работы 27 лет 6 месяцев','Мужчина','Иркутск','ИТ-директор, начальник управления ИТ, начальник департамента ИТ, начальник отдела ИТ','200 000 руб.','https://hh.ru/resume/a246eb4f0005c0edfa0039ed1f365270676d78')
 ,('Опыт работы 17 лет 9 месяцев','Мужчина','Москва','IT директор',NULL,'https://hh.ru/resume/a24893ac0002f177620039ed1f735041786158')
@@ -3682,7 +3682,7 @@ INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary
 ,('Опыт работы 6 лет 7 месяцев','Мужчина','Москва','Инженер-программист','20 000 руб.','https://hh.ru/resume/a28163e70002368f890039ed1f6f4379414c51')
 ,('Опыт работы 3 года 1 месяц','Мужчина','Москва','Software engineer','150 000 руб.','https://hh.ru/resume/a2884b5e0008200bfb0039ed1f4a4f4b766651')
 ;
-INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES
+INSERT INTO hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES 
 ('Опыт работы 41 год 2 месяца','Мужчина','Москва','Воплощение в жизнь нестандартных решений сложных вопросов..','120 000 руб.','https://hh.ru/resume/a2a76169000000319b0039ed1f736563726574')
 ,('Опыт работы 16 лет 10 месяцев','Мужчина','Москва','Руководитель ИТ направления или Цифровизации / IT Product manager / Руководитель проектного офиса','190 000 руб.','https://hh.ru/resume/a2c5afea00007910e00039ed1f736563726574')
 ,('Ключевые навыки','Мужчина','Москва','Python разработчик',NULL,'https://hh.ru/resume/a2cbf3f600051bddd20039ed1f41684c526566')
@@ -3694,7 +3694,7 @@ INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary
 ,('Опыт работы 6 лет 10 месяцев','Мужчина','Москва','Менеджер проектов','100 000 руб.','https://hh.ru/resume/a2f709e600028ac6c90039ed1f616f6f384f7a')
 ,('Опыт работы 3 года 10 месяцев','Мужчина','Иркутск','Android-Developer','80 000 руб.','https://hh.ru/resume/a2fdfb4e0003099ad30039ed1f466f336b6371')
 ;
-INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES
+INSERT INTO hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES 
 ('Опыт работы 6 лет 8 месяцев','Мужчина','Екатеринбург','Менеджер по продажам','35 000 руб.','https://hh.ru/resume/a2fe1b110001261df20039ed1f4e634c714141')
 ,('Опыт работы 7 лет 2 месяца','Мужчина','Санкт-Петербург','Web-разработчик','55 000 руб.','https://hh.ru/resume/a2ff155000082360730039ed1f3836494e5253')
 ,('Ключевые навыки','Мужчина','Москва','Программист-стажер Java',NULL,'https://hh.ru/resume/a304274400078dbf600039ed1f7551386a7237')
@@ -3706,7 +3706,7 @@ INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary
 ,('Опыт работы 1 месяц','Мужчина','Москва','Программист Python',NULL,'https://hh.ru/resume/a340afc00005c5f5200039ed1f537057674544')
 ,('Опыт работы 32 года 11 месяцев','Мужчина','Москва','Ведущий программист, разработчик программного обеспечения,аналитик',NULL,'https://hh.ru/resume/a342109300028a3f150039ed1f624c4c62314e')
 ;
-INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES
+INSERT INTO hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES 
 ('Ключевые навыки','Мужчина','Москва','Начинающий специалист','35 000 руб.','https://hh.ru/resume/a342deaa000436d6230039ed1f5364304b564d')
 ,('Опыт работы 13 лет 9 месяцев','Мужчина','Москва','Тимлид Java, Ведущий разработчик',NULL,'https://hh.ru/resume/a34960f90007e7be560039ed1f65426633785a')
 ,('Опыт работы 3 года 3 месяца','Мужчина','Москва','Java Developer','90 000 руб.','https://hh.ru/resume/a36627260004f600890039ed1f666230307861')
@@ -3718,7 +3718,7 @@ INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary
 ,('Опыт работы 4 года 1 месяц','Мужчина','Москва','Системный администратор','65 000 руб.','https://hh.ru/resume/a3c3e6da0002bdf1300039ed1f4b4770556c6a')
 ,('Опыт работы 14 лет 8 месяцев','Мужчина','Москва','Руководитель отдела/направления/проектов',NULL,'https://hh.ru/resume/a3c5447d0000aa59ee0039ed1f736563726574')
 ;
-INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES
+INSERT INTO hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES 
 ('Опыт работы 3 месяца','Мужчина','Санкт-Петербург','Программист-стажер','40 000 руб.','https://hh.ru/resume/a3d7337400052506000039ed1f4d6558445756')
 ,('Опыт работы 2 года 3 месяца','Мужчина','Москва','Программист C/C++','150 000 руб.','https://hh.ru/resume/a3e20f810003601ada0039ed1f5368526a4e4c')
 ,('Ключевые навыки','Мужчина','Москва','Программист Python','50 000 руб.','https://hh.ru/resume/a3fcf18a0008513acb0039ed1f385077563338')
@@ -3730,7 +3730,7 @@ INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary
 ,('Опыт работы 9 лет 7 месяцев','Мужчина','Москва','Teamlead ios','300 000 руб.','https://hh.ru/resume/a440df01000437a9f60039ed1f5646354e5066')
 ,('Опыт работы 18 лет 10 месяцев','Мужчина','Казань','Ведущий специалист (ВОЛС, ШПД, PON, SIP-t) .','55 000 руб.','https://hh.ru/resume/a4494c39000227b1b70039ed1f747978486355')
 ;
-INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES
+INSERT INTO hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES 
 ('Опыт работы 15 лет','Мужчина','Большой Камень','Программист','150 000 руб.','https://hh.ru/resume/a45ad2a600068856250039ed1f455651534442')
 ,('Опыт работы 6 лет 2 месяца','Мужчина','Москва','Бренд-амбассадор','70 000 руб.','https://hh.ru/resume/a45ed5fb000801df980039ed1f4a634e76666b')
 ,('Опыт работы 2 месяца','Женщина','Москва','Python developer',NULL,'https://hh.ru/resume/a460aec5000827046c0039ed1f527978786e59')
@@ -3742,7 +3742,7 @@ INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary
 ,('Опыт работы 3 года 11 месяцев','Мужчина','Ташкент','Java-разработчик','120 000 руб.','https://hh.ru/resume/a4b529fb00051ccdd50039ed1f344e38696178')
 ,('Опыт работы 15 лет 9 месяцев','Мужчина','Москва','DevOps инженер','300 000 руб.','https://hh.ru/resume/a4b597830006fd9b960039ed1f617539697264')
 ;
-INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES
+INSERT INTO hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES 
 ('Ключевые навыки','Мужчина','Москва','Java-разработчик',NULL,'https://hh.ru/resume/a4b6809f0007e37b550039ed1f53387a457575')
 ,('Опыт работы 11 лет 2 месяца','Женщина','Москва','IT Recruiter',NULL,'https://hh.ru/resume/a4b97279000236b51c0039ed1f30544539326b')
 ,('Опыт работы 2 года','Мужчина','Москва','программист Python3.8, PHP, SQL, C (UNIX)',NULL,'https://hh.ru/resume/a4c3c1340004449f260039ed1f6a36374f434b')
@@ -3754,7 +3754,7 @@ INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary
 ,('Опыт работы 1 год 8 месяцев','Мужчина','Москва','Java-разработчик | Java-программист | Java developer',NULL,'https://hh.ru/resume/a50d7b3d00083529d70039ed1f6f6d58427941')
 ,('Work experience 11 years 5 months','Male','Almaty','Senior ICT Manager','1 000 000 KZT','https://hh.ru/resume/a518a8e700020b4d5d0039ed1f526169465535')
 ;
-INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES
+INSERT INTO hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES 
 ('Опыт работы 23 года 8 месяцев','Мужчина','Москва','Директор департамента ИТ',NULL,'https://hh.ru/resume/a51f76330001ad8b910039ed1f484c3744794f')
 ,('Опыт работы 7 лет 1 месяц','Мужчина','Москва','Инженер технической поддержки','40 000 руб.','https://hh.ru/resume/a53d289e00055442d90039ed1f593031696d6c')
 ,('Опыт работы 5 лет 11 месяцев','Мужчина','Ставрополь','Специалист по Контекстной рекламе - Директолог - Аналитик - Управление проектами - SEO-Специалист','60 000 руб.','https://hh.ru/resume/a55e3974000309d6160039ed1f4f7846566a6b')
@@ -3766,7 +3766,7 @@ INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary
 ,('Опыт работы 22 года 5 месяцев','Мужчина','Минск','Java developer',NULL,'https://hh.ru/resume/a5cabc9300021b30a20039ed1f51494d513973')
 ,('Опыт работы 4 года 11 месяцев','Мужчина','Щелково','Java-разработчик',NULL,'https://hh.ru/resume/a5cd648f000843b5230039ed1f7146746e4674')
 ;
-INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES
+INSERT INTO hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES 
 ('Ключевые навыки','Мужчина','Москва','Junior программист',NULL,'https://hh.ru/resume/a5e486410007cf993b0039ed1f77335a4f7336')
 ,('Опыт работы 9 лет 6 месяцев','Женщина','Москва','HTML-верстальщик / junior frontend разработчик VUE','45 000 руб.','https://hh.ru/resume/a6013cac0007877d920039ed1f395844314e42')
 ,('Опыт работы 10 лет 6 месяцев','Мужчина','Москва','Разработчик MVC5,4,3,AngularJS,WebAPI,JQuery,JS,LINQ,C#,EF6,ASP.net,WebService,Luis','200 000 руб.','https://hh.ru/resume/a60778b000072b2fa90039ed1f7376694b5636')
@@ -3778,7 +3778,7 @@ INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary
 ,('Опыт работы 6 месяцев','Мужчина','Москва','Начинающий специалист',NULL,'https://hh.ru/resume/a6280cb50002ae8d3a0039ed1f6c7a43636a41')
 ,('Опыт работы 4 года 5 месяцев','Женщина','Москва','Программист Java (junior)',NULL,'https://hh.ru/resume/a62aaab800074e1a390039ed1f7a4b53447139')
 ;
-INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES
+INSERT INTO hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES 
 ('Опыт работы 16 лет 5 месяцев','Мужчина','Москва','Программист-разработчик',NULL,'https://hh.ru/resume/a644b0d100029f1bbd0039ed1f4b73447a3432')
 ,('Опыт работы 3 года 5 месяцев','Мужчина','Москва','Frontend-разработчик','80 000 руб.','https://hh.ru/resume/a650b3080002231da60039ed1f6168556d7763')
 ,('Опыт работы 14 лет 11 месяцев','Мужчина','Москва','Perl developer','170 000 руб.','https://hh.ru/resume/a65316f900008654730039ed1f736563726574')
@@ -3790,7 +3790,7 @@ INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary
 ,('Опыт работы 4 года 8 месяцев','Мужчина','Москва','Software developer','150 000 руб.','https://hh.ru/resume/a670a9f00001928aa70039ed1f35736e687177')
 ,('Опыт работы 1 год','Мужчина','Москва','Тестировщик junior/стажер','50 000 руб.','https://hh.ru/resume/a681aa080007796eee0039ed1f49704a495868')
 ;
-INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES
+INSERT INTO hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES 
 ('Work experience 15 years 3 months','Male','Moscow','IT Manager',NULL,'https://hh.ru/resume/a684d06000036141970039ed1f36564e745231')
 ,('Опыт работы 22 года 2 месяца','Мужчина','Москва','ИТ-директор, Руководитель ИТ-подразделения',NULL,'https://hh.ru/resume/a68eeec700001cc4380039ed1f736563726574')
 ,('Опыт работы 19 лет 5 месяцев','Мужчина','Москва','Руководитель проектов, менеджер проектов','300 000 руб.','https://hh.ru/resume/a69febe80000be481d0039ed1f736563726574')
@@ -3802,7 +3802,7 @@ INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary
 ,('Опыт работы 8 лет 8 месяцев','Мужчина','Москва','Руководитель отдела разработки ПО','1 EUR','https://hh.ru/resume/a6efae95000361574e0039ed1f685a3766774a')
 ,('Опыт работы 14 лет','Мужчина','Уссурийск','Системный администратор Москва','90 000 руб.','https://hh.ru/resume/a6f0948d00083066660039ed1f365376583436')
 ;
-INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES
+INSERT INTO hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES 
 ('Опыт работы 2 года 9 месяцев','Мужчина','Москва','Bitrix backend','90 000 руб.','https://hh.ru/resume/a71be29700071851d60039ed1f5637686d386e')
 ,('Опыт работы 13 лет 1 месяц','Мужчина','Симферополь','Коммерческий директор','50 000 руб.','https://hh.ru/resume/a72ec8ce0001e6bca70039ed1f4b566e474f39')
 ,('Опыт работы 13 лет 7 месяцев','Мужчина','Москва','Технический директор (СTO)/ИТ Директор (CIO)',NULL,'https://hh.ru/resume/a73b6b5f00051fee910039ed1f76766964416d')
@@ -3814,7 +3814,7 @@ INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary
 ,('Опыт работы 8 месяцев','Мужчина','Москва','QA Engineer/Тестировщик ПО',NULL,'https://hh.ru/resume/a79a601200079402840039ed1f64444a7a4673')
 ,('Опыт работы 7 лет 9 месяцев','Мужчина','Москва','Programmer/developer',NULL,'https://hh.ru/resume/a7a11d1d000670d3180039ed1f52427a316a36')
 ;
-INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES
+INSERT INTO hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES 
 ('Опыт работы 1 год 4 месяца','Мужчина','Москва','Программист-разработчик',NULL,'https://hh.ru/resume/a7c0c27e0005b74fc40039ed1f5a7631336f39')
 ,('Опыт работы 4 года 2 месяца','Мужчина','Москва','Тендерный специалист','80 000 руб.','https://hh.ru/resume/a7c3985d0007c5996b0039ed1f326f6b684541')
 ,('Опыт работы 15 лет','Мужчина','Москва','Java-разработчик',NULL,'https://hh.ru/resume/a7dc632000080ff3170039ed1f75754b374452')
@@ -3826,7 +3826,7 @@ INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary
 ,('Опыт работы 13 лет','Мужчина','Москва','Руководитель отдела информационных технологий',NULL,'https://hh.ru/resume/a82966d20006c61cc40039ed1f615944454d54')
 ,('Опыт работы 15 лет 5 месяцев','Мужчина','Москва','Программист C/С++','280 000 руб.','https://hh.ru/resume/a83198dd0000b3f7fc0039ed1f736563726574')
 ;
-INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES
+INSERT INTO hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES 
 ('Опыт работы 15 лет 11 месяцев','Мужчина','Москва','Руководитель / Product owner / Руководитель проектов / Технический директор',NULL,'https://hh.ru/resume/a839b0a10002b357f30039ed1f4c445934346e')
 ,('Опыт работы 27 лет 11 месяцев','Мужчина','Москва','Технический писатель','61 000 руб.','https://hh.ru/resume/a85638810000467b420039ed1f736563726574')
 ,('Опыт работы 11 лет 6 месяцев','Мужчина','Москва','Front-end разработчик ( Веб-сайты, WEB, live-style, верстка )','60 000 руб.','https://hh.ru/resume/a856575600019587bc0039ed1f6d6166344c54')
@@ -3838,7 +3838,7 @@ INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary
 ,('Опыт работы 25 лет 6 месяцев','Мужчина','Москва','Руководитель','155 000 руб.','https://hh.ru/resume/a88f82170001ce6b850039ed1f34495a725478')
 ,('Опыт работы 1 год 11 месяцев','Мужчина','Москва','Android Developer','120 000 руб.','https://hh.ru/resume/a8a2fa060004927b4d0039ed1f34575a616d6e')
 ;
-INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES
+INSERT INTO hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES 
 ('Ключевые навыки','Мужчина','Москва','Java-разработчик',NULL,'https://hh.ru/resume/a8b0b47f00053063ba0039ed1f55413038744c')
 ,('Опыт работы 1 год 1 месяц','Мужчина','Москва','Программист','1 300 EUR','https://hh.ru/resume/a8baca52000749a0c70039ed1f384934627567')
 ,('Опыт работы 17 лет 1 месяц','Мужчина','Нижний Новгород','Программист','100 000 руб.','https://hh.ru/resume/a8c659e600001918e90039ed1f736563726574')
@@ -3850,7 +3850,7 @@ INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary
 ,('Опыт работы 1 год 2 месяца','Мужчина','Москва','Тестировщик ПО',NULL,'https://hh.ru/resume/a8f2d2ca00072d7b480039ed1f5a445a784361')
 ,('Опыт работы 3 года 1 месяц','Женщина','Москва','Программист','80 000 руб.','https://hh.ru/resume/a8f937cc0007e91f280039ed1f6237485a5769')
 ;
-INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES
+INSERT INTO hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES 
 ('Ключевые навыки','Мужчина','Москва','Java-программист junior/стажёр',NULL,'https://hh.ru/resume/a8fc617e00064f8f4e0039ed1f594164645864')
 ,('Work experience 19 years 6 months','Male','Moscow','Senior java developer (remote)',NULL,'https://hh.ru/resume/a8fd74b50002f6341a0039ed1f4b6c64364363')
 ,('Опыт работы 4 года 11 месяцев','Мужчина','Краснодар','Junior frontend Developer/Верстальщик',NULL,'https://hh.ru/resume/a9003cad000732499d0039ed1f703065307563')
@@ -3862,7 +3862,7 @@ INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary
 ,('Опыт работы 10 лет 10 месяцев','Мужчина','Москва','Менеджер интернет-проектов / Администратор сайтов',NULL,'https://hh.ru/resume/a997f2e30003def5020039ed1f383436514337')
 ,('Опыт работы 12 лет 2 месяца','Женщина','Москва','HR менеджер\ It рекрутер\ удаленно','50 000 руб.','https://hh.ru/resume/a9a73be400036e71600039ed1f465539395848')
 ;
-INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES
+INSERT INTO hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES 
 ('Ключевые навыки','Мужчина','Москва','Junior Data Scientist',NULL,'https://hh.ru/resume/a9a913860005c506260039ed1f497864386f64')
 ,('Опыт работы 2 года 1 месяц','Мужчина','Москва','Java Junior','40 000 руб.','https://hh.ru/resume/a9af60420007c6b7c40039ed1f584c3141524b')
 ,('Опыт работы 15 лет 4 месяца','Мужчина','Москва','Менеджер продукта/ Product Owner',NULL,'https://hh.ru/resume/a9b512ba00078930490039ed1f574e5755514b')
@@ -3874,7 +3874,7 @@ INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary
 ,('Опыт работы 6 лет 7 месяцев','Мужчина','Москва','Project/Product manager, analyst','190 000 руб.','https://hh.ru/resume/aa2f4283000348d45c0039ed1f35596f674c4c')
 ,('Опыт работы 4 года 11 месяцев','Мужчина','Москва','Менеджер по работе с корпоративными клиентами','100 000 руб.','https://hh.ru/resume/aa30623e00029078260039ed1f663337657251')
 ;
-INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES
+INSERT INTO hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES 
 ('Опыт работы 3 года 2 месяца','Мужчина','Москва','Программист С++/Go',NULL,'https://hh.ru/resume/aa3fb3be0003cf73000039ed1f356c454a326a')
 ,('Опыт работы 20 лет 6 месяцев','Мужчина','Москва','Директор по ИТ (производство, дистрибьюция и розничные сети)',NULL,'https://hh.ru/resume/aa496a0c0007ed6d2f0039ed1f62534b386537')
 ,('Ключевые навыки','Мужчина','Москва','Разработчик C/C++',NULL,'https://hh.ru/resume/aa5bfcd400028a29810039ed1f5939754d4f55')
@@ -3886,7 +3886,7 @@ INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary
 ,('Опыт работы 44 года 1 месяц','Мужчина','Москва','Системный аналитик','3 000 USD','https://hh.ru/resume/aa89da1b000406b6930039ed1f365650645a52')
 ,('Опыт работы 10 лет 5 месяцев','Мужчина','Москва','Специалист по маркетингу',NULL,'https://hh.ru/resume/aa8e46d500075f04eb0039ed1f494b39516466')
 ;
-INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES
+INSERT INTO hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES 
 ('Опыт работы 1 год 4 месяца','Мужчина','Москва','Разработчик Java',NULL,'https://hh.ru/resume/aa98b68e000585fe2d0039ed1f445368463231')
 ,('Опыт работы 15 лет 3 месяца','Мужчина','Москва','Преподаватель программирования',NULL,'https://hh.ru/resume/aa99dc380003570d430039ed1f6f69786b3859')
 ,('Опыт работы 18 лет 2 месяца','Мужчина','Москва','руководитель проекта','90 000 руб.','https://hh.ru/resume/aa9d2b210000d59d190039ed1f56714a496870')
@@ -3898,7 +3898,7 @@ INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary
 ,('Опыт работы 5 месяцев','Мужчина','Санкт-Петербург','iOS разработчик',NULL,'https://hh.ru/resume/aae9b1130007ebad410039ed1f4b6e31473072')
 ,('Опыт работы 2 года 4 месяца','Мужчина','Казань','Middle Developer','80 000 руб.','https://hh.ru/resume/aaeb577700032d0bcb0039ed1f575969784d34')
 ;
-INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES
+INSERT INTO hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES 
 ('Ключевые навыки','Мужчина','Москва','Frontend-разработчик (стажер)',NULL,'https://hh.ru/resume/aaf998df00075d7baa0039ed1f62496f764e43')
 ,('Опыт работы 11 лет 1 месяц','Мужчина','Москва','Разработчик систем анализа данных',NULL,'https://hh.ru/resume/ab0f2af800007281b90039ed1f736563726574')
 ,('Опыт работы 7 лет 9 месяцев','Мужчина','Москва','Начальник отдела внедрения и сопровождения ПО','165 000 руб.','https://hh.ru/resume/ab1e355e00021e79da0039ed1f4a505053697a')
@@ -3910,7 +3910,7 @@ INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary
 ,('Опыт работы 7 лет 5 месяцев','Мужчина','Москва','Junior QA',NULL,'https://hh.ru/resume/ab60dae10007d4dc9a0039ed1f61524934464b')
 ,('Опыт работы 4 месяца','Женщина','Москва','Junior Developer',NULL,'https://hh.ru/resume/ab61658100075061b80039ed1f74714f424e69')
 ;
-INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES
+INSERT INTO hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES 
 ('Опыт работы 1 год 1 месяц','Мужчина','Москва','Junior Java разработчик',NULL,'https://hh.ru/resume/ab6e769800075c8f910039ed1f7652756d754d')
 ,('Опыт работы 10 месяцев','Мужчина','Москва','Программист','54 321 руб.','https://hh.ru/resume/ab8b1c1700078f1ffd0039ed1f717559466c4d')
 ,('Опыт работы 13 лет 4 месяца','Мужчина','Москва','Java Developer','150 000 руб.','https://hh.ru/resume/ab907db900063508e70039ed1f4b314f614953')
@@ -3922,7 +3922,7 @@ INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary
 ,('Опыт работы 13 лет 10 месяцев','Мужчина','Москва','Менеджер продукта / Team-lead / Руководитель подразделения разработки ПО','300 000 руб.','https://hh.ru/resume/abe1acb20003aabb020039ed1f39666c35475a')
 ,('Work experience 8 years 3 months','Female','Moscow','Lead business analyst',NULL,'https://hh.ru/resume/abfa0d6100028ea5310039ed1f4a65725a5556')
 ;
-INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES
+INSERT INTO hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES 
 ('Опыт работы 6 месяцев','Мужчина','Москва','Java-разработчик','100 000 руб.','https://hh.ru/resume/abfed2cc00086941ec0039ed1f6c6f416b6542')
 ,('Опыт работы 14 лет 8 месяцев','Мужчина','Москва','Web-разработчик','130 000 руб.','https://hh.ru/resume/ac31f2940006f1393d0039ed1f76366d425168')
 ,('Опыт работы 14 лет 11 месяцев','Мужчина','Москва','Руководитель ИТ',NULL,'https://hh.ru/resume/ac36a0ae0003eb0a2d0039ed1f4c695251785a')
@@ -3934,7 +3934,7 @@ INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary
 ,('Опыт работы 2 года 11 месяцев','Женщина','Москва','IOS разработчик','100 000 руб.','https://hh.ru/resume/ac809f5b0007abff870039ed1f5562736d4b55')
 ,('Ключевые навыки','Женщина','Москва','Стажер-программист Java',NULL,'https://hh.ru/resume/aca1a940000854f3b60039ed1f784470504831')
 ;
-INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES
+INSERT INTO hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES 
 ('Опыт работы 27 лет 3 месяца','Мужчина','Санкт-Петербург','SAP PI (PO/XI): разработка и администрирование',NULL,'https://hh.ru/resume/acaea2fc00000055b50039ed1f736563726574')
 ,('Опыт работы 5 лет 8 месяцев','Мужчина','Москва','Unity Programmer (Tech Lead)',NULL,'https://hh.ru/resume/acd0d3920002c35c3b0039ed1f65463275416f')
 ,('Опыт работы 12 лет 4 месяца','Мужчина','Москва','Product / Project manager IT',NULL,'https://hh.ru/resume/ad055c9e00071800d90039ed1f324641365241')
@@ -3946,7 +3946,7 @@ INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary
 ,('Опыт работы 9 лет 8 месяцев','Женщина','Москва','Специалист по работе с клиентами','40 000 руб.','https://hh.ru/resume/ad82fa1e00027392d70039ed1f3246726b5a4a')
 ,('Work experience 9 years 10 months','Male','Moscow','BackEnd Software Developer (Java- Kotlin, Golang) Tech Lead, Architect','270 000 RUB','https://hh.ru/resume/ad860abb00007d269f0039ed1f736563726574')
 ;
-INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES
+INSERT INTO hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES 
 ('Опыт работы 8 лет 1 месяц','Мужчина','Москва','Fullstack JS/TS Angular/Node Developer, Team Lead, Tech Lead, CTO','500 000 руб.','https://hh.ru/resume/ad8edeaf0002895b980039ed1f413363364f50')
 ,('Опыт работы 17 лет 2 месяца','Мужчина','Москва','CTO',NULL,'https://hh.ru/resume/ad99630600078e5cc50039ed1f4a7965373754')
 ,('Опыт работы 1 год 3 месяца','Мужчина','Омск','Junior Android developer',NULL,'https://hh.ru/resume/ada540180007ef5ff30039ed1f667a38636d4a')
@@ -3958,7 +3958,7 @@ INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary
 ,('Опыт работы 11 лет 2 месяца','Мужчина','Москва','Специалист технической поддержки',NULL,'https://hh.ru/resume/adc72c36000774020b0039ed1f375550466156')
 ,('Опыт работы 13 лет 10 месяцев','Мужчина','Москва','Software Engineer / Разработчик ПО','240 000 руб.','https://hh.ru/resume/adcb6ede0006c118560039ed1f49683478337a')
 ;
-INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES
+INSERT INTO hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES 
 ('Опыт работы 1 год 1 месяц','Женщина','Москва','Начинающий специалист - совместный бакалавриат ВШЭ и РЭШ',NULL,'https://hh.ru/resume/adcd082c00074e40aa0039ed1f4144654d5374')
 ,('Опыт работы 2 года 8 месяцев','Мужчина','Москва','Системный инженер','65 000 руб.','https://hh.ru/resume/ade9e2120007d34d820039ed1f497867497033')
 ,('Опыт работы 11 месяцев','Мужчина','Москва','Программист Java','40 000 руб.','https://hh.ru/resume/ae1cdce400081a700e0039ed1f33685378794f')
@@ -3970,7 +3970,7 @@ INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary
 ,('Опыт работы 4 года 10 месяцев','Мужчина','Москва','Тестировщик ПО',NULL,'https://hh.ru/resume/ae4b278d000602d0a10039ed1f6141664d6174')
 ,('Опыт работы 19 лет 4 месяца','Мужчина','Москва','Менеджер по проектам, начальник отдела, ГИС-аналитик','150 000 руб.','https://hh.ru/resume/ae4f79bf00038e90690039ed1f317633677375')
 ;
-INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES
+INSERT INTO hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES 
 ('Опыт работы 8 лет 9 месяцев','Мужчина','Москва','Специалист-аналитик','65 000 руб.','https://hh.ru/resume/ae54311a0007bc8ae10039ed1f4d316f6c7548')
 ,('Work experience 18 years 5 months','Male','Moscow','Expert Software Integrator',NULL,'https://hh.ru/resume/ae587d5600028754390039ed1f48456e59767a')
 ,('Опыт работы 5 лет 1 месяц','Мужчина','Москва','IT-специалист, проектный аналитик, инженер-математик','60 000 руб.','https://hh.ru/resume/ae5ecff60008291b680039ed1f423237314567')
@@ -3982,7 +3982,7 @@ INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary
 ,('Опыт работы 5 лет 1 месяц','Мужчина','Москва','Бизнес/системный аналитик',NULL,'https://hh.ru/resume/aea19fe70007b77dad0039ed1f6a3831693974')
 ,('Опыт работы 1 год 10 месяцев','Мужчина','Москва','Специалист',NULL,'https://hh.ru/resume/aeab25470002ca6e260039ed1f6b324b71746a')
 ;
-INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES
+INSERT INTO hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES 
 ('Опыт работы 20 лет 2 месяца','Мужчина','Москва','Системный администратор',NULL,'https://hh.ru/resume/aec0e6070000135f4c0039ed1f736563726574')
 ,('Опыт работы 1 год 3 месяца','Мужчина','Москва','Банковский сотрудник',NULL,'https://hh.ru/resume/aec6039f000793cc2e0039ed1f337758346156')
 ,('Опыт работы 11 лет 5 месяцев','Женщина','Москва','Junior QA Engineer','40 000 руб.','https://hh.ru/resume/aed69c41000830aa7d0039ed1f4a6657436a43')
@@ -3994,7 +3994,7 @@ INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary
 ,('Опыт работы 2 года 10 месяцев','Мужчина','Москва','Senior java developer',NULL,'https://hh.ru/resume/aef11aac000461168f0039ed1f76737664456d')
 ,('Опыт работы 8 лет 3 месяца','Мужчина','Москва','Java Developer',NULL,'https://hh.ru/resume/af0a2693000772492d0039ed1f68634d487063')
 ;
-INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES
+INSERT INTO hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES 
 ('Опыт работы 2 года 4 месяца','Мужчина','Москва','Junior QA Engineer',NULL,'https://hh.ru/resume/af0f8623000798b1ef0039ed1f6b376d576332')
 ,('Опыт работы 7 лет 10 месяцев','Женщина','Липецк','Программист','60 000 руб.','https://hh.ru/resume/af32728e0001f016260039ed1f727652374b6e')
 ,('Опыт работы 5 лет 5 месяцев','Женщина','Москва','Специалист IT',NULL,'https://hh.ru/resume/af43cc7f00034431420039ed1f485a34343770')
@@ -4006,7 +4006,7 @@ INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary
 ,('Опыт работы 16 лет 11 месяцев','Мужчина','Сочи','Инженер-программист','100 000 руб.','https://hh.ru/resume/af90773e00012035fe0039ed1f63474e58766e')
 ,('Опыт работы 1 год 3 месяца','Мужчина','Москва','Младший разработчик',NULL,'https://hh.ru/resume/afb47fae0004f66b8e0039ed1f504a7973367a')
 ;
-INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES
+INSERT INTO hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES 
 ('Ключевые навыки','Мужчина','Бобруйск','Ruby on Rails Junior','40 000 руб.','https://hh.ru/resume/afc8c7ae0003ba263d0039ed1f664e69497033')
 ,('Опыт работы 2 месяца','Мужчина','Пермь','Помощник системного администратора',NULL,'https://hh.ru/resume/afd244b600084bc0190039ed1f5455624b5a52')
 ,('Опыт работы 12 лет 2 месяца','Мужчина','Долгопрудный','Инженер',NULL,'https://hh.ru/resume/afd3014e00020996bb0039ed1f6f726b757133')
@@ -4018,7 +4018,7 @@ INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary
 ,('Опыт работы 3 года 3 месяца','Мужчина','Москва','Менеджер по продажам','90 000 руб.','https://hh.ru/resume/b018b41800080842630039ed1f746d56306b50')
 ,('Опыт работы 13 лет 11 месяцев','Мужчина','Москва','Руководитель IT подразделения',NULL,'https://hh.ru/resume/b02bb5a8000773a9090039ed1f633273766e6a')
 ;
-INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES
+INSERT INTO hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES 
 ('Опыт работы 16 лет 8 месяцев','Женщина','Москва','Юзабилити специалист, UX-писатель, проектировщик интерфейсов',NULL,'https://hh.ru/resume/b03378b80001ae1e2b0039ed1f4b4c59744e38')
 ,('Опыт работы 26 лет 11 месяцев','Мужчина','Москва','Руководитель проекта, разработка ПО (Сбор данных, BigData, Бизнес анализ), архитектор ПО.',NULL,'https://hh.ru/resume/b04c8d910002dc17bc0039ed1f593347577859')
 ,('Опыт работы 6 лет 7 месяцев','Женщина','Москва','HR manager / Менеджер HR проектов',NULL,'https://hh.ru/resume/b05c5704000229ddc40039ed1f7774546d6131')
@@ -4030,7 +4030,7 @@ INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary
 ,('Опыт работы 19 лет 8 месяцев','Мужчина','Москва','Ведущий системный архитектор',NULL,'https://hh.ru/resume/b0909bfb0003a7c0330039ed1f57656f416e4b')
 ,('Опыт работы 3 года','Мужчина','Москва','Разработчик','120 000 руб.','https://hh.ru/resume/b09d53a90003ef766f0039ed1f57344c344277')
 ;
-INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES
+INSERT INTO hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES 
 ('Опыт работы 1 год 4 месяца','Мужчина','Москва','Junior C#',NULL,'https://hh.ru/resume/b0a20ea2000848d6620039ed1f4a5374333270')
 ,('Опыт работы 23 года 5 месяцев','Мужчина','Москва','Программист-разработчик',NULL,'https://hh.ru/resume/b0b9c0820002e72f430039ed1f4d3672597132')
 ,('Опыт работы 12 лет 5 месяцев','Мужчина','Москва','Специалист','50 000 руб.','https://hh.ru/resume/b0c1a3a60000cb7ebb0039ed1f5858754e4170')
@@ -4042,7 +4042,7 @@ INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary
 ,('Ключевые навыки','Мужчина','Москва','Начинающий специалист','30 000 руб.','https://hh.ru/resume/b162a19c00030cf7640039ed1f4d6a58347732')
 ,('Опыт работы 5 лет 3 месяца','Мужчина','Москва','C# Developer/Разработчик/Аналитик','140 000 руб.','https://hh.ru/resume/b168e14400035890090039ed1f614738414c57')
 ;
-INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES
+INSERT INTO hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES 
 ('Опыт работы 1 год','Мужчина','Москва','Инженер-тестировщик','60 000 руб.','https://hh.ru/resume/b173c2b500024434c60039ed1f614439564c4f')
 ,('Опыт работы 16 лет 6 месяцев','Мужчина','Москва','системотехник, программист','30 000 руб.','https://hh.ru/resume/b17d81aa0002f177300039ed1f6f6d6262694e')
 ,('Опыт работы 7 лет 8 месяцев','Мужчина','Москва','Инженер технической поддержки',NULL,'https://hh.ru/resume/b18bc26b00018e5a470039ed1f303630545547')
@@ -4054,7 +4054,7 @@ INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary
 ,('Опыт работы 8 лет 6 месяцев','Мужчина','Москва','Junior Java-разработчик',NULL,'https://hh.ru/resume/b1be37b1000845836b0039ed1f69634433466b')
 ,('Опыт работы 8 лет','Мужчина','Москва','seo-специалист, it-маркетинг','30 000 руб.','https://hh.ru/resume/b1c79baa0000ab575b0039ed1f736563726574')
 ;
-INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES
+INSERT INTO hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES 
 ('Опыт работы 3 года 1 месяц','Мужчина','Москва','Разработчик',NULL,'https://hh.ru/resume/b1cd2831000846e9870039ed1f425876353735')
 ,('Опыт работы 19 лет','Мужчина','Москва','Руководитель разработки ПО',NULL,'https://hh.ru/resume/b1d9ac30000275d1490039ed1f31795254344a')
 ,('Опыт работы 3 года 8 месяцев','Мужчина','Москва','Java-разработчик',NULL,'https://hh.ru/resume/b1db669000082d85ab0039ed1f335950717044')
@@ -4066,7 +4066,7 @@ INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary
 ,('Опыт работы 1 год 9 месяцев','Женщина','Москва','ИТ-специалист',NULL,'https://hh.ru/resume/b232f1510007287cc10039ed1f4a3866707a57')
 ,('Опыт работы 19 лет 9 месяцев','Мужчина','Москва','Ресторанный маркетолог (HoReCa), маркетинг директор, менеджер по рекламе, pr менеджер, банкетный','75 000 руб.','https://hh.ru/resume/b236c4e80004f012eb0039ed1f587854476965')
 ;
-INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES
+INSERT INTO hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES 
 ('Опыт работы 1 год 8 месяцев','Женщина','Москва','Аналитик данных','60 000 руб.','https://hh.ru/resume/b23a89d500051b62d20039ed1f754c4b776968')
 ,('Опыт работы 10 лет 4 месяца','Мужчина','Москва','Менеджер интернет-проектов','110 000 руб.','https://hh.ru/resume/b241f1a000006719610039ed1f736563726574')
 ,('Опыт работы 7 лет 9 месяцев','Женщина','Москва','Тестировщик ПО',NULL,'https://hh.ru/resume/b247f7b90007f8dc930039ed1f4e5145567176')
@@ -4078,7 +4078,7 @@ INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary
 ,('Опыт работы 5 месяцев','Мужчина','Москва','Junior программист',NULL,'https://hh.ru/resume/b2a1d7b8000829aa040039ed1f385754307765')
 ,('Опыт работы 1 год 10 месяцев','Мужчина','Москва','ИТ-специалист','30 000 руб.','https://hh.ru/resume/b2a7b0190001797e4c0039ed1f3830587a6163')
 ;
-INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES
+INSERT INTO hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES 
 ('Опыт работы 11 лет 9 месяцев','Мужчина','Москва','Руководитель ИТ-проектов','180 000 руб.','https://hh.ru/resume/b2aabf5200006ac6110039ed1f736563726574')
 ,('Опыт работы 27 лет 5 месяцев','Мужчина','Москва','Senior PHP developer / Ведущий разработчик','5 000 EUR','https://hh.ru/resume/b2b70a5f000275219f0039ed1f676f706a7650')
 ,('Опыт работы 10 лет 9 месяцев','Мужчина','Москва','Веб-программист',NULL,'https://hh.ru/resume/b2cfc5e500037d46f30039ed1f5350504b4834')
@@ -4090,7 +4090,7 @@ INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary
 ,('Опыт работы 11 лет 10 месяцев','Мужчина','Москва','Инженер нагруженных UNIX-системы','200 000 руб.','https://hh.ru/resume/b32d59fd0000b227460039ed1f736563726574')
 ,('Опыт работы 1 год 6 месяцев','Женщина','Санкт-Петербург','junior frontend разработчик',NULL,'https://hh.ru/resume/b334393900066dd4140039ed1f4276516a6d65')
 ;
-INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES
+INSERT INTO hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES 
 ('Опыт работы 26 лет 5 месяцев','Мужчина','Москва','Эксперт/админ/разработчик/TeamLead Lotus Notes/Domino, возможно удаленный','2 222 USD','https://hh.ru/resume/b33a94710001f3d3610039ed1f6a3739394e74')
 ,('Опыт работы 10 лет 7 месяцев','Мужчина','Москва','Специалист по IT','100 000 руб.','https://hh.ru/resume/b33d0c4800012f039a0039ed1f6d3255797074')
 ,('Опыт работы 12 лет 4 месяца','Мужчина','Москва','Программист-стажер',NULL,'https://hh.ru/resume/b33dbc3200083183ed0039ed1f745535784162')
@@ -4102,7 +4102,7 @@ INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary
 ,('Work experience 6 years 5 months','Male','Moscow','Java developer',NULL,'https://hh.ru/resume/b37157030003023b1e0039ed1f56466a356872')
 ,('Ключевые навыки','Мужчина','Белгород','Web-программист','25 000 руб.','https://hh.ru/resume/b3724c6b00057917630039ed1f5867374e6367')
 ;
-INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES
+INSERT INTO hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES 
 ('Опыт работы 7 лет','Мужчина','Москва','Руководитель направления',NULL,'https://hh.ru/resume/b37bf07a000351fd8f0039ed1f73563956684c')
 ,('Опыт работы 1 год 6 месяцев','Мужчина','Москва','Fullstack JavaScript Developer',NULL,'https://hh.ru/resume/b38e05410008494d520039ed1f756b634f3236')
 ,('Опыт работы 14 лет 2 месяца','Мужчина','Москва','Директор по ИТ, технический директор, CIO, CTO, CITO',NULL,'https://hh.ru/resume/b39cdfb000076e2e3d0039ed1f6430796f496d')
@@ -4114,7 +4114,7 @@ INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary
 ,('Ключевые навыки','Мужчина','Москва','Программист-стажер',NULL,'https://hh.ru/resume/b3cdee890008247abd0039ed1f4b5436387542')
 ,('Опыт работы 3 месяца','Мужчина','Москва','Программист',NULL,'https://hh.ru/resume/b3cf4f4900084c543d0039ed1f626755563358')
 ;
-INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES
+INSERT INTO hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES 
 ('Опыт работы 13 лет 9 месяцев','Мужчина','Москва','Программист-разработчик/Системный администратор','110 000 руб.','https://hh.ru/resume/b3de1d5b00007396d30039ed1f736563726574')
 ,('Опыт работы 29 лет 10 месяцев','Мужчина','Москва','Инженер-программист',NULL,'https://hh.ru/resume/b3e7f1fa00021daef00039ed1f716c6756764f')
 ,('Опыт работы 7 лет 4 месяца','Мужчина','США','Java Developer','120 000 руб.','https://hh.ru/resume/b3ec39640008181b4b0039ed1f564562357338')
@@ -4126,7 +4126,7 @@ INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary
 ,('Опыт работы 3 года 7 месяцев','Мужчина','Москва','Системный администратор','40 000 руб.','https://hh.ru/resume/b42a6e6900083b010b0039ed1f714956673874')
 ,('Опыт работы 11 месяцев','Мужчина','Москва','Начинающий специалист',NULL,'https://hh.ru/resume/b43250f80007811ee00039ed1f536c6375654f')
 ;
-INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES
+INSERT INTO hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES 
 ('Опыт работы 14 лет 6 месяцев','Мужчина','Москва','Руководитель',NULL,'https://hh.ru/resume/b449a33b0006fa4b170039ed1f594f3674464c')
 ,('Опыт работы 7 лет 1 месяц','Мужчина','Нижний Новгород','Fullstack developer','170 000 руб.','https://hh.ru/resume/b452d22c0000c4a3890039ed1f445353366e79')
 ,('Опыт работы 1 год 8 месяцев','Мужчина','Гродно','Начинающий специалист',NULL,'https://hh.ru/resume/b4591b630002afe8ca0039ed1f5a57396e6137')
@@ -4138,7 +4138,7 @@ INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary
 ,('Опыт работы 2 года 7 месяцев','Мужчина','Москва','Frontend developer','130 000 руб.','https://hh.ru/resume/b4d23bad0006b1cf920039ed1f6f4d65466369')
 ,('Опыт работы 2 года 3 месяца','Мужчина','Москва','Младший Java-разработчик (Junior Java Developer)',NULL,'https://hh.ru/resume/b4df0c58000801d1870039ed1f344a4d464c77')
 ;
-INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES
+INSERT INTO hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES 
 ('Ключевые навыки','Мужчина','Москва','Junior Python Developer',NULL,'https://hh.ru/resume/b4eeb54e0005ffcf530039ed1f4a335555554f')
 ,('Ключевые навыки','Мужчина','Москва','Стажер - программист',NULL,'https://hh.ru/resume/b50305db0007fa33520039ed1f52306d395447')
 ,('Ключевые навыки','Мужчина','Москва','Стажёр-Java разработчик/младший программист',NULL,'https://hh.ru/resume/b507440e0006bd40900039ed1f325466496c78')
@@ -4150,7 +4150,7 @@ INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary
 ,('Опыт работы 1 год 6 месяцев','Мужчина','Москва','Программист-стажер',NULL,'https://hh.ru/resume/b55ae47b00075c35e20039ed1f624130517034')
 ,('Опыт работы 2 года','Женщина','Москва','Аналитик',NULL,'https://hh.ru/resume/b56330a300043354440039ed1f4b375a777632')
 ;
-INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES
+INSERT INTO hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES 
 ('Опыт работы 9 лет 5 месяцев','Мужчина','Москва','Программист 1C Битрикс',NULL,'https://hh.ru/resume/b56f238c000239261f0039ed1f416753484e4c')
 ,('Опыт работы 10 лет 2 месяца','Женщина','Москва','UI UX дизайнер',NULL,'https://hh.ru/resume/b57493930007ab9d6a0039ed1f6a446f4b6e57')
 ,('Опыт работы 3 года 2 месяца','Мужчина','Таганрог','Инженер -программист','30 000 руб.','https://hh.ru/resume/b5827a36000510acc70039ed1f434350753034')
@@ -4162,7 +4162,7 @@ INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary
 ,('Опыт работы 1 год 3 месяца','Женщина','Москва','IOS разработчик','80 000 руб.','https://hh.ru/resume/b5cb3625000838be340039ed1f58666972394a')
 ,('Опыт работы 2 года 6 месяцев','Мужчина','Москва','Стажер разработчик Oracle PL/SQL',NULL,'https://hh.ru/resume/b5eef52900054680bf0039ed1f776f36426e54')
 ;
-INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES
+INSERT INTO hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES 
 ('Опыт работы 3 года','Мужчина','Москва','Java junior',NULL,'https://hh.ru/resume/b6113625000615c2120039ed1f3464695a707a')
 ,('Опыт работы 2 года 10 месяцев','Мужчина','Москва','Ведущий специалист, зам. Начал. Отдела',NULL,'https://hh.ru/resume/b61cc6460002aebdca0039ed1f4d4a326a517a')
 ,('Опыт работы 12 лет 11 месяцев','Мужчина','Москва','Руководитель отдела разработки программного обеспечения, Директор IT департамерта','409 000 руб.','https://hh.ru/resume/b62d149e00019fbca60039ed1f5453356b547a')
@@ -4174,7 +4174,7 @@ INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary
 ,('Опыт работы 3 года 6 месяцев','Мужчина','Дмитров','Логист,супервайзер,менеджер,','60 000 руб.','https://hh.ru/resume/b65e5baf0002321a8d0039ed1f65393857614d')
 ,('Опыт работы 8 лет 9 месяцев','Мужчина','Черкесск','Frontend-разработчик','30 000 руб.','https://hh.ru/resume/b65ebb2a00083000600039ed1f5a7837615261')
 ;
-INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES
+INSERT INTO hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES 
 ('Опыт работы 6 лет 7 месяцев','Мужчина','Москва','QA Engineer/Тестировщик (стажёр/junior)',NULL,'https://hh.ru/resume/b660077b00082fb3000039ed1f6f55344f6478')
 ,('Опыт работы 20 лет 9 месяцев','Мужчина','Москва','Технический специалист','80 000 руб.','https://hh.ru/resume/b660cd8e000182b9180039ed1f307673427a79')
 ,('Опыт работы 7 лет 3 месяца','Мужчина','Москва','Руководитель проекта',NULL,'https://hh.ru/resume/b6641f5500016593aa0039ed1f314832356576')
@@ -4186,7 +4186,7 @@ INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary
 ,('Опыт работы 11 лет 3 месяца','Мужчина','Москва','инженер-программист','50 000 руб.','https://hh.ru/resume/b6947e2c0001a247ce0039ed1f7067574a7077')
 ,('Опыт работы 2 года 9 месяцев','Мужчина','Москва','Junior Java Developer (Стажер)',NULL,'https://hh.ru/resume/b69e8d1a0007f1a9b20039ed1f4e4276555636')
 ;
-INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES
+INSERT INTO hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES 
 ('Опыт работы 8 лет 3 месяца','Женщина','Москва','Менеджер по подбору персонала/Рекрутер',NULL,'https://hh.ru/resume/b6a3bd2200063159d80039ed1f5a766e496136')
 ,('Опыт работы 20 лет 6 месяцев','Мужчина','Муром','Системный администратор','80 000 руб.','https://hh.ru/resume/b6a76a5400023ac46c0039ed1f753361525236')
 ,('Опыт работы 3 года 10 месяцев','Мужчина','Москва','Teamlead/Lead/Senior Java Developer',NULL,'https://hh.ru/resume/b6bdd8de0003f80aaf0039ed1f5752314f456f')
@@ -4198,7 +4198,7 @@ INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary
 ,('Опыт работы 7 лет','Мужчина','Москва','Junior Java developer',NULL,'https://hh.ru/resume/b70f424a00058d91d40039ed1f6f44616e6b42')
 ,('Опыт работы 12 лет 4 месяца','Мужчина','Москва','Главный инженер по эксплуатации','80 000 руб.','https://hh.ru/resume/b7142a80000329dc780039ed1f773368594547')
 ;
-INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES
+INSERT INTO hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES 
 ('Опыт работы 20 лет 9 месяцев','Мужчина','Москва','Руководитель по развитию информационной и сетевой безопасности',NULL,'https://hh.ru/resume/b72a854900001e33680039ed1f736563726574')
 ,('Опыт работы 16 лет 8 месяцев','Мужчина','Москва','Программист','80 000 руб.','https://hh.ru/resume/b72d1f8900068c13280039ed1f734f74476356')
 ,('Work experience 15 years 6 months','Male','Moscow','Treasury trader',NULL,'https://hh.ru/resume/b7390e7a0001ab5e760039ed1f723757786871')
@@ -4210,7 +4210,7 @@ INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary
 ,('Work experience 2 years 4 months','Male','Moscow','Frontend javascript developer',NULL,'https://hh.ru/resume/b7fa754900060e6f9e0039ed1f6a766c6e4b4c')
 ,('Обо мне','Мужчина','Москва','Разработчик Java (Junior)',NULL,'https://hh.ru/resume/b80809f10005e8ae410039ed1f486246344159')
 ;
-INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES
+INSERT INTO hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES 
 ('Опыт работы 20 лет 7 месяцев','Мужчина','Москва','Консультант SAP PO',NULL,'https://hh.ru/resume/b817150f0002c293f20039ed1f6c3646456878')
 ,('Опыт работы 1 год 2 месяца','Женщина','Москва','Программист-разработчик',NULL,'https://hh.ru/resume/b81d0b7900071e28150039ed1f345343454167')
 ,('Опыт работы 12 лет 1 месяц','Мужчина','Москва','Ведущий DevOps инженер',NULL,'https://hh.ru/resume/b82db161000364d4040039ed1f63586e55396c')
@@ -4222,7 +4222,7 @@ INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary
 ,('Опыт работы 19 лет 8 месяцев','Мужчина','Москва','Руководитель проектного офиса, руководитель проекта/продукта.',NULL,'https://hh.ru/resume/b85dad9400001692640039ed1f736563726574')
 ,('Опыт работы 4 года 2 месяца','Мужчина','Москва','Программист','50 000 руб.','https://hh.ru/resume/b8672252000144cffb0039ed1f7a656e513465')
 ;
-INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES
+INSERT INTO hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES 
 ('Опыт работы 16 лет 2 месяца','Мужчина','Москва','Руководитель отдела',NULL,'https://hh.ru/resume/b87001c700073d79bf0039ed1f44364d4d7838')
 ,('Опыт работы 6 лет 10 месяцев','Мужчина','Москва','Ведущий менеджер по продажам','107 000 руб.','https://hh.ru/resume/b88d0a5a0001d65dea0039ed1f48317a4c4f66')
 ,('Опыт работы 10 лет 2 месяца','Мужчина','Москва','Руководитель группы технической поддержки',NULL,'https://hh.ru/resume/b88e55f40003dd980a0039ed1f6b364e6a7633')
@@ -4234,7 +4234,7 @@ INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary
 ,('Work experience 5 years 8 months','Male','Switzerland','SOFTWARE ENGINEER',NULL,'https://hh.ru/resume/b90a992600083be9530039ed1f43756d646344')
 ,('Опыт работы 9 месяцев','Мужчина','Москва','Frontend-разработчик',NULL,'https://hh.ru/resume/b9289eb100080e398d0039ed1f3149306d7342')
 ;
-INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES
+INSERT INTO hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES 
 ('Опыт работы 14 лет','Мужчина','Москва','IT рекрутер',NULL,'https://hh.ru/resume/b939c9cb00053487130039ed1f67627162614e')
 ,('Опыт работы 2 года 10 месяцев','Мужчина','Москва','Data scientist',NULL,'https://hh.ru/resume/b93b3b760007dfdaf10039ed1f7a6b61536452')
 ,('Опыт работы 5 лет 9 месяцев','Мужчина','Москва','Системный администратор / Сетевой инженер','20 000 руб.','https://hh.ru/resume/b93e7797000817c9320039ed1f697332763463')
@@ -4246,7 +4246,7 @@ INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary
 ,('Опыт работы 4 года 8 месяцев','Женщина','Москва','Инженер-тестировщик',NULL,'https://hh.ru/resume/b962acb600044703520039ed1f45776167484f')
 ,('Опыт работы 15 лет 10 месяцев','Мужчина','Москва','Руководитель отдела разработки ПО',NULL,'https://hh.ru/resume/b9653295000605a9d90039ed1f4f7570366564')
 ;
-INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES
+INSERT INTO hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES 
 ('Опыт работы 15 лет','Мужчина','Москва','Руководитель инфомационного отдела IT, руководитель проектов 1C, PHP, C++, Kotlin, Delphi, VBA, JAVA','900 000 руб.','https://hh.ru/resume/b975a1dd0000b9b3cb0039ed1f736563726574')
 ,('Опыт работы 10 лет 10 месяцев','Женщина','Москва','HR-менеджер, менеджер по подбору персонала, IT рекрутер',NULL,'https://hh.ru/resume/b97687820003cbb1a80039ed1f435442666e48')
 ,('Опыт работы 13 лет 5 месяцев','Мужчина','Москва','Оператор ПК, работа с ПК','35 000 руб.','https://hh.ru/resume/b97db39a00032254eb0039ed1f4b574d507079')
@@ -4258,7 +4258,7 @@ INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary
 ,('Опыт работы 11 лет 10 месяцев','Мужчина','Москва','Руководитель отдела IT','190 000 руб.','https://hh.ru/resume/b9ba8faa00021926900039ed1f33454532624d')
 ,('Ключевые навыки','Мужчина','Москва','Программист-разработчик','40 000 руб.','https://hh.ru/resume/b9bb3ab700074f832b0039ed1f6d4954513134')
 ;
-INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES
+INSERT INTO hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES 
 ('Опыт работы 1 год 8 месяцев','Женщина','Москва','Аналитик',NULL,'https://hh.ru/resume/b9c2a552000700fa350039ed1f4b30314f4846')
 ,('Ключевые навыки','Мужчина','Москва','Начинающий специалист',NULL,'https://hh.ru/resume/b9c7aa6100074ea2fc0039ed1f456f53483579')
 ,('Work experience 15 years','Male','Switzerland','Lead Product Manager or Head of Product',NULL,'https://hh.ru/resume/b9ca724200011bfab10039ed1f5a5579307071')
@@ -4270,7 +4270,7 @@ INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary
 ,('Опыт работы 13 лет 4 месяца','Мужчина','Москва','Архитектор','80 000 руб.','https://hh.ru/resume/ba6be4da00058cbf230039ed1f654e6d453951')
 ,('Опыт работы 11 месяцев','Мужчина','Москва','Java-разработчик',NULL,'https://hh.ru/resume/ba94e65100084fdcd10039ed1f36664176354d')
 ;
-INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES
+INSERT INTO hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES 
 ('Опыт работы 10 лет 7 месяцев','Мужчина','Москва','Java Junior Developer',NULL,'https://hh.ru/resume/ba974a51000770ec020039ed1f7a356f4e4774')
 ,('Ключевые навыки','Мужчина','Москва','Программист-стажер Java',NULL,'https://hh.ru/resume/baa06dc800078d93160039ed1f765071316a50')
 ,('Key skills','Male','Moscow','Software engineer',NULL,'https://hh.ru/resume/baa446980007522e1f0039ed1f747130766550')
@@ -4282,7 +4282,7 @@ INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary
 ,('Опыт работы 2 года 10 месяцев','Мужчина','Москва','Junior Android Developer','60 000 руб.','https://hh.ru/resume/baf3be4700080bb4840039ed1f4165587a3939')
 ,('Опыт работы 6 лет 2 месяца','Мужчина','Москва','Разработчик',NULL,'https://hh.ru/resume/bb0790060003bc98540039ed1f4f65397a7032')
 ;
-INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES
+INSERT INTO hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES 
 ('Опыт работы 8 месяцев','Мужчина','Магадан','Инженер-программист, программист, веб-специалист, C++','70 000 руб.','https://hh.ru/resume/bb19181800054789bd0039ed1f416f4672654d')
 ,('Опыт работы 14 лет 7 месяцев','Мужчина','Москва','Руководитель отдела разработки','300 000 руб.','https://hh.ru/resume/bb1b342d00034dc8e90039ed1f3663634f3232')
 ,('Опыт работы 15 лет 6 месяцев','Мужчина','Москва','Руководитель разработки',NULL,'https://hh.ru/resume/bb248df50003ecdc310039ed1f727251764c43')
@@ -4294,7 +4294,7 @@ INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary
 ,('Опыт работы 8 лет 1 месяц','Мужчина','Москва','Team Lead / IT Manager / CTO','350 000 руб.','https://hh.ru/resume/bb906735000212d4b40039ed1f4c6e414b5972')
 ,('Ключевые навыки','Мужчина','Москва','Junior Developer',NULL,'https://hh.ru/resume/bb9ba7080007f02fb10039ed1f537344757851')
 ;
-INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES
+INSERT INTO hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES 
 ('Опыт работы 9 лет 1 месяц','Мужчина','Санкт-Петербург','Junior Web Developer /HTML5, CSS3, JS / Web-master',NULL,'https://hh.ru/resume/bbbc902b00036782ec0039ed1f676777467757')
 ,('Опыт работы 11 лет 11 месяцев','Мужчина','Москва','Ведущий инженер / Team Lead (DevOps)','300 000 руб.','https://hh.ru/resume/bbbf82c50004327c9b0039ed1f6f70434f5669')
 ,('Опыт работы 7 лет 8 месяцев','Мужчина','Ижевск','Специалист по качеству','50 000 руб.','https://hh.ru/resume/bbcad69400052ed8550039ed1f564876724d39')
@@ -4306,7 +4306,7 @@ INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary
 ,('Опыт работы 5 лет 7 месяцев','Мужчина','Москва','Главный/ведущий инженер проекта, управляющий',NULL,'https://hh.ru/resume/bbe89dab000225796b0039ed1f4f6164433677')
 ,('Опыт работы 1 год 1 месяц','Женщина','Москва','Java Developer','10 000 руб.','https://hh.ru/resume/bbf37967000800f33c0039ed1f616341656d35')
 ;
-INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES
+INSERT INTO hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES 
 ('Опыт работы 6 лет 1 месяц','Мужчина','Москва','Senior IT - Recruiter','100 000 руб.','https://hh.ru/resume/bbf4ba4e000298a4b30039ed1f6c745864506b')
 ,('Ключевые навыки','Мужчина','Москва','Стажер веб-разработчик',NULL,'https://hh.ru/resume/bc04ae6f000777912c0039ed1f556a73534c4c')
 ,('Опыт работы 3 года','Мужчина','Москва','Node.js, Postgres, bash, Java, SAS',NULL,'https://hh.ru/resume/bc1eceb60003f8c9bc0039ed1f434a50457541')
@@ -4318,7 +4318,7 @@ INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary
 ,('Опыт вождения','Мужчина','Москва','IT-специалист',NULL,'https://hh.ru/resume/bc7977fb00025fbdc80039ed1f464c59354a75')
 ,('Опыт работы 8 лет 8 месяцев','Мужчина','Ханты-Мансийск','Frontend-разработчик','110 000 руб.','https://hh.ru/resume/bc7b390a000433dc0c0039ed1f756243466c73')
 ;
-INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES
+INSERT INTO hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES 
 ('Опыт работы 20 лет 8 месяцев','Мужчина','Москва','Product manager (with fullstack dev skills)',NULL,'https://hh.ru/resume/bc8674ce0003dfeb100039ed1f3134364e5438')
 ,('Опыт работы 9 лет 6 месяцев','Мужчина','Москва','Менеджер','80 000 руб.','https://hh.ru/resume/bc9718030002b0d7a50039ed1f48796a417a52')
 ,('Опыт работы 5 лет 4 месяца','Мужчина','Москва','Lead Java Developer/Team Lead/Project Tech Lead','285 000 руб.','https://hh.ru/resume/bcab4f39000290b49c0039ed1f7535316f4b43')
@@ -4330,7 +4330,7 @@ INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary
 ,('Опыт работы 12 лет 2 месяца','Мужчина','Москва','Судебный/технический эксперт','50 000 руб.','https://hh.ru/resume/bd17300f0003f69d9f0039ed1f444f43673033')
 ,('Опыт работы 24 года 5 месяцев','Мужчина','Москва','программист-разработчик',NULL,'https://hh.ru/resume/bd19e63c0000db0c840039ed1f734334397437')
 ;
-INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES
+INSERT INTO hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES 
 ('Опыт работы 4 года 4 месяца','Женщина','Саров','Системный аналитик, бизнес-аналитик','75 000 руб.','https://hh.ru/resume/bd213bb40002c407410039ed1f4b4c394a7a63')
 ,('Опыт работы 2 года','Мужчина','Москва','Тестировщик',NULL,'https://hh.ru/resume/bd244e4e0007d9d18c0039ed1f37664562456a')
 ,('Опыт работы 6 лет 1 месяц','Женщина','Москва','Администратор интернет-магазина, менеджер интернет-магазина, оператор БД','40 000 руб.','https://hh.ru/resume/bd379391000510cc590039ed1f594f43666f66')
@@ -4342,7 +4342,7 @@ INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary
 ,('Опыт работы 15 лет 1 месяц','Женщина','Москва','Менеджер по подбору персонала/ IT Рекрутер',NULL,'https://hh.ru/resume/bd9d5ef000050a49d50039ed1f366b7474516f')
 ,('Опыт работы 4 года 2 месяца','Мужчина','Москва','Web-программист','115 000 руб.','https://hh.ru/resume/bd9db21e0002e88f4e0039ed1f516c70496238')
 ;
-INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES
+INSERT INTO hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES 
 ('Ключевые навыки','Мужчина','Москва','Стажер DevOps/инженер технической поддержки','30 000 руб.','https://hh.ru/resume/bda3f5950008166b6d0039ed1f55636f4e6862')
 ,('Опыт работы 3 года 1 месяц','Женщина','Москва','Junior developer',NULL,'https://hh.ru/resume/bdf8dd1000058d6ec80039ed1f666b76394a69')
 ,('Опыт работы 3 года 3 месяца','Мужчина','Москва','Специалист по IT','55 000 руб.','https://hh.ru/resume/be02766500037459a90039ed1f6166616b7758')
@@ -4354,7 +4354,7 @@ INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary
 ,('Опыт работы 17 лет 11 месяцев','Мужчина','Москва','Frontend-разработчик','215 000 руб.','https://hh.ru/resume/be5631c700078d767b0039ed1f56306355736e')
 ,('Опыт работы 10 лет 9 месяцев','Мужчина','Москва','начинающий Java-разработчик (Junior/Стажер)','40 000 руб.','https://hh.ru/resume/be745e630007b6ba500039ed1f6e61346b5a70')
 ;
-INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES
+INSERT INTO hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES 
 ('Work experience 19 years 8 months','Male','Moscow','Technical Project manager',NULL,'https://hh.ru/resume/be7a122f00013e7f7e0039ed1f514134783951')
 ,('Опыт работы 10 месяцев','Мужчина','Москва','Верстальщик (Junior)','30 000 руб.','https://hh.ru/resume/be9bceaf000803385f0039ed1f436d47573030')
 ,('Опыт работы 2 месяца','Мужчина','Пермь','Junior разработчик','25 000 руб.','https://hh.ru/resume/bea6c45000072e848b0039ed1f576778367852')
@@ -4366,7 +4366,7 @@ INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary
 ,('Опыт работы 4 года 10 месяцев','Мужчина','Москва','Веб-разработчик','150 000 руб.','https://hh.ru/resume/bee44cd400033ce8140039ed1f75693048504e')
 ,('Опыт работы 10 лет 2 месяца','Мужчина','Москва','Office 365 / SharePoint developer',NULL,'https://hh.ru/resume/bf0de2db000121fff50039ed1f61477349334a')
 ;
-INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES
+INSERT INTO hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES 
 ('Опыт работы 1 год','Мужчина','Москва','Java-разработчик',NULL,'https://hh.ru/resume/bf2102f20003ae442d0039ed1f7232664e5339')
 ,('Опыт работы 3 года 8 месяцев','Мужчина','Москва','Java - developer',NULL,'https://hh.ru/resume/bf22174c00065693100039ed1f6e6862713247')
 ,('Опыт работы 6 лет 3 месяца','Мужчина','Москва','Руководитель подразделения','160 000 руб.','https://hh.ru/resume/bf29ffaa0003cae0ad0039ed1f41703962684d')
@@ -4378,7 +4378,7 @@ INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary
 ,('Опыт работы 13 лет 11 месяцев','Мужчина','Москва','Программист 1С (8.3, 8.2 ,7.7), PHP, C#, Java(Android studio), Arduino, системный администратор','150 000 руб.','https://hh.ru/resume/bf8b4f0100040241b50039ed1f657335464a61')
 ,('Опыт работы 4 года 3 месяца','Мужчина','Минск','Звукорежиссер / Композитор / Аранжировщик',NULL,'https://hh.ru/resume/bf8bbc9e00050ace4e0039ed1f4e7a4762376e')
 ;
-INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES
+INSERT INTO hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES 
 ('Work experience 12 years 4 months','Male','Moscow','IT manager','5 000 USD','https://hh.ru/resume/bf93a8c400012598240039ed1f4847337a6e72')
 ,('Опыт работы 4 года','Женщина','Москва','Менеджер проектов\ менеджер акселерационных программ',NULL,'https://hh.ru/resume/bf9b60a300038ad07b0039ed1f4e3036305261')
 ,('Опыт работы 5 лет 2 месяца','Мужчина','Москва','Инженер технической и системной поддержки',NULL,'https://hh.ru/resume/bfa2d8c100064363c00039ed1f474263797679')
@@ -4390,7 +4390,7 @@ INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary
 ,('Опыт работы 12 лет 2 месяца','Мужчина','Москва','Руководитель проекта',NULL,'https://hh.ru/resume/bfde6e850000dc47170039ed1f4a7755463272')
 ,('Опыт работы 1 год 9 месяцев','Мужчина','Москва','Middle Android Developer','130 000 руб.','https://hh.ru/resume/bffd538d0003fa4e4a0039ed1f764549507172')
 ;
-INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES
+INSERT INTO hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES 
 ('Опыт работы 13 лет 11 месяцев','Мужчина','Ростов-на-Дону','Директор филиала','70 000 руб.','https://hh.ru/resume/bffff66000060f38070039ed1f716837614454')
 ,('Опыт работы 21 год 6 месяцев','Мужчина','Москва','Помощник юриста, оператор Exscel.','70 000 руб.','https://hh.ru/resume/c01acc710007a14c9f0039ed1f704850566b49')
 ,('Опыт работы 6 лет 7 месяцев','Мужчина','Москва','IT-специалист',NULL,'https://hh.ru/resume/c020994c0000c732620039ed1f6b427576464f')
@@ -4402,7 +4402,7 @@ INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary
 ,('Опыт работы 25 лет 5 месяцев','Мужчина','Москва','HTML-верстальщик',NULL,'https://hh.ru/resume/c0975a910002d91c400039ed1f515746554945')
 ,('Опыт работы 11 лет 10 месяцев','Мужчина','Москва','Java Developer',NULL,'https://hh.ru/resume/c0a0f2e6000832bded0039ed1f7956356f3473')
 ;
-INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES
+INSERT INTO hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES 
 ('Опыт работы 3 года 9 месяцев','Мужчина','Москва','Программист Angular (Frontend, FullStack) удаленно','90 000 руб.','https://hh.ru/resume/c0a228c00004d91e5a0039ed1f546974754d30')
 ,('Опыт работы 10 лет 11 месяцев','Мужчина','Москва','Специалист','150 000 руб.','https://hh.ru/resume/c108553200028915d80039ed1f573737617564')
 ,('Опыт работы 12 лет 5 месяцев','Мужчина','Москва','Fullstack Software Engineer','250 000 руб.','https://hh.ru/resume/c11ce3020007c06b7b0039ed1f5a5736687030')
@@ -4414,7 +4414,7 @@ INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary
 ,('Опыт работы 6 лет 3 месяца','Мужчина','Москва','Программист Java','77 000 руб.','https://hh.ru/resume/c15b26990002f4ea230039ed1f52326439796c')
 ,('Опыт работы 28 лет 10 месяцев','Мужчина','Москва','IT директор, Вице-президент по информационным системам','2 700 USD','https://hh.ru/resume/c16c5c760001bc0b790039ed1f63686838776d')
 ;
-INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES
+INSERT INTO hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES 
 ('Опыт работы 4 месяца','Мужчина','Москва','Стажёр машинного обучения',NULL,'https://hh.ru/resume/c17c57db00078a5fbf0039ed1f4c467964554f')
 ,('Опыт работы 17 лет 10 месяцев','Мужчина','Москва','Руководитель ИТ-подразделения',NULL,'https://hh.ru/resume/c183c805000036b4d70039ed1f736563726574')
 ,('Опыт работы 2 года 4 месяца','Мужчина','Москва','Программист C/С++',NULL,'https://hh.ru/resume/c18be13200064a77f40039ed1f4e5850306d6b')
@@ -4426,7 +4426,7 @@ INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary
 ,('Опыт работы 13 лет 1 месяц','Мужчина','Ивантеевка','разработчик','175 000 руб.','https://hh.ru/resume/c1b5d49b00003b602b0039ed1f736563726574')
 ,('Опыт работы 7 лет 7 месяцев','Мужчина','Москва','Embedded Developer','240 000 руб.','https://hh.ru/resume/c1ea298f00072f8e5b0039ed1f65736243324e')
 ;
-INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES
+INSERT INTO hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES 
 ('Опыт работы 4 года 9 месяцев','Мужчина','Самара','Администратор ИТ проектов','60 000 руб.','https://hh.ru/resume/c1f4f22200081513070039ed1f744d686a6e43')
 ,('Опыт работы 17 лет 3 месяца','Мужчина','Москва','Программист 1С (удаленно)','170 000 руб.','https://hh.ru/resume/c203a21100057f6ed30039ed1f3141444e6e4a')
 ,('Опыт работы 2 года','Мужчина','Москва','Фронтенд-разработчик','150 000 руб.','https://hh.ru/resume/c205db280003e349a70039ed1f735972755968')
@@ -4438,7 +4438,7 @@ INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary
 ,('Опыт работы 3 года 2 месяца','Мужчина','Москва','Senior/Head Deep Learning',NULL,'https://hh.ru/resume/c25556f700065ce6120039ed1f616b327a5166')
 ,('Опыт работы 2 года','Мужчина','Москва','ОператорПК','40 000 руб.','https://hh.ru/resume/c259dc7400021d9b800039ed1f547851427774')
 ;
-INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES
+INSERT INTO hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES 
 ('Опыт работы 26 лет 9 месяцев','Мужчина','Москва','Системный Инженер, Разработчик (Телевидение)',NULL,'https://hh.ru/resume/c25abf1e0005aa90250039ed1f444b37454638')
 ,('Опыт работы 3 года 7 месяцев','Мужчина','Воронеж','Программист С++','60 000 руб.','https://hh.ru/resume/c2612929000328ce620039ed1f337670697a72')
 ,('Опыт работы 4 года 3 месяца','Мужчина','Воскресенск','Экономист','30 000 руб.','https://hh.ru/resume/c26debbc00076ffbdd0039ed1f4a4b79613059')
@@ -4450,7 +4450,7 @@ INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary
 ,('Опыт работы 8 лет','Женщина','Москва','Персональный ассистент руководителя','120 000 руб.','https://hh.ru/resume/c29e0e230000e5dbd30039ed1f66446f365842')
 ,('Опыт работы 3 года 7 месяцев','Мужчина','Москва','Java-программист','75 000 руб.','https://hh.ru/resume/c2a89c360003fdec340039ed1f6b6e50745938')
 ;
-INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES
+INSERT INTO hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES 
 ('Опыт работы 8 месяцев','Женщина','Москва','Android developer',NULL,'https://hh.ru/resume/c2b19a4a00082b70d40039ed1f56704a526239')
 ,('Опыт работы 17 лет 8 месяцев','Мужчина','Санкт-Петербург','Программист С++','50 000 руб.','https://hh.ru/resume/c2d7bf490001690aad0039ed1f5a4157577668')
 ,('Опыт работы 13 лет 4 месяца','Мужчина','Москва','CTO / CIO',NULL,'https://hh.ru/resume/c2e33b9c00043e87500039ed1f6c56306b306d')
@@ -4462,7 +4462,7 @@ INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary
 ,('Work experience 12 years 1 month','Male','Moscow','Project Manager, Quality Manager, Head of Engineers',NULL,'https://hh.ru/resume/c32b244100041477940039ed1f623631435651')
 ,('Опыт работы 1 год 6 месяцев','Мужчина','Москва','Android-разработчик',NULL,'https://hh.ru/resume/c331914700040720450039ed1f725845466865')
 ;
-INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES
+INSERT INTO hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES 
 ('Опыт работы 2 года 6 месяцев','Мужчина','Москва','QA Engineer/Тестировщик ПО','50 000 руб.','https://hh.ru/resume/c34126a500081e9ff60039ed1f55374b513565')
 ,('Опыт работы 12 лет','Мужчина','Саратов','PHP-разработчик',NULL,'https://hh.ru/resume/c34de1d0000612bd910039ed1f48624a72784f')
 ,('Опыт работы 14 лет 11 месяцев','Женщина','Москва','Руководитель проектов','250 000 руб.','https://hh.ru/resume/c34e25410001d6e6b80039ed1f35456f594853')
@@ -4474,7 +4474,7 @@ INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary
 ,('Опыт работы 16 лет 5 месяцев','Мужчина','Новосибирск','CEO / Исполнительный директор',NULL,'https://hh.ru/resume/c39517de0006a8195b0039ed1f353056425149')
 ,('Ключевые навыки','Мужчина','Ставрополь','Android junior',NULL,'https://hh.ru/resume/c3aa55d3000814b5470039ed1f793350414a5a')
 ;
-INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES
+INSERT INTO hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES 
 ('Ключевые навыки','Мужчина','Москва','Ручное тестирование, Тестировщик ПО, QA, QC',NULL,'https://hh.ru/resume/c3dd943400084315b50039ed1f6a65314a6755')
 ,('Ключевые навыки','Мужчина','Москва','Начинающий специалист','60 000 руб.','https://hh.ru/resume/c400e93e00080f91620039ed1f616e75687677')
 ,('Опыт работы 1 год 1 месяц','Мужчина','Москва','Начинающий специалист',NULL,'https://hh.ru/resume/c4080fb000037df3510039ed1f68345a734341')
@@ -4486,7 +4486,7 @@ INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary
 ,('Опыт работы 13 лет 2 месяца','Мужчина','Москва','Архитектор/Разработчик Micro Focus Service Manager',NULL,'https://hh.ru/resume/c462a81b00009377d00039ed1f736563726574')
 ,('Опыт работы 1 год 1 месяц','Женщина','Москва','Менеджер-администратор',NULL,'https://hh.ru/resume/c4826295000413c9850039ed1f6e316b374556')
 ;
-INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES
+INSERT INTO hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES 
 ('Опыт работы 1 год 3 месяца','Мужчина','Москва','Android-разработчик','40 000 руб.','https://hh.ru/resume/c4858b7800083be5f60039ed1f5172585a7439')
 ,('Опыт работы 21 год 9 месяцев','Мужчина','Москва','Программист python, java. Системный администратор Linux.','30 000 руб.','https://hh.ru/resume/c486d9440003d16cc50039ed1f503562503848')
 ,('Опыт работы 29 лет 7 месяцев','Мужчина','Москва','Руководитель проектов','80 000 руб.','https://hh.ru/resume/c48b170400038e45d00039ed1f5846556e7153')
@@ -4498,7 +4498,7 @@ INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary
 ,('Опыт работы 11 лет 9 месяцев','Мужчина','Москва','Программист PHP (senior/middle)','190 000 руб.','https://hh.ru/resume/c4dd82e3000749dc830039ed1f784337713343')
 ,('Опыт работы 6 лет 1 месяц','Мужчина','Омск','Программист','120 000 руб.','https://hh.ru/resume/c4e2999f00029d3e9a0039ed1f436d64314b74')
 ;
-INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES
+INSERT INTO hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES 
 ('Опыт работы 9 лет 6 месяцев','Мужчина','Москва','Инженер службы технической поддержки',NULL,'https://hh.ru/resume/c4ec4b3e0001a4d4c50039ed1f47503730536a')
 ,('Опыт работы 6 лет 2 месяца','Мужчина','Москва','Администратор сайта',NULL,'https://hh.ru/resume/c4f2bbb500074b08480039ed1f31506a446a6a')
 ,('Опыт работы 4 года 10 месяцев','Мужчина','Москва','Начинающий специалист в IT-сфере',NULL,'https://hh.ru/resume/c5076c670007b07dea0039ed1f664b39677746')
@@ -4510,7 +4510,7 @@ INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary
 ,('Опыт работы 1 год 3 месяца','Мужчина','Москва','Специалист по IT','65 000 руб.','https://hh.ru/resume/c537ac9900078710a00039ed1f765478415671')
 ,('Опыт работы 4 года 5 месяцев','Мужчина','Москва','Project-менеджер','80 000 руб.','https://hh.ru/resume/c54374060002934f670039ed1f746b3063796e')
 ;
-INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES
+INSERT INTO hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES 
 ('Опыт работы 6 лет 1 месяц','Мужчина','Москва','Руководитель проектов','200 000 руб.','https://hh.ru/resume/c554dfb6000841f7200039ed1f4f5873513642')
 ,('Опыт работы 1 год 1 месяц','Мужчина','Москва','Тестировщик программного обеспечения','100 000 руб.','https://hh.ru/resume/c556f73f0005b17c080039ed1f75744a344f73')
 ,('Ключевые навыки','Мужчина','Москва','Аналитик',NULL,'https://hh.ru/resume/c55f21990007910ac70039ed1f386a7546464c')
@@ -4522,7 +4522,7 @@ INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary
 ,('Опыт работы 2 года 1 месяц','Мужчина','Москва','Программист Python','100 000 руб.','https://hh.ru/resume/c59b061c000771629a0039ed1f72336f383558')
 ,('Опыт работы 6 лет 2 месяца','Мужчина','Москва','Junior Java Developer','90 000 руб.','https://hh.ru/resume/c59b3ca7000602c4dc0039ed1f4a734f737363')
 ;
-INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES
+INSERT INTO hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES 
 ('Опыт работы 1 год 4 месяца','Мужчина','Москва','Junior-Java разработчик',NULL,'https://hh.ru/resume/c5b4bcf10007831be80039ed1f484345533534')
 ,('Опыт работы 10 лет 1 месяц','Мужчина','Москва','Программист 1C','180 000 руб.','https://hh.ru/resume/c5e2848900029d0b510039ed1f74574f724430')
 ,('Опыт работы 3 года 1 месяц','Мужчина','Москва','Инженер по информационной безопасности',NULL,'https://hh.ru/resume/c5e383550006d2caf40039ed1f737a544b4c64')
@@ -4534,7 +4534,7 @@ INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary
 ,('Опыт работы 5 лет 7 месяцев','Женщина','Москва','Junior Java developer','45 000 руб.','https://hh.ru/resume/c6449fd400074acf990039ed1f7551724d7473')
 ,('Опыт работы 1 год 5 месяцев','Мужчина','Москва','Java Junior',NULL,'https://hh.ru/resume/c65351580004fecd770039ed1f666274374d64')
 ;
-INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES
+INSERT INTO hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES 
 ('Опыт работы 7 месяцев','Мужчина','Москва','Andorid developer',NULL,'https://hh.ru/resume/c660513100075848050039ed1f45314e61375a')
 ,('Опыт работы 6 лет 5 месяцев','Мужчина','Новосибирск','Unity3d Junior developer',NULL,'https://hh.ru/resume/c66581850004349a860039ed1f476672714f32')
 ,('Опыт работы 18 лет 9 месяцев','Мужчина','Москва','Системный администратор \ инженер-электроник',NULL,'https://hh.ru/resume/c667318400022201f20039ed1f683941636d31')
@@ -4546,7 +4546,7 @@ INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary
 ,('Опыт работы 5 лет 8 месяцев','Мужчина','Москва','Программист C/С++, руководитель отдела разработки, CTO','250 000 руб.','https://hh.ru/resume/c696ce0e0006c7d7250039ed1f314b616c794c')
 ,('Опыт работы 5 лет 4 месяца','Мужчина','Иркутск','Веб-мастер',NULL,'https://hh.ru/resume/c69b128a00032e6d9c0039ed1f716f46774b6e')
 ;
-INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES
+INSERT INTO hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES 
 ('Опыт работы 11 лет','Мужчина','Москва','Системный/бизнес аналитик','150 000 руб.','https://hh.ru/resume/c69f27d400023f85ac0039ed1f6c544c426a4f')
 ,('Work experience 10 years 1 month','Male','Latvia','.NET Architect',NULL,'https://hh.ru/resume/c6a89b010002a732b50039ed1f66366d506b4c')
 ,('Work experience 10 years 1 month','Male','Moscow','CRM & eCOM Project \ Product management',NULL,'https://hh.ru/resume/c6a89f9a000383397f0039ed1f796d37637170')
@@ -4558,7 +4558,7 @@ INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary
 ,('Опыт работы 12 лет 2 месяца','Мужчина','Москва','Инженер Avaya/Nice',NULL,'https://hh.ru/resume/c70e50b400079bd6cc0039ed1f376364306944')
 ,('Опыт работы 2 года 1 месяц','Мужчина','Москва','С++ Developer',NULL,'https://hh.ru/resume/c71aaf6a00060a69110039ed1f724f47325647')
 ;
-INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES
+INSERT INTO hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES 
 ('Опыт работы 3 года 1 месяц','Мужчина','Москва','Аналитик',NULL,'https://hh.ru/resume/c71b118100072018950039ed1f6c476744624b')
 ,('Опыт работы 15 лет 4 месяца','Мужчина','Москва','Руководитель проектов','200 000 руб.','https://hh.ru/resume/c72ca158000791eb1f0039ed1f563365507574')
 ,('Work experience 2 years 1 month','Male','Moscow','Analyst',NULL,'https://hh.ru/resume/c74f719100036e53600039ed1f4530694d6954')
@@ -4570,7 +4570,7 @@ INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary
 ,('Work experience 9 years 2 months','Male','Germany','Software engineer, Tech lead','170 000 RUB','https://hh.ru/resume/c77d815700081b85440039ed1f4c3361497a4f')
 ,('Опыт работы 10 лет 5 месяцев','Мужчина','Москва','Инженер-программист','200 000 руб.','https://hh.ru/resume/c784e32300022aac1a0039ed1f6a645a617573')
 ;
-INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES
+INSERT INTO hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES 
 ('Опыт работы 2 года 1 месяц','Мужчина','Москва','Data Scientist',NULL,'https://hh.ru/resume/c794ee0000071c72390039ed1f673135435238')
 ,('Опыт работы 15 лет 4 месяца','Мужчина','Курск','Технический директор','70 000 руб.','https://hh.ru/resume/c79872260001ad17bb0039ed1f5a68487a4130')
 ,('Опыт работы 10 лет 6 месяцев','Мужчина','Москва','Системный администратор',NULL,'https://hh.ru/resume/c79b5ba0000025c2970039ed1f736563726574')
@@ -4582,7 +4582,7 @@ INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary
 ,('Ключевые навыки','Мужчина','Москва','Программист','50 000 руб.','https://hh.ru/resume/c7f397030005616db50039ed1f785743494478')
 ,('Ключевые навыки','Мужчина','Москва','Web-программист',NULL,'https://hh.ru/resume/c7fc49e7000566587a0039ed1f787679385338')
 ;
-INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES
+INSERT INTO hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES 
 ('Опыт работы 7 лет 11 месяцев','Мужчина','Новосибирск','Инженер-электроник',NULL,'https://hh.ru/resume/c801c19000056f2c930039ed1f5557586b3869')
 ,('Опыт работы 4 года 1 месяц','Мужчина','Москва','Стажер Java',NULL,'https://hh.ru/resume/c80680fe0007c70c4c0039ed1f42494b6e4d4f')
 ,('Опыт работы 16 лет 11 месяцев','Женщина','Москва','Руководитель ИТ',NULL,'https://hh.ru/resume/c806c5860004391df20039ed1f686472485361')
@@ -4594,7 +4594,7 @@ INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary
 ,('Ключевые навыки','Мужчина','Москва','Стажер-разработчик/тестировщик',NULL,'https://hh.ru/resume/c852aab800051544050039ed1f414530414c61')
 ,('Опыт работы 10 лет 4 месяца','Женщина','Москва','Архитектор, Руководитель',NULL,'https://hh.ru/resume/c8709df200018d5f450039ed1f61434a613036')
 ;
-INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES
+INSERT INTO hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES 
 ('Ключевые навыки','Мужчина','Москва','Программист-разработчик',NULL,'https://hh.ru/resume/c87a31430008363f000039ed1f574345575372')
 ,('Обо мне','Мужчина','Москва','Программист-стажер','30 000 руб.','https://hh.ru/resume/c87f9d050007938fad0039ed1f485644764569')
 ,('Опыт работы 9 месяцев','Мужчина','Москва','Стажер-программист',NULL,'https://hh.ru/resume/c8870d800007fc4a280039ed1f4166726d3355')
@@ -4606,7 +4606,7 @@ INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary
 ,('Опыт работы 2 месяца','Мужчина','Москва','Android-разработчик, Java-разработчик','60 000 руб.','https://hh.ru/resume/c8c0c50d00083d91580039ed1f584f7a48786f')
 ,('Опыт работы 20 лет','Мужчина','Москва','Руководитель проектов, консультант, программист 1с','180 000 руб.','https://hh.ru/resume/c8c28b4d00057b3b010039ed1f3045484e4345')
 ;
-INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES
+INSERT INTO hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES 
 ('Опыт работы 7 лет 7 месяцев','Мужчина','Москва','Game designer (Junior) / Младший гейм-дизайнер',NULL,'https://hh.ru/resume/c8d3950d0007d185270039ed1f694b5137624a')
 ,('Опыт работы 7 лет 8 месяцев','Мужчина','Днепр (Днепропетровск)','QA Engineer',NULL,'https://hh.ru/resume/c8d3a501000798cb420039ed1f59596f535059')
 ,('Опыт работы 18 лет 9 месяцев','Мужчина','Пермь','Руководитель ИТ-подразделения',NULL,'https://hh.ru/resume/c8df97080007632c390039ed1f335736413830')
@@ -4618,7 +4618,7 @@ INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary
 ,('Опыт работы 5 лет 9 месяцев','Мужчина','Москва','Программист, тестировщик ПО',NULL,'https://hh.ru/resume/c942b77800043c346a0039ed1f5a504e6e5947')
 ,('Опыт работы 1 год 7 месяцев','Мужчина','Москва','Программист Python','40 000 руб.','https://hh.ru/resume/c954415700031460320039ed1f4d3646633033')
 ;
-INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES
+INSERT INTO hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES 
 ('Опыт работы 2 года 7 месяцев','Мужчина','Москва','HTML-верстальщик, веб-разработчик, дизайнер','40 000 руб.','https://hh.ru/resume/c9579e400007849fde0039ed1f706b557a656c')
 ,('Work experience 3 years 3 months','Male','Minsk','Data Scientist | Data Analyst',NULL,'https://hh.ru/resume/c96e0a0200030a03df0039ed1f715a464d5a50')
 ,('Ключевые навыки','Мужчина','Москва','Младший программист, Верстальщик',NULL,'https://hh.ru/resume/c9821c7f0004f405ca0039ed1f4c4d47363751')
@@ -4630,7 +4630,7 @@ INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary
 ,('Опыт работы 1 год 9 месяцев','Мужчина','Киров (Кировская область)','Middle Frontend рзработчик','100 000 руб.','https://hh.ru/resume/c9bd9d7600082bc8a40039ed1f67483055666d')
 ,('Опыт работы 9 лет 5 месяцев','Мужчина','Москва','Продюсер',NULL,'https://hh.ru/resume/c9cbc72c0007bad1310039ed1f63356e537157')
 ;
-INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES
+INSERT INTO hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES 
 ('Опыт работы 20 лет 4 месяца','Мужчина','Забайкальск','Директор по информационным технологиям','250 000 руб.','https://hh.ru/resume/c9d31fa300057f37820039ed1f3251334f5235')
 ,('Ключевые навыки','Мужчина','Москва','Стажер-программист',NULL,'https://hh.ru/resume/c9e81861000844030a0039ed1f776155514465')
 ,('Опыт работы 2 года 6 месяцев','Мужчина','Москва','Младший программист',NULL,'https://hh.ru/resume/ca00d99100059bde9d0039ed1f50706d596a34')
@@ -4642,7 +4642,7 @@ INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary
 ,('Опыт работы 1 год 1 месяц','Мужчина','Москва','Программист-разработчик','50 000 руб.','https://hh.ru/resume/ca1a85980005ebf6d00039ed1f53366b324252')
 ,('Опыт работы 11 лет 2 месяца','Мужчина','Москва','Руководитель проекта',NULL,'https://hh.ru/resume/ca2844a100081c2e160039ed1f447a5562474b')
 ;
-INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES
+INSERT INTO hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES 
 ('Work experience 15 years 8 months','Male','USA','Project coordinator, Project manager, Scram Master, Process improvement/development specialist',NULL,'https://hh.ru/resume/ca3eb7b30007d3b82b0039ed1f4563636b6430')
 ,('Опыт работы 9 лет 8 месяцев','Мужчина','Москва','Руководитель отдела разработки, CTO, R&D lead','350 000 руб.','https://hh.ru/resume/ca41a1eb00079174db0039ed1f4d61664e4975')
 ,('Опыт работы 1 год 2 месяца','Мужчина','Москва','Junior Java Developer/Младший Java-разработчик',NULL,'https://hh.ru/resume/ca433a35000687c4e10039ed1f345634526363')
@@ -4654,7 +4654,7 @@ INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary
 ,('Опыт работы 9 лет 11 месяцев','Мужчина','Москва','Стажер-программист','45 000 руб.','https://hh.ru/resume/ca7642fe00078c34890039ed1f6559506c3351')
 ,('Опыт работы 2 года 6 месяцев','Мужчина','Москва','Разработчик',NULL,'https://hh.ru/resume/ca7acd83000416fbe70039ed1f3469534e6169')
 ;
-INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES
+INSERT INTO hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES 
 ('Work experience 9 years 6 months','Male','Cyprus','Senior Developer (Старший разработчик) / CIO / VP of Engineering',NULL,'https://hh.ru/resume/ca83730b0003d11b590039ed1f574474433759')
 ,('Опыт работы 9 лет 5 месяцев','Мужчина','Москва','IT Project Manager','110 000 руб.','https://hh.ru/resume/ca8423f300031985c70039ed1f433144494a53')
 ,('Опыт работы 1 год 1 месяц','Мужчина','Москва','Junior developer','30 000 руб.','https://hh.ru/resume/ca84fd8c00078ddc970039ed1f4d6535384a6f')
@@ -4666,7 +4666,7 @@ INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary
 ,('Work experience 18 years 5 months','Male','Moscow','Quant developer, C++ and R','5 000 EUR','https://hh.ru/resume/cac5564d0000179c2f0039ed1f736563726574')
 ,('Опыт работы 10 лет 4 месяца','Мужчина','Самара','Тестировщик ПО',NULL,'https://hh.ru/resume/cacaeb010007c70e990039ed1f796979387467')
 ;
-INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES
+INSERT INTO hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES 
 ('Опыт работы 20 лет 7 месяцев','Мужчина','Краснодар','PHP программист, Team Lead','100 000 руб.','https://hh.ru/resume/caed5de4000514bf820039ed1f4c4d32615971')
 ,('Опыт работы 5 лет 7 месяцев','Мужчина','Москва','Системного администратора','80 000 руб.','https://hh.ru/resume/caf4121c0001504bf80039ed1f487a3169635a')
 ,('Опыт работы 7 месяцев','Мужчина','Москва','Аналитик',NULL,'https://hh.ru/resume/caf6277000077b92a20039ed1f6f4679314643')
@@ -4678,7 +4678,7 @@ INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary
 ,('Опыт работы 5 лет 3 месяца','Мужчина','Омск','Senior PHP backend-developer, Golang middle','120 000 руб.','https://hh.ru/resume/cb3fd6330007e7af040039ed1f4c7a57757949')
 ,('Опыт работы 18 лет 10 месяцев','Мужчина','Москва','Менеджер по снабжению','200 000 руб.','https://hh.ru/resume/cb5128d4000308b8340039ed1f4b3533714854')
 ;
-INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES
+INSERT INTO hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES 
 ('Опыт работы 10 месяцев','Мужчина','Москва','Junior Java Developer','30 000 руб.','https://hh.ru/resume/cb7b665700057751080039ed1f304a33324373')
 ,('Опыт работы 15 лет 6 месяцев','Женщина','Москва','Таргетолог | Интернет-маркетолог | Чат-боты',NULL,'https://hh.ru/resume/cb7e1ec000004990570039ed1f736563726574')
 ,('Опыт работы 26 лет 7 месяцев','Мужчина','Самара','Технический директор (Электроэнергетика)','150 000 руб.','https://hh.ru/resume/cbd260cc000025d3090039ed1f736563726574')
@@ -4690,7 +4690,7 @@ INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary
 ,('Опыт работы 8 лет 5 месяцев','Мужчина','Москва','Java junior developer',NULL,'https://hh.ru/resume/cc09d0e70007cfa2b90039ed1f654331334845')
 ,('Опыт работы 28 лет 1 месяц','Мужчина','Барнаул','Инженер-конструктор электронщик','100 000 руб.','https://hh.ru/resume/cc533263000352a7810039ed1f4a6f57586230')
 ;
-INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES
+INSERT INTO hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES 
 ('Опыт работы 5 лет 10 месяцев','Мужчина','Москва','начинающий С++/Java-разработчик',NULL,'https://hh.ru/resume/cc65f9f40002f7d8160039ed1f4737536e534e')
 ,('Опыт работы 2 года 7 месяцев','Женщина','Москва','Личный ассистент','20 000 руб.','https://hh.ru/resume/cc6cda37000518981c0039ed1f587834435756')
 ,('Опыт работы 28 лет 3 месяца','Мужчина','Москва','Руководитель проекта, программист','100 000 руб.','https://hh.ru/resume/cc71a998000750acbd0039ed1f6a61326e6436')
@@ -4702,7 +4702,7 @@ INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary
 ,('Опыт работы 1 год 2 месяца','Мужчина','Москва','Бизнес-аналитик',NULL,'https://hh.ru/resume/cc9dd0be0003d2b5720039ed1f6c575a7a5346')
 ,('Опыт работы 11 лет 2 месяца','Мужчина','Москва','Инженер по телекоммуникациям',NULL,'https://hh.ru/resume/ccb5d40b0000b5630b0039ed1f736563726574')
 ;
-INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES
+INSERT INTO hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES 
 ('Опыт работы 8 лет 9 месяцев','Женщина','Москва','Менеджер образовательных проектов',NULL,'https://hh.ru/resume/ccc424b5000284089d0039ed1f536852766531')
 ,('Опыт работы 8 лет 8 месяцев','Мужчина','Москва','Младший Java-разработчик',NULL,'https://hh.ru/resume/ccd01da100062ea59c0039ed1f343668754873')
 ,('Ключевые навыки','Мужчина','Москва','Программист','20 000 руб.','https://hh.ru/resume/ccd2e4e7000820b6420039ed1f443765575a43')
@@ -4714,7 +4714,7 @@ INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary
 ,('Опыт работы 10 лет 3 месяца','Мужчина','Москва','Senior QA Automation Engineer',NULL,'https://hh.ru/resume/cd075d820007be5acb0039ed1f4c7a78636e4f')
 ,('Опыт работы 5 лет 5 месяцев','Мужчина','Москва','Java-разработчик',NULL,'https://hh.ru/resume/cd10cf480007c3af7d0039ed1f726e74477475')
 ;
-INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES
+INSERT INTO hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES 
 ('Опыт работы 9 лет 3 месяца','Мужчина','Санкт-Петербург','Junior Java developer',NULL,'https://hh.ru/resume/cd1c11e800021637d60039ed1f497a7044694a')
 ,('Опыт работы 2 месяца','Мужчина','Москва','Официант (м.Кузнецкий мост)','35 000 руб.','https://hh.ru/resume/cd2299d100040bca4f0039ed1f626370456858')
 ,('Опыт работы 12 лет 7 месяцев','Мужчина','Москва','Тренинг-менеджер','80 000 руб.','https://hh.ru/resume/cd2ad3990003a50f3d0039ed1f6c4359715149')
@@ -4726,7 +4726,7 @@ INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary
 ,('Обо мне','Мужчина','Москва','Начинающий тестировщик',NULL,'https://hh.ru/resume/cd634c8f00075ceb9f0039ed1f33586f643751')
 ,('Опыт работы 20 лет 6 месяцев','Мужчина','Москва','Разработчик ПО','170 000 руб.','https://hh.ru/resume/cd6d500000035be6780039ed1f72464c617843')
 ;
-INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES
+INSERT INTO hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES 
 ('Ключевые навыки','Мужчина','Москва','Java-разработчик',NULL,'https://hh.ru/resume/cd70364d00057206640039ed1f6f5a6a4e7844')
 ,('Опыт работы 19 лет 9 месяцев','Мужчина','Москва','Full stack',NULL,'https://hh.ru/resume/cd7c6fe70000a134140039ed1f736563726574')
 ,('Опыт работы 2 года 6 месяцев','Мужчина','Москва','Java-разработчик','60 000 руб.','https://hh.ru/resume/cd7ca2ef000827fd060039ed1f4579676d7970')
@@ -4738,7 +4738,7 @@ INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary
 ,('Опыт работы 4 года 9 месяцев','Женщина','Москва','Специалист по туризму',NULL,'https://hh.ru/resume/cdd12d4b0002c2a7b80039ed1f3669516e3831')
 ,('Опыт работы 19 лет 7 месяцев','Мужчина','Москва','СIO, ИТ Директор/Заместитель директора, Директор по развитию информационных технологий',NULL,'https://hh.ru/resume/cdd48be600076d87b10039ed1f38323576484d')
 ;
-INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES
+INSERT INTO hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES 
 ('Опыт работы 12 лет 10 месяцев','Мужчина','Дубна','программист С++','60 000 руб.','https://hh.ru/resume/cdd6f8d4000093fe490039ed1f736563726574')
 ,('Опыт работы 7 лет 9 месяцев','Мужчина','Казань','web developer laravel + vue.js','100 000 руб.','https://hh.ru/resume/cdd7f8fc00017bd7700039ed1f377845596e57')
 ,('Опыт работы 19 лет 6 месяцев','Женщина','Москва','Начальник отдела по работе с персоналом','80 000 руб.','https://hh.ru/resume/cde03d3300081dbdd90039ed1f677239734443')
@@ -4750,7 +4750,7 @@ INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary
 ,('Опыт работы 2 месяца','Мужчина','Москва','Инженер связи',NULL,'https://hh.ru/resume/ce39abb90008137b750039ed1f63774f327035')
 ,('Опыт работы 7 лет 5 месяцев','Мужчина','Пермь','Менеджер','70 000 руб.','https://hh.ru/resume/ce3e8a590003e7eb620039ed1f7769566f3668')
 ;
-INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES
+INSERT INTO hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES 
 ('Опыт работы 12 лет 6 месяцев','Мужчина','Москва','Руководитель разработки / Team Lead','350 000 руб.','https://hh.ru/resume/ce4a9632000804fa1e0039ed1f6d6a4a394a53')
 ,('Опыт работы 5 лет 1 месяц','Мужчина','Москва','Data Architect','500 000 руб.','https://hh.ru/resume/ce5a032d00032b1ee50039ed1f456e6f625044')
 ,('Work experience 12 years','Male','Brazil','Programmer/developer',NULL,'https://hh.ru/resume/ce6e593000029391b00039ed1f6c3557775948')
@@ -4762,7 +4762,7 @@ INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary
 ,('Ключевые навыки','Мужчина','Москва','Стажёр-программист .net',NULL,'https://hh.ru/resume/cec36a2c000840eb4c0039ed1f646d77764e44')
 ,('Опыт работы 6 лет 3 месяца','Женщина','Москва','Game Designer Junior',NULL,'https://hh.ru/resume/cec45ac10002b19e880039ed1f356554527836')
 ;
-INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES
+INSERT INTO hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES 
 ('Опыт работы 15 лет 1 месяц','Мужчина','Москва','Ведущий программист','100 000 руб.','https://hh.ru/resume/cec787800007cf6ccc0039ed1f7a37316b7a4f')
 ,('Опыт работы 2 года 11 месяцев','Мужчина','Москва','Junior android разработчик',NULL,'https://hh.ru/resume/ceda7ffc0003dd909e0039ed1f4f616f586f31')
 ,('Ключевые навыки','Мужчина','Москва','Junior Android Developer',NULL,'https://hh.ru/resume/ceea97fe0007ac0d150039ed1f65357742506c')
@@ -4774,7 +4774,7 @@ INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary
 ,('Work experience 9 years 4 months','Male','Moscow','Team Lead/Architect','300 000 RUB','https://hh.ru/resume/cf584690000162d5a00039ed1f69595a314c42')
 ,('Опыт работы 17 лет 5 месяцев','Мужчина','Москва','1С Программист (удаленно)','160 000 руб.','https://hh.ru/resume/cf6a974e000558f5340039ed1f736975434931')
 ;
-INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES
+INSERT INTO hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES 
 ('Опыт работы 18 лет 6 месяцев','Мужчина','Москва','Senior Python developer / team lead','259 259 руб.','https://hh.ru/resume/cf6be5cf0000900c8b0039ed1f736563726574')
 ,('Work experience 2 years 4 months','Male','Minsk','Automation QA',NULL,'https://hh.ru/resume/cf700b2200082676290039ed1f436147576145')
 ,('Опыт работы 9 лет 1 месяц','Женщина','Москва','Системный аналитик','1 000 руб.','https://hh.ru/resume/cf7165b90007e75ae00039ed1f4d6c6a526a34')
@@ -4786,7 +4786,7 @@ INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary
 ,('Опыт работы 1 год 7 месяцев','Мужчина','Москва','Junior Qa engineer',NULL,'https://hh.ru/resume/cf9f2b3c00083453930039ed1f377078556150')
 ,('Опыт работы 8 лет 4 месяца','Мужчина','Москва','QA automation',NULL,'https://hh.ru/resume/cfa6410a00001cb03e0039ed1f736563726574')
 ;
-INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES
+INSERT INTO hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES 
 ('Опыт работы 9 лет 11 месяцев','Мужчина','Москва','Инженер, специалист технической поддержки, help-desk','60 000 руб.','https://hh.ru/resume/cfa6be1a0001a743990039ed1f4e6f38664671')
 ,('Опыт работы 7 лет 5 месяцев','Женщина','Франция','Помощник руководителя',NULL,'https://hh.ru/resume/cfa7f7730001fa1bfe0039ed1f5572794c4237')
 ,('Опыт работы 1 год','Мужчина','Москва','Проектировщик тепловых сетей, помощник инженера-теплоэнергетика, помощник инженера-теплотехника','50 000 руб.','https://hh.ru/resume/cfa8533d00075f545d0039ed1f585178474c63')
@@ -4798,7 +4798,7 @@ INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary
 ,('Work experience 22 years 9 months','Male','Moscow','Программист C++, мультимедийные приложения','300 000 RUB','https://hh.ru/resume/d00ccbe80002d9898e0039ed1f323764357674')
 ,('Опыт работы 12 лет 7 месяцев','Мужчина','Москва','Аналитик',NULL,'https://hh.ru/resume/d016990e00016c90b80039ed1f6f3959386e38')
 ;
-INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES
+INSERT INTO hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES 
 ('Work experience 1 year 6 months','Male','Moscow','Программист-стажер',NULL,'https://hh.ru/resume/d026a26f0003db0cc70039ed1f4a426a4f6f31')
 ,('Опыт работы 10 лет 2 месяца','Мужчина','Зеленоград','Web-разработчик, Сопровождение 1С, Системный администратор','80 000 руб.','https://hh.ru/resume/d028cf5d00074fa4f80039ed1f6b4e6d346172')
 ,('Ключевые навыки','Женщина','Москва','Программист-стажер','45 000 руб.','https://hh.ru/resume/d031ddae000503a6170039ed1f6e4a4c4d6f73')
@@ -4810,7 +4810,7 @@ INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary
 ,('Опыт работы 1 год 7 месяцев','Мужчина','Уфа','Android разработчик','40 000 руб.','https://hh.ru/resume/d0989c14000826b81f0039ed1f533657326943')
 ,('Опыт работы 34 года 9 месяцев','Мужчина','Москва','Журналист, писатель, копирайтер',NULL,'https://hh.ru/resume/d09c461700001f0c210039ed1f736563726574')
 ;
-INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES
+INSERT INTO hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES 
 ('Опыт работы 30 лет 2 месяца','Мужчина','Москва','Фронтенд-разработчик, системный администратор','130 000 руб.','https://hh.ru/resume/d09d2d7a000099d9af0039ed1f736563726574')
 ,('Опыт работы 24 года 1 месяц','Женщина','Москва','Разработчик / Администратор БД / web-разработчик',NULL,'https://hh.ru/resume/d0da114e00002ce2d20039ed1f736563726574')
 ,('Work experience 11 years 7 months','Male','Moscow','Team lead, Head of department, Architect','500 000 RUB','https://hh.ru/resume/d0db6efc0000110f250039ed1f736563726574')
@@ -4822,7 +4822,7 @@ INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary
 ,('Опыт работы 5 лет 3 месяца','Мужчина','Москва','Java-разработчик стажёр',NULL,'https://hh.ru/resume/d13e2afc00076fe3fa0039ed1f65554a357256')
 ,('Опыт работы 6 лет 8 месяцев','Мужчина','Москва','Разработчик C#','160 000 руб.','https://hh.ru/resume/d14177f4000184b3d60039ed1f656b4a636978')
 ;
-INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES
+INSERT INTO hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES 
 ('Опыт работы 4 года 1 месяц','Мужчина','Москва','Инженер по нагрузочному\автоматизированному тестированию','120 000 руб.','https://hh.ru/resume/d17dc4ca0005a83be90039ed1f39434c647169')
 ,('Опыт работы 15 лет 9 месяцев','Мужчина','Москва','Ведущий разработчик Java',NULL,'https://hh.ru/resume/d18694b1000798ef0a0039ed1f787856453332')
 ,('Опыт работы 4 года 11 месяцев','Мужчина','Санкт-Петербург','Java junior',NULL,'https://hh.ru/resume/d1889b25000644fe6c0039ed1f306e4e747873')
@@ -4834,7 +4834,7 @@ INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary
 ,('Work experience 22 years 10 months','Male','Moscow','Project Manager, PMP',NULL,'https://hh.ru/resume/d1c9acba00002b63e30039ed1f736563726574')
 ,('Опыт работы 7 лет 7 месяцев','Мужчина','Москва','Системный администратор','60 000 руб.','https://hh.ru/resume/d1feaf4600044f74860039ed1f446a4c44796c')
 ;
-INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES
+INSERT INTO hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES 
 ('Опыт работы 5 лет 8 месяцев','Мужчина','Москва','Android developer',NULL,'https://hh.ru/resume/d205475d000289a4870039ed1f586756316853')
 ,('Work experience 23 years 1 month','Male','Moscow','Руководитель отдела аналитики, ведущий аналитик',NULL,'https://hh.ru/resume/d2240b9b00000f5f2e0039ed1f736563726574')
 ,('Ключевые навыки','Мужчина','Москва','Java junior developer','50 000 руб.','https://hh.ru/resume/d22ee3e700072af4eb0039ed1f384278496543')
@@ -4846,7 +4846,7 @@ INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary
 ,('Ключевые навыки','Мужчина','Москва','Программист','20 000 руб.','https://hh.ru/resume/d28a185600080e280e0039ed1f75447932534e')
 ,('Ключевые навыки','Мужчина','Москва','Оператор ПК',NULL,'https://hh.ru/resume/d291a9c80007b256fa0039ed1f37756d437166')
 ;
-INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES
+INSERT INTO hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES 
 ('Опыт работы 12 лет 5 месяцев','Мужчина','Москва','Консультант SAP BASIS',NULL,'https://hh.ru/resume/d2a661860007f79aaa0039ed1f6b5574546c77')
 ,('Опыт работы 1 год 10 месяцев','Мужчина','Москва','Java-программист',NULL,'https://hh.ru/resume/d2a72471000849afba0039ed1f6a3651675051')
 ,('Ключевые навыки','Мужчина','Москва','Android-разработчик (Java)',NULL,'https://hh.ru/resume/d2ceb4bb0007607eae0039ed1f7366745a6858')
@@ -4858,7 +4858,7 @@ INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary
 ,('Опыт работы 6 лет 3 месяца','Мужчина','Москва','Системный администратор','150 000 руб.','https://hh.ru/resume/d340ca650003a6ee9f0039ed1f6b3031374759')
 ,('Опыт работы 4 года 3 месяца','Мужчина','Москва','Python junior разработчик','30 000 руб.','https://hh.ru/resume/d34412ba0006beaa1e0039ed1f52304e636435')
 ;
-INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES
+INSERT INTO hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES 
 ('Ключевые навыки','Мужчина','Москва','Программист-стажер',NULL,'https://hh.ru/resume/d3526d4c00075002010039ed1f313357594939')
 ,('Work experience 8 years 4 months','Male','Moscow','Project manager','380 000 RUB','https://hh.ru/resume/d36db50b00012a585d0039ed1f6e7078315342')
 ,('Work experience 7 years','Male','Moscow','C/C++ C# VB JAVA PHP HTML CSS Windows Linux MacOS iOs Android Embeded Distributed Desktop Automation','4 000 USD','https://hh.ru/resume/d377f9eb0004ff7fae0039ed1f333572455770')
@@ -4870,7 +4870,7 @@ INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary
 ,('Опыт работы 7 лет 6 месяцев','Мужчина','Москва','PHP-программист','120 000 руб.','https://hh.ru/resume/d39f70d2000121b3b70039ed1f613079483665')
 ,('Опыт работы 1 год 10 месяцев','Женщина','Челябинск','Журналист',NULL,'https://hh.ru/resume/d3a4144100063c29030039ed1f7648586c6f52')
 ;
-INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES
+INSERT INTO hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES 
 ('Опыт работы 6 лет 10 месяцев','Мужчина','Псков','Программист 1С/Python Developer/IT специалист/Специалист технической поддержки','35 000 руб.','https://hh.ru/resume/d3b9ca84000506b6e00039ed1f426441317359')
 ,('Опыт работы 8 лет 6 месяцев','Мужчина','Волгодонск','Ведущий инженер','60 000 руб.','https://hh.ru/resume/d3bd1c61000236eddc0039ed1f566239434332')
 ,('Опыт работы 7 месяцев','Мужчина','Москва','Разработчик',NULL,'https://hh.ru/resume/d3cc3c3e00080eeef70039ed1f726d6c64366a')
@@ -4882,7 +4882,7 @@ INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary
 ,('Опыт работы 12 лет','Мужчина','Москва','Программист Java','80 000 руб.','https://hh.ru/resume/d4157dfa000831b0330039ed1f476d76437637')
 ,('Опыт работы 2 года 5 месяцев','Мужчина','Москва','Разработчик ПО (Python)',NULL,'https://hh.ru/resume/d42c00e6000555536f0039ed1f36554b305667')
 ;
-INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES
+INSERT INTO hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES 
 ('Опыт работы 24 года','Мужчина','Санкт-Петербург','Директор по e commerce',NULL,'https://hh.ru/resume/d431f8510003978b2e0039ed1f5536796d316d')
 ,('Опыт работы 18 лет 11 месяцев','Мужчина','Москва','Team Lead Java / Руководитель разработки','300 000 руб.','https://hh.ru/resume/d4337e4a00056923ec0039ed1f7a4238716879')
 ,('Опыт работы 2 года 5 месяцев','Мужчина','Санкт-Петербург','Frontend-разработчик',NULL,'https://hh.ru/resume/d43d05f00005df3fc70039ed1f754e47596833')
@@ -4894,7 +4894,7 @@ INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary
 ,('Опыт работы 4 года 7 месяцев','Мужчина','Казань','Java Junior','65 000 руб.','https://hh.ru/resume/d49137ad00062054580039ed1f6c326f664151')
 ,('Опыт работы 1 год 5 месяцев','Мужчина','Москва','Начинающий специалист',NULL,'https://hh.ru/resume/d497a66300036a0be20039ed1f595052526878')
 ;
-INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES
+INSERT INTO hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES 
 ('Опыт работы 2 года 2 месяца','Мужчина','Москва','Android developer','100 000 руб.','https://hh.ru/resume/d49dfce900044a9ba90039ed1f456137654d4e')
 ,('Опыт работы 3 года 7 месяцев','Мужчина','Москва','Программист','30 000 руб.','https://hh.ru/resume/d49fbff70004571b8a0039ed1f447049334670')
 ,('Опыт работы 23 года 3 месяца','Мужчина','Москва','Разработчик Java SE, Java EE, SQL, NoSQL, BigData','440 000 руб.','https://hh.ru/resume/d4a1860600004903fb0039ed1f736563726574')
@@ -4906,7 +4906,7 @@ INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary
 ,('Опыт работы 11 лет 7 месяцев','Мужчина','Москва','Инженер-электрик','1 000 руб.','https://hh.ru/resume/d4f556c50007b8d5e70039ed1f46484d337131')
 ,('Опыт работы 5 лет 9 месяцев','Мужчина','Москва','Junior Программист','30 000 руб.','https://hh.ru/resume/d4f925b300084262f90039ed1f397964644742')
 ;
-INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES
+INSERT INTO hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES 
 ('Опыт работы 10 лет 8 месяцев','Мужчина','Москва','Руководитель отдела подбора персонала/ Ведущий менеджер по персоналу',NULL,'https://hh.ru/resume/d510d05b0002c3cec70039ed1f673331656462')
 ,('Опыт работы 11 лет 10 месяцев','Мужчина','Курган','Программист C# Junior','55 000 руб.','https://hh.ru/resume/d51d497700039981720039ed1f593856316842')
 ,('Опыт работы 12 лет 4 месяца','Мужчина','Москва','Руководитель отдела IT, Администратор/Разработчик HCL Domino',NULL,'https://hh.ru/resume/d51d839a0000bf8bc00039ed1f4167474c4539')
@@ -4918,7 +4918,7 @@ INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary
 ,('Опыт работы 4 года 6 месяцев','Мужчина','Москва','Flash/Haxe программист','50 000 руб.','https://hh.ru/resume/d5b77e2c0001cdbd2b0039ed1f586f785a7a49')
 ,('Опыт работы 12 лет 1 месяц','Мужчина','Москва','Software engineer','250 000 руб.','https://hh.ru/resume/d5c8ed100000a1021f0039ed1f736563726574')
 ;
-INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES
+INSERT INTO hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES 
 ('Опыт работы 6 лет 3 месяца','Женщина','Москва','Банковский сотрудник',NULL,'https://hh.ru/resume/d5d300f2000760f3c50039ed1f576d4d6b5237')
 ,('Опыт работы 1 год 2 месяца','Мужчина','Санкт-Петербург','Программист','120 000 руб.','https://hh.ru/resume/d5d5cbcf0006aa45020039ed1f325379705546')
 ,('Опыт работы 8 лет 5 месяцев','Мужчина','Ростов-на-Дону','Разработчик мобильных и веб приложений',NULL,'https://hh.ru/resume/d5db34410007ebb4e00039ed1f6a3576706b50')
@@ -4930,7 +4930,7 @@ INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary
 ,('Опыт работы 1 год 1 месяц','Мужчина','Москва','Программист',NULL,'https://hh.ru/resume/d64ccaf10005b9a4da0039ed1f494c6963684c')
 ,('Опыт работы 3 года 5 месяцев','Мужчина','Москва','Начинающий специалист',NULL,'https://hh.ru/resume/d688fd4600061d8eb80039ed1f3957466a7365')
 ;
-INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES
+INSERT INTO hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES 
 ('Опыт работы 8 лет 4 месяца','Мужчина','Байконур (Кызылорд. обл)','Программист Java','100 000 руб.','https://hh.ru/resume/d68efad00002a157180039ed1f54614b615858')
 ,('Опыт работы 15 лет 5 месяцев','Мужчина','Москва','Руководитель проектов',NULL,'https://hh.ru/resume/d699d4f800073b8fc40039ed1f366a47483441')
 ,('Опыт работы 21 год 6 месяцев','Женщина','Москва','Модератор сайта, администратор группы социальной сети, специалист поддержки сайта, оператор БД',NULL,'https://hh.ru/resume/d69b76e00001ab59c50039ed1f71575a4b6236')
@@ -4942,7 +4942,7 @@ INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary
 ,('Опыт работы 11 лет 9 месяцев','Мужчина','Москва','Java Junior Developer',NULL,'https://hh.ru/resume/d6d655b600041e36910039ed1f4e7972575676')
 ,('Опыт работы 1 год 7 месяцев','Женщина','Москва','Тестировщик/QA engineer','40 000 руб.','https://hh.ru/resume/d6f2d7630007b7501d0039ed1f45616d6b4c42')
 ;
-INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES
+INSERT INTO hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES 
 ('Опыт работы 13 лет 4 месяца','Мужчина','Москва','ведущий инженер-конструктор КЖ, КМ','80 000 руб.','https://hh.ru/resume/d70bea1c000076def90039ed1f736563726574')
 ,('Опыт работы 9 лет 6 месяцев','Мужчина','Москва','Ведущий разработчик / Team Lead (Node.js, React)','5 000 USD','https://hh.ru/resume/d71fe8bf0005d06c1e0039ed1f583359363437')
 ,('Опыт работы 1 год 7 месяцев','Мужчина','Москва','Администратор баз данных','40 000 руб.','https://hh.ru/resume/d72ba6f200084c6f670039ed1f734b56586452')
@@ -4954,7 +4954,7 @@ INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary
 ,('Опыт работы 14 лет 7 месяцев','Мужчина','Москва','Программист 1C (удаленно)','130 000 руб.','https://hh.ru/resume/d7767a140007e11a9a0039ed1f4e6732654870')
 ,('Опыт работы 3 года 9 месяцев','Мужчина','Москва','Junior Java Developer','30 000 руб.','https://hh.ru/resume/d777e2130003468f410039ed1f6b336567614b')
 ;
-INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES
+INSERT INTO hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES 
 ('Опыт работы 7 месяцев','Мужчина','Москва','Специалист по IT','55 000 руб.','https://hh.ru/resume/d77d254100084b654d0039ed1f61786b697839')
 ,('Опыт работы 2 года 6 месяцев','Мужчина','Москва','IT рекрутер','45 000 руб.','https://hh.ru/resume/d794e65200070754040039ed1f433933584944')
 ,('Опыт работы 7 лет 2 месяца','Мужчина','Москва','Тестировщик / Junior QA engineer',NULL,'https://hh.ru/resume/d7ad23170005cd7d1b0039ed1f347464747947')
@@ -4966,7 +4966,7 @@ INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary
 ,('Опыт работы 9 лет 5 месяцев','Мужчина','Москва','Инженер-программист',NULL,'https://hh.ru/resume/d7cdf189000208e4b60039ed1f34785070326b')
 ,('Опыт работы 6 лет 9 месяцев','Мужчина','Санкт-Петербург','Специалист контактного центра','50 000 руб.','https://hh.ru/resume/d7d1bb1700014daf1a0039ed1f636237486d38')
 ;
-INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES
+INSERT INTO hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES 
 ('Опыт работы 20 лет','Мужчина','Москва','Руководитель проекта / Аналитик-консультант','150 000 руб.','https://hh.ru/resume/d7e8583f0004d9b2f70039ed1f5a3842387553')
 ,('Опыт работы 6 лет 7 месяцев','Мужчина','Москва','Инженер-программист','45 000 руб.','https://hh.ru/resume/d7ff0b2d00073fb7ba0039ed1f513930777548')
 ,('Опыт работы 5 лет 11 месяцев','Женщина','Москва','Программист HP Service Manager','150 000 руб.','https://hh.ru/resume/d802b6ea00040097b20039ed1f44494f30666c')
@@ -4978,7 +4978,7 @@ INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary
 ,('Опыт работы 1 год 2 месяца','Мужчина','Москва','Младший системный аналитик','25 000 руб.','https://hh.ru/resume/d8362f0a000830faa20039ed1f636d3362794f')
 ,('Опыт работы 14 лет 1 месяц','Мужчина','Москва','SAP XI/PI/PO',NULL,'https://hh.ru/resume/d83a46170000266dc20039ed1f736563726574')
 ;
-INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES
+INSERT INTO hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES 
 ('Опыт работы 6 лет 4 месяца','Мужчина','Москва','Руководитель проекта',NULL,'https://hh.ru/resume/d8612012000552a2150039ed1f503351535850')
 ,('Опыт работы 19 лет 4 месяца','Мужчина','Санкт-Петербург','Руководитель отдела технологии и качества','170 000 руб.','https://hh.ru/resume/d869ef130000cee52a0039ed1f544871516e4f')
 ,('Опыт работы 13 лет 6 месяцев','Мужчина','Москва','Менеджер по продажам','150 000 руб.','https://hh.ru/resume/d86fe8150003f89c080039ed1f666f554c6265')
@@ -4990,7 +4990,7 @@ INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary
 ,('Опыт работы 16 лет 1 месяц','Мужчина','Москва','Руководитель разработки ПО, DevOps, комплексных решений Web,iOS,API, интеграция с внешними системами','300 000 руб.','https://hh.ru/resume/d896868f0000eabfba0039ed1f36656e644a51')
 ,('Опыт работы 4 года 8 месяцев','Женщина','Москва','Менеджер','70 000 руб.','https://hh.ru/resume/d899f70e0005b933f90039ed1f78505769716d')
 ;
-INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES
+INSERT INTO hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES 
 ('Work experience 3 years 1 month','Male','USA','Software Engineer',NULL,'https://hh.ru/resume/d8a4d4a40007b4d2c60039ed1f335463343252')
 ,('Ключевые навыки','Женщина','Москва','Начинающий специалист',NULL,'https://hh.ru/resume/d8aa435e00031a470a0039ed1f356c6c306167')
 ,('Опыт работы 3 года 2 месяца','Мужчина','Москва','Трейдер-аналитик',NULL,'https://hh.ru/resume/d8ab75c50007c0d3070039ed1f676336544148')
@@ -5002,7 +5002,7 @@ INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary
 ,('Опыт работы 2 года 9 месяцев','Мужчина','Москва','Системный администратор',NULL,'https://hh.ru/resume/d8dd9c11000612a79a0039ed1f5544374b354d')
 ,('Опыт работы 3 года 8 месяцев','Женщина','Москва','Системный администратор','70 000 руб.','https://hh.ru/resume/d8f6af3100083b79d30039ed1f593644443050')
 ;
-INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES
+INSERT INTO hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES 
 ('Опыт работы 6 лет 3 месяца','Мужчина','Москва','JAVA Developer','80 000 руб.','https://hh.ru/resume/d8f9b4590007c9b57d0039ed1f776478794b6f')
 ,('Опыт работы 19 лет 5 месяцев','Мужчина','Москва','Директор проектного офиса',NULL,'https://hh.ru/resume/d8fbce2900002446c50039ed1f736563726574')
 ,('Опыт работы 24 года 6 месяцев','Мужчина','Москва','Ведущий системный аналитик','140 000 руб.','https://hh.ru/resume/d8fda1370005d4d93e0039ed1f4152696c6e42')
@@ -5014,7 +5014,7 @@ INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary
 ,('Ключевые навыки','Женщина','Москва','Программист',NULL,'https://hh.ru/resume/d93e9328000777c8f20039ed1f39746a786458')
 ,('Опыт работы 10 лет 10 месяцев','Мужчина','Москва','Руководитель ИТ-департамента','300 000 руб.','https://hh.ru/resume/d94728ca0007d7f48f0039ed1f6258614c436c')
 ;
-INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES
+INSERT INTO hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES 
 ('Опыт работы 1 год','Женщина','Москва','Специалист','90 000 руб.','https://hh.ru/resume/d95dfb6900073e56730039ed1f507778663336')
 ,('Опыт работы 6 месяцев','Мужчина','Москва','Специалист по тестированию ПО','50 000 руб.','https://hh.ru/resume/d9616aab00077296450039ed1f49314d506c71')
 ,('Опыт работы 7 месяцев','Мужчина','Москва','стажер Q&A Engineer, стажер тестировщик,','25 000 руб.','https://hh.ru/resume/d96ed094000825d6520039ed1f37696a5a5333')
@@ -5026,7 +5026,7 @@ INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary
 ,('Опыт работы 8 лет 7 месяцев','Мужчина','Москва','Технический директор',NULL,'https://hh.ru/resume/d9d07ed400057d86800039ed1f75377a33675a')
 ,('Опыт работы 20 лет 6 месяцев','Мужчина','Москва','Руководитель разработки','300 000 руб.','https://hh.ru/resume/d9d648990000d2301f0039ed1f417343464746')
 ;
-INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES
+INSERT INTO hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES 
 ('Опыт работы 11 лет 4 месяца','Мужчина','Воронеж','Backend developer','55 000 руб.','https://hh.ru/resume/d9fa671000026c30f80039ed1f344837703331')
 ,('Опыт работы 15 лет 7 месяцев','Мужчина','Шымкент','Технический директор,Начальник IT-отдела,Начальник тех.отдела,Сетевой Администратор,Инженер связи','550 000 KZT','https://hh.ru/resume/da05838b00013b7ac10039ed1f4b6639446167')
 ,('Опыт работы 20 лет 1 месяц','Мужчина','Москва','Руководитель отдела разработки и технической поддержки ПО, Менеджер проекта',NULL,'https://hh.ru/resume/da09c59b0005295e4f0039ed1f71516a385651')
@@ -5038,7 +5038,7 @@ INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary
 ,('Work experience 10 years','Male','Moscow','HR Generalist, Leadership Recruiter, Head of Recruitment','100 000 RUB','https://hh.ru/resume/da49f7c90002b3a24d0039ed1f744345345a68')
 ,('Опыт работы 9 лет 9 месяцев','Мужчина','Москва','Инженер-программист','115 000 руб.','https://hh.ru/resume/da4e89190002cbb8f20039ed1f364e444c3561')
 ;
-INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES
+INSERT INTO hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES 
 ('Опыт работы 3 года','Мужчина','Санкт-Петербург','Системный администратор',NULL,'https://hh.ru/resume/da6c228d00054260570039ed1f77556d4f764f')
 ,('Опыт работы 2 года 10 месяцев','Мужчина','Пушкино (Московская область)','Разработчик Siebel','250 000 руб.','https://hh.ru/resume/da96827f0004028a540039ed1f6d3937477778')
 ,('Work experience 21 year 1 month','Male','Moscow','Software developer _',NULL,'https://hh.ru/resume/da9819fb0007b94b010039ed1f786347463043')
@@ -5050,7 +5050,7 @@ INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary
 ,('Опыт работы 1 год 8 месяцев','Мужчина','Брянск','Java-программист',NULL,'https://hh.ru/resume/dac916ec000447d63f0039ed1f4665386d7a78')
 ,('Опыт работы 9 лет 8 месяцев','Мужчина','Москва','SAP ABAP разработчик (Фриланс)','21 000 руб.','https://hh.ru/resume/daceb4aa000282a3240039ed1f496853796676')
 ;
-INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES
+INSERT INTO hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES 
 ('Опыт работы 9 лет 8 месяцев','Женщина','Москва','Менеджер','80 000 руб.','https://hh.ru/resume/dadbfdb500078746970039ed1f56364742714c')
 ,('Ключевые навыки','Мужчина','Москва','Программист-разработчик','50 000 руб.','https://hh.ru/resume/dadfb0d800061e3aa20039ed1f50624e59574f')
 ,('Опыт работы 9 лет 4 месяца','Мужчина','Москва','Директор проектов',NULL,'https://hh.ru/resume/daf7f56c0002959b730039ed1f593936414f39')
@@ -5062,7 +5062,7 @@ INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary
 ,('Опыт работы 4 года 7 месяцев','Мужчина','Москва','Junior python developer',NULL,'https://hh.ru/resume/db7a9f43000253843c0039ed1f646178423976')
 ,('Ключевые навыки','Мужчина','Москва','Тестировщик ПО',NULL,'https://hh.ru/resume/db7c3acc0007d421dc0039ed1f743576717233')
 ;
-INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES
+INSERT INTO hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES 
 ('Опыт работы 3 года 7 месяцев','Мужчина','Москва','Разработчик C/C++, руководитель группы hardware-разработки',NULL,'https://hh.ru/resume/db7f4b120003858e310039ed1f7373556a6c76')
 ,('Опыт работы 4 года 1 месяц','Мужчина','Санкт-Петербург','Java Developer',NULL,'https://hh.ru/resume/dbc64f4000084fd5340039ed1f5230786b714e')
 ,('Опыт работы 13 лет 5 месяцев','Мужчина','Иннополис','Frontend-разработчик',NULL,'https://hh.ru/resume/dbca7b0800035ecb580039ed1f4e76614d7272')
@@ -5074,7 +5074,7 @@ INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary
 ,('Опыт работы 4 года 8 месяцев','Мужчина','Москва','Android разработчик',NULL,'https://hh.ru/resume/dc5757e30005c9f2520039ed1f42756e436873')
 ,('Опыт работы 12 лет 6 месяцев','Мужчина','Санкт-Петербург','Web-разработчик (Java Script)','40 000 руб.','https://hh.ru/resume/dc5c3874000709921f0039ed1f5262447a7733')
 ;
-INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES
+INSERT INTO hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES 
 ('Work experience 17 years 10 months','Male','Moscow','Руководитель проекта / продукта',NULL,'https://hh.ru/resume/dc5cfbbc00001f76ab0039ed1f736563726574')
 ,('Опыт работы 39 лет 1 месяц','Мужчина','Москва','Программист / Разработчик / Scrum master / Agile coach','1 100 руб.','https://hh.ru/resume/dc5e0ad4000024fa5f0039ed1f736563726574')
 ,('Опыт работы 1 год 1 месяц','Мужчина','Москва','Unity-программист (junior)',NULL,'https://hh.ru/resume/dc8d6421000081c7730039ed1f736563726574')
@@ -5086,7 +5086,7 @@ INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary
 ,('Опыт работы 6 лет 6 месяцев','Мужчина','Москва','Team Leader',NULL,'https://hh.ru/resume/dcc1a67b00057447500039ed1f4d5a6a6c3550')
 ,('Опыт работы 9 лет 2 месяца','Женщина','Москва','Product manager',NULL,'https://hh.ru/resume/dcc6e52300076bd52a0039ed1f337647754f71')
 ;
-INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES
+INSERT INTO hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES 
 ('Опыт работы 3 года 9 месяцев','Женщина','Москва','Программист',NULL,'https://hh.ru/resume/dcd3fcde00071426520039ed1f7031636e596e')
 ,('Опыт работы 13 лет 6 месяцев','Мужчина','Ростов-на-Дону','Программист','300 000 руб.','https://hh.ru/resume/dcd4d7d1000092a8a10039ed1f736563726574')
 ,('Work experience 7 years 4 months','Male','Moscow','Software Developer',NULL,'https://hh.ru/resume/dceae0560002a780fc0039ed1f377256376831')
@@ -5098,7 +5098,7 @@ INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary
 ,('Work experience 5 years 8 months','Male','Ташкент','Java Developer','1 800 USD','https://hh.ru/resume/dd222d770002ec965b0039ed1f555338777642')
 ,('Work experience 5 years','Male','Moscow','Analyst',NULL,'https://hh.ru/resume/dd26b13900042f3a190039ed1f4f4c4553307a')
 ;
-INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES
+INSERT INTO hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES 
 ('Опыт работы 12 лет 3 месяца','Мужчина','Москва','Project Manager / Business Analyst',NULL,'https://hh.ru/resume/dd2a3e1500045e00810039ed1f62736e305755')
 ,('Опыт работы 5 месяцев','Мужчина','Пенза','Инженер-программист',NULL,'https://hh.ru/resume/dd4804cc000353e7dc0039ed1f424c68587030')
 ,('Опыт работы 6 лет 3 месяца','Мужчина','Москва','Аналитик',NULL,'https://hh.ru/resume/dd5211ca00022e539b0039ed1f694756535775')
@@ -5110,7 +5110,7 @@ INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary
 ,('Опыт работы 5 лет 1 месяц','Мужчина','Москва','java junior developer','70 000 руб.','https://hh.ru/resume/dd8e395200080873e00039ed1f695253316673')
 ,('Опыт работы 5 лет 11 месяцев','Мужчина','Москва','Java Senior Developer/Architect',NULL,'https://hh.ru/resume/dd958f7a00041c05060039ed1f64554e41516a')
 ;
-INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES
+INSERT INTO hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES 
 ('Опыт работы 1 год 5 месяцев','Мужчина','Москва','System administrator',NULL,'https://hh.ru/resume/dd9629590003e5176c0039ed1f6f4c66383978')
 ,('Опыт работы 1 год 8 месяцев','Мужчина','Смоленск','Инженер-программист (разработчик) Java (Junior/Middle)',NULL,'https://hh.ru/resume/dd98a159000545d0660039ed1f7a7866546c37')
 ,('Опыт работы 1 год 5 месяцев','Мужчина','Москва','Стажер-разработчик VR/AR (Unity/Blender, C#/Python)',NULL,'https://hh.ru/resume/dda401ea0008470dfe0039ed1f66484e395735')
@@ -5122,7 +5122,7 @@ INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary
 ,('Опыт работы 5 месяцев','Мужчина','Москва','Разработчик ПО','30 000 руб.','https://hh.ru/resume/dde8737c0008309bab0039ed1f6a734d456646')
 ,('Опыт работы 7 месяцев','Мужчина','Москва','Младший программист-разработчик',NULL,'https://hh.ru/resume/dde8ec900005f31dc30039ed1f56734d626b75')
 ;
-INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES
+INSERT INTO hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES 
 ('Опыт работы 5 месяцев','Мужчина','Москва','Java Developer',NULL,'https://hh.ru/resume/ddfc139f00085b0bd50039ed1f4a6d3039777a')
 ,('Опыт работы 20 лет 3 месяца','Мужчина','Санкт-Петербург','Руководитель/зам.руководителя IT-подразделения','250 000 руб.','https://hh.ru/resume/ddff4cfb0000e7ec020039ed1f6f6d58656631')
 ,('Work experience 7 years 9 months','Male','Minsk','Head of e-commerce',NULL,'https://hh.ru/resume/de0d20210007e35c270039ed1f345372307256')
@@ -5134,7 +5134,7 @@ INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary
 ,('Опыт работы 1 год 7 месяцев','Мужчина','Москва','Младший консультант / консультант SAP',NULL,'https://hh.ru/resume/de6efb6c0006dd24c60039ed1f4a6f71694b44')
 ,('Опыт работы 10 лет 7 месяцев','Мужчина','Москва','Программист PHP (Middel)/веб программист/YII программист/PHP программист/Web progremmer',NULL,'https://hh.ru/resume/de7c43af000460be290039ed1f396259553458')
 ;
-INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES
+INSERT INTO hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES 
 ('Опыт работы 5 лет 5 месяцев','Мужчина','Нур-Султан','Full stack Develover/Team lead','3 000 USD','https://hh.ru/resume/de7daa8a00028dc5b40039ed1f38796e6f5135')
 ,('Обо мне','Мужчина','Москва','Младший программист','25 000 руб.','https://hh.ru/resume/de83265d0001fc62c70039ed1f70684b325733')
 ,('Ключевые навыки','Мужчина','Москва','Разработчик Python',NULL,'https://hh.ru/resume/de8336650008489a2c0039ed1f494f6e535876')
@@ -5146,7 +5146,7 @@ INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary
 ,('Опыт работы 12 лет 2 месяца','Женщина','Москва','Тестировщик / Junior QA specialist',NULL,'https://hh.ru/resume/df037b06000801e0220039ed1f326d4d6c4868')
 ,('Опыт работы 8 лет 9 месяцев','Мужчина','Москва','Проектный менеджер (веб-разработка)','100 000 руб.','https://hh.ru/resume/df0d14520007a517240039ed1f657146715942')
 ;
-INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES
+INSERT INTO hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES 
 ('Опыт работы 28 лет 1 месяц','Мужчина','Москва','системный администратор, DevOps, CI/CD','250 000 руб.','https://hh.ru/resume/df13a8a9000009c4990039ed1f736563726574')
 ,('Опыт работы 17 лет','Женщина','Санкт-Петербург','Senior IT Recruiter','640 000 руб.','https://hh.ru/resume/df20517c00052871fe0039ed1f5156797a384f')
 ,('Опыт работы 4 года 2 месяца','Женщина','Иваново (Ивановская область)','Software Developer',NULL,'https://hh.ru/resume/df22d5470003c547440039ed1f663944436842')
@@ -5158,7 +5158,7 @@ INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary
 ,('Опыт работы 14 лет 10 месяцев','Мужчина','Брянск','Системный администратор','45 000 руб.','https://hh.ru/resume/df8a68910002a48a130039ed1f47394d725362')
 ,('Опыт работы 12 лет 2 месяца','Мужчина','Москва','Специалист по IT',NULL,'https://hh.ru/resume/df910279000680978a0039ed1f68565749724c')
 ;
-INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES
+INSERT INTO hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES 
 ('Опыт работы 11 лет 3 месяца','Мужчина','Москва','инженер-электронщик','70 000 руб.','https://hh.ru/resume/dfa9c6e50000caf3d80039ed1f7661336d6e51')
 ,('Опыт работы 15 лет 5 месяцев','Мужчина','Москва','Руководитель ИТ-подразделения/Руководитель направления',NULL,'https://hh.ru/resume/dfac457900028335ef0039ed1f677375436a6a')
 ,('Опыт работы 5 лет 2 месяца','Мужчина','Москва','Java Intern',NULL,'https://hh.ru/resume/dfb40c3e0007f82db50039ed1f7a6b68674643')
@@ -5170,7 +5170,7 @@ INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary
 ,('Опыт работы 18 лет 2 месяца','Мужчина','Ташкент','Ведущий программист','3 000 USD','https://hh.ru/resume/e000789e00003d004a0039ed1f736563726574')
 ,('Опыт работы 1 год 5 месяцев','Мужчина','Москва','Java - Junior, инженер - программист микроконтроллеров','60 000 руб.','https://hh.ru/resume/e0059f3b000738ae4e0039ed1f484651387a51')
 ;
-INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES
+INSERT INTO hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES 
 ('Опыт работы 12 лет 3 месяца','Мужчина','Москва','Графический дизайнер','120 000 руб.','https://hh.ru/resume/e00c151900011670e60039ed1f746750623930')
 ,('Опыт работы 1 год','Мужчина','Москва','Программист',NULL,'https://hh.ru/resume/e0100926000646b0df0039ed1f395455673358')
 ,('Опыт работы 9 лет 1 месяц','Мужчина','Москва','Программист Python','80 000 руб.','https://hh.ru/resume/e01c6ee40007eaa9e00039ed1f78654477456a')
@@ -5182,7 +5182,7 @@ INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary
 ,('Work experience 2 years 3 months','Male','Odessa','Salesforce Developer',NULL,'https://hh.ru/resume/e0738dda00057e76c80039ed1f517754347774')
 ,('Опыт работы 14 лет','Мужчина','Москва','Team Lead Android',NULL,'https://hh.ru/resume/e0767c3100001c8f140039ed1f736563726574')
 ;
-INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES
+INSERT INTO hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES 
 ('Опыт работы 3 года 7 месяцев','Мужчина','Москва','Инженер','30 000 руб.','https://hh.ru/resume/e085617500047a09380039ed1f575034777036')
 ,('Опыт работы 4 года 6 месяцев','Мужчина','Москва','Начинающий специалист/программист','30 000 руб.','https://hh.ru/resume/e08655b700024dfb810039ed1f445874474e65')
 ,('Ключевые навыки','Мужчина','Москва','Тестировщик','40 000 руб.','https://hh.ru/resume/e087968800084569fe0039ed1f324d55346b63')
@@ -5194,7 +5194,7 @@ INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary
 ,('Опыт работы 3 года 7 месяцев','Мужчина','Москва','Android developer',NULL,'https://hh.ru/resume/e0e5b3130003d90daf0039ed1f576134645750')
 ,('Опыт работы 21 год 2 месяца','Мужчина','Казань','Программист Php&Html&Javascript&Delphi&C#&Java&Python&Mql&Assembler&Pascal&Basic&Any_Language','100 000 руб.','https://hh.ru/resume/e0edc0750003c5225d0039ed1f5055655a7a79')
 ;
-INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES
+INSERT INTO hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES 
 ('Опыт работы 14 лет 10 месяцев','Мужчина','Москва','Программист SQL Analysis Services + SQL Server+Integration Services, ASP.NET(C#) Core 2 MVC, WPF','150 000 руб.','https://hh.ru/resume/e103192f0004ee2f880039ed1f354c4f6e7971')
 ,('Опыт работы 9 лет 9 месяцев','Мужчина','Москва','Product manager','290 000 руб.','https://hh.ru/resume/e1032c4e000247a57c0039ed1f536d6b435961')
 ,('Work experience 10 years 2 months','Female','Krasnodar','Дизайнер','100 000 RUB','https://hh.ru/resume/e10371010000c70eea0039ed1f566150526d69')
@@ -5206,7 +5206,7 @@ INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary
 ,('Опыт работы 6 лет 1 месяц','Мужчина','Екатеринбург','Java junior',NULL,'https://hh.ru/resume/e13de4ca000325c2820039ed1f626770517633')
 ,('Опыт работы 2 года 4 месяца','Женщина','Москва','Тестировщик','40 000 руб.','https://hh.ru/resume/e14cafde00081c47c20039ed1f74306275596d')
 ;
-INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES
+INSERT INTO hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES 
 ('Опыт работы 2 года 6 месяцев','Мужчина','Сунжа (Ингушетия)','Начинающий специалист','20 000 руб.','https://hh.ru/resume/e158215f0004f378a90039ed1f544b77595033')
 ,('Опыт работы 11 лет 4 месяца','Мужчина','Москва','Программист',NULL,'https://hh.ru/resume/e15e2c210000ca200f0039ed1f67666576324f')
 ,('Опыт работы 13 лет 7 месяцев','Мужчина','Москва','Ведущий художник, 2D художник, Концепт художник, Художник-иллюстратор.',NULL,'https://hh.ru/resume/e161344800008646910039ed1f736563726574')
@@ -5218,7 +5218,7 @@ INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary
 ,('Опыт работы 6 лет 4 месяца','Мужчина','Волгоград','SEO-специалист + Яндекс Директ','30 000 руб.','https://hh.ru/resume/e18771a90002281a320039ed1f785062376567')
 ,('Work experience 5 years 6 months','Male','Turkey','Project Manager',NULL,'https://hh.ru/resume/e18aca6800083a8e7a0039ed1f746258513338')
 ;
-INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES
+INSERT INTO hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES 
 ('Опыт работы 4 года 9 месяцев','Мужчина','Москва','Программист-разработчик',NULL,'https://hh.ru/resume/e1a2707300045dde3a0039ed1f697153794d45')
 ,('Опыт работы 12 лет','Мужчина','Москва','Программист','130 000 руб.','https://hh.ru/resume/e1ae71ef0004d9ebad0039ed1f464765785545')
 ,('Опыт работы 2 месяца','Мужчина','Москва','Программист-стажер','40 000 руб.','https://hh.ru/resume/e1b675f300061e32740039ed1f546f72364474')
@@ -5230,7 +5230,7 @@ INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary
 ,('Ключевые навыки','Мужчина','Москва','HTML-верстальщик',NULL,'https://hh.ru/resume/e1ee41880005b969cd0039ed1f4e5354757042')
 ,('Опыт работы 3 года 6 месяцев','Мужчина','Москва','Стажёр в IT-компанию','20 000 руб.','https://hh.ru/resume/e1f2537d000818f9860039ed1f4a5659453070')
 ;
-INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES
+INSERT INTO hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES 
 ('Опыт работы 3 года 8 месяцев','Мужчина','Москва','Программист-разработчик','50 000 руб.','https://hh.ru/resume/e1f64db700063742af0039ed1f5a7a77376863')
 ,('Опыт работы 4 года 9 месяцев','Мужчина','Москва','Junior разработчик','50 000 руб.','https://hh.ru/resume/e1fbe71700022e7cb10039ed1f474d75447767')
 ,('Опыт работы 13 лет 3 месяца','Мужчина','Москва','Руководитель разработки','330 000 руб.','https://hh.ru/resume/e1ffa89b0007f3d6f10039ed1f4852764d5a47')
@@ -5242,7 +5242,7 @@ INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary
 ,('Опыт работы 10 лет 6 месяцев','Мужчина','Москва','Инженер','90 000 руб.','https://hh.ru/resume/e27fc7ad00073892cb0039ed1f3935524b6a4f')
 ,('Опыт работы 7 лет 11 месяцев','Мужчина','Москва','Веб-разработчик','3 007 USD','https://hh.ru/resume/e2878e640007c49bf90039ed1f446433654741')
 ;
-INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES
+INSERT INTO hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES 
 ('Опыт работы 4 месяца','Женщина','Москва','Стажер в сфере IT',NULL,'https://hh.ru/resume/e2889948000756b2b40039ed1f476254457a6f')
 ,('Ключевые навыки','Мужчина','Москва','Тестировщик ПО','35 000 руб.','https://hh.ru/resume/e29febf90007eb288f0039ed1f59754d6e4a4f')
 ,('Опыт работы 1 год 7 месяцев','Мужчина','Москва','.NET developer',NULL,'https://hh.ru/resume/ec366ea400076bf8c80039ed1f44424c615a77')
@@ -5254,7 +5254,7 @@ INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary
 ,('Опыт работы 12 лет 6 месяцев','Мужчина','Санкт-Петербург','Web-разработчик','50 000 руб.','https://hh.ru/resume/e2e81d2200073ff3770039ed1f6234436c4139')
 ,('Опыт работы 2 года 1 месяц','Мужчина','Москва','Программист С++ (Стажер)','25 000 руб.','https://hh.ru/resume/e32818f2000710ddb40039ed1f496f6e736a69')
 ;
-INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES
+INSERT INTO hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES 
 ('Опыт работы 19 лет 6 месяцев','Мужчина','Москва','Инженер технической поддержки','130 000 руб.','https://hh.ru/resume/e32a88a10002201a040039ed1f737632335a4a')
 ,('Опыт работы 10 лет 1 месяц','Женщина','Москва','IT recruiter',NULL,'https://hh.ru/resume/e345328a0006ba2e230039ed1f634270487246')
 ,('Опыт работы 5 лет 9 месяцев','Мужчина','Москва','Golang Developer / Go разарботчик',NULL,'https://hh.ru/resume/e3475e0b0002ea1bc50039ed1f6e694c465276')
@@ -5266,7 +5266,7 @@ INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary
 ,('Опыт работы 1 год 1 месяц','Мужчина','Балашиха','Android developer (junior)','45 000 руб.','https://hh.ru/resume/e3749eb300041f87830039ed1f75326d563144')
 ,('Опыт работы 12 лет 11 месяцев','Мужчина','Алматы','Программист','300 000 KZT','https://hh.ru/resume/e37e2c640000b0489d0039ed1f736563726574')
 ;
-INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES
+INSERT INTO hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES 
 ('Опыт работы 11 лет 3 месяца','Мужчина','Москва','c++/php-Yii2 Team Lead or Project Manager','250 000 руб.','https://hh.ru/resume/e393e781000210d3bf0039ed1f525139447567')
 ,('Опыт работы 2 года','Мужчина','Москва','Инженер по информационной безопасности',NULL,'https://hh.ru/resume/e39e979800076352ce0039ed1f445664484c4e')
 ,('Work experience 5 years 1 month','Male','Moscow','IT Business Analyst / BI Analyst',NULL,'https://hh.ru/resume/e3a90c36000595495f0039ed1f74584350534e')
@@ -5278,7 +5278,7 @@ INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary
 ,('Опыт работы 16 лет 11 месяцев','Мужчина','Москва','Junior Java Developer',NULL,'https://hh.ru/resume/e3dd484a000001a80b0039ed1f736563726574')
 ,('Опыт работы 7 лет 9 месяцев','Мужчина','Москва','Руководитель проекта / телемаркетинг / media buyer',NULL,'https://hh.ru/resume/e3e9bc6400019320b00039ed1f4668616f356d')
 ;
-INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES
+INSERT INTO hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES 
 ('Опыт работы 7 лет 11 месяцев','Мужчина','Москва','Frontend-разработчик',NULL,'https://hh.ru/resume/e3f6fc1300076087460039ed1f6f6536374866')
 ,('Опыт работы 18 лет 11 месяцев','Мужчина','Москва','Эксперт',NULL,'https://hh.ru/resume/e403a752000570c7950039ed1f304331755646')
 ,('Опыт работы 4 года 5 месяцев','Мужчина','Москва','Python Developer',NULL,'https://hh.ru/resume/e4226f7b00030132fb0039ed1f484430315841')
@@ -5290,7 +5290,7 @@ INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary
 ,('Опыт работы 14 лет 7 месяцев','Женщина','Фрязино','Аналитик',NULL,'https://hh.ru/resume/e45ef2db000798a1a20039ed1f6f6777397376')
 ,('Опыт работы 8 лет 2 месяца','Мужчина','Москва','Программист-разработчик','40 000 руб.','https://hh.ru/resume/e46469be00017653ea0039ed1f74326b485741')
 ;
-INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES
+INSERT INTO hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES 
 ('Опыт работы 6 лет 4 месяца','Мужчина','Москва','Интернет-маркетолог',NULL,'https://hh.ru/resume/e46609b200061c938a0039ed1f6a363276346b')
 ,('Опыт работы 2 года 6 месяцев','Мужчина','Москва','Java trainee',NULL,'https://hh.ru/resume/e467fcaf0007f81b730039ed1f4b7a53687552')
 ,('Опыт работы 1 год 8 месяцев','Женщина','Москва','Android Developer','50 000 руб.','https://hh.ru/resume/e46b73cf000624d7020039ed1f47584441586d')
@@ -5302,7 +5302,7 @@ INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary
 ,('Опыт работы 3 года 6 месяцев','Мужчина','Москва','Специалист по IT','50 000 руб.','https://hh.ru/resume/e4a798db000581074c0039ed1f665632736f6e')
 ,('Обо мне','Мужчина','Москва','программист C#, Java',NULL,'https://hh.ru/resume/e4a8c1aa00081d3d3c0039ed1f3033504d6668')
 ;
-INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES
+INSERT INTO hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES 
 ('Опыт работы 13 лет 6 месяцев','Мужчина','Москва','программист C++','200 000 руб.','https://hh.ru/resume/e4e640c40000bb1f640039ed1f736563726574')
 ,('Опыт работы 8 лет 4 месяца','Мужчина','Москва','Программист Java',NULL,'https://hh.ru/resume/e4ed641500082e68fd0039ed1f545031396366')
 ,('Опыт работы 5 лет 1 месяц','Мужчина','Москва','Java/Android developer.',NULL,'https://hh.ru/resume/e4f4eebc000358ceb20039ed1f49646456574d')
@@ -5314,7 +5314,7 @@ INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary
 ,('Опыт работы 1 год 8 месяцев','Женщина','Москва','Стражер C++/C#/Python/','20 000 руб.','https://hh.ru/resume/e537ab7b00064712fe0039ed1f6f4f54743862')
 ,('Ключевые навыки','Мужчина','Москва','Developer C++(Qt)','50 000 руб.','https://hh.ru/resume/e5585a6e00071193f00039ed1f67586b41374b')
 ;
-INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES
+INSERT INTO hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES 
 ('Опыт работы 6 лет 1 месяц','Мужчина','Москва','Мастер по ремонту компьютеров и техники apple','120 000 руб.','https://hh.ru/resume/e59243e500036d42070039ed1f4a7355793650')
 ,('Опыт работы 3 года 6 месяцев','Мужчина','Санкт-Петербург','Junior Java Developer',NULL,'https://hh.ru/resume/e59481330007df2eeb0039ed1f4e76435a6e6c')
 ,('Опыт работы 8 лет','Мужчина','Москва','Старший разработчик .NET',NULL,'https://hh.ru/resume/e59de56100020c327d0039ed1f6d3668376552')
@@ -5326,7 +5326,7 @@ INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary
 ,('Опыт работы 17 лет 10 месяцев','Мужчина','Москва','Коммерческий директор, ИТ-директор, руководитель тестирования, начальник отдела госзакупок','250 000 руб.','https://hh.ru/resume/e5e5c6c8000823246f0039ed1f705a576a397a')
 ,('Work experience 1 year 1 month','Female','Moscow','UI/UX designer',NULL,'https://hh.ru/resume/e5ea094f00083d02050039ed1f5242397a3971')
 ;
-INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES
+INSERT INTO hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES 
 ('Опыт работы 9 лет 8 месяцев','Мужчина','Москва','Программист 1С','150 000 руб.','https://hh.ru/resume/e5fbbd160007802adb0039ed1f6a766a6e4e7a')
 ,('Опыт работы 26 лет','Мужчина','Москва','Старший системный администратор','90 000 руб.','https://hh.ru/resume/e5fc5727000007d6570039ed1f736563726574')
 ,('Опыт работы 9 месяцев','Мужчина','Москва','JUNIOR Full Stack разработчик / Graduate Software Developer / Trainee IT Specialist','1 999 USD','https://hh.ru/resume/e600dfe400001883310039ed1f736563726574')
@@ -5338,7 +5338,7 @@ INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary
 ,('Опыт работы 2 года','Женщина','Долгопрудный','Junior iOS-developer','70 000 руб.','https://hh.ru/resume/e651d6ca0004246da50039ed1f4552716a6230')
 ,('Work experience 2 years 9 months','Male','Moscow','Web developer',NULL,'https://hh.ru/resume/e6550afb0005c9d48a0039ed1f53307956526e')
 ;
-INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES
+INSERT INTO hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES 
 ('Опыт работы 9 лет 2 месяца','Мужчина','Москва','Программист','120 000 руб.','https://hh.ru/resume/e662f22200024fa3680039ed1f44444c683555')
 ,('Опыт работы 1 год 1 месяц','Мужчина','Москва','Младший специалист по разработке ПО',NULL,'https://hh.ru/resume/e666dfc00005ec51340039ed1f324f767a6676')
 ,('Обо мне','Мужчина','Москва','Стажер-разработчик С#, Java',NULL,'https://hh.ru/resume/e66d1eef00042c40b40039ed1f527643557567')
@@ -5350,7 +5350,7 @@ INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary
 ,('Опыт работы 18 лет 5 месяцев','Мужчина','Москва','Ведущий инженер/Специалист по телекоммуникациям','160 000 руб.','https://hh.ru/resume/e699d4bb00003bfb8e0039ed1f736563726574')
 ,('Ключевые навыки','Мужчина','Москва','Стажер-программист','30 000 руб.','https://hh.ru/resume/e69f69c600080c5e170039ed1f467a4f546e42')
 ;
-INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES
+INSERT INTO hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES 
 ('Опыт работы 3 года 2 месяца','Мужчина','Москва','Web developer',NULL,'https://hh.ru/resume/e6b587d40000f1097f0039ed1f493849617a70')
 ,('Опыт работы 3 года 2 месяца','Мужчина','Москва','Программист Python / SQL','107 000 руб.','https://hh.ru/resume/e6b717df0007b5f7fa0039ed1f397452594977')
 ,('Опыт работы 8 лет 5 месяцев','Женщина','Москва','Junior Frontend-разработчик','40 000 руб.','https://hh.ru/resume/e6b7dc7e00083bf84c0039ed1f38674b447870')
@@ -5362,7 +5362,7 @@ INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary
 ,('Опыт работы 13 лет 2 месяца','Женщина','Москва','Android developer',NULL,'https://hh.ru/resume/e6efbd5400003415390039ed1f736563726574')
 ,('Опыт работы 2 года 8 месяцев','Мужчина','Москва','Java-разработчик',NULL,'https://hh.ru/resume/e6f2985600052b46730039ed1f6a684d595367')
 ;
-INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES
+INSERT INTO hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES 
 ('Work experience 14 years','Male','Moscow','Software Java developer Engineer (Junior)','80 000 RUB','https://hh.ru/resume/e6fdb299000559e6d60039ed1f673656614d64')
 ,('Опыт работы 1 год 6 месяцев','Мужчина','Москва','Junior Fullstack developer',NULL,'https://hh.ru/resume/e70281150007796aac0039ed1f4a7270725374')
 ,('Опыт работы 4 года 8 месяцев','Мужчина','Москва','Product Owner',NULL,'https://hh.ru/resume/e708b2c50007f4c3e70039ed1f743141484969')
@@ -5374,7 +5374,7 @@ INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary
 ,('Опыт работы 13 лет 4 месяца','Мужчина','Москва','Руководитель отдела IT',NULL,'https://hh.ru/resume/e74f096c00072bf45c0039ed1f49716446706b')
 ,('Опыт работы 6 лет 1 месяц','Женщина','Вуктыл','Системный администратор','55 000 руб.','https://hh.ru/resume/e7529fe600058e25060039ed1f643966664272')
 ;
-INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES
+INSERT INTO hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES 
 ('Work experience 6 years','Male','Moscow','Senior Ruby developer','250 000 RUB','https://hh.ru/resume/e75fe6430003091daf0039ed1f304c6a77426a')
 ,('Опыт работы 12 лет 2 месяца','Мужчина','Москва','Руководитель управления Web разработки','360 000 руб.','https://hh.ru/resume/e761968e00072583a10039ed1f41357a4a674a')
 ,('Опыт работы 3 месяца','Мужчина','Москва','Системный администратор','50 000 руб.','https://hh.ru/resume/e77443ca0002884f5a0039ed1f42456f5a3671')
@@ -5386,7 +5386,7 @@ INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary
 ,('Work experience 16 years 4 months','Female','Moscow','программист','800 EUR','https://hh.ru/resume/e7b34e1500007149b30039ed1f736563726574')
 ,('Опыт работы 7 лет 5 месяцев','Мужчина','Самара','Инженер АСУТП/ГРП','40 000 руб.','https://hh.ru/resume/e7c5ffde0003134dee0039ed1f4d6e31386f57')
 ;
-INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES
+INSERT INTO hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES 
 ('Опыт работы 4 года','Мужчина','Москва','Java Developer',NULL,'https://hh.ru/resume/e7d1f960000316edf00039ed1f4f5732455630')
 ,('Опыт работы 8 лет 1 месяц','Мужчина','Москва','SAP GRC Consultant',NULL,'https://hh.ru/resume/e7d3ecd40001448ce10039ed1f4847494e3472')
 ,('Обо мне','Женщина','Москва','Начинающий специалист',NULL,'https://hh.ru/resume/e7d98078000726a01b0039ed1f4c546b6b6161')
@@ -5398,7 +5398,7 @@ INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary
 ,('Опыт работы 22 года 9 месяцев','Мужчина','Москва','Ведущий специалист по нагрузочному и автоматизированному тестированию','240 000 руб.','https://hh.ru/resume/e8397de60003da6c9b0039ed1f305475704b48')
 ,('Опыт работы 10 лет 2 месяца','Мужчина','Москва','UX/UI Designer','150 000 руб.','https://hh.ru/resume/e8499c3d0007a1b04c0039ed1f575a7673496d')
 ;
-INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES
+INSERT INTO hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES 
 ('Опыт работы 26 лет 4 месяца','Мужчина','Москва','Системный администратор Linux.','280 000 руб.','https://hh.ru/resume/e85059b300006d08bb0039ed1f736563726574')
 ,('Опыт работы 6 лет 9 месяцев','Мужчина','Москва','Java Developer',NULL,'https://hh.ru/resume/e852910d00043802990039ed1f307875647555')
 ,('Опыт работы 2 года','Мужчина','Армения','Front-End or Full-Stack developer (JavaScript, Middle)','150 000 руб.','https://hh.ru/resume/e85a7448000748f9020039ed1f52644f485478')
@@ -5410,7 +5410,7 @@ INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary
 ,('Опыт работы 25 лет 10 месяцев','Мужчина','Москва','программист С++','200 000 руб.','https://hh.ru/resume/e8953132000090a0510039ed1f736563726574')
 ,('Work experience 3 years 5 months','Male','Cyprus','software developer','2 500 EUR','https://hh.ru/resume/e8beb6ee0005756f220039ed1f78556375586e')
 ;
-INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES
+INSERT INTO hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES 
 ('Опыт работы 3 года 2 месяца','Мужчина','Москва','Аналитик',NULL,'https://hh.ru/resume/e8e57a7f0002cb40260039ed1f49366b677936')
 ,('Опыт работы 6 лет 3 месяца','Мужчина','Москва','Инженер-конструктор','90 000 руб.','https://hh.ru/resume/e905098400036022e20039ed1f453664396d48')
 ,('Опыт работы 8 лет 10 месяцев','Мужчина','Самара','Machine Learning Developer, Deep Learning Engineer, Data Scientist','2 500 USD','https://hh.ru/resume/e92996c10007a5d0450039ed1f366972547353')
@@ -5422,7 +5422,7 @@ INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary
 ,('Опыт работы 21 год','Мужчина','Москва','IT Delivery Manager (Software Development & Maintenance)',NULL,'https://hh.ru/resume/e9c30ae00000079c3e0039ed1f736563726574')
 ,('Опыт работы 1 год 5 месяцев','Мужчина','Москва','Программист','80 000 руб.','https://hh.ru/resume/e9cf733a0003e29ced0039ed1f4a764e356b52')
 ;
-INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES
+INSERT INTO hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES 
 ('Опыт работы 18 лет 9 месяцев','Мужчина','Москва','Системный администратор',NULL,'https://hh.ru/resume/e9e925bf00037a1a200039ed1f757278445a30')
 ,('Опыт работы 10 лет 3 месяца','Мужчина','Москва','Трафик менеджер, aso менеджер - мобильные приложения','100 000 руб.','https://hh.ru/resume/e9f01673000094e7480039ed1f736563726574')
 ,('Опыт работы 2 года 1 месяц','Мужчина','Москва','Devops-инженер','80 000 руб.','https://hh.ru/resume/e9f8ec39000782737b0039ed1f543173666f59')
@@ -5434,7 +5434,7 @@ INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary
 ,('Work experience 9 years 9 months','Male','Yekaterinburg','Executive, Representative, Key Account Manager',NULL,'https://hh.ru/resume/ea49a2c900057242d20039ed1f725669306d76')
 ,('Опыт работы 4 года 2 месяца','Мужчина','Москва','programmer',NULL,'https://hh.ru/resume/ea6528a40007668f400039ed1f555841666b4a')
 ;
-INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES
+INSERT INTO hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES 
 ('Опыт работы 11 месяцев','Мужчина','Москва','Software Engineer',NULL,'https://hh.ru/resume/ea6833790007f6fe8a0039ed1f54424a6a4f47')
 ,('Опыт работы 4 года 11 месяцев','Мужчина','Москва','Менеджер проектов','170 000 руб.','https://hh.ru/resume/ea6ab0ae00044f34ca0039ed1f375a6f76464b')
 ,('Опыт работы 13 лет 5 месяцев','Мужчина','Москва','IT Директор / Начальник управления нагрузочного тестирования',NULL,'https://hh.ru/resume/ea7f1f1700036a847b0039ed1f4f5976667963')
@@ -5446,7 +5446,7 @@ INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary
 ,('Опыт работы 7 лет 9 месяцев','Мужчина','Москва','Владелец продукта / Руководитель проектов',NULL,'https://hh.ru/resume/eb09678a0005ec392f0039ed1f764534367256')
 ,('Опыт работы 2 года 3 месяца','Мужчина','Москва','Java-программист',NULL,'https://hh.ru/resume/eb13501c0006ca91210039ed1f624266534f78')
 ;
-INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES
+INSERT INTO hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES 
 ('Опыт работы 15 лет 5 месяцев','Мужчина','Екатеринбург','Руководитель, Инженер, КИПиА, АСУТП, Программист','100 000 руб.','https://hh.ru/resume/eb4e982100032262ed0039ed1f4e4b33344954')
 ,('Опыт работы 28 лет 1 месяц','Мужчина','Москва','Программист',NULL,'https://hh.ru/resume/eb5f2cb40000d60dd10039ed1f3451466d4569')
 ,('Опыт работы 10 лет 8 месяцев','Мужчина','Чебоксары','Специалист по IT','90 000 руб.','https://hh.ru/resume/eb6129bc00009436680039ed1f736563726574')
@@ -5458,7 +5458,7 @@ INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary
 ,('Work experience 3 years 5 months','Male','Moscow','Стажер-программист java',NULL,'https://hh.ru/resume/ebc4b81700077b6ac30039ed1f354e67716554')
 ,('Work experience 7 years 5 months','Male','Moscow','QA Engineer In Mobile Automation','250 RUB','https://hh.ru/resume/ebc9072300026f8a680039ed1f36534d4a456c')
 ;
-INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES
+INSERT INTO hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES 
 ('Опыт работы 8 лет 7 месяцев','Мужчина','Санкт-Петербург','Machine Learning Engineer','140 000 руб.','https://hh.ru/resume/ebd16105000806ea950039ed1f514959565659')
 ,('Опыт работы 6 месяцев','Мужчина','Москва','Junior Java Developer','45 000 руб.','https://hh.ru/resume/ebee74180005e591e50039ed1f763878365273')
 ,('Опыт работы 2 года 8 месяцев','Мужчина','Москва','Системный аналитик','90 000 руб.','https://hh.ru/resume/ec0b698800078c11420039ed1f713444423266')
@@ -5470,7 +5470,7 @@ INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary
 ,('Опыт работы 4 года 4 месяца','Мужчина','Москва','Automation QA','180 000 руб.','https://hh.ru/resume/ec798c2a0006c79edf0039ed1f634777334e6c')
 ,('Опыт работы 9 лет 2 месяца','Мужчина','Белгород','Инженер-программист','120 000 руб.','https://hh.ru/resume/ec7c37b50003dffed60039ed1f6d5969785041')
 ;
-INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES
+INSERT INTO hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES 
 ('Опыт работы 7 лет 5 месяцев','Мужчина','Москва','Руководитель направления тестирования','250 000 руб.','https://hh.ru/resume/ec8c74c90005196f580039ed1f4b6451516974')
 ,('Опыт работы 7 лет 9 месяцев','Мужчина','Москва','Web-разработчик (Full-Stack)','150 000 руб.','https://hh.ru/resume/eca2a3d40005d5299e0039ed1f42594a6e556d')
 ,('Опыт работы 15 лет 3 месяца','Мужчина','Москва','.NET Developer/Senior .NET Developer','190 000 руб.','https://hh.ru/resume/ecad8109000247a2f00039ed1f793146696e59')
@@ -5482,7 +5482,7 @@ INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary
 ,('Опыт работы 4 месяца','Мужчина','Москва','Scala / Java developer','90 000 руб.','https://hh.ru/resume/ece85bf900066f1e850039ed1f646d4638737a')
 ,('Опыт работы 1 год 1 месяц','Мужчина','Москва','Java developer',NULL,'https://hh.ru/resume/ecfec7b500014f826f0039ed1f6f3351533249')
 ;
-INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES
+INSERT INTO hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES 
 ('Опыт работы 15 лет 10 месяцев','Мужчина','Москва','Продакт менеджер (владелец продукта)',NULL,'https://hh.ru/resume/ecff1114000789c6ec0039ed1f6c736b437143')
 ,('Опыт работы 6 лет 8 месяцев','Мужчина','Москва','Научный сотрудник, инженер, преподаватель, исследователь, программист, рабочий',NULL,'https://hh.ru/resume/ed07d09500070f44200039ed1f657641545a42')
 ,('Опыт работы 7 месяцев','Мужчина','Рязань','Стажер-разработчик','30 000 руб.','https://hh.ru/resume/ed36384100083ccc8c0039ed1f4f7047456e53')
@@ -5494,7 +5494,7 @@ INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary
 ,('Опыт работы 1 год 2 месяца','Мужчина','Москва','Java Developer',NULL,'https://hh.ru/resume/ed5cf09d000798f48e0039ed1f346738743042')
 ,('Опыт работы 14 лет 11 месяцев','Мужчина','Москва','Технический директор/ DS директор',NULL,'https://hh.ru/resume/ed6892af000765dba60039ed1f57654e4c3038')
 ;
-INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES
+INSERT INTO hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES 
 ('Work experience 1 year','Male','Moscow','Computer vision engineer',NULL,'https://hh.ru/resume/ed6cef170005e942a70039ed1f51374e646875')
 ,('Опыт работы 5 лет 4 месяца','Мужчина','Москва','Web-программист','20 000 руб.','https://hh.ru/resume/ed776389000815cbd20039ed1f635663764f4a')
 ,('Work experience 5 years 4 months','Male','Tyumen','Programmer',NULL,'https://hh.ru/resume/ed86f1e500042711af0039ed1f4a457a4f474d')
@@ -5506,7 +5506,7 @@ INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary
 ,('Опыт работы 7 месяцев','Мужчина','Москва','Переводчик',NULL,'https://hh.ru/resume/edf3249100058ae7750039ed1f395a6e56485a')
 ,('Опыт работы 11 лет 7 месяцев','Мужчина','Москва','Тестировщик','40 000 руб.','https://hh.ru/resume/edfb0a42000645f1d50039ed1f5a5965757437')
 ;
-INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES
+INSERT INTO hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES 
 ('Опыт работы 1 год 3 месяца','Мужчина','Москва','Программист-разработчик',NULL,'https://hh.ru/resume/ee2d30a50007dc9ad80039ed1f454341383354')
 ,('Опыт работы 2 года 3 месяца','Женщина','Москва','Стажер-разработчик',NULL,'https://hh.ru/resume/ee361c5700039af4a00039ed1f67754c476939')
 ,('Опыт работы 2 года 6 месяцев','Женщина','Москва','Инженер',NULL,'https://hh.ru/resume/ee47469e000821241a0039ed1f54306c6f364a')
@@ -5518,7 +5518,7 @@ INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary
 ,('Опыт работы 6 лет 3 месяца','Женщина','Москва','Удаленный Тестировщик (QA), Lead QA','140 000 руб.','https://hh.ru/resume/eed4b7470007b472f60039ed1f4b6f57717131')
 ,('Опыт работы 3 года 11 месяцев','Мужчина','Казань','Java-разработчик',NULL,'https://hh.ru/resume/eee2b2990003328bac0039ed1f5a764c555948')
 ;
-INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES
+INSERT INTO hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES 
 ('Опыт работы 2 года','Мужчина','Москва','Тестировщик','50 000 руб.','https://hh.ru/resume/eee4f1b70007c3351f0039ed1f324c6d357650')
 ,('Опыт работы 10 лет 6 месяцев','Мужчина','Нижний Новгород','Руководитель службы ИТ',NULL,'https://hh.ru/resume/eee7cac200043564960039ed1f38365457437a')
 ,('Опыт работы 1 год 6 месяцев','Мужчина','Москва','Инженер АСУ ТП',NULL,'https://hh.ru/resume/eefce63600056423fa0039ed1f686f624f7852')
@@ -5530,7 +5530,7 @@ INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary
 ,('Опыт работы 28 лет 10 месяцев','Мужчина','Россия','Информационные технологии в области бухгалтерского и складского учета и логистики, разработки 1с',NULL,'https://hh.ru/resume/ef4ca34400002ead990039ed1f736563726574')
 ,('Опыт работы 3 года 3 месяца','Мужчина','Москва','Аналитик','150 000 руб.','https://hh.ru/resume/ef586f9e000327da8c0039ed1f776964575355')
 ;
-INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES
+INSERT INTO hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES 
 ('Опыт работы 19 лет 6 месяцев','Мужчина','Москва','Руководитель информационного отдела ( Руководитель Проектов )',NULL,'https://hh.ru/resume/ef6b6fa20004d8c0870039ed1f3133757a3268')
 ,('Опыт работы 2 года','Мужчина','Москва','Программист-разработчик, Web-программист','35 000 руб.','https://hh.ru/resume/ef6b8b9d00057f24130039ed1f4e4769677057')
 ,('Опыт работы 20 лет 9 месяцев','Мужчина','Москва','Программист-разработчик','200 000 руб.','https://hh.ru/resume/ef7360ca0001c27f4d0039ed1f796a4c553275')
@@ -5542,7 +5542,7 @@ INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary
 ,('Опыт работы 14 лет 2 месяца','Мужчина','Алматы','Руководитель по развитию систем',NULL,'https://hh.ru/resume/efafb13200071803010039ed1f565070416a42')
 ,('Опыт работы 1 год','Мужчина','Москва','Программист Java','60 000 руб.','https://hh.ru/resume/efbb9372000865fe900039ed1f64484c7a4e5a')
 ;
-INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES
+INSERT INTO hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES 
 ('Опыт работы 5 месяцев','Мужчина','Москва','Back-end разработчик','45 000 руб.','https://hh.ru/resume/efc045d20007f1b18f0039ed1f414d45397973')
 ,('Опыт работы 3 года 6 месяцев','Мужчина','Москва','Тестировщик ПО','130 000 руб.','https://hh.ru/resume/efc542f90003dcdd2b0039ed1f4d384f704e74')
 ,('Опыт работы 6 лет 3 месяца','Мужчина','Москва','Java junior',NULL,'https://hh.ru/resume/efc67e3c0007ae154a0039ed1f4772374f4343')
@@ -5554,7 +5554,7 @@ INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary
 ,('Ключевые навыки','Мужчина','Москва','Junior Developer',NULL,'https://hh.ru/resume/f01cb3a60005578c920039ed1f34546d4f4c42')
 ,('Опыт работы 4 года 6 месяцев','Женщина','Москва','лингвист, компьютерный лингвист, лингвист-аналитик','80 000 руб.','https://hh.ru/resume/f01e18f4000221836c0039ed1f6f565a654f39')
 ;
-INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES
+INSERT INTO hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES 
 ('Ключевые навыки','Мужчина','Москва','Junior Java Разработчик',NULL,'https://hh.ru/resume/f3abcb0a00079773b40039ed1f726864575656')
 ,('Опыт работы 4 года 11 месяцев','Мужчина','Полтава','Frontend-разработчик',NULL,'https://hh.ru/resume/f0266b98000199085e0039ed1f633843323564')
 ,('Ключевые навыки','Мужчина','Москва','Начинающий специалист',NULL,'https://hh.ru/resume/f03f85e60005ddf98d0039ed1f427678706a6d')
@@ -5566,7 +5566,7 @@ INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary
 ,('Ключевые навыки','Мужчина','Москва','Стажер',NULL,'https://hh.ru/resume/f063cd3800083ad8540039ed1f335064636354')
 ,('Опыт работы 2 года 1 месяц','Мужчина','Москва','Программист C#','150 000 руб.','https://hh.ru/resume/f0665a07000458a70e0039ed1f4c4f4e337655')
 ;
-INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES
+INSERT INTO hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES 
 ('Опыт работы 4 года 1 месяц','Мужчина','Москва','Java программист стажер',NULL,'https://hh.ru/resume/f09215e000027c4c5c0039ed1f395164623373')
 ,('Опыт работы 11 месяцев','Мужчина','Москва','Junior Java developer',NULL,'https://hh.ru/resume/f097395400063e01180039ed1f726568336b75')
 ,('Ключевые навыки','Мужчина','Москва','Java junior developer',NULL,'https://hh.ru/resume/f0a540bb00053742580039ed1f64664d4a7265')
@@ -5578,7 +5578,7 @@ INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary
 ,('Ключевые навыки','Мужчина','Москва','Java-разработчик',NULL,'https://hh.ru/resume/f134ec3000081003af0039ed1f68344146456b')
 ,('Опыт работы 4 года 11 месяцев','Мужчина','Москва','Системный администратор','40 000 руб.','https://hh.ru/resume/f136cd710003bd26100039ed1f3736334d476f')
 ;
-INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES
+INSERT INTO hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES 
 ('Опыт работы 24 года 8 месяцев','Мужчина','Москва','Директор ИT, руководитель ИБ',NULL,'https://hh.ru/resume/f140ce5100001a11330039ed1f736563726574')
 ,('Опыт работы 10 лет 8 месяцев','Мужчина','Москва','CTO, Head Of Mobile, Team Lead, Senior IOS',NULL,'https://hh.ru/resume/f142ace000045dc4f30039ed1f667a74787257')
 ,('Опыт работы 5 лет 3 месяца','Мужчина','Москва','Node.js/Python team lead','300 000 руб.','https://hh.ru/resume/f148eef70002689de40039ed1f64784a467758')
@@ -5590,7 +5590,7 @@ INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary
 ,('Опыт работы 2 года 3 месяца','Мужчина','Москва','Junior Java разработчик','100 000 руб.','https://hh.ru/resume/f1775e590005ab1f410039ed1f63594f556c4d')
 ,('Опыт работы 6 лет 9 месяцев','Мужчина','Москва','QA engineer/Инженер по тестированию ПО','120 000 руб.','https://hh.ru/resume/f18bb10f00077180810039ed1f523266565455')
 ;
-INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES
+INSERT INTO hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES 
 ('Опыт работы 6 лет 3 месяца','Мужчина','Москва','Software Engineer','230 000 руб.','https://hh.ru/resume/f18e110e0005c01b8d0039ed1f73796c383953')
 ,('Опыт работы 7 месяцев','Мужчина','Москва','Младший консультант',NULL,'https://hh.ru/resume/f191591d000754e2d30039ed1f5141646b4a52')
 ,('Опыт работы 10 лет 5 месяцев','Мужчина','Оренбург','Инженер АСУ ТП','200 000 руб.','https://hh.ru/resume/f1acf98100013a79c20039ed1f6b66776d5877')
@@ -5602,7 +5602,7 @@ INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary
 ,('Опыт работы 15 лет 3 месяца','Мужчина','Москва','Ведущий разработчик MSSQL','220 000 руб.','https://hh.ru/resume/f1d01c7200001ac0be0039ed1f736563726574')
 ,('Опыт работы 8 лет 11 месяцев','Мужчина','Москва','JAVA Разработчик ; Flex-Flash-ActionScript программист. Разработчик php','175 000 руб.','https://hh.ru/resume/f1f2011100014c62690039ed1f627664493155')
 ;
-INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES
+INSERT INTO hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES 
 ('Опыт работы 11 лет 9 месяцев','Мужчина','Москва','Java-программист',NULL,'https://hh.ru/resume/f1f611250007dd78050039ed1f74674f595135')
 ,('Опыт работы 10 лет 8 месяцев','Мужчина','Москва','Старший научный сотрудник',NULL,'https://hh.ru/resume/f1f62f280001c43a240039ed1f557746444a51')
 ,('Ключевые навыки','Мужчина','Домодедово','разработчик',NULL,'https://hh.ru/resume/f1f8117400082b82900039ed1f6e6f70494b38')
@@ -5614,7 +5614,7 @@ INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary
 ,('Опыт работы 6 лет 5 месяцев','Мужчина','Москва','Специалист по анализу данных, аналитик, специалист по учету газа','130 000 руб.','https://hh.ru/resume/f27803e300023e064f0039ed1f766c4448674d')
 ,('Опыт работы 10 лет 7 месяцев','Мужчина','Москва','Управляющий магазином','90 000 руб.','https://hh.ru/resume/f27a764700039c43e30039ed1f766265755374')
 ;
-INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES
+INSERT INTO hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES 
 ('Опыт работы 1 месяц','Мужчина','Москва','Стажер IT-Юниор в направлении Java-разработка',NULL,'https://hh.ru/resume/f27fa63100084cd8550039ed1f6663694b566c')
 ,('Опыт работы 9 лет 4 месяца','Мужчина','Москва','Программист, проектировщик','140 000 руб.','https://hh.ru/resume/f282b5ff0001519ddb0039ed1f6e6833766274')
 ,('Опыт работы 19 лет 4 месяца','Мужчина','Москва','Руководитель IT отдела',NULL,'https://hh.ru/resume/f285f45e00003824820039ed1f736563726574')
@@ -5626,7 +5626,7 @@ INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary
 ,('Опыт работы 17 лет 11 месяцев','Мужчина','Москва','Главный инженер проекта','110 000 руб.','https://hh.ru/resume/f2b1f0ea00076df1880039ed1f4b526932736a')
 ,('Опыт работы 15 лет 2 месяца','Мужчина','Москва','Программист','80 000 руб.','https://hh.ru/resume/f2b855430004e01ab00039ed1f397538356334')
 ;
-INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES
+INSERT INTO hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES 
 ('Опыт работы 27 лет 9 месяцев','Мужчина','Москва','Руководитель проекта',NULL,'https://hh.ru/resume/f2ce4dd10002764b7f0039ed1f38366943584e')
 ,('Опыт работы 3 года 5 месяцев','Мужчина','Алматы','Администратор, frontend developer','200 000 KZT','https://hh.ru/resume/f3046e6200042285980039ed1f527648466b30')
 ,('Опыт работы 7 лет','Мужчина','Москва','Стажер JAVA','45 000 руб.','https://hh.ru/resume/f3117f3d000630643a0039ed1f637744533876')
@@ -5638,7 +5638,7 @@ INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary
 ,('Опыт работы 4 года 8 месяцев','Мужчина','Нижний Новгород','С# Unity Developer','50 000 руб.','https://hh.ru/resume/f351bd430007d4f6a50039ed1f6c3665615072')
 ,('Опыт работы 3 года 3 месяца','Мужчина','Москва','Java junior developer','55 000 руб.','https://hh.ru/resume/f357c65d0007eaadb80039ed1f7a4b6e666974')
 ;
-INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES
+INSERT INTO hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES 
 ('Опыт работы 14 лет 4 месяца','Мужчина','Москва','Fullstack разработчик',NULL,'https://hh.ru/resume/f361612f0002bce0f10039ed1f35616c303072')
 ,('Опыт работы 20 лет 7 месяцев','Мужчина','Москва','Руководитель медицинских ИТ проектов','150 000 руб.','https://hh.ru/resume/f365d3a900026d6d400039ed1f51554c483954')
 ,('Опыт работы 3 месяца','Мужчина','Бугульма','Программист','50 000 руб.','https://hh.ru/resume/f3743e4900083eb2b40039ed1f4b6677433266')
@@ -5650,7 +5650,7 @@ INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary
 ,('Ключевые навыки','Мужчина','Москва','Разработчик C#',NULL,'https://hh.ru/resume/f3f3494e0007fa2b7f0039ed1f445732794d4c')
 ,('Опыт работы 22 года 2 месяца','Мужчина','Москва','CTO/CIO','300 000 руб.','https://hh.ru/resume/f3fb4cb50005ef52bc0039ed1f416446726e35')
 ;
-INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES
+INSERT INTO hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES 
 ('Ключевые навыки','Мужчина','Москва','Тестировщик',NULL,'https://hh.ru/resume/f404ac4e0007d687a10039ed1f506f42366764')
 ,('Опыт работы 10 лет 5 месяцев','Мужчина','Москва','Системный администратор','70 000 руб.','https://hh.ru/resume/f414bc130002ad6ee60039ed1f58667a774d4c')
 ,('Опыт работы 18 лет 9 месяцев','Мужчина','Москва','Руководитель ИТ отдела','4 000 USD','https://hh.ru/resume/f449333400017255700039ed1f497071756565')
@@ -5662,7 +5662,7 @@ INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary
 ,('Опыт работы 4 года 1 месяц','Мужчина','Орехово-Зуево','Системный администратор, программист','70 000 руб.','https://hh.ru/resume/f491be8400027723a80039ed1f4a78624f4d49')
 ,('Опыт работы 15 лет 4 месяца','Мужчина','Архангельск','DevOps Engineer / Sysadmin','180 000 руб.','https://hh.ru/resume/f4a812450006fc00b10039ed1f4d7875567151')
 ;
-INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES
+INSERT INTO hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES 
 ('Опыт работы 10 лет 1 месяц','Мужчина','Москва','Product Manager / Менеджер продукта','230 000 руб.','https://hh.ru/resume/f4ea050400009824580039ed1f736563726574')
 ,('Опыт работы 15 лет 3 месяца','Женщина','Москва','Web-разработчик (junior); Frontend; HTML CSS; Редактор/контент-менеджер',NULL,'https://hh.ru/resume/f4f2243d0003c911030039ed1f4c4e7a56386f')
 ,('Опыт работы 25 лет 2 месяца','Мужчина','Москва','Техподдержка / разработка / стажёр / junior developer / системный администратор','50 000 руб.','https://hh.ru/resume/f4f42b4f00004868d50039ed1f736563726574')
@@ -5674,7 +5674,7 @@ INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary
 ,('Ключевые навыки','Мужчина','Москва','Программист',NULL,'https://hh.ru/resume/f51b502f000822e3fa0039ed1f686665336f38')
 ,('Опыт работы 10 месяцев','Мужчина','Москва','Программист-разработчик','60 000 руб.','https://hh.ru/resume/f535007f00050ac8c50039ed1f5335616d4251')
 ;
-INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES
+INSERT INTO hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES 
 ('Опыт работы 10 лет 3 месяца','Мужчина','Москва','Программист','250 000 руб.','https://hh.ru/resume/f5390a770002793ef70039ed1f534150664d35')
 ,('Опыт работы 7 лет 3 месяца','Женщина','Москва','IT Recruiter',NULL,'https://hh.ru/resume/f58c19790007ef708f0039ed1f546f42325759')
 ,('Опыт работы 8 лет','Мужчина','Москва','RPA разработчик / RPA менеджер','250 000 руб.','https://hh.ru/resume/f591f13d0001107d5e0039ed1f78324b4a5061')
@@ -5686,7 +5686,7 @@ INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary
 ,('Опыт работы 8 месяцев','Мужчина','Москва','Младший специалист по разработке ПО',NULL,'https://hh.ru/resume/f61db1fe00078a09030039ed1f32546e4f5765')
 ,('Опыт работы 4 года 6 месяцев','Мужчина','Москва','Ведущий маркетолог','100 000 руб.','https://hh.ru/resume/f626d82b000275fdf20039ed1f42664e4d7174')
 ;
-INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES
+INSERT INTO hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES 
 ('Опыт работы 2 года','Мужчина','Москва','Аналитик',NULL,'https://hh.ru/resume/f63157490003e6247f0039ed1f726836516a34')
 ,('Опыт работы 2 года 1 месяц','Мужчина','Москва','---','100 000 руб.','https://hh.ru/resume/f64a1b8300058560000039ed1f494d516c536a')
 ,('Опыт работы 12 лет 4 месяца','Мужчина','Москва','Дизайнер / Designer','65 000 руб.','https://hh.ru/resume/f64b16ec0003d120e20039ed1f72494f6d3849')
@@ -5698,7 +5698,7 @@ INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary
 ,('Опыт работы 9 лет 2 месяца','Мужчина','Москва','Java-разработчик','280 000 руб.','https://hh.ru/resume/f672c5fa00080bf9ec0039ed1f6b4247634373')
 ,('Опыт работы 5 лет 1 месяц','Мужчина','Москва','Младший геймдизайнер','40 000 руб.','https://hh.ru/resume/f6942f24000847fbf10039ed1f696a45686336')
 ;
-INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES
+INSERT INTO hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES 
 ('Опыт работы 20 лет 9 месяцев','Мужчина','Москва','Oracle/Unix администратор/архитектор инфраструктуры/пресейл','350 000 руб.','https://hh.ru/resume/f69ef11500006b1f530039ed1f736563726574')
 ,('Опыт работы 3 года','Мужчина','Москва','Java разработчик','50 000 руб.','https://hh.ru/resume/f6a3375700074219290039ed1f4c3967417072')
 ,('Опыт работы 19 лет 1 месяц','Женщина','Москва','Управление проектами. Реклама. Event-маркетинг. Полиграфия. Фото. Дизайн. Контент.',NULL,'https://hh.ru/resume/f6b1460d00000c3e200039ed1f736563726574')
@@ -5710,7 +5710,7 @@ INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary
 ,('Опыт работы 11 лет 7 месяцев','Женщина','Москва','Digital marketing manager',NULL,'https://hh.ru/resume/f6f76cc1000379e79a0039ed1f6c6b5a727271')
 ,('Опыт работы 15 лет 5 месяцев','Мужчина','Москва','Руководитель проектов',NULL,'https://hh.ru/resume/f6fad1b6000352e15d0039ed1f4f68794c6d4c')
 ;
-INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES
+INSERT INTO hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES 
 ('Опыт работы 6 лет 4 месяца','Женщина','Москва','Стажер-тестировщик','30 000 руб.','https://hh.ru/resume/f6fc7f5400079dfcfb0039ed1f7a766c6c4e56')
 ,('Опыт работы 8 лет 2 месяца','Мужчина','Москва','Стажер-разработчик Android','35 000 руб.','https://hh.ru/resume/f708e77c000620f0890039ed1f394f57333947')
 ,('Опыт работы 2 года 1 месяц','Мужчина','Москва','Администратор','35 000 руб.','https://hh.ru/resume/f719a51c0003db1abe0039ed1f4c3879534d6f')
@@ -5722,7 +5722,7 @@ INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary
 ,('Опыт работы 9 лет 7 месяцев','Мужчина','Москва','Начинающий/стажер/программист/Java/C/тестировщик ПО','40 000 руб.','https://hh.ru/resume/f75ab5ca0007115ce40039ed1f6a69336f4d56')
 ,('Опыт работы 13 лет 3 месяца','Мужчина','Москва','Ведущий программист 1С (удаленно)',NULL,'https://hh.ru/resume/f7689fc80005592ca90039ed1f464664375671')
 ;
-INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES
+INSERT INTO hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES 
 ('Опыт работы 21 год 9 месяцев','Мужчина','Москва','Программист с# (junior)','60 000 руб.','https://hh.ru/resume/f776a6a90004d2cab30039ed1f6d6457365530')
 ,('Work experience 3 years 10 months','Female','Moscow','Analyst/ Arabic/ International relations',NULL,'https://hh.ru/resume/f79c203c00066fcce90039ed1f5336506d7057')
 ,('Опыт работы 14 лет 2 месяца','Женщина','Москва','Project manager, руководитель проекта',NULL,'https://hh.ru/resume/f7aacfb70001c069860039ed1f664e736a4b46')
@@ -5734,7 +5734,7 @@ INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary
 ,('Опыт работы 9 лет 11 месяцев','Мужчина','Санкт-Петербург','Ведущий инженер связи','120 000 руб.','https://hh.ru/resume/f80b8ecf00060681470039ed1f52357538614b')
 ,('Опыт работы 6 месяцев','Мужчина','Москва','Android Разработчик','80 000 руб.','https://hh.ru/resume/f80f2cdc0008206c410039ed1f6939786d594f')
 ;
-INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES
+INSERT INTO hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES 
 ('Опыт работы 1 год 5 месяцев','Мужчина','Москва','Project Manager',NULL,'https://hh.ru/resume/f814772800043aa9dd0039ed1f32645a4f575a')
 ,('Опыт работы 4 года 11 месяцев','Мужчина','Москва','Fronted Developer, ReactJS, Middle, Pre-Middle',NULL,'https://hh.ru/resume/f8279e7f000840ed050039ed1f784739596c37')
 ,('Опыт работы 6 лет','Мужчина','Екатеринбург','python developer','70 000 руб.','https://hh.ru/resume/f83140d300030fa5bd0039ed1f384e4b4f3274')
@@ -5746,7 +5746,7 @@ INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary
 ,('Ключевые навыки','Мужчина','Москва','Android разработчик',NULL,'https://hh.ru/resume/f88818a40005702b820039ed1f674d57555250')
 ,('Опыт работы 17 лет 4 месяца','Мужчина','Москва','Управление ИТ','3 500 USD','https://hh.ru/resume/f890b20100062e85030039ed1f393554334750')
 ;
-INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES
+INSERT INTO hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES 
 ('Опыт работы 12 лет 5 месяцев','Мужчина','Дедовск','Инженер технической поддержки/ Системный администратор',NULL,'https://hh.ru/resume/f895d1af000044579b0039ed1f736563726574')
 ,('Опыт работы 17 лет 8 месяцев','Мужчина','Москва','Руководитель группы системного администрирования/директор по эксплуатации/CTO','300 000 руб.','https://hh.ru/resume/f8a13792000550db2e0039ed1f78456f665157')
 ,('Опыт работы 4 года','Мужчина','Москва','Frontend junior developer',NULL,'https://hh.ru/resume/f8e4183f00076ce1590039ed1f534f7857336f')
@@ -5758,7 +5758,7 @@ INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary
 ,('Опыт работы 19 лет 9 месяцев','Мужчина','Череповец','Руководитель проектов IT (Project manager)','250 000 руб.','https://hh.ru/resume/f920516900014e06e30039ed1f47743575696d')
 ,('Опыт работы 4 года 9 месяцев','Мужчина','Москва','Стажер-аналитик',NULL,'https://hh.ru/resume/f933b9b200075580dc0039ed1f545637754b6f')
 ;
-INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES
+INSERT INTO hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES 
 ('Опыт работы 4 года 5 месяцев','Мужчина','Москва','Java-разработчик',NULL,'https://hh.ru/resume/f933e321000214b7450039ed1f487950316536')
 ,('Опыт работы 19 лет 9 месяцев','Мужчина','Москва','Data Science Engineer (Full Stack, Data Mining, SOLID, Oracle, C#, Python, Web API)','180 000 руб.','https://hh.ru/resume/f9393177000008a3970039ed1f736563726574')
 ,('Опыт работы 20 лет 7 месяцев','Мужчина','Санкт-Петербург','Ведущий сетевой инженер',NULL,'https://hh.ru/resume/f94b6d5a0000a2af0f0039ed1f736563726574')
@@ -5770,7 +5770,7 @@ INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary
 ,('Опыт работы 22 года 3 месяца','Мужчина','Москва','Архитектор/разработчик',NULL,'https://hh.ru/resume/f987f324000618e1780039ed1f566970457976')
 ,('Work experience 9 years 9 months','Female','Moscow','Software Quality Assurance Engineer',NULL,'https://hh.ru/resume/f9a5101b0007a54abf0039ed1f484c64533142')
 ;
-INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES
+INSERT INTO hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES 
 ('Опыт работы 9 лет 3 месяца','Мужчина','Самара','Главный специалист',NULL,'https://hh.ru/resume/f9b7565b00073345180039ed1f3458497a424a')
 ,('Опыт работы 17 лет','Женщина','Москва','Интернет-маркетолог: сео, аналитика, администрирование, SMM, копирайтинг, дизайн,контекстная реклама','45 000 руб.','https://hh.ru/resume/f9fd95820004cb5ba90039ed1f6537646e7846')
 ,('Опыт работы 8 лет 4 месяца','Мужчина','Казань','Системный администратор','60 000 руб.','https://hh.ru/resume/fa0248140002ef30910039ed1f547244546171')
@@ -5782,7 +5782,7 @@ INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary
 ,('Опыт работы 1 год 2 месяца','Мужчина','Омск','Стажёр программист java',NULL,'https://hh.ru/resume/fa4c17ab000446c49a0039ed1f6a6a32745a63')
 ,('Опыт работы 4 года 8 месяцев','Мужчина','Москва','Системный администратор','80 000 руб.','https://hh.ru/resume/fa53465700020dba3d0039ed1f6f5731435a73')
 ;
-INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES
+INSERT INTO hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES 
 ('Опыт работы 8 лет 11 месяцев','Мужчина','Москва','Тестировщик',NULL,'https://hh.ru/resume/fa5cecd4000835aeb70039ed1f4b36514e6654')
 ,('Опыт работы 9 лет 2 месяца','Мужчина','Москва','Инженер связи','90 000 руб.','https://hh.ru/resume/fa5d4ca80000b341e30039ed1f736563726574')
 ,('Опыт работы 2 месяца','Мужчина','Москва','Начинающий специалист',NULL,'https://hh.ru/resume/fa5dcfe600064d26af0039ed1f32624e416c54')
@@ -5794,7 +5794,7 @@ INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary
 ,('Work experience 10 years 9 months','Male','Moscow','Java developer',NULL,'https://hh.ru/resume/fae49abe0005c9a7280039ed1f44354d764a57')
 ,('Work experience 13 years','Male','Moscow','product owner, head of department',NULL,'https://hh.ru/resume/fae7339000078a1ad90039ed1f6a4763435263')
 ;
-INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES
+INSERT INTO hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES 
 ('Опыт работы 3 года 2 месяца','Мужчина','Москва','Менеджер ресторана \ Заместитель директора ресторана','50 000 руб.','https://hh.ru/resume/fae80ae70003e33f560039ed1f46375130744c')
 ,('Опыт работы 8 месяцев','Мужчина','Москва','Инженер-энергетик','20 000 руб.','https://hh.ru/resume/faea4ef600071e444c0039ed1f4c6367685946')
 ,('Опыт работы 2 года 7 месяцев','Мужчина','Алчевск','Frontend-разработчик','20 000 руб.','https://hh.ru/resume/faf2c5df00038028620039ed1f4a4663646b52')
@@ -5806,7 +5806,7 @@ INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary
 ,('Опыт работы 5 лет 1 месяц','Мужчина','Москва','Специалист по информационной безопасности',NULL,'https://hh.ru/resume/fb1dc9ea0007529eb70039ed1f384932756248')
 ,('Опыт работы 18 лет 5 месяцев','Мужчина','Москва','Инженер по автоматизированному тестированию, QA Engineer','60 000 руб.','https://hh.ru/resume/fb24ad22000710c86e0039ed1f70744e724d51')
 ;
-INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES
+INSERT INTO hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES 
 ('Опыт работы 22 года 9 месяцев','Мужчина','Щелково','Программист-разработчик','120 000 руб.','https://hh.ru/resume/fb38019700059b0d0b0039ed1f617442746453')
 ,('Опыт работы 1 год 2 месяца','Мужчина','Казань','Python разработчик','720 USD','https://hh.ru/resume/fb393e9400038783ad0039ed1f547246416842')
 ,('Опыт работы 14 лет 10 месяцев','Мужчина','Москва','Переводчик английского языка',NULL,'https://hh.ru/resume/fb3ff1040007ce95d00039ed1f47516974644a')
@@ -5818,7 +5818,7 @@ INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary
 ,('Work experience 2 years 6 months','Male','Moscow','Machine Learning Developer / Data Scientist / Data Analyst',NULL,'https://hh.ru/resume/fb9bc01900074725140039ed1f6c56764b4e65')
 ,('Опыт работы 23 года 4 месяца','Мужчина','Москва','Solution Architect, CTO',NULL,'https://hh.ru/resume/fbc7ebf000010c7a8b0039ed1f55364c584232')
 ;
-INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES
+INSERT INTO hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES 
 ('Опыт работы 7 лет 3 месяца','Мужчина','Москва','Frontend-разработчик',NULL,'https://hh.ru/resume/fbcfeb41000556d7f20039ed1f7532474e396a')
 ,('Опыт работы 5 лет 3 месяца','Мужчина','Белгород','Frontend-разработчик',NULL,'https://hh.ru/resume/fbe9030b00034582040039ed1f774452746575')
 ,('Опыт работы 8 лет 7 месяцев','Мужчина','Москва','Ведущий аналитик | руководитель проекта',NULL,'https://hh.ru/resume/fbf8a97100073b43190039ed1f54654f514f6e')
@@ -5830,7 +5830,7 @@ INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary
 ,('Опыт работы 10 лет 7 месяцев','Мужчина','Москва','Аналитик','190 000 руб.','https://hh.ru/resume/fc355cbe00008d22f40039ed1f736563726574')
 ,('Опыт работы 1 год 6 месяцев','Женщина','Москва','Инженер-программист','40 000 руб.','https://hh.ru/resume/fc456bbc000410c1f30039ed1f494279397456')
 ;
-INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES
+INSERT INTO hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES 
 ('Опыт работы 3 года','Мужчина','Москва','IT-инженер','30 000 руб.','https://hh.ru/resume/fc4d87520006dcc3c50039ed1f394a704a5a32')
 ,('Опыт работы 18 лет 11 месяцев','Мужчина','Москва','UX/UI дизайнер',NULL,'https://hh.ru/resume/fc64ff2900000cff150039ed1f736563726574')
 ,('Work experience 16 years 6 months','Male','Moscow','Техлид','270 000 RUB','https://hh.ru/resume/fc6905d800012bc0380039ed1f3459616a5973')
@@ -5842,7 +5842,7 @@ INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary
 ,('Work experience 10 years','Male','Lebanon','Инженер-программист','4 000 USD','https://hh.ru/resume/fca273e00002754a530039ed1f4f7a53326639')
 ,('Опыт работы 20 лет 9 месяцев','Женщина','Москва','Моушн-дизайнер','1 000 USD','https://hh.ru/resume/fcaed7c100009c27670039ed1f736563726574')
 ;
-INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES
+INSERT INTO hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES 
 ('Опыт работы 14 лет 6 месяцев','Женщина','Москва','Фотограф',NULL,'https://hh.ru/resume/fcb8fbc90007c694380039ed1f36734c617046')
 ,('Опыт работы 20 лет 9 месяцев','Мужчина','Москва','Директор по маркетингу','249 000 руб.','https://hh.ru/resume/fccde463000180e6180039ed1f634c464e556b')
 ,('Опыт работы 3 месяца','Мужчина','Москва','Разработчик приложений',NULL,'https://hh.ru/resume/fcf12b9600083670b10039ed1f526c77387247')
@@ -5854,7 +5854,7 @@ INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary
 ,('Опыт работы 16 лет 4 месяца','Мужчина','Севастополь','Программист Java','30 000 руб.','https://hh.ru/resume/fd50a9bd0002008af00039ed1f554931334851')
 ,('Опыт работы 4 года 5 месяцев','Мужчина','Москва','Senior Software Engineer (.NET)',NULL,'https://hh.ru/resume/fd5133bc0001b1317a0039ed1f433338654f7a')
 ;
-INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES
+INSERT INTO hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES 
 ('Опыт работы 3 года 1 месяц','Мужчина','Москва','Программист-разработчик',NULL,'https://hh.ru/resume/fd5f339f000821f8260039ed1f7830554f7637')
 ,('Опыт работы 9 лет 9 месяцев','Женщина','Москва','Менеджер проектов, Обучение и развитие персонала, HR BP, Scrum Master',NULL,'https://hh.ru/resume/fd7406ea00023578900039ed1f6b5272577a43')
 ,('Опыт работы 1 год','Мужчина','Москва','Junior java developer',NULL,'https://hh.ru/resume/fd7db718000794c8850039ed1f4e785743574f')
@@ -5866,7 +5866,7 @@ INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary
 ,('Опыт работы 14 лет 1 месяц','Мужчина','Москва','Руководитель продукта, Руководитель проекта',NULL,'https://hh.ru/resume/fde02483000851244e0039ed1f505972566451')
 ,('Опыт работы 18 лет','Мужчина','Москва','Руководитель направления ИТ',NULL,'https://hh.ru/resume/fdf566cc00002319730039ed1f736563726574')
 ;
-INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES
+INSERT INTO hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES 
 ('Опыт работы 1 год 5 месяцев','Мужчина','Москва','Junior Frontend-разработчик','45 000 руб.','https://hh.ru/resume/fe0480de00079b73a40039ed1f6465326e7439')
 ,('Ключевые навыки','Мужчина','Москва','Программист-стажер',NULL,'https://hh.ru/resume/fe0a10620003f629250039ed1f387531426757')
 ,('Опыт работы 6 месяцев','Мужчина','Москва','Специалист по IT',NULL,'https://hh.ru/resume/fe0c952100073830700039ed1f596e4a306648')
@@ -5878,7 +5878,7 @@ INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary
 ,('Опыт работы 1 год 8 месяцев','Мужчина','Москва','Администратор','40 000 руб.','https://hh.ru/resume/fe753ac00005d13cae0039ed1f735552705878')
 ,('Опыт работы 22 года 5 месяцев','Мужчина','Москва','Технический директор',NULL,'https://hh.ru/resume/fe81d502000034b9080039ed1f736563726574')
 ;
-INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES
+INSERT INTO hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES 
 ('Опыт работы 3 года 2 месяца','Мужчина','Москва','Программист','80 000 руб.','https://hh.ru/resume/fe8dc0cd0003ef53df0039ed1f76374a4b5054')
 ,('Опыт работы 4 года 8 месяцев','Мужчина','Старый Оскол','Java Developer',NULL,'https://hh.ru/resume/fe8e2ef30002de86830039ed1f68536b36376c')
 ,('Work experience 35 years 1 month','Male','Moscow','Программист C/С++','300 000 RUB','https://hh.ru/resume/fe9f07ae0002a2dc030039ed1f4b527048694c')
@@ -5890,7 +5890,7 @@ INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary
 ,('Опыт работы 10 лет 11 месяцев','Женщина','Москва','Контент-менеджер, администратор сайта','35 000 руб.','https://hh.ru/resume/fedbcd2600011e1eb60039ed1f73735834334e')
 ,('Опыт работы 4 года 7 месяцев','Мужчина','Москва','Junior java Разработчик','60 000 руб.','https://hh.ru/resume/fedc62e9000286426c0039ed1f4d3645733050')
 ;
-INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES
+INSERT INTO hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES 
 ('Опыт работы 9 лет 1 месяц','Мужчина','Смоленск','Инженер- программист, Менеджер проектов',NULL,'https://hh.ru/resume/fedefa110001910cc50039ed1f495754444947')
 ,('Опыт работы 19 лет 10 месяцев','Мужчина','Москва','Начальник отдела IT, Директор проектов IT',NULL,'https://hh.ru/resume/fee622d20000aea98b0039ed1f736563726574')
 ,('Опыт работы 11 лет 9 месяцев','Женщина','Москва','IT Рекрутер',NULL,'https://hh.ru/resume/fee95ea3000739127a0039ed1f525061527433')
@@ -5902,7 +5902,7 @@ INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary
 ,('Опыт работы 2 месяца','Мужчина','Москва','Программист-разработчик','50 000 руб.','https://hh.ru/resume/ff2d089b00084762ff0039ed1f776f49734475')
 ,('Опыт работы 1 год 8 месяцев','Мужчина','Видное','Младший инженер-программист(Java/Android)','40 000 руб.','https://hh.ru/resume/ff4356bb0008199b870039ed1f424d47545931')
 ;
-INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES
+INSERT INTO hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES 
 ('Опыт работы 10 лет 6 месяцев','Мужчина','Москва','Системный администратор',NULL,'https://hh.ru/resume/ff50691800009d00010039ed1f736563726574')
 ,('Опыт работы 6 лет 4 месяца','Мужчина','Москва','Программист PHP (начинающий)','22 000 руб.','https://hh.ru/resume/ff5bcb840007d0e4510039ed1f426f68353234')
 ,('Опыт работы 4 месяца','Женщина','Москва','Стажер-программист','15 000 руб.','https://hh.ru/resume/ff7141f4000807c2780039ed1f7a464e444e55')
@@ -5914,7 +5914,7 @@ INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary
 ,('Опыт работы 6 лет 7 месяцев','Мужчина','Москва','Гейм-дизайнер',NULL,'https://hh.ru/resume/ffd30e2300083a08240039ed1f635532356752')
 ,('Опыт работы 10 лет 8 месяцев','Мужчина','Москва','Программист 1С','150 000 руб.','https://hh.ru/resume/ffd887c20000312e500039ed1f736563726574')
 ;
-INSERT INTO public.hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES
+INSERT INTO hh_employee (work_experience,male,live_city,"position",salary,resume_link) VALUES 
 ('Опыт работы 3 года 9 месяцев','Женщина','Москва','Креативный менеджер',NULL,'https://hh.ru/resume/ffd9d4b000069779180039ed1f687838563145')
 ,('Опыт работы 4 года 11 месяцев','Мужчина','Москва','Программист','120 000 руб.','https://hh.ru/resume/ffeb3e4400015480f00039ed1f36367067334b')
 ,('Опыт работы 5 лет 3 месяца','Мужчина','Москва','Backend developer',NULL,'https://hh.ru/resume/fff1cd360006d214c10039ed1f693334355043')
