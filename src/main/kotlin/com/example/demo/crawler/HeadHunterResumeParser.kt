@@ -1,12 +1,14 @@
-package com.example.demo.crawler.parser
+package com.example.demo.crawler
 
-import com.example.demo.model.CompanyWork
+import com.example.demo.model.EmployeeCompany
 import com.example.demo.model.Employee
 import org.jsoup.nodes.Document
 import org.jsoup.select.Elements
+import org.springframework.stereotype.Component
 
+@Component
 class HeadHunterResumeParser {
-    fun parse(document: Document): Employee {
+    fun convert(document: Document): Employee {
         val employee = Employee();
 
         extractMale(document, employee)
@@ -15,7 +17,7 @@ class HeadHunterResumeParser {
         extractWorkExperience(document, employee)
         extractCity(document, employee)
         extractWorkPlaces(document, employee)
-
+        employee.resumeLink = "https://hh.ru/resume/" + document.baseUri().removePrefix("C:\\resume\\").removeSuffix(".html")
         return employee
     }
 
@@ -35,10 +37,11 @@ class HeadHunterResumeParser {
                                         .parent()
                                         .getElementsByClass("resume-block__experience-timeinterval").text()
 
-                        val companyWork = CompanyWork()
+                        val companyWork = EmployeeCompany()
                         companyWork.companyName = companyName;
                         companyWork.timeWork = companyTimeToWork
-                        employee.companiesWork.add(companyWork)
+                        companyWork.employee = employee
+                        employee.companiesEmployee.add(companyWork)
                     }
                 }
             }

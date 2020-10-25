@@ -1,9 +1,8 @@
 package com.example.demo
 
-import com.example.demo.crawler.parser.HeadHunterResumeParser
+import com.example.demo.crawler.HeadHunterResumeParser
 import org.jsoup.Jsoup
-import org.junit.jupiter.api.Assertions.assertEquals
-import org.junit.jupiter.api.Assertions.assertNull
+import org.junit.jupiter.api.Assertions.*
 import org.junit.jupiter.api.Test
 import org.springframework.util.ResourceUtils
 
@@ -13,22 +12,21 @@ class ResumeParserTest {
 	fun parseHeadHunterResume() {
 		val file = ResourceUtils.getFile("classpath:hh-test-resume.html")
 		val document = Jsoup.parse(file, "UTF-8")
-		val parse = HeadHunterResumeParser().parse(document)
-
-		println(parse)
+		val parse = HeadHunterResumeParser().convert(document)
+		assertNotNull(parse)
 		assertEquals("Мужчина", parse.male)
 		assertEquals("Москва", parse.liveCity)
 		assertEquals("Руководитель проекта. Аналитик", parse.position)
 		assertEquals("Опыт работы 24 года 7 месяцев", parse.workExperience)
 		assertNull(parse.salary)
-		assertEquals(9, parse.companiesWork.size)
+		assertEquals(9, parse.companiesEmployee.size)
 	}
 
 	@Test
 	fun parseHeadHunterResumeWithSalary() {
 		val file = ResourceUtils.getFile("classpath:hh-test-resume-salary.html")
 		val document = Jsoup.parse(file, "UTF-8")
-		val parse = HeadHunterResumeParser().parse(document)
+		val parse = HeadHunterResumeParser().convert(document)
 
 		println(parse)
 		assertEquals("Женщина", parse.male)
@@ -36,6 +34,6 @@ class ResumeParserTest {
 		assertEquals("Программист Oracle", parse.position)
 		assertEquals("Опыт работы 17 лет 7 месяцев", parse.workExperience)
 		assertEquals("190 000 руб.", parse.salary)
-		assertEquals(10, parse.companiesWork.size)
+		assertEquals(10, parse.companiesEmployee.size)
 	}
 }

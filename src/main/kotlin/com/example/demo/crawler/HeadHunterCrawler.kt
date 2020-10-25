@@ -1,9 +1,13 @@
 package com.example.demo.crawler
 
 import com.example.demo.client.HtmlLoadClient
+import com.example.demo.repository.EmployeeRepository
+import org.jsoup.Jsoup
 import org.jsoup.nodes.Document
 import org.springframework.beans.factory.annotation.Value
 import org.springframework.stereotype.Component
+import org.springframework.util.ResourceUtils
+import java.io.File
 import java.net.URL
 import java.nio.file.Files
 import java.nio.file.Paths
@@ -12,16 +16,36 @@ import java.util.*
 import javax.annotation.PostConstruct
 
 @Component
-class HeadHunterCrawler(val client: HtmlLoadClient) {
+class HeadHunterCrawler(
+        val client: HtmlLoadClient,
+        val employeeRepository: EmployeeRepository,
+        val parser: HeadHunterResumeParser
+) {
     @Value("\${application.resume-upload-dir}")
     private lateinit var pathForResumeSave: String
+    @Value("\${application.action}")
+    private lateinit var initAction: String
 
     @PostConstruct
     fun initLoad() {
-        this.start();
+        if (initAction == "LOAD") {
+            this.startLoad()
+        }
+        else {
+            this.startParse()
+        }
     }
 
-    fun start() {
+    fun startParse() {
+        println("Parser start work")
+        File(pathForResumeSave).listFiles().forEach {
+            val document = Jsoup.parse(it, "UTF-8")
+            val employee = parser.convert(document)
+            employeeRepository.save(employee)
+        }
+    }
+
+    fun startLoad() {
         println("Parser start work")
 
         var url = URL("https://hh.ru/search/resume?text=java&area=1&isDefaultArea=true&exp_period=all_time&logic=normal&pos=full_text&fromSearchLine=true&st=resumeSearch&page=0")

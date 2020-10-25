@@ -1,20 +1,42 @@
 package com.example.demo.model
 
-data class Employee(
+import javax.persistence.*
+
+@Entity
+@Table(name = "hh_employee")
+class Employee(
+        @Id
+        @GeneratedValue(strategy = GenerationType.IDENTITY)
+        var id: Int? = null,
+
         var workExperience: String? = null,
+
         var male: String? = null,
+
         var liveCity: String? = null,
+
         var position: String? = null,
+
         var salary: String? = null,
-        var headHunterResumeLink: String? = null,
-        var companiesWork: MutableList<CompanyWork> = ArrayList()
+
+        var resumeLink: String? = null,
+
+        @OneToMany(mappedBy="employee", cascade = [CascadeType.ALL])
+        var companiesEmployee: MutableList<EmployeeCompany> = ArrayList()
 )
 
-data class CompanyWork(
+@Entity
+@Table(name = "hh_company_employee")
+class EmployeeCompany(
+        @Id
+        @GeneratedValue(strategy = GenerationType.IDENTITY)
+        var id: Int? = null,
+
         var companyName: String? = null,
-        var startWork: String? = null,
-        var endWork: String? = null,
+
         var timeWork: String? = null,
-        var position: String? = null,
-        var workDescription: String? = null
+
+        @ManyToOne
+        @JoinColumn(name = "employee_id", referencedColumnName = "id")
+        var employee: Employee? = null
 )
