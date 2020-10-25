@@ -5,8 +5,8 @@ import com.example.demo.model.Employee
 import org.jsoup.nodes.Document
 import org.jsoup.select.Elements
 
-class HeadHunterResumeParser : DocumentParser<Employee> {
-    override fun parse(document: Document): Employee {
+class HeadHunterResumeParser {
+    fun parse(document: Document): Employee {
         val employee = Employee();
 
         extractMale(document, employee)

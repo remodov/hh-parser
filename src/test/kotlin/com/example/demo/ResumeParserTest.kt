@@ -23,4 +23,19 @@ class ResumeParserTest {
 		assertNull(parse.salary)
 		assertEquals(9, parse.companiesWork.size)
 	}
+
+	@Test
+	fun parseHeadHunterResumeWithSalary() {
+		val file = ResourceUtils.getFile("classpath:hh-test-resume-salary.html")
+		val document = Jsoup.parse(file, "UTF-8")
+		val parse = HeadHunterResumeParser().parse(document)
+
+		println(parse)
+		assertEquals("Женщина", parse.male)
+		assertEquals("Москва", parse.liveCity)
+		assertEquals("Программист Oracle", parse.position)
+		assertEquals("Опыт работы 17 лет 7 месяцев", parse.workExperience)
+		assertEquals("190 000 руб.", parse.salary)
+		assertEquals(10, parse.companiesWork.size)
+	}
 }
