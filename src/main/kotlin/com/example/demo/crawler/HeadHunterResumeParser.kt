@@ -26,6 +26,7 @@ class HeadHunterResumeParser {
         if (workExperienceBlock.isNotEmpty()) {
             val workPlaceBlocks = workExperienceBlock[0].getElementsByClass("resume-block-container")
             if (workPlaceBlocks.isNotEmpty()) {
+                var sequence = 1
                 workPlaceBlocks.forEach {
                     val companyTitleBlock = it.getElementsByClass("resume-block__sub-title");
                     if (companyTitleBlock.isNotEmpty()) {
@@ -41,6 +42,8 @@ class HeadHunterResumeParser {
                         companyWork.companyName = companyName;
                         companyWork.timeWork = companyTimeToWork
                         companyWork.employee = employee
+                        companyWork.sequence = sequence++
+                        companyWork.timeWorkRange = it.parent().parent().getElementsByClass("bloko-column bloko-column_xs-4 bloko-column_s-2 bloko-column_m-2 bloko-column_l-2").text().removeSuffix(companyTimeToWork)
                         employee.companiesEmployee.add(companyWork)
                     }
                 }

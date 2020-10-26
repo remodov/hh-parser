@@ -21,6 +21,8 @@ CREATE TABLE hh_company_employee (
 	employee_id bigint,
 	company_name text,
 	time_work text,
+	time_work_range text,
+	sequence int,
 	PRIMARY KEY(id),
 	CONSTRAINT fk_employee
       FOREIGN KEY(employee_id)

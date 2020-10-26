@@ -36,6 +36,10 @@ class EmployeeCompany(
 
         var timeWork: String? = null,
 
+        var sequence: Int? = null,
+
+        var timeWorkRange: String? = null,
+
         @ManyToOne
         @JoinColumn(name = "employee_id", referencedColumnName = "id")
         var employee: Employee? = null
