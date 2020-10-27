@@ -2,6 +2,7 @@ package com.example.demo.crawler
 
 import com.example.demo.client.HtmlLoadClient
 import com.example.demo.repository.EmployeeRepository
+import com.example.demo.repository.ParserUrlsRepository
 import org.jsoup.Jsoup
 import org.jsoup.nodes.Document
 import org.springframework.beans.factory.annotation.Value
@@ -19,7 +20,8 @@ import javax.annotation.PostConstruct
 class HeadHunterCrawler(
         val client: HtmlLoadClient,
         val employeeRepository: EmployeeRepository,
-        val parser: HeadHunterResumeParser
+        val parser: HeadHunterResumeParser,
+        val urlsRepository: ParserUrlsRepository
 ) {
     @Value("\${application.resume-upload-dir}")
     private lateinit var pathForResumeSave: String
@@ -48,27 +50,30 @@ class HeadHunterCrawler(
     fun startLoad() {
         println("Parser start work")
 
-        var url = URL("https://hh.ru/search/resume?text=java&area=1&isDefaultArea=true&exp_period=all_time&logic=normal&pos=full_text&fromSearchLine=true&st=resumeSearch&page=0")
+        urlsRepository.findAll().forEach {parseUrl ->
+            var url = URL(parseUrl.url)
+            println("Start parse: $parseUrl.url")
 
-        while (true) {
-            val pageWithResumeLinks = client.load(url)
+            while (true) {
+                val pageWithResumeLinks = client.load(url)
 
-            resumeLinksOnPageParser(pageWithResumeLinks).forEach { linkWithResume ->
-                val loadedResumeDocument = client.load(linkWithResume)
-                val parsedResume = uploadResumeOnDisk(loadedResumeDocument)
-                println("Parsed resume: $parsedResume")
+                resumeLinksOnPageParser(pageWithResumeLinks).forEach { linkWithResume ->
+                    val loadedResumeDocument = client.load(linkWithResume)
+                    val parsedResume = uploadResumeOnDisk(loadedResumeDocument)
+                    println("Parsed resume: $parsedResume")
+                }
+
+                val isNextUrl = nextPageLinkParser(pageWithResumeLinks)
+
+                if (!isNextUrl.isPresent) {
+                    break
+                }
+
+                url = isNextUrl.get()
             }
 
-            val isNextUrl = nextPageLinkParser(pageWithResumeLinks)
-
-            if (!isNextUrl.isPresent) {
-                break
-            }
-
-            url = isNextUrl.get()
+            println("Parser end work")
         }
-
-        println("Parser end work")
     }
 
     private fun nextPageLinkParser(document: Document): Optional<URL> {

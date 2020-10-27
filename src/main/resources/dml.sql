@@ -39,7 +39,7 @@ from buffer_hh_v1.hh_employee e inner join buffer_hh_v1.hh_company_employee hce
 
 update public.company C
 set score =
-(select  count(distinct person_id)/(sum((end_date::date - start_date::date)/30) + 0.1)
+(select  (sum((end_date::date - start_date::date)/30) )/ count(distinct person_id)
 from jobs_history JH
 where  JH.company_id = C.id
 )
