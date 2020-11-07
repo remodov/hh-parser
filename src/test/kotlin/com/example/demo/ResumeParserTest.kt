@@ -1,6 +1,6 @@
 package com.example.demo
 
-import com.example.demo.crawler.HeadHunterResumeParser
+import com.example.demo.loader.HeadHunterResumeParser
 import org.jsoup.Jsoup
 import org.junit.jupiter.api.Assertions.*
 import org.junit.jupiter.api.Test

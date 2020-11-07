@@ -1,4 +1,4 @@
-package com.example.demo.crawler
+package com.example.demo.loader
 
 import com.example.demo.model.EmployeeCompany
 import com.example.demo.model.Employee
@@ -9,7 +9,7 @@ import org.springframework.stereotype.Component
 @Component
 class HeadHunterResumeParser {
     fun convert(document: Document): Employee {
-        val employee = Employee();
+        val employee = Employee()
 
         extractMale(document, employee)
         extractTitle(document, employee)
@@ -18,6 +18,7 @@ class HeadHunterResumeParser {
         extractCity(document, employee)
         extractWorkPlaces(document, employee)
         employee.resumeLink = "https://hh.ru/resume/" + document.baseUri().removePrefix("C:\\resume\\").removeSuffix(".html")
+
         return employee
     }
 
