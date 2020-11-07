@@ -1,15 +1,15 @@
 package com.example.demo.crawler
 
 import com.example.demo.client.HtmlLoadClient
-import com.example.demo.model.ParserUrls
 import org.jsoup.nodes.Document
-import org.springframework.remoting.support.UrlBasedRemoteAccessor
 import java.net.URL
 import java.nio.file.Files
 import java.nio.file.Path
 import java.nio.file.Paths
 import java.nio.file.StandardOpenOption
+import java.text.SimpleDateFormat
 import java.util.*
+
 
 interface JobCrawler {
     fun parse(searchUrls: List<URL>)
@@ -31,7 +31,7 @@ interface DocumentLoader {
 abstract class BaseSaveOnDisk : DocumentLoader {
     override fun load(document: Document, pathForSave: Path) {
         val resumeHtml = document.toString()
-        val pathToResume = Paths.get(pathForSave.toString(), getUniqueId(document)+ ".html")
+        val pathToResume = Paths.get(pathForSave.toString(), getUniqueId(document) + ".html")
         Files.write(pathToResume, resumeHtml.toByteArray(), StandardOpenOption.CREATE)
     }
 }
@@ -63,7 +63,9 @@ abstract class BaseJobCrawler(
             val result = pageParser.parse(pageWithResumeLinks)
                     .map { linkWithResume ->
                         val loadedResumeDocument = client.load(linkWithResume)
-                        val parsedResume = documentLoader.load(loadedResumeDocument, Paths.get(dirForSave))
+                        val dirForSave = Paths.get(dirForSave, getCurrentDateDirectory())
+                        Files.createDirectories(dirForSave)
+                        val parsedResume = documentLoader.load(loadedResumeDocument, dirForSave)
                         println("Parsed resume: $parsedResume")
                     }.toList()
 
@@ -76,5 +78,10 @@ abstract class BaseJobCrawler(
             }
             currentUrl = isNextUrl.get()
         }
+    }
+
+    private fun getCurrentDateDirectory() : String {
+        val formatter = SimpleDateFormat("yyyy-MM-dd")
+        return formatter.format(Date())
     }
 }
