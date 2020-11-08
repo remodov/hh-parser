@@ -1,13 +1,13 @@
 --CREATE EXTENSION IF NOT EXISTS pgcrypto;
 --CREATE EXTENSION "uuid-ossp";
 
-delete from jobs_history
+delete from public.jobs_history
 ;
 
 delete from public.company
 ;
 
-delete from person
+delete from public.person
 ;
 
 insert into public.company (id, name, score)
@@ -15,7 +15,7 @@ select distinct encode(digest(company_name, 'MD5'), 'hex'),company_name, 0
 from buffer_hh_v1.hh_company_employee
 ;
 
-insert into person (id, name)
+insert into public.person (id, name)
 select id, position
 from buffer_hh_v1.hh_employee
 ;
@@ -38,11 +38,28 @@ from buffer_hh_v1.hh_employee e inner join buffer_hh_v1.hh_company_employee hce
 ;
 
 update public.company C
-set score =
-(select  (sum((end_date::date - start_date::date)/30) )/ count(distinct person_id)
-from jobs_history JH
-where  JH.company_id = C.id
+set score = 0
+where C.id in (
+    select company_id
+    from jobs_history
+    group by company_id
+    having count(distinct person_id) > 10
 )
+;
+
+update public.company C
+set score =
+        COALESCE((select (sum((end_date::date - start_date::date)/30) )/ count(distinct person_id)
+                  from jobs_history JH
+                  where  JH.company_id = C.id
+                 ),0)
+where C.id not in (
+    select company_id
+    from jobs_history
+    group by company_id
+    having count(distinct person_id) > 10
+)
+;
 
 commit;
 

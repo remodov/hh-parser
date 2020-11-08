@@ -17,7 +17,7 @@ class HeadHunterResumeParser {
         extractWorkExperience(document, employee)
         extractCity(document, employee)
         extractWorkPlaces(document, employee)
-        employee.resumeLink = "https://hh.ru/resume/" + document.baseUri().removePrefix("C:\\resume\\").removeSuffix(".html")
+        employee.resumeLink = "https://hh.ru/resume/" + document.baseUri().removePrefix("D:\\resume\\").removeSuffix(".html")
 
         return employee
     }
