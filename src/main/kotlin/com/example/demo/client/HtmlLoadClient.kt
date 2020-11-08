@@ -8,7 +8,6 @@ import java.net.URL
 @Component
 class HtmlLoadClientTLSNone : HtmlLoadClient {
     override fun load(url: URL): Document {
-        println("load page $url")
         return Jsoup.connect(url.toString())
                 .validateTLSCertificates(false)
                 .get()

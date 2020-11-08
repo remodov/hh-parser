@@ -1,36 +1,3 @@
-
-drop table hh_employee
-;
-
-CREATE TABLE hh_employee (
-	id BIGSERIAL,
-	work_experience text,
-	male text,
-	live_city text,
-	position text,
-	salary text,
-	resume_link text,
-	PRIMARY KEY(id)
-)
-;
-
-drop table hh_company_employee
-;
-
-CREATE TABLE hh_company_employee (
-	id BIGSERIAL,
-	employee_id bigint,
-	company_name text,
-	time_work text,
-	time_work_range text,
-	sequence int,
-	PRIMARY KEY(id),
-	CONSTRAINT fk_employee
-      FOREIGN KEY(employee_id)
-	  REFERENCES hh_employee(id)
-)
-;
-
 drop table core_parser_url
 ;
 
@@ -46,7 +13,7 @@ SELECT 'hh.ru', 'https://mytischi.hh.ru/search/resume?clusters=true&exp_period=a
 FROM generate_series(1, 6347);
 
 
-create table CORE_SOURCE
+create table core_source
 (
     id BIGSERIAL,
     source text,
@@ -59,9 +26,19 @@ insert into CORE_SOURCE(source, url)
 values ('HH','https://hh.ru')
 ;
 
+create table EXT_LOAD_TASK_TYPE
+(
+    id  BIGSERIAL,
+    name text,
+    code text
+)
+;
+
+
+
 create table CORE_LOAD_TASK
 (
-  id                   NUMBER not null,
+  id                   bigserial,
   load_session_type_id NUMBER not null,
   load_task_status     VARCHAR2(200),
   task_create_date     DATE not null,
