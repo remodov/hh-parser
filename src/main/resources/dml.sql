@@ -83,7 +83,15 @@ where C.id in (
 
 commit;
 
-
+update public.person P
+set score = (
+    select sum(C.score * case when (end_date::date - start_date::date)/30 > 36 then 36 else  (end_date::date - start_date::date)/30 end)
+    from public.jobs_history JH inner join public.company C
+                                           on C.id = JH.company_id
+    where JH.person_id = P.id
+)
+where 1 = 1
+;
 --------------------CHECK
 select *
 from public.company
