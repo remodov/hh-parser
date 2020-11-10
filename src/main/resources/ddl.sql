@@ -41,10 +41,15 @@ create table core_parser_url (
 )
 ;
 
+
+delete from public.core_parser_url
+
 insert into core_parser_url (source, url)
 SELECT 'hh.ru', 'https://mytischi.hh.ru/search/resume?clusters=true&exp_period=all_time&logic=normal&no_magic=false&order_by=relevance&pos=full_text&text=java+developer&area='|| generate_series
 FROM generate_series(1, 6347);
 
+
+https://mytischi.hh.ru/search/resume?area=1&clusters=true&exp_period=all_time&logic=normal&no_magic=false&order_by=relevance&pos=full_text&text=java+developer&skill=3093
 
 create table CORE_SOURCE
 (

@@ -2,6 +2,7 @@ package com.example.demo.crawler
 
 import com.example.demo.client.HtmlLoadClient
 import org.jsoup.nodes.Document
+import java.lang.Exception
 import java.net.URL
 import java.nio.file.Files
 import java.nio.file.Path
@@ -9,10 +10,14 @@ import java.nio.file.Paths
 import java.nio.file.StandardOpenOption
 import java.text.SimpleDateFormat
 import java.util.*
+import java.util.concurrent.atomic.AtomicInteger
 
 
 interface JobCrawler {
     fun parse(searchUrls: List<URL>)
+    fun getCountLoadedDocuments(): Int
+    fun getCountErrors(): Int
+    fun isWork(): Boolean
 }
 
 interface NextPageLinkParser {
@@ -43,13 +48,44 @@ abstract class BaseJobCrawler(
         val client: HtmlLoadClient,
         val dirForSave: String
 ) : JobCrawler {
+    private val countLoaded = AtomicInteger()
+    private val countErrors = AtomicInteger()
+
+    @Volatile
+    private var isWork = false
+
+    override fun isWork(): Boolean {
+        return isWork
+    }
+
+    override fun getCountLoadedDocuments(): Int {
+        return countLoaded.get()
+    }
+
+    override fun getCountErrors(): Int {
+        return countErrors.get()
+    }
 
     override fun parse(searchUrls: List<URL>) {
-        val count = searchUrls.parallelStream().map { searchUrl ->
-            loadSearchUrl(searchUrl)
-        }.count()
-
-        println("Perform work success: $count")
+        synchronized(isWork) {
+            if (!isWork) {
+                isWork = true
+                var count: Long = 0L
+                try {
+                    count = searchUrls.parallelStream().map { searchUrl ->
+                        loadSearchUrl(searchUrl)
+                    }.count()
+                } finally {
+                    println("Perform work success: $count")
+                    isWork = false
+                    countLoaded.set(0)
+                    countErrors.set(0)
+                }
+            }
+            else {
+                println("Task working")
+            }
+        }
     }
 
     private fun loadSearchUrl(searchUrl: URL) {
@@ -62,11 +98,20 @@ abstract class BaseJobCrawler(
 
             val result = pageParser.parse(pageWithResumeLinks)
                     .map { linkWithResume ->
-                        val loadedResumeDocument = client.load(linkWithResume)
-                        val dirForSave = Paths.get(dirForSave, getCurrentDateDirectory())
-                        Files.createDirectories(dirForSave)
-                        val parsedResume = documentLoader.load(loadedResumeDocument, dirForSave)
-                        println("Parsed resume: $parsedResume")
+                        try {
+                            val loadedResumeDocument = client.load(linkWithResume)
+                            val dirForSave = Paths.get(dirForSave)
+
+                            Files.createDirectories(dirForSave)
+
+                            val parsedResume = documentLoader.load(loadedResumeDocument, dirForSave)
+
+                            println("Parsed resume: $parsedResume")
+                            println("Loaded: ${countLoaded.incrementAndGet()}")
+                        } catch (e: Exception) {
+                            e.printStackTrace()
+                            println("Errors: ${countErrors.incrementAndGet()}")
+                        }
                     }.toList()
 
             println("Total Parsed resume from page: ${result.size}")
@@ -80,8 +125,8 @@ abstract class BaseJobCrawler(
         }
     }
 
-    private fun getCurrentDateDirectory() : String {
-        val formatter = SimpleDateFormat("yyyy-MM-dd")
-        return formatter.format(Date())
-    }
+//    private fun getCurrentDateDirectory(): String {
+//        val formatter = SimpleDateFormat("yyyy-MM-dd")
+//        return formatter.format(Date())
+//    }
 }
