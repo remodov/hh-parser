@@ -21,6 +21,14 @@ class Employee(
 
         var resumeLink: String? = null,
 
+        var birthday: String? = null,
+
+        var githubLink: String? = null,
+
+        var workType: String? = null,
+
+        var employment: String? = null,
+
         @OneToMany(mappedBy="employee", cascade = [CascadeType.ALL])
         var companiesEmployee: MutableList<EmployeeCompany> = ArrayList()
 )
@@ -39,6 +47,10 @@ class EmployeeCompany(
         var sequence: Int? = null,
 
         var timeWorkRange: String? = null,
+
+        var city: String ? = null,
+
+        var workPosition: String ? = null,
 
         @ManyToOne
         @JoinColumn(name = "employee_id", referencedColumnName = "id")

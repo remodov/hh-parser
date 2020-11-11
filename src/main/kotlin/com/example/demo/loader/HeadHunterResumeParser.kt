@@ -4,10 +4,15 @@ import com.example.demo.model.EmployeeCompany
 import com.example.demo.model.Employee
 import org.jsoup.nodes.Document
 import org.jsoup.select.Elements
+import org.springframework.beans.factory.annotation.Value
 import org.springframework.stereotype.Component
+import java.nio.file.Paths
 
 @Component
-class HeadHunterResumeParser {
+class HeadHunterResumeParser(@Value("\${application.resume-upload-dir}")
+                             val pathForResumeSave: String) {
+
+
     fun convert(document: Document): Employee {
         val employee = Employee()
 
@@ -17,9 +22,38 @@ class HeadHunterResumeParser {
         extractWorkExperience(document, employee)
         extractCity(document, employee)
         extractWorkPlaces(document, employee)
-        employee.resumeLink = "https://hh.ru/resume/" + document.baseUri().removePrefix("D:\\resume\\").removeSuffix(".html")
+        extractGitHub(document, employee)
+        extractBirthday(document, employee)
+        employee.resumeLink = "https://hh.ru/resume" +
+                document.baseUri().removePrefix(Paths.get(pathForResumeSave).toFile().absolutePath).removeSuffix(".html")
 
         return employee
+    }
+
+    private fun extractBirthday(document: Document, employee: Employee) {
+        val resumeAboutMe = getDataQaAttributeValue(document, "resume-personal-birthday")
+        if (resumeAboutMe.isNotEmpty()) {
+            employee.birthday = resumeAboutMe[0].text()
+        }
+    }
+
+    private fun extractGitHub(document: Document, employee: Employee) {
+        val resumeAboutMe = getDataQaAttributeValue(document, "resume-block-skills-content")
+        if (resumeAboutMe.isNotEmpty()) {
+            if (resumeAboutMe[0].text().contains("https://github.com")) {
+                val githubLinkIndex = resumeAboutMe[0].text().indexOf("github.com")
+                var githubLink =
+                        "https://github.com/" +
+                                resumeAboutMe[0].text().substring(githubLinkIndex, resumeAboutMe[0].text().length).split("/")[1]
+
+                val cleanUrl = githubLink.split(" ")
+                if (cleanUrl.isNotEmpty()) {
+                    githubLink = cleanUrl[0]
+                }
+
+                employee.githubLink = githubLink
+            }
+        }
     }
 
     private fun extractWorkPlaces(document: Document, employee: Employee) {

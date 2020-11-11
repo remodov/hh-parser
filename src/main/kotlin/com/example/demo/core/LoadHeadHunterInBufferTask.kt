@@ -50,6 +50,7 @@ class LoadHeadHunterInBufferTask(
             } catch (e: Exception) {
                 e.printStackTrace()
                 countErrors.incrementAndGet()
+                println("Error on parse: $it")
                 println("Errors: $countErrors")
             }
         }.count()

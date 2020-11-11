@@ -10,7 +10,12 @@ CREATE TABLE hh_employee (
 	position text,
 	salary text,
 	resume_link text,
-	PRIMARY KEY(id)
+    birthday text,
+    githubLink text,
+    workType text,
+    employment text,
+
+    PRIMARY KEY(id)
 )
 ;
 
@@ -24,6 +29,8 @@ CREATE TABLE hh_company_employee (
 	time_work text,
 	time_work_range text,
 	sequence int,
+    city text,
+    workPosition text,
 	PRIMARY KEY(id),
 	CONSTRAINT fk_employee
       FOREIGN KEY(employee_id)
