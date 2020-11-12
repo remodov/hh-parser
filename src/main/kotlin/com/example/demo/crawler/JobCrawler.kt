@@ -10,6 +10,7 @@ import java.nio.file.Paths
 import java.nio.file.StandardOpenOption
 import java.text.SimpleDateFormat
 import java.util.*
+import java.util.concurrent.ForkJoinPool
 import java.util.concurrent.atomic.AtomicInteger
 
 
@@ -37,6 +38,10 @@ abstract class BaseSaveOnDisk : DocumentLoader {
     override fun load(document: Document, pathForSave: Path) {
         val resumeHtml = document.toString()
         val pathToResume = Paths.get(pathForSave.toString(), getUniqueId(document) + ".html")
+        if (Files.exists(pathToResume)) {
+            println("Resume exists: $pathToResume")
+            return
+        }
         Files.write(pathToResume, resumeHtml.toByteArray(), StandardOpenOption.CREATE)
     }
 }
@@ -72,9 +77,13 @@ abstract class BaseJobCrawler(
                 isWork = true
                 var count: Long = 0L
                 try {
-                    count = searchUrls.parallelStream().map { searchUrl ->
-                        loadSearchUrl(searchUrl)
-                    }.count()
+                    val myPool = ForkJoinPool(8);
+                    myPool.submit {
+                        searchUrls.parallelStream().forEach {
+                            loadSearchUrl(it)
+                        }
+                    }.get()
+
                 } finally {
                     println("Perform work success: $count")
                     isWork = false
@@ -100,15 +109,12 @@ abstract class BaseJobCrawler(
                     .map { linkWithResume ->
                         try {
                             val loadedResumeDocument = client.load(linkWithResume)
-                            val dirForSave = Paths.get(dirForSave)
 
-                            Files.createDirectories(dirForSave)
+                            documentLoader.load(loadedResumeDocument, Paths.get(dirForSave))
 
-                            val parsedResume = documentLoader.load(loadedResumeDocument, dirForSave)
-
-                            println("Parsed resume: $parsedResume")
                             println("Loaded: ${countLoaded.incrementAndGet()}")
                         } catch (e: Exception) {
+                            println("Error when load: $linkWithResume")
                             e.printStackTrace()
                             println("Errors: ${countErrors.incrementAndGet()}")
                         }

@@ -1,5 +1,6 @@
 package com.example.demo.model
 
+import jdk.nashorn.internal.runtime.Specialization
 import javax.persistence.*
 
 @Entity
@@ -29,6 +30,10 @@ class Employee(
 
         var employment: String? = null,
 
+        var workCategory: String? = null,
+
+        var specialization: String? = null,
+
         @OneToMany(mappedBy="employee", cascade = [CascadeType.ALL])
         var companiesEmployee: MutableList<EmployeeCompany> = ArrayList()
 )
@@ -49,6 +54,8 @@ class EmployeeCompany(
         var timeWorkRange: String? = null,
 
         var city: String ? = null,
+
+        var site: String ? = null,
 
         var workPosition: String ? = null,
 
