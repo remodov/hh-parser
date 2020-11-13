@@ -5,9 +5,6 @@ drop table if exists stage.resume_education
 drop table if exists stage.resume_language
 ;
 
-drop table if exists stage.resume_education
-;
-
 drop table if exists stage.resume_specialization
 ;
 
@@ -20,9 +17,6 @@ drop table if exists stage.resume_work_type
 drop table if exists stage.jobs_history
 ;
 
-drop table if exists stage.dictionary_value
-;
-
 drop table if exists stage.resume
 ;
 
@@ -30,9 +24,6 @@ drop table if exists stage.position
 ;
 
 drop table if exists stage.company
-;
-
-drop table if exists stage.person_specialization
 ;
 
 drop table if exists stage.person
@@ -73,21 +64,21 @@ drop table if exists stage.education
 
 create table stage.skills
 (
-    id   bigint primary key,
+    id   bigserial primary key,
     name text not null UNIQUE
 )
 ;
 
 create table stage.language
 (
-    id   bigint primary key,
+    id   bigserial primary key,
     name text not null UNIQUE
 )
 ;
 
 create table stage.education
 (
-    id   bigint primary key,
+    id   bigserial primary key,
     name text not null UNIQUE
 )
 ;
@@ -101,14 +92,14 @@ create table stage.sex
 
 create table stage.work_category
 (
-    id   bigint primary key,
+    id   bigserial primary key,
     name text not null UNIQUE
 )
 ;
 
 create table stage.specialization
 (
-    id   bigint primary key,
+    id   bigserial primary key,
     name text not null UNIQUE
 )
 ;
@@ -136,7 +127,7 @@ create table stage.salary
 
 create table stage.company
 (
-    id    bigint primary key,
+    id    bigserial primary key,
     name  text             not null UNIQUE,
     score double precision not null
 )
@@ -151,21 +142,21 @@ create table stage.source
 
 create table stage.location
 (
-    id   bigint primary key,
+    id   bigserial primary key,
     name text not null unique
 )
 ;
 
 create table stage.position
 (
-    id   bigint primary key,
+    id   bigserial primary key,
     name text not null unique
 )
 ;
 
 create table stage.person
 (
-    id          bigint primary key,
+    id          bigserial primary key,
     score       double precision not null,
     birthday    date             not null,
     sex_id      bigint
@@ -287,8 +278,8 @@ create table stage.resume_specialization
 )
 ;
 
-CREATE INDEX idx_fk_person_specialization_person ON stage.resume_specialization (resume_id);
-CREATE INDEX idx_fk_person_specialization_specialization ON stage.resume_specialization (specialization_id);
+CREATE INDEX idx_fk_resume_specialization_person ON stage.resume_specialization (resume_id);
+CREATE INDEX idx_fk_resume_specialization_specialization ON stage.resume_specialization (specialization_id);
 
 create table stage.jobs_history
 (
