@@ -1,13 +1,13 @@
-drop table buffer_hh_v1.hh_company_employee
+drop table if exists buffer.hh_company_employee
 ;
 
-drop table buffer_hh_v1.hh_employee
+drop table if exists  buffer.hh_employee
 ;
 
-drop table if exists buffer_hh_v1.core_parser_url
+drop table if exists buffer.core_parser_url
 ;
 
-create table buffer_hh_v1.hh_employee
+create table buffer.hh_employee
 (
     id              bigserial,
     work_experience text,
@@ -26,7 +26,7 @@ create table buffer_hh_v1.hh_employee
 )
 ;
 
-create table buffer_hh_v1.hh_company_employee
+create table buffer.hh_company_employee
 (
     id              bigserial,
     employee_id     bigint,
@@ -44,7 +44,7 @@ create table buffer_hh_v1.hh_company_employee
 )
 ;
 
-create table buffer_hh_v1.core_parser_url
+create table buffer.core_parser_url
 (
     id     BIGSERIAL,
     source text,
