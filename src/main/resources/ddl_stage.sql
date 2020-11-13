@@ -1,10 +1,11 @@
 --COMMON DICTIONARY
-drop table stage.sex
+drop table stage.position
 ;
 
 create table stage.sex (
  id integer,
- name text
+ name text,
+ primary key (id)
 )
 ;
 
